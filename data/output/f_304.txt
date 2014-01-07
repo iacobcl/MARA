@@ -1,0 +1,25 @@
+ - June 30, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.2.2&&&A fix&&&For them anti glare screen protecter
+ - June 30, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 1.2.2&&&Esta bien hecho&&&Nicely made theme that does look great on super amoled screens. Great job man!
+ - July 4, 2012&&&5.0 &&& - Galaxy S2 Skyrocket &&& 1.2.2&&&Best ever&&&I really wish I could install this exact theme on top of other ROMs.
+ - June 14, 2012&&&3.0 &&& - HTC Desire &&& 1.2.1&&&True Black:)&&&Looks pretty good. Only above and below power widget in notification drawer is unused space which looks bad. Also please keep default icons, because they are not replaced everywhere.
+ - June 14, 2012&&&4.0 &&&&&& - Version 1.2.1&&&Cool&&&A few bugs, like when selecting a text, top bar is half colored, should update :) Overall, cool theme!
+ - June 9, 2012&&&5.0 &&& - Samsung Galaxy S &&& 1.2.1&&&Almost perfect.&&&This theme is great.  I thought the stock ics theme was just about as perfect as perfect could get, but this theme makes it look incredible.  With voodoo color its insanely gorgeous. Makes my old og epic look better than all the newer phones with stock themes and color.  Great work dev, don't even need morphs as it is the same as stock...just, perfected. Running it on a cm9 kang with stygian inverted everything. Incredible!
+ - June 5, 2012&&&4.0 &&& - Samsung Galaxy Nexus &&& 1.2.1&&&Awesome!!!&&&Love it on my GNex!!! Not a big fan of the app drawer icon thought! Looks outdated and pixely!
+ - June 3, 2012&&&5.0 &&& - HTC Sensation 4G &&& 1.2.1&&&I had to try this on the HTC Sensation&&&Works great running CyanogenMod 9 Nighty. Hella Sweeet.
+ - June 5, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 1.2.1&&&Samsung Galaxy S2 G&&&Looks great. Installed on Cyanogenmod9 / I9100G.
+ - June 8, 2012&&&5.0 &&& - Samsung Nexus S &&& 1.2.1&&&Nexus s...&&&Love it with Ubuntu font..xenonhd rom
+ - June 9, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.2.1&&&Awesome&&&Got this to go with blacked out Gapps g-nex paranoid 1.1 looking epic
+ - June 9, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.2.1&&&GNex&&&Awesome theme. This is how ICS should look.
+ - June 16, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.2.1&&&Excellent&&&And cool =)
+ - June 3, 2012&&&4.0 &&& - Samsung Galaxy Nexus &&& 1.2&&&request&&&is there a way to make the battery stock cause most rom has that option and the icon takes stock away
+ - May 30, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.2&&&Love it!&&&If you have an amoled screen go treat yourself to this!!
+ - May 30, 2012&&&5.0 &&& - Samsung Galaxy Note &&& 1.2&&&Galaxy note cm9&&&Top theme best one yet thanks so much !!!!!
+ - May 25, 2012&&&4.0 &&& - Samsung Galaxy Nexus &&& 1.0&&&Looks great&&&I am a huge fan if this theme, but for AOKP could you please make the notification icons in the status bar blue instead of white? It's very hard to tell weather they're active or not.
+ - May 23, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.0&&&Fantastic&&&Colors pop out more. If I had any complaint its a little more outline on the keyboard buttons
+ - May 25, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.0&&&Great theme.&&&The toggle buttons don't seem to change when highlighted,otherwise awesome theme.
+ - May 21, 2012&&&4.0 &&&&&& - Version 1.0&&&Nice theme&&&Love the theme..  thanks
+ - May 22, 2012&&&5.0 &&& - HTC One S &&& 1.0&&&Wow&&&Amazing looking on my amoled screen
+ - May 23, 2012&&&1.0 &&& - Samsung Galaxy S2 &&& 1.0&&&Help!!!!&&&thanks
+ - May 29, 2012&&&5.0 &&&&&& - Samsung Galaxy Nexus&&&Looks great&&&Colors are great, I usually don't like circle battery mods but this one looks good with the centered text. My only gripes are the app button looks weird when clicked and I get an error message saying some images are missing for my resolution. Can you mod the messaging app?
+ - May 29, 2012&&&3.0 &&&&&& - Samsung Galaxy Nexus&&&Not bad&&&Needs a bit more work in terms of universal compatibility. Keep working on it
+ - June 22, 2012&&&5.0 &&&&&& - Samsung Galaxy Nexus&&&Wow honestly good job!&&&

@@ -1,0 +1,14 @@
+ - January 23, 2012&&&5.0 &&& - Motorola XOOM &&& 1.7&&&Awesome widget, but...&&&EDIT: I contacted the developer, he responded to my email quickly and implemented the feature I asked for fixing the annoying notification in the status bar.   There is an annoying notification in the status bar, that I can't seem to get to go away. I contacted the developer to see if there is any way to turn it off.  Will change my review if/when the dev responds.
+ - April 6, 2012&&&5.0 &&& - HTC Evo 4G &&& 1.7&&&Pretty cool&&&Worth the buck
+ - September 6, 2011&&&5.0 &&& - Dell Streak &&& 1.6&&&Adjustable timescale?&&&Love ya work :) I've had a Tokaplot+ page on my Streaks' desktop since I found it. I'm just wondering though, is it possible to add an adjustable timescale? It would be nicer to get a 24 hour cycle on my wifi among other things. Thanks again
+ - March 21, 2011&&&3.0 &&&&&& - Version 1.5&&&Nice but it does not read the data in/out on my Galaxy S Vibrant ...&&&Nice but it does not read the data in/out on my Galaxy S Vibrant on Froyo
+ - May 2, 2011&&&5.0 &&& - EeePad Transformer TF101 &&& 1.5&&&Great app, works perfect, really easy to use.&&&
+ - March 11, 2011&&&3.0 &&& - Samsung Galaxy Tab &&& 1.41&&&Nice app! Would be great if there was an option for 5x1 and 5x2 ...&&&Nice app! Would be great if there was an option for 5x1 and 5x2 widget sizes. Would be much more useful for Galaxy Tab users.
+ - February 18, 2011&&&4.0 &&&&&& - Version 1.41&&&Great app , would like some more color choices and 3d options. Keep up ...&&&Great app , would like some more color choices and 3d options. Keep up the great work.
+ - February 1, 2011&&&5.0 &&& - Motorola Droid &&& 1.4&&&Very cool app, much like Rainmeter. Wish it could read network status on my ...&&&Very cool app, much like Rainmeter. Wish it could read network status on my 'droid, but that's my only gripe.
+ - January 14, 2011&&&5.0 &&& - Samsung Galaxy S &&& 1.32&&&Top notch. Dev implemented my suggestions in less than a week. Low resource ...&&&Top notch. Dev implemented my suggestions in less than a week. Low resource consumption and customizable enough to be useful. A must for data geeks
+ - January 22, 2011&&&1.0 &&&&&& - Version 1.32&&&Wouldn't start. Messed up phone. Uninstall.&&&
+ - November 27, 2010&&&5.0 &&&&&& - Version 1.21&&&Excellent. The slickest monitoring app I've found and way cooler than all those ...&&&Excellent. The slickest monitoring app I've found and way cooler than all those novelty ones!
+ - December 9, 2010&&&5.0 &&& - HTC Droid Incredible &&& 1.21&&&Love it! I would like if we could change the translucentness of the backgrounds. ...&&&Love it! I would like if we could change the translucentness of the backgrounds. Still RoxDaSox.
+ - January 3, 2011&&&5.0 &&& - HTC Desire &&& 1.2&&&Works well&&&
+ - December 4, 2011&&&5.0 &&&&&& - Samsung Galaxy Nexus&&&Fantastic!&&&But please fix issues on galaxy nexus. Can't edit graphs as it stops the service.

@@ -1,0 +1,172 @@
+ - July 1, 2012&&&3.0 &&& - HTC Thunderbolt &&& 2.1.5.2&&&Used to be amazing, but now..&&&Ever since the latest updates tailored to ICS, Ilauncher has lost it's stability on my Gingerbread device. Exiting apps result in motion-blured freeze-ups where the dock and bottom row of icons disappear. Also, the iOS-like zooming effect of the icons is now gone. So for now, despite it's inability to customize icons - unlike iLauncher - I'm using Espier Launcher. I keep checking, either for an OTA update to ICS, or for iLauncher's return to it's former glory.
+ - June 30, 2012&&&5.0 &&&&&& - Version 2.1.5.2&&&Finally a decent launcher&&&even though its has small flaws like no live wallpaper yet and small bugs the developer(s) are fixing them and updating this app frequently. I would pay 10 euro for this app BUT PAID 1 DOLLAR. Thanks a lot FOR CREATING ILAUNCHER  Can you possibly fix customization for dock? Like hide it or make it transparent or change it?   And is it possible to make a enable/disable search screen?  possible to fix ilauncher Icon change? or even settings by double tapping or holding anywhere at the screen?  possible to hide any kind of app?  Overall possible to make it more dynamic and configurable please? I ll buy it again even if u higher the price.
+ - July 1, 2012&&&3.0 &&& - Motorola Photon 4G &&& 2.1.5.2&&&Photon&&&Last update messed everything up again. Screen blurs and freezes and contact shortcut FC.
+ - June 28, 2012&&&5.0 &&& - Samsung Galaxy Ace &&& 2.1.5.1&&&You are awesome&&&You fixed the bugs in 3 days after the last update ! Finally someone who actually fixes the app ! Keep this up
+ - July 2, 2012&&&5.0 &&& - Samsung Galaxy S &&& 2.1.5.1&&&samsung s 4g better than espier&&&For the guy who asked why he can't get ipad theme, it's because they are basically the same program but just modified. They aren't themes, so you can't install it twice.
+ - July 4, 2012&&&4.0 &&& - Samsung Exhibit 2 4G &&& 2.1.5.1&&&It needs a notification number for the apps&&&This is the best app to me but can you make like the little numbers come along with it like for twitter,app store,facebook,tumblr,instagram and etc. PLEASE
+ - June 29, 2012&&&3.0 &&& - HTC myTouch 4G &&& 2.1.5.1&&&Please&&&Still doesn't have the edit icon option. Please bring that back
+ - June 28, 2012&&&4.0 &&&&&& - Version 2.1.5.1&&&Good fix&&&Developer had a really good response time in fixing the bad glitches in the previous release. I would still like to see hidden apps, since there are so many unwanted ones on my screen and the Spotlight search doesn't take me directly to what I want. If I search for a contact and click it, I am brought to my general contacts screen, not the contact. If this continues to improve it will be the best iPhone emulator launcher for Android hands down.
+ - June 29, 2012&&&5.0 &&& - LG Optimus 2X &&& 2.1.5.1&&&Wow!!&&&I Really like this update!!! :) just need livewallpapers.
+ - June 24, 2012&&&2.0 &&& - Samsung Galaxy S &&& 2.1.5&&&The updates been getting worse there's no option to change the name of apps ...&&&The updates been getting worse there's no option to change the name of apps and the search bar doesn't work doesn't let me select anything in it
+ - June 28, 2012&&&1.0 &&&&&& - Version 2.1.5&&&I DON'T LIKE THE NEW UPDATE!!!&&&how I can get as the old version because the new update does not work very well is worse...  the new update not let me change my icons and names...please fix that thanks.
+ - June 25, 2012&&&1.0 &&&&&& - Version 2.1.5&&&Somethings wrong&&&Getting force close when I want to customize icons
+ - June 28, 2012&&&3.0 &&& - Samsung Galaxy S &&& 2.1.5&&&Thanks for the update...&&&Thanks for fixing the bug with icon editing... However, I would still like to see the animations returned.
+ - June 27, 2012&&&2.0 &&& - Samsung Galaxy S &&& 2.1.5&&&Hold on ...O_o......&&&Wait!........He is back
+ - June 26, 2012&&&4.0 &&& - Samsung Galaxy S &&& 2.1.5&&&Problem&&&The change icon thing doesn't work. Just force closes
+ - June 22, 2012&&&5.0 &&& - Samsung Galaxy S &&& 2.1.4.6&&&Epic 4G sprint-&&&Great app, exactly what ive looked for:) if i can suggest a cool thing is maybe the status bar to look like the iphone to well if possible if not itll still be #1 in my book
+ - June 23, 2012&&&4.0 &&& - HTC Evo 4G &&& 2.1.4.6&&&Great Job!&&&I really love where this is going but I would really love it if the animations could all be restored. Including when they all gathered back at the home screen. Awesome job and keep up the great work!!!!
+ - June 23, 2012&&&3.0 &&& - SEMC Xperia Ray &&& 2.1.4.6&&&Wow!?????????????????bug!&&&
+ - June 21, 2012&&&4.0 &&& - HTC myTouch 4G &&& 2.1.4.6&&&WIDGETS PLEASE!!!!&&&My favorite! Great job on app but can we get option for widgets maybe like espier??!!!
+ - June 25, 2012&&&3.0 &&&&&& - Version 2.1.4.6&&&Force Close&&&Force closes when I try to change an icon..
+ - June 25, 2012&&&1.0 &&& - LG Optimus One &&& 2.1.4.6&&&NTuneR got the older version?&&&What is your email? I want to use the older version as well until all bugs will be fixed. Current version has so many bugs. Wish developer would not change older version at all.. One bug is: After pressing home key to leave a running application, home page appears with all icons blurred & spread all over the screen with no dock icon. Ilauncher restart is required to solve. Occurs again & again
+ - June 23, 2012&&&4.0 &&& - HTC Sensation 4G &&& 2.1.4.6&&&One request..&&&The ability to kill apps like you get on apple and espier launcher: please?
+ - June 18, 2012&&&4.0 &&& - SEMC Xperia Ray &&& 2.1.4.5&&&????????? ??????????&&&? ????????? ?????????? ???????? ??????? ?? ??????? ???? ??????? ?????, ?? ???? ????????? ?????? ??? ?????? ??? ?????? ?? ??????????.. ????????? ??????????, ???????? ??????????!
+ - June 19, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 2.1.4.5&&&Force close issue&&&Force closes when I try to select change icon feature. Just started happening with new update.
+ - June 20, 2012&&&4.0 &&& - HTC Thunderbolt &&& 2.1.4.5&&&Ty&&&Launcher is freezing on home screen with no bottom dock.  Please fix?
+ - June 20, 2012&&&3.0 &&& - EeePad Transformer TF101 &&& 2.1.4.5&&&awesome&&&this app is pretty well perfect. it has even stopped crashing. if it stays this stable then it is awesome......... problem with the wallpaper when switching from portrait to landscape. fix fast please
+ - June 18, 2012&&&5.0 &&& - HTC EVO 3D &&& 2.1.4.5&&&:)&&&Makes me look like I hav an iDroid 3D.
+ - June 19, 2012&&&2.0 &&& - Samsung Galaxy S2 &&& 2.1.4.5&&&Font&&&Try to make the font change to our preferred fonts. It will be so much better:)
+ - June 20, 2012&&&1.0 &&& - Samsung Nexus S &&& 2.1.4.5&&&Help?&&&I downloaded the app and  my phone is still the sa e what do I do?
+ - June 20, 2012&&&3.0 &&& - EeePad Transformer TF101 &&& 2.1.4.5&&&Little buggy on evo 3d&&&Most recent update made transition between spotlight search and home screen jittery. Not a smooth transition.
+ - June 23, 2012&&&2.0 &&& - HTC EVO 3D &&& 2.1.4.5&&&Needs to be fixed ASAP&&&Everytime it gets updated it gets worst, why take away the animations? And now sometimes it gets stuck and the dock disappears, and just recently all the icons got really small for some odd reason. 2 stars until it gets fixed.
+ - June 22, 2012&&&5.0 &&& - Motorola Photon 4G &&& 2.1.4.5&&&great&&&looks dope after updated
+ - June 18, 2012&&&5.0 &&& - HTC Desire HD &&& 2.1.4.4&&&Everybody!!! Attention!!!&&&The best iphone launcher ever in android market!!! Here it is! Here it is! The best android developer is here to conquer the market!
+ - June 18, 2012&&&5.0 &&& - Samsung Galaxy Ace &&& 2.1.4.4&&&Finally Perfect!&&&Been waiting just for these improvements. Finally my Galaxy Ace has the same responsiveness (esp. the homescreen) as iPhone 4. A well deserved 5 stars!
+ - June 17, 2012&&&5.0 &&& - Samsung Nexus S &&& 2.1.4.2&&&Best iPhone launcher ever!!&&&Thanks for the fix on ICS 4.0.4!! QUICK RESPONSE!!
+ - June 17, 2012&&&1.0 &&&&&& - Version 2.1.4.1&&&Rate&&&Its all right
+ - June 17, 2012&&&5.0 &&& - HTC Sensation 4G &&& 2.1.4.1&&&Bpd&&&awesome launcher, great update, it looks & works great!! Really nice job,,,
+ - June 17, 2012&&&4.0 &&& - Samsung Galaxy Ace &&& 2.1.4&&&Stopped working...&&&This is a great launcher epecially for android fans who want to get a feel of an iphone.  However, the last update is not working properly. Hope the ilauncher team can fix this problem.
+ - June 17, 2012&&&2.0 &&& - SEMC Xperia Mini &&& 2.1.4&&&More sorting icon options&&&I think the dev need to update more often. There's an app's in the market that definitely rivals your I launcher. It's espier launcher. It's way ahead compare to I launcher. I hope on the next update, the dev upgrade the resolution of the icon because espier launcher icons is more detailed and higher resolution.
+ - April 18, 2012&&&1.0 &&& - Samsung Galaxy Ace &&& 2.1.3.4&&&Any new thing comming soon...&&&Need some new features to be ahead. Otherwise there is rival espire launcher in android market competing you app for free.
+ - June 13, 2012&&&1.0 &&& - Samsung Galaxy S2 &&& 2.1.3.4&&&Needs a lot of work...&&&Has great potential but disappointed that I actually paid for it. Espier is still far better and still free. Draining my battery, repeatedly crashing and repeatedly freezing. Any chance of a refund?? :-(
+ - April 11, 2012&&&4.0 &&&&&& - Version 2.1.3.4&&&Love this app!!!&&&Just needs some work. If my phone's screen turns off when I wake it up the screen just shows the wallpaper no icons. Pressing home retrieves the icons but thats not as smooth.
+ - April 8, 2012&&&2.0 &&& - Samsung Galaxy Mini &&& 2.1.3.4&&&Whre are you Dev?&&&It's been tooooooo long since the last update. All we afe waiting for is the multi-task bar and/or the iphone notification bar. After those then this is the perfect launcher
+ - March 29, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 2.1.3.4&&&Amazing!&&&It's buttery smooth, you can use icon packs designed for the iphone and you don't have to tweak a zillion options to make it look great! I LOVE the way it stretches existing icons! It really rocks.
+ - April 21, 2012&&&4.0 &&& - Samsung Galaxy S &&& 2.1.3.4&&&Battery/Notification Bar&&&If you could add iPhone bar instead of Android, that would be truely great! 5 stars if you would add!
+ - April 21, 2012&&&5.0 &&& - Motorola Atrix &&& 2.1.3.4&&&Best Iphone theme&&&I tried a couple of the other Iphone themes and this one comes the closest to the real thing. Installed the Iphone keyboard to make it more like the Iphone. Really like my Atrix Iphone.
+ - April 24, 2012&&&4.0 &&&&&& - Version 2.1.3.4&&&Amazing App&&&This app is so close to IOS its hard to tell the difference. With full battery and animations turned on, it runs flawlessly. Suckgamoni please, please update.
+ - March 8, 2012&&&5.0 &&& - HTC Desire HD &&& 2.1.3.4&&&FANTASTIC&&&I love this launcher!! Any plans for an update? I'd like to be able to collapse the status bar.
+ - March 18, 2012&&&5.0 &&& - HTC G2 &&& 2.1.3.4&&&Terrific!&&&Yes there is still more work to be done. But it's a great launcher!  For all jealous android fanboys this will give you iphone happiness.
+ - June 14, 2012&&&1.0 &&&&&& - Version 2.1.3.4&&&Needs Lockscreen, icons&&&Is there a lockscreen for this app in the future and if so how long, plus is it possible to get the apps to stay on the third page... The first page is the search bar, the second should display your wallpaper, and the third should start all the apps and icons...
+ - April 9, 2012&&&5.0 &&& - Samsung Galaxy S &&& 2.1.3.4&&&More than best launcher for android!&&&But I guess Apple found and killed him coz it was too similiar to iOS : D I still  wait for updates and hope someone can make (iOS like) launcher good as this cause Espier launcher is so bad looking!
+ - April 9, 2012&&&5.0 &&&&&& - Version 2.1.3.4&&&???...&&&? ?????? ?????????????? ??? ??????????? ????? ???? ????????? ??????????,?? ????????? ?????????
+ - March 3, 2012&&&3.0 &&& - Acer Picasso &&& 2.1.3.4&&&Great but&&&Still needs lots of work.. we need a better way to choose wallpapers and other settings and and icon pack would be great so I can choose weather to select your icons in a list or get my own. And a folder got deleted from home screen couldn't get it back so had to clear data and start fresh may e lock deletion of folders? Great work though keep it up!
+ - March 20, 2012&&&5.0 &&& - LG Optimus 2X &&& 2.1.3.4&&&Happy buyer&&&Exactly what I was looking for. I love it! Is there a way I can an email count? Or where can I get the iPhone icons. I use a different browser and music app and would like to click on the icon to use those apps instead!
+ - March 12, 2012&&&5.0 &&& - LG Optimus 2X &&& 2.1.3.4&&&THIS IS DA SHITTTT!!!!!!!!&&&Finally I don't have to worry with those uglyass wanna iPhone themes anymore.... this is the real deal... and you can do folders too  Soooooo happy .... I lo ve android
+ - April 4, 2012&&&4.0 &&& - Samsung Galaxy S2 &&& 2.1.3.4&&&Awesome, great job!&&&The only thing I have to pick on is the search. On galaxy s2 it forces close. Please fix!
+ - March 18, 2012&&&5.0 &&&&&& - Version 2.1.3.4&&&Brilliant!!&&&The ui has become smoother since the last update,...adding atask manager like in the espire launcher would be great
+ - June 30, 2012&&&1.0 &&& - Samsung Admire &&& 2.1.3.4&&&It was my favorite&&&Dock row dissapears and screen goes black! It was better before all these new updates!!!!!!!! :(( PLEASE FIX
+ - March 20, 2012&&&3.0 &&& - Motorola Droid X &&& 2.1.3.4&&&Droid x miui rom&&&The animations r way better than espier launcher, but takes long to load & fc's when phone is rebooted
+ - April 5, 2012&&&5.0 &&& - Samsung Galaxy S &&& 2.1.3.4&&&Amazing....Love it!!&&&This is a great app (launcher) ;)  it is now my new homescreen .... never deleting..thankyou for the great work...keep it up!!! :D
+ - April 11, 2012&&&5.0 &&& - HTC Sensation 4G &&& 2.1.3.4&&&Amazing!!&&&Great job, no bugs so far, looks exactly like an iPhone, but please keep updating
+ - May 26, 2012&&&2.0 &&&&&& - Version 2.1.3.4&&&nice start, but buggy&&&A simpler, single-level launcher is a nice idea, and this is a good start.  Unfortunately, it is rather buggy.  For example, when creating folders, the folders and the apps they contain just disappear completely.  The launcher also has copied some of the worst features of the iPhone launcher, such as the weird dance when trying to drop an icon into a folder.  Trying to change between screens while moving icons often ends up trying to uninstall an app.  And while I like this style of launcher in general, I wonder whether it really needs to stick so slavishly to the original.  For example, the ability to add widgets to the home screens or to rearrange screens via zoom out and dragging wouldn't kill the simplicity of the launcher but make it a lot more usable.  In addition, I'd prefer if it used the original Android icons, or at least gave me a choice.
+ - May 16, 2012&&&4.0 &&&&&& - Version 2.1.3.4&&&Very good app&&&There's one thing that could be added: multi- tasking function like in Espier Launcher
+ - April 13, 2012&&&4.0 &&& - HTC Evo 4G &&& 2.1.3.4&&&:(&&&How come i cant get the tablet theme ?
+ - June 11, 2012&&&5.0 &&& - Samsung Galaxy Ace &&& 2.1.3.4&&&Best homescreen&&&Simply the best homescreen app around. Smooth easy to use. Sadly no updates for a while
+ - June 8, 2012&&&1.0 &&&&&& - Version 2.1.3.4&&&It sucks.&&&Does not work on HTC Rhyme
+ - February 25, 2012&&&3.0 &&&&&& - Version 2.1.3.4&&&Nice!&&&But force closes on my rooted Kindle Fire, please make this available :( still force closes on Kindle
+ - April 7, 2012&&&4.0 &&& - HTC Desire HD &&& 2.1.3.4&&&Great App 5*s if I could use live wallpapers!!&&&
+ - March 7, 2012&&&3.0 &&& - Samsung Galaxy S2 &&& 2.1.3.4&&&Good&&&Good but need status bar and notifications bar changes, if launcher 7 can do this can be done like iphone.
+ - March 16, 2012&&&5.0 &&&&&& - Version 2.1.3.4&&&good :)&&&This app really great :) i wanted? the launcher of IOS but features of android and this helped!
+ - April 26, 2012&&&4.0 &&& - Samsung Galaxy S &&& 2.1.3.4&&&Nice work&&&A widget page would be awesome such as included with espier launcher.
+ - April 11, 2012&&&4.0 &&& - Samsung Galaxy S2 &&& 2.1.3.4&&&Galaxy s2&&&Nice iphone theme but where can you get ilauncher icon pack?
+ - June 15, 2012&&&5.0 &&& - HTC EVO Shift 4G &&& 2.1.3.4&&&Good&&&Make the multitasking bar like espiers
+ - May 10, 2012&&&2.0 &&& - LG Optimus One &&& 2.1.3.4&&&OK&&&Its good but it for some reason erases Instagram and Chimpanzee from my home screen EVERY time I power off my phone
+ - April 28, 2012&&&1.0 &&& - SEMC Xperia Ray &&& 2.1.3.4&&&Bitch Please,&&&Takes years to load on my phone, smooth scrolling ain't smooth but spiky, slower than other launchers, please, I like this, make it better please.
+ - March 25, 2012&&&5.0 &&&&&& - Version 2.1.3.4&&&Does what its designed to do&&&A bit annoying to set up at first though
+ - April 4, 2012&&&4.0 &&& - Samsung Galaxy S &&& 2.1.3.4&&&Good&&&But how to delete empty pages (no apps on it) ? Email: justindufisch@yahoo.de
+ - March 18, 2012&&&5.0 &&& - Huawei M865 &&& 2.1.3.4&&&Awesome!&&&This is the best iphone interface app.. Not even close..
+ - April 22, 2012&&&4.0 &&& - Samsung Nexus S &&& 2.1.3.4&&&Fnethan&&&Deletes my folders and icons. Would give 5 stars other wise. Please fix i hate having to re-download.
+ - May 8, 2012&&&3.0 &&& - Samsung Galaxy S2 &&& 2.1.3.4&&&don't u have any update&&&i like this but i really hope u can have more features n update
+ - April 7, 2012&&&5.0 &&& - Motorola Droid X &&& 2.1.3.4&&&Best:-)&&&This is the best Iphone home replacement screen ever!!
+ - March 3, 2012&&&2.0 &&&&&& - Version 2.1.3.4&&&Nice Idea...&&&....but very sluggish and buggy compared to Android OS.  Examples....  -Pressing the "Time" sends me to another screen.  -Pressing an APP requires a harder push of the finger.  -Unlocking the phone is STILL in Android OS not in Apple.  Work on it and I'll re-try.
+ - April 9, 2012&&&3.0 &&& - HTC Droid Incredible &&& 2.1.3.4&&&Good&&&Please make icons bigger and higher quality ! :D
+ - June 16, 2012&&&5.0 &&& - Motorola Droid X &&& 2.1.3.4&&&Surprisingly smooth&&&I mainly d'loaded the lite version to trick friends, but wow this is well done
+ - February 28, 2012&&&5.0 &&& - LG Gelato &&& 2.1.3.4&&&Love It!!!!&&&Best launcher out there, highly recommended!!! -Wish I was able to use live wallpapers ;)
+ - February 25, 2012&&&4.0 &&& - HTC EVO 3D &&& 2.1.3.4&&&Nice&&&I'm really liking this. Need ability to change dock and widget support.
+ - June 9, 2012&&&5.0 &&& - HTC EVO 3D &&& 2.1.3.4&&&Awesome&&&
+ - March 23, 2012&&&5.0 &&& - Galaxy S Plus &&& 2.1.3.4&&&Galaxy s plus&&&Love it ! Add more animation please...
+ - May 19, 2012&&&5.0 &&&&&& - Version 2.1.3.4&&&Super Smooth&&&This app is insanely smooth and looks just like IOS5. If you're wanting an iPhone style launcher, this one is for you!
+ - March 8, 2012&&&4.0 &&& - Samsung Sidekick 4G &&& 2.1.3.4&&&Hey!!!&&&No updates?  :/
+ - June 3, 2012&&&5.0 &&& - HTC Wildfire S &&& 2.1.3.4&&&Awesome&&&This app is just awesome!
+ - March 27, 2012&&&1.0 &&&&&& - Version 2.1.3.4&&&Homer&&&No update make homer go crazy
+ - June 11, 2012&&&5.0 &&& - HTC Sensation 4G &&& 2.1.3.4&&&Amazing&&&Just like an iphone.
+ - May 18, 2012&&&4.0 &&& - HTC Desire HD &&& 2.1.3.4&&&Bug&&&Search feature bug: the messaging results in the search results list display incorrect and muddled up contact names.  Please fix!
+ - April 1, 2012&&&5.0 &&& - LG Optimus One &&& 2.1.3.4&&&GREAT&&&This launcher is incredible! Keep it up!
+ - March 7, 2012&&&4.0 &&& - Galaxy Prevail &&& 2.1.3.4&&&4 stars&&&Better if add live wallpaper
+ - March 17, 2012&&&4.0 &&& - Samsung Nexus S &&& 2.1.3.4&&&Please&&&Add a app drawer
+ - April 15, 2012&&&3.0 &&& - Samsung Galaxy Note &&& 2.1.3.4&&&Great but not the best.&&&Espier Launcher offers more for free.
+ - April 8, 2012&&&5.0 &&& - Samsung Galaxy Y &&& 2.1.3.4&&&awesome&&&....
+ - April 2, 2012&&&4.0 &&& - Samsung Galaxy S2 &&& 2.1.3.4&&&Nice&&&No problems
+ - April 1, 2012&&&5.0 &&& - HTC Incredible S &&& 2.1.3.4&&&Awesome&&&such a good app
+ - June 17, 2012&&&5.0 &&&&&& - Version 2.1.3.4&&&iPhone&&&bueno
+ - March 1, 2012&&&4.0 &&& - Samsung Galaxy S2 &&& 2.1.3.4&&&Great&&&Notification number for email please
+ - April 26, 2012&&&1.0 &&& - SEMC Xperia X8 &&& 2.1.3.4&&&Sux force closed x8&&&
+ - April 14, 2012&&&5.0 &&&&&& - Version 2.1.3.4&&&Beast&&&Ilike it
+ - July 5, 2012&&&1.0 &&&&&& - Version 2.1.3.4&&&Same as 'Nigel"&&&Still has bugs and freezes up, dock disapears. Wallpaper goes black, scrolling pages stops working. All at once. I'm leaving for "91 ihome". Will keep an eye on ilauncher though.
+ - March 25, 2012&&&3.0 &&& - Samsung Galaxy Nexus &&& 2.1.3.4&&&Please change that ugly bold font&&&Also desperately needs widgets and icon galleries
+ - March 12, 2012&&&5.0 &&& - Galaxy Tab 10.1 &&& 2.1.3.4&&&Ah ya&&&
+ - February 18, 2012&&&5.0 &&& - Sharp Aquos &&& 2.1.3.3&&&Excellent work, keep good work!&&&Can you please make possible to: 1) Add widgets like other launchers? 2) Change the font size and type? (More options for customization)
+ - February 23, 2012&&&4.0 &&& - Samsung Galaxy Ace &&& 2.1.3.3&&&Unwanted icon&&&Please Please Please make an option for hiding unwanted icons. Overall its a great launcher app!
+ - February 24, 2012&&&5.0 &&& - Samsung Galaxy Gio &&& 2.1.3.3&&&Well done&&&The perfect illusion... :)
+ - February 15, 2012&&&1.0 &&&&&& - Version 2.1.3.2&&&Baaaad update&&&Please now become more close force after latest update. On my galaxy tab 7.7
+ - February 15, 2012&&&1.0 &&& - Samsung Galaxy S &&& 2.1.3.1&&&Unstable since latest update!&&&Constantly force closing, unable to change application icon or rename. Was excellent, now a constant nuisance.
+ - February 16, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 2.1.3&&&Great!&&&5 star for the Update!
+ - February 11, 2012&&&4.0 &&& - Samsung Sidekick 4G &&& 2.1.2.5&&&Good monei&&&It's real good works well no problems unlike tha iphone apps.....
+ - February 10, 2012&&&5.0 &&& - HTC Evo 4G &&& 2.1.2.5&&&Not bad&&&Animations are better then espier however espier does a lot of things better IMO
+ - February 9, 2012&&&5.0 &&& - LG Ally &&& 2.1.2.5&&&Josh&&&Its the best around keep it up
+ - February 4, 2012&&&5.0 &&& - HTC Sensation 4G &&& 2.1.2.4&&&Great launcher!&&&Great launcher that looks just like iphone but is better since its droid!
+ - March 25, 2012&&&5.0 &&&&&& - Version 2.1.2.4&&&Updates!&&&Why no updates?!
+ - February 6, 2012&&&5.0 &&& - HTC Thunderbolt &&& 2.1.2.4&&&BEST OUT!&&&
+ - February 4, 2012&&&5.0 &&& - HTC Evo 4G &&& 2.1.2.2&&&Widgets&&&With Widgets this would be perfect.
+ - February 3, 2012&&&4.0 &&& - HTC Incredible 2 &&& 2.1.2.1&&&Its pretty good&&&Please allow voice search to work properly in ics.
+ - February 3, 2012&&&5.0 &&& - LG Optimus One &&& 2.1.2.1&&&Its great!&&&I have tried a lot of different launchers but this is by far the best I have ever had! Worth the money! I would like to see an iPhone lockscreen on here if possible? But like I said its awesome!
+ - February 2, 2012&&&5.0 &&& - Samsung Galaxy S &&& 2.1.2.1&&&Needs SMS and lock screen&&&See above other than that its wonderful
+ - February 2, 2012&&&5.0 &&& - Motorola Atrix &&& 2.1.2.1&&&Ok!&&&The best!
+ - January 31, 2012&&&4.0 &&& - Pantech Apache &&& 2.1.2&&&Good&&&Its a good app but can you please make it to where we can push the menu button and it slides up like on iphone 4. Thank you
+ - February 2, 2012&&&5.0 &&& - HTC Sensation 4G &&& 2.1.2&&&iDroid&&&I absolutely love this app! Gotta love how versatile android phones can be.   Android > iPhone  [HTC Sensation]
+ - January 26, 2012&&&5.0 &&&&&& - Version 2.1.1.6&&&Well worth the money!&&&Highly recommended! Best launcher yet! Love the constant updates! Some suggestions though: option to change spotlight search to the Google search would be cool, multitasking, a lock screen, widget support, and status bar would totally make this app a 10 star! (Which isn't even possible but this app would be so good that it creates it!) Been using this on both a tablet and phone and I love it!
+ - January 28, 2012&&&5.0 &&& - EeePad Transformer TF101 &&& 2.1.1.6&&&AWESOMEEE&&&Must have app   but havin problem while using as portrait on asus eeepad transformer...the icons wont align correctly
+ - January 27, 2012&&&4.0 &&& - Samsung Galaxy Note &&& 2.1.1.6&&&Very nice but still limited&&&No Live wallpaper support. Option key not working. (Left hard key). Can not touch screen to add directly contact or folder or widget. Can not delete empty pages.
+ - February 1, 2012&&&4.0 &&&&&& - Version 2.1.1.6&&&Jb&&&Needs more features but great launcher
+ - January 29, 2012&&&4.0 &&& - Galaxy Tab 10.1 &&& 2.1.1.6&&&Help&&&I dont understand, i have installed it.. But it doesnt appear in application.. Why?! I cant use this launcher :(( anyone can solve this problem??
+ - January 26, 2012&&&5.0 &&& - HTC Evo 4G &&& 2.1.1.6&&&awesome&&&Best launcher ever
+ - January 25, 2012&&&5.0 &&& - LG Optimus One &&& 2.1.1.5&&&Best Iphone Launcher&&&Hurry up and make messaging and lockscreen! This launcher is the best!!! Worth the money!
+ - February 25, 2012&&&3.0 &&&&&& - Version 2.1.1.4&&&Down to 3 stars&&&The phone is LG Optimus Chic with Froyo 2.2. Espier Launcher devs work faster and now their app is much better. For some reason iLauncher looks kind of dark and with blurry icons. Good animations but still no built-in task manager, no widget support, UI is slower than Espier. I have paid for iLauncher to support the dev but I'm not using it anymore.
+ - January 22, 2012&&&5.0 &&&&&& - Version 2.1.1.4&&&Great&&&This app is a go best ios launcher in the market and mixed with miui rom you cant go wrong
+ - January 21, 2012&&&4.0 &&&&&& - Version 2.1.1.4&&&Looks better than espier but does not run as smooth. Have had a few ...&&&Looks better than espier but does not run as smooth. Have had a few force closes since last night.
+ - June 28, 2012&&&1.0 &&& - HTC Evo 4G &&& 2.1.1.4&&&Ilauncher&&&PLEASE ADD WIDGETS!
+ - April 4, 2012&&&1.0 &&& - HTC Sensation 4G &&& 2.1.1.4&&&Is this app removed???&&&
+ - January 20, 2012&&&4.0 &&& - HTC myTouch 4G &&& 2.1.1.3&&&Its good&&&I like it...always liked how the iphone looks...just the sms i dont like cause it uses the default sms hope you can fix it to where we can customize it to a different sms app...cause i use handcent
+ - January 23, 2012&&&5.0 &&&&&& - Version 2.1.1.3&&&i lost my Iphone 4&&&i lost my iphone 4 and had to get an android, but i miss the launcher part of the Iphone, this is by far the closest thing to making your android look and feel like a iphone.  -previous Iphone 4 owner
+ - January 20, 2012&&&5.0 &&& - HTC Desire &&& 2.1.1.3&&&Jose&&&Really cool app
+ - January 16, 2012&&&4.0 &&& - HTC Sensation 4G &&& 2.1.0.7&&&this is a very nice app&&&works great on my phone. however crashes at times for some unknown reason. using sensation XE. hope the devs can fix it.
+ - January 17, 2012&&&3.0 &&& - SEMC Xperia X10 &&& 2.1.0.7&&&Gears&&&Read my last comment, and the apps need serious help because u have to keep pushing it to make it open. I know its not my phone eather....
+ - January 15, 2012&&&4.0 &&& - HTC Thunderbolt &&& 2.1.0.7&&&Good but...&&&My thunderbolt has a problem where when I press the home button the screen just blinks and doesn't go to the home screen. Please fix or I want refund
+ - January 16, 2012&&&4.0 &&& - Samsung Galaxy S &&& 2.1.0.7&&&Nice app&&&But i will give 5 stars after putting the task manager
+ - January 18, 2012&&&5.0 &&&&&& - Version 2.1.0.7&&&Looks good!&&&Simple and clean with fluid animations, I'm glad I purchased this launcher.
+ - January 14, 2012&&&5.0 &&&&&& - Version 2.1.0.7&&&Amazing!!!&&&It simply works and looks great!!
+ - January 16, 2012&&&3.0 &&& - HTC Desire HD &&& 2.1.0.7&&&App folder icon&&&Is missing
+ - January 15, 2012&&&4.0 &&&&&& - Version 2.1.0.7&&&Nice&&&Need more options
+ - January 12, 2012&&&5.0 &&&&&& - Version 2.1.0.5&&&Lj&&&Need status bar but its a great app
+ - January 6, 2012&&&5.0 &&& - HTC myTouch 4G &&& 2.1.0.4&&&Good&&&This app is smoother and easier to use than the regular lauchers , its worth downloading
+ - January 5, 2012&&&5.0 &&& - LG Optimus One &&& 2.1.0.2&&&Very Awesome!&&&Great app now all we need is to have the same sms screen and caller id and we'll be set :)
+ - January 4, 2012&&&5.0 &&& - Samsung Galaxy S &&& 2.1.0.2&&&Beasty&&&Best launcher in market. The smoothest ios launcher, they should use this launcher on iphone clones lol
+ - June 18, 2012&&&2.0 &&&&&& - LG Optimus One&&&UPDATE!!!!!!!!!!!!!!!&&&Can you please UPDATE! We need to be able to set apps as default! Other people do not use the stock messaging app and need to be able to set go sms handcent chomp sms ect. as defalut! I have go contacts and would like to set that as my default and others use different web browers that are like the iphone and would like to be able to set that as default! So can we please get an update with the option to set apps as defalut and the task manger bar or we will be forced to use espier launcher which is free by the way! I will give five stars if this is done! I will also give you more customers that will pay if you fix these things for now my friends and i will be using espier launcher!
+ - May 4, 2012&&&5.0 &&&&&& - Motorola Defy&&&You Beauty&&&Not only does it make your android faster, but it looks mint as well :) 5 stars no worries
+ - April 23, 2012&&&1.0 &&&&&&&&&It doesn't work&&&I tried to put it as the background but it doesn't work. I have the samsung galaxy ace and it doesn't appear as a application please help me
+ - June 26, 2012&&&3.0 &&&&&& - HTC Incredible 2&&&Good app but....&&&Now fc when changing icon please fix
+ - April 15, 2012&&&3.0 &&&&&&&&&Good but needs more&&&This is aheady in the look of iOS with the animations but lacks features that espier has
+ - March 26, 2012&&&5.0 &&&&&& - Samsung Galaxy S&&&greatest app ever&&&this is the best apple app that changes your android phone to an iphone by look way better than espier launcher
+ - February 29, 2012&&&4.0 &&&&&& - Samsung Galaxy Mini&&&nice work&&&nice work but does not support live wallpaper so plz create an update to support live wallpaper. Otherwise best launcher its smooth than my android. thnx n gr8 work.
+ - April 2, 2012&&&2.0 &&&&&& - HTC EVO 3D&&&Can't redownload&&&My favorite launcher hands down.  Did a factory data reset and keep getting error code 403.
+ - March 25, 2012&&&3.0 &&&&&& - HTC Evo 4G&&&Need Widgets&&&It would be perfect if you can add widgets.
+ - February 16, 2012&&&4.0 &&&&&& - Samsung Galaxy S&&&You should make it more like espire and make lockscreen the 5 stars&&&
+ - March 28, 2012&&&4.0 &&&&&& - Samsung Galaxy Gio&&&Error&&&Cant download Error 403
+ - March 25, 2012&&&1.0 &&&&&& - LG Optimus One&&&Sucks&&&This blows
+ - February 29, 2012&&&4.0 &&&&&& - Samsung Galaxy Mini&&&nice work&&&nice work but does not support live wallpaper so plz create an update to support live wallpaper. Otherwise best launcher its smooth than my android. thnx n gr8 work.
+ - April 2, 2012&&&2.0 &&&&&& - HTC EVO 3D&&&Can't redownload&&&My favorite launcher hands down.  Did a factory data reset and keep getting error code 403.
+ - March 25, 2012&&&3.0 &&&&&& - HTC Evo 4G&&&Need Widgets&&&It would be perfect if you can add widgets.
+ - February 16, 2012&&&4.0 &&&&&& - Samsung Galaxy S&&&You should make it more like espire and make lockscreen the 5 stars&&&
+ - March 28, 2012&&&4.0 &&&&&& - Samsung Galaxy Gio&&&Error&&&Cant download Error 403
+ - March 25, 2012&&&1.0 &&&&&& - LG Optimus One&&&Sucks&&&This blows

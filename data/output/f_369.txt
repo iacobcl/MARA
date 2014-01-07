@@ -1,0 +1,8 @@
+ - November 22, 2011&&&4.0 &&& - HTC Desire HD &&& 1.0.3&&&VTODO missing&&&Nice app, works well, though support for VTODO would make it much cooler. I'd be glad to pay extra for this feature
+ - April 24, 2012&&&1.0 &&& - Motorola Droid RAZR &&& 1.0.3&&&It stopped working&&&Worked fine for about a month and then just stopped syncing. It says 'could not parse from icalendar'. Not happy.
+ - May 24, 2012&&&1.0 &&& - Samsung Galaxy S &&& 1.0.3&&&Warning! No longer works since update&&&Was working, but now says cannot parse calendar!  Currently app does not work since the update!
+ - November 1, 2011&&&5.0 &&&&&& - Version 1.0.3&&&Works perfectly after using it for 6 months&&&Does exactly what it is supposed to do.  Does it without a hitch.  I wish I had something similar for my desktop.  Thanks.
+ - July 28, 2011&&&5.0 &&& - Motorola Droid X &&& 1.0.3&&&Worth the $&&&App works well.
+ - May 17, 2012&&&5.0 &&& - Motorola Droid RAZR &&& 1.0.3&&&Excellent&&&Pretty easy to set up. Developer knows linux. Works fine with dropbox.
+ - July 22, 2011&&&4.0 &&& - HTC Desire &&& 1.0.0&&&Works perfectly for me. Nice way to pull other calendars in alongside my google ...&&&Works perfectly for me. Nice way to pull other calendars in alongside my google calendars.
+ - October 15, 2011&&&4.0 &&& - HTC Legend &&& 1.0.0&&&Trial lasted 20 hours&&&

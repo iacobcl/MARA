@@ -1,0 +1,7 @@
+major bug
+medium bug
+minor bug
+app incomp with device
+app incomp with os
+fix
+battery loss

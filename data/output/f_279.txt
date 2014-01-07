@@ -1,0 +1,206 @@
+ - November 8, 2011&&&5.0 &&& - Motorola Droid X &&& 1.2.1&&&Good stuff&&&Works great on Droid x Works on all roms that I've flashed.  A god send for use with spb shell, launcher7, and blur roms using adw.   J, PLZ ADD MORE
+ - January 15, 2012&&&1.0 &&&&&& - Version 1.2.1&&&Huh??!!&&&Does not work on rooted HTC Aria with CM 7.1  You give no contact info regarding your suggestion to "email you with problems."      p.s - Had to re-download, now it's forcing close.  Kind of a worthless app, I'd say.  How to get a refund??!! UNINSTALLED!! (and it will not fully uninstall!) Obviously needs more work.
+ - November 23, 2011&&&5.0 &&& - HTC Incredible 2 &&& 1.2.1&&&Great!&&&Awesome animations. Would like to see ICS added but it seems this app has been abandoned.
+ - December 23, 2011&&&5.0 &&& - Motorola Droid X &&& 1.2.1&&&Excellent app!&&&I have a droid x, rooted, running cyanogen mod 7 and this app works exactly as it should. Very pleased :)
+ - August 22, 2011&&&5.0 &&& - HTC G2 &&& 1.2.1&&&Good!,&&&If you using cm7 and receiving error try aply various times. Work perfect on Miui.
+ - July 27, 2011&&&5.0 &&& - LG Optimus 2X &&& 1.2.1&&&Nice upgrade on animations... Don't know what that other g2x user was having ...&&&Nice upgrade on animations... Don't know what that other g2x user was having problems with im rockin ultimate rom with faux kernel
+ - September 9, 2011&&&3.0 &&& - HTC Desire S &&& 1.2.1&&&Not for everyone&&&No good for Sense 3.0 roms. Boot loop city. The problem is, by the time you've done a battery pull, booted into recovery, restored a backup, and got back onto the market, it's too late to request a refund. :(
+ - November 10, 2011&&&4.0 &&& - HTC Evo 4G &&& 1.2.1&&&-__-&&&Continues to FC on my EVO definitely know I'm rooted so there is no excuse. . . Refunded. The HACKED version worked better :-\
+ - June 28, 2012&&&5.0 &&& - HTC Sensation 4G &&& 1.2.1&&&Love it&&&I have romtoolbox pro from JRummy as well, both are great and well worth the cash. This app really makes your phone stand out.
+ - September 1, 2011&&&5.0 &&& - Motorola Droid X &&& 1.2.1&&&Works great&&&Works without any problems. Dx with prerooted gb. (Some of the animations are really cool)
+ - November 28, 2011&&&3.0 &&& - Galaxy Prevail &&& 1.2.1&&&Not Bad&&&This wansnt bad on my samsung prevail, but the animation options just arent that diffrent. after trying them all there was really only 1 that i liked. Unfortunatly i think i missed the 15min window to get a refund. Again, not bad....just not amazing.
+ - October 27, 2011&&&5.0 &&& - Samsung VinsQ(M910) &&& 1.2.1&&&Samsung Intercept&&&Great app. I've never had a single problem.  Could use more animations but otherwise awesome.
+ - June 24, 2011&&&5.0 &&& - Motorola Droid &&& 1.2.1&&&Awesome!!! Just what I need to finish customizing my phone. Og Droid with liquid ...&&&Awesome!!! Just what I need to finish customizing my phone. Og Droid with liquid x.
+ - July 18, 2011&&&5.0 &&& - Samsung Galaxy S &&& 1.2.1&&&The animation in this application is worth the money. I was hesitant at first, ...&&&The animation in this application is worth the money. I was hesitant at first, but very satisfied on the performance of the animation. Sgs4G
+ - June 16, 2012&&&1.0 &&& - HTC myTouch 4G Slide &&& 1.2.1&&&Doesn't work&&&Even when adding busy box it still didn't work. Ripp off!
+ - June 28, 2011&&&4.0 &&& - HTC myTouch 4G &&& 1.2.1&&&Works great on HTC Glacier, fix blur transition please! Blur is only animation that ...&&&Works great on HTC Glacier, fix blur transition please! Blur is only animation that doesn't work. :/
+ - January 16, 2012&&&4.0 &&& - Samsung Galaxy S2 &&& 1.2.1&&&GSIIx (paradox rom& synergy kernel)&&&Works for me, but makes market crash as soon as you set a animation. Could be due to a few things.
+ - September 15, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.2.1&&&Working flawless in my galaxy s2.. If its not working for you take a ...&&&Working flawless in my galaxy s2.. If its not working for you take a look at your system & apps settings!
+ - August 22, 2011&&&3.0 &&& - Samsung Nexus S &&& 1.2.1&&&Strange. It worked 1st time I used it. Changed rom, then went back to ...&&&Strange. It worked 1st time I used it. Changed rom, then went back to the rom it worked on an it caused a boot loop. Please make this more reliable!!!
+ - June 26, 2012&&&1.0 &&&&&& - Version 1.2.1&&&Sucks.&&&Bricked rooted Samsung infuse 4g with froyo. Would really like for this to work. Seen it on a friends phone and looks fabulous. update...tried again a year later on a Motorola Triumph rooted with cm7, and still experiencing problems. Really wish I would have never purchased this app.  Only 1 or 2 of the animations worked, and the random option, made wallpaper changing impossible.   Uninstalling and never trying again.  Refund would be nice, but you live and you learn lol
+ - June 12, 2011&&&2.0 &&& - Samsung Galaxy S &&& 1.2.1&&&Used to work perfect. Now FC when I hit the reboot n puts my ...&&&Used to work perfect. Now FC when I hit the reboot n puts my phone in reboot loop. Please fix. Galaxy S I9000.
+ - May 30, 2011&&&5.0 &&& - Motorola Droid X &&& 1.2.1&&&I wish there was a iq test before you could download or rate a ...&&&I wish there was a iq test before you could download or rate a app. Droidx liberty rom 2.0 works great
+ - June 22, 2011&&&1.0 &&& - Samsung Galaxy S &&& 1.2.1&&&Very useful for putting a Samsung Fascinate into a boot loop.&&&
+ - April 16, 2012&&&1.0 &&& - Samsung Galaxy S2 &&& 1.2.1&&&Boot loop&&&After shutdown, battery pull and reflashing Rom the 15 min window is gone....have play store open on a computer in case u need to refund
+ - May 27, 2012&&&4.0 &&&&&& - Version 1.2.1&&&Jeez&&&This is pretty cool, however, it seems that the animations it displays are random, even without that option selected. I originally downloaded as a means to have an animation when switching apps using GMD's gesture control app, but the animations work a slim percentage of the time when switching apps through that means... really a very good app otherwise, very cool animations, and, as far as I can tell the only app that allows us to change these.
+ - March 28, 2012&&&5.0 &&& - Samsung Nexus S &&& 1.2.1&&&Works with ICS too! :)&&&Prefer FlyIn over stock ICS animations and worked perfect.. Wish we could add some more animations, like stock clock fold in and out?  -Nexus S 4.0.4
+ - December 2, 2011&&&5.0 &&& - Motorola Atrix &&& 1.2.1&&&works like it supposed to&&&all but blur worked on cm7 atrix. would be great to get some updated anims...ICS?
+ - October 11, 2011&&&3.0 &&& - Droid Bionic &&& 1.2.1&&&Mods For Bionic&&&Its cool but all the mods do tje same thing....even after reboor
+ - March 10, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 1.2.1&&&.&&&Really good app just doesn't work on my phone tho :(
+ - June 27, 2011&&&1.0 &&& - HTC Desire HD &&& 1.2.1&&&Force close HTC inspire. Yes im rooted. Uninstall refund?&&&
+ - June 8, 2011&&&5.0 &&&&&& - Version 1.2.1&&&Worked great on mytouch 4g with iced glacier rom&&&
+ - May 1, 2011&&&4.0 &&&&&& - Version 1.2.1&&&Works on cdma desire with ethreal r3 but you must choose restart later reboot ...&&&Works on cdma desire with ethreal r3 but you must choose restart later reboot into recovery and wipe dalvik cache or bootloop is eminent still handy
+ - September 4, 2011&&&1.0 &&& - Motorola Droid II &&& 1.2.1&&&Sad&&&Got to root just to work. I would have loved This. DROID 2 on 2.3.3
+ - May 11, 2011&&&1.0 &&& - Samsung Galaxy S &&& 1.2.1&&&Never worked tried it with different rooted roms boot loops every time have to ...&&&Never worked tried it with different rooted roms boot loops every time have to reinstall os dev please sort out would really like to have this working
+ - August 30, 2011&&&1.0 &&&&&& - Version 1.2.1&&&Stuffed my phone.&&&Set my phone to one type of animation and wont let me swap it or put back to default so i'm using my phone with animations turned off. Ideos X5
+ - May 20, 2011&&&3.0 &&&&&& - Version 1.2.1&&&Not 100% but doesn't need to be&&&On my Nexus S running CM7 this quite often fails to appy the effect either saying 'Null' or 'unable to remount'. If I retry it works after a few tries so not a massive deal. Once it's done it is awesome though
+ - October 11, 2011&&&4.0 &&& - HTC Evo 4G &&& 1.2.1&&&I believe this app to work well for boot animations&&&Although it has never went as far as to get a new animation to my boot. I haven't given up on this though. Evo 4g, running Kingsrom shooter.3d...
+ - July 7, 2011&&&4.0 &&& - Samsung Galaxy S &&& 1.2.1&&&Works fine. Custom Rom Samsung Fascinate.&&&
+ - February 15, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 1.2.1&&&Works perfect!&&&I don't understand what happened to all the idiots under me, but on every single phone and tablet I have tried this on(Gingerbread & ICS) it set perfect.
+ - December 8, 2011&&&3.0 &&& - Samsung Galaxy S2 &&& 1.2.1&&&GS2&&&Always removes my wallpaper. Doesn't Work 100% of the time.
+ - October 29, 2011&&&4.0 &&& - LG Optimus 2X &&& 1.2.1&&&The ultimate&&&in Android customization, but the blur animation doesn't work on my g2x w/ eagles blood 2.4.
+ - May 22, 2011&&&5.0 &&&&&& - Version 1.2.1&&&Very nice work. Works / runs all animations perfectly. Droidx running liberty 2.0 ...&&&Very nice work. Works / runs all animations perfectly. Droidx running liberty 2.0 rom
+ - December 16, 2011&&&1.0 &&& - Motorola Droid X &&& 1.2.1&&&BRICKED my Phone! Bricked my Phone!&&&This program was written by SATAN!!! This program BRICKED my LG G2X. You've read many simular reviews. YOU'VE BEEN WARNED!!!
+ - May 2, 2011&&&5.0 &&& - Samsung Galaxy 3 &&& 1.2.1&&&Sorry for my bad review earlier, dev. Now upgraded to froyo and rerooted. Works ...&&&Sorry for my bad review earlier, dev. Now upgraded to froyo and rerooted. Works Beautifully....galaxy 3
+ - March 8, 2012&&&2.0 &&&&&& - Version 1.2.1&&&nice but....&&&it * still * messes up my background, seams like a stupid problem to have for so many months.
+ - September 29, 2011&&&3.0 &&& - Motorola Droid X &&& 1.2.1&&&Rob&&&I haven't used the app after months because it jacked up my phone. I just tried it again and no bootloops but only a couple work... DROID X .605
+ - July 9, 2011&&&1.0 &&& - Samsung Galaxy S &&& 1.2.1&&&Dear users of the Samsung Galaxy S. THIS WILL FULLY BRICK YOUR PHONE AND ...&&&Dear users of the Samsung Galaxy S. THIS WILL FULLY BRICK YOUR PHONE AND PUT IT IN A BOOT LOOP. You will have to use ODIN to reflash your FW.
+ - May 18, 2011&&&4.0 &&& - HTC G2 &&& 1.2.1&&&Works great on my G2 with cm7&&&
+ - December 5, 2011&&&4.0 &&& - HTC Droid Incredible &&& 1.2.1&&&it's alright for now...&&&random settings don't work with a different transition every startup and a few occasional FC's...mostly with the market
+ - June 20, 2012&&&3.0 &&& - HTC Desire HD &&& 1.2.1&&&It works.&&&Could use a little more though. Inspire asopx ics Edit* first animation apply works but I can change it.
+ - September 11, 2011&&&5.0 &&& - HTC Evo 4G &&& 1.2.1&&&It's grate&&&Works without any problems on my EVO 4g running Mik3D sense 3.0 ROM with freedom kernal
+ - August 26, 2011&&&1.0 &&& - HTC Evo 4G &&& 1.2.1&&&T&&&$1.50 for a top of the line JUNK APP! Would rate negative stars if I could
+ - June 2, 2011&&&5.0 &&&&&& - Version 1.2.1&&&Ok I have to admit, I had major doubts with it on my phone, ...&&&Ok I have to admit, I had major doubts with it on my phone, but it works perfectly.... Samsung Galaxy S Vibrant, Cyonogen 7 Build 8, 2.3.4
+ - June 12, 2011&&&4.0 &&& - HTC Evo 4G &&& 1.2.1&&&Great app, better than manually changing the animations. I really wished the fade ...&&&Great app, better than manually changing the animations. I really wished the fade animation worked though.
+ - May 24, 2012&&&5.0 &&& - HTC Thunderbolt &&& 1.2.1&&&Another great App!&&&Works flawlessly on every ROM I've used. And I switch ROMS like every couple hours!
+ - November 7, 2011&&&1.0 &&& - Samsung Galaxy S &&& 1.2.1&&&BRICK ALERT&&&Hard Bricked my freaking Galaxy S and had to wait 3 days for a replacment!!! Never had an market app brick my  phone
+ - February 29, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 1.2.1&&&Sgs2&&&Works good but only a couple animations!?? Can you add more please
+ - October 24, 2011&&&1.0 &&&&&& - Version 1.2.1&&&Bricked my phone Atrix w/2.3.4&&&App bricked my phone.  Had to reflash...beware!
+ - June 24, 2011&&&1.0 &&&&&& - Version 1.2.1&&&won't load&&&app demands busybox even though my rooted machine has it. Won't load, no response from developer.
+ - July 1, 2011&&&5.0 &&& - HTC Evo 4G &&& 1.2.1&&&Just because it didn't work on your worthless phone doesn't mean it doesn't work ...&&&Just because it didn't work on your worthless phone doesn't mean it doesn't work on other phones. Application works flawless on HTC EVO.
+ - May 1, 2011&&&5.0 &&& - Motorola Droid II &&& 1.2.1&&&Excellent. Like the fold best. Great job, thanks. XDA Z4 rooted USA D2.&&&
+ - June 25, 2011&&&1.0 &&& - Samsung Galaxy S &&& 1.2.1&&&This program crashed my phone..Its 100% trash&&&
+ - July 6, 2011&&&5.0 &&& - HTC Droid Incredible &&& 1.2.1&&&Ray is an idiot. Awesome app. Even better developer!!! Dinc cm7&&&
+ - March 8, 2012&&&1.0 &&& - Asus Eee Pad &&& 1.2.1&&&Too fast&&&I have never gotten motion sickness in my life until using this for about 30 minutes uninstalled
+ - June 5, 2011&&&5.0 &&& - Motorola Droid X &&& 1.2.1&&&Works great on DX!&&&
+ - April 2, 2012&&&5.0 &&&&&& - Version 1.2.1&&&The Best!&&&This app is the best animation app out there!
+ - June 22, 2012&&&5.0 &&& - HTC Evo 4G &&& 1.2.1&&&Scary fun&&&After all the warnings of bootloop Im very happy to say I have not had a brick scenario yet and transitions seem very smooth! *Rooted HTC Evo 4G / Stock Rom
+ - October 12, 2011&&&5.0 &&& - HTC Thunderbolt &&& 1.2.1&&&+1&&&Simply awesome. Thank you good, sir.
+ - February 25, 2012&&&5.0 &&& - Motorola Defy &&& 1.2.1&&&Perfect&&&Fold is brilliance thanks again perfect
+ - October 22, 2011&&&4.0 &&& - HTC Incredible S &&& 1.2.1&&&RAY&&&I do believe that the reason why it apparently bricked your phone is because you were using 2.33 beta and I do believe that it was said NOT to use mod
+ - January 25, 2012&&&2.0 &&& - Samsung Galaxy S2 &&& 1.2.1&&&Not that great&&&Has the potential to be cool but its definitely not there yet. Galaxys2
+ - June 29, 2012&&&1.0 &&& - Samsung Galaxy Nexus &&& 1.2.1&&&Disappoint mod&&&Does not work on nexus..
+ - June 6, 2011&&&4.0 &&&&&& - Version 1.2.1&&&Decent apparently. Wish all worked. Blur doesn't work&&&
+ - August 29, 2011&&&5.0 &&& - Motorola Droid 3 &&& 1.2.1&&&Droid 3 Support&&&Just rooted my droid 3 and I don't wanna mess it up if its not gonna work.
+ - May 6, 2012&&&5.0 &&&&&& - Version 1.2.1&&&Great&&&Amazing app had really cool animations worth the money
+ - November 14, 2011&&&5.0 &&& - HTC Desire HD &&& 1.2.1&&&Inspire 4g&&&Love the animation works great with cm7.1 stable.
+ - June 19, 2011&&&5.0 &&& - Motorola Droid X &&& 1.2.1&&&Fun app for people who have a rooted phone works great on my Dx&&&
+ - April 29, 2012&&&4.0 &&& - Samsung Galaxy Nexus &&& 1.2.1&&&So far so good&&&Runs well.  No problems yet
+ - June 17, 2011&&&1.0 &&& - HTC myTouch 4G &&& 1.2.1&&&STUPID APP KEEPS SAYING "UNABLE TO MOUNT SYSTEM READ/WRITE" HELLO I CHANGED IT IN ...&&&STUPID APP KEEPS SAYING "UNABLE TO MOUNT SYSTEM READ/WRITE" HELLO I CHANGED IT IN ROOT EXPLORER AND IN THE SETTINGS. YES IM ROOTED, RECOVERY, ROM. ETC
+ - June 18, 2011&&&5.0 &&& - HTC Desire &&& 1.2.1&&&Phenomenal App! Works flawlessly on my HTC Desire running CM7&&&
+ - May 22, 2011&&&5.0 &&& - Motorola Droid X &&& 1.2.1&&&awesome. :)&&&
+ - June 11, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.2.1&&&Can just hack this yourself, but if your lazy like me then this is ...&&&Can just hack this yourself, but if your lazy like me then this is the product for you! S2
+ - May 11, 2011&&&5.0 &&& - Samsung Galaxy S &&& 1.2.1&&&Works great on galaxy s with darkys rom rc6. Love the fold animation.&&&
+ - May 25, 2011&&&5.0 &&& - Motorola Droid X &&& 1.2.1&&&Sweet!! This finally started to work after so long after having. Droid x&&&
+ - May 15, 2011&&&5.0 &&& - HTC Droid Incredible &&& 1.2.1&&&Works well. Have had no problems. Droid incredible, Miui Rom.&&&
+ - November 4, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.2.1&&&Super&&&2.3.5 sgs2 working,  great work jrummy.
+ - May 25, 2012&&&5.0 &&& - Galaxy S2 Skyrocket &&& 1.2.1&&&Works Great!&&&Not 1 problem: on my Galaxy S2 Skyrocket now running Android 4.0.3 . Great animations!
+ - August 11, 2011&&&5.0 &&& - HTC EVO 3D &&& 1.2.1&&&Fckn awesome 3vo&&&
+ - November 19, 2011&&&4.0 &&& - HTC Desire S &&& 1.2.1&&&Works ok .How about adding ics 4.0 animations.&&&
+ - May 7, 2011&&&3.0 &&& - LG Optimus 2X &&& 1.2.1&&&Dev 5 stars after it works on 2.3.3 Gingerbread&&&
+ - May 26, 2011&&&5.0 &&&&&& - Version 1.2.1&&&My phone looks awesome now!!! But it is timely to reboot after each animation ...&&&My phone looks awesome now!!! But it is timely to reboot after each animation change
+ - January 2, 2012&&&5.0 &&& - HTC Desire HD &&& 1.2.1&&&.&&&Works on rooted inspire
+ - June 24, 2011&&&1.0 &&& - Samsung Galaxy S &&& 1.2.1&&&Gave samsung fascinate a boot loop then a virus.. Refund&&&
+ - October 9, 2011&&&3.0 &&& - HTC EVO Shift 4G &&& 1.2.1&&&Worked once and now it wont keep its root permissions&&&
+ - May 23, 2011&&&5.0 &&&&&& - Version 1.2.1&&&Nice app&&&
+ - June 6, 2011&&&1.0 &&& - Samsung Galaxy S &&& 1.2.1&&&Wish it could have worked on my sgs gt i9000.&&&
+ - May 1, 2011&&&5.0 &&&&&& - Version 1.2.1&&&Works great&&&
+ - July 12, 2011&&&5.0 &&& - LG Ally &&& 1.2.1&&&Friggen awsome&&&
+ - June 21, 2011&&&5.0 &&& - HTC Evo 4G &&& 1.2.1&&&FinAlly an app that actually works,when you purchase the product.&&&
+ - July 4, 2011&&&5.0 &&& - HTC G2 &&& 1.2.1&&&Does what it says, what more can you ask for?&&&
+ - March 2, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 1.2.1&&&Nice&&&Sweet
+ - September 7, 2011&&&5.0 &&& - Motorola Milestone2 &&& 1.2.1&&&It works well. M2.&&&
+ - September 2, 2011&&&5.0 &&& - HTC Thunderbolt &&& 1.2.1&&&Works on Thunderbolt.&&&
+ - July 2, 2012&&&4.0 &&& - Samsung Galaxy S &&& 1.2.1&&&Works on SGS i9000 SlimICS with Devil kernel&&&Working nicely here. It would be great to get some more animations, and *REALLY* great to be able to speed them up and control them in other fun ways.... but it works as advertised for me. Update with more configuration options will get that fifth star for sure. Pretty.
+ - March 24, 2011&&&5.0 &&&&&& - Version 1.2&&&Perfect app! I didn't expect it to be so smooth on a HTC Hero. ...&&&Perfect app! I didn't expect it to be so smooth on a HTC Hero. Well worth the money.
+ - April 4, 2011&&&5.0 &&& - Motorola Droid X &&& 1.2&&&Works amazingly! Pretty sure I love this app. Makes me love my DX running ...&&&Works amazingly! Pretty sure I love this app. Makes me love my DX running Apex 1.4.1 Jrummy's support is second to none. 5 stars!
+ - April 24, 2011&&&5.0 &&&&&& - Version 1.2&&&Works great droidX 2.3 LLGingeraid4.1&&&
+ - April 3, 2011&&&5.0 &&&&&& - Version 1.2&&&Makes my G2 even better! Expect that i cant set wallpapers anymore :(&&&
+ - April 21, 2011&&&1.0 &&& - HTC Desire &&& 1.2&&&Sucks will not work on my Desire running Miui fails to change anything. Will ...&&&Sucks will not work on my Desire running Miui fails to change anything. Will wait for a fix and will give more stars of fixed. Right now it is useless
+ - April 7, 2011&&&5.0 &&& - Motorola XOOM &&& 1.2&&&Great app! Rooted Droid X&&&
+ - April 6, 2011&&&4.0 &&&&&& - Version 1.2&&&Was working fine, latest update now says I've not downloaded it from the market ...&&&Was working fine, latest update now says I've not downloaded it from the market - which I have
+ - April 2, 2011&&&1.0 &&& - Samsung Galaxy S &&& 1.2&&&Bricked my phone. Junk punch. Galaxy S 4G&&&
+ - April 1, 2011&&&5.0 &&&&&& - Version 1.2&&&I have been looking for something like this for a while without adding a ...&&&I have been looking for something like this for a while without adding a custom rom! I love it! Galaxy S 4g
+ - April 23, 2011&&&1.0 &&& - Samsung Galaxy S &&& 1.2&&&ANGRY!&&&So i just downloaded and installed this app 10 minutes ago... i then picked a mode and rebooted like it said... now my phone wont turn on it just goes to a back screen... I have froyo fascinate.. STAY AWAY FROM APP! BAD NEWS!
+ - April 9, 2011&&&5.0 &&& - Samsung Galaxy S &&& 1.2&&&Flip and fly all the way. :-) I've upgraded to 2.3.3 xxjvk for sgs ...&&&Flip and fly all the way. :-) I've upgraded to 2.3.3 xxjvk for sgs and it fails to apply animations :-(
+ - April 27, 2011&&&5.0 &&& - HTC Thunderbolt &&& 1.2&&&Great, please add more animations. Like from Virus Rom for the Tbolt. That's the ...&&&Great, please add more animations. Like from Virus Rom for the Tbolt. That's the fastest animations I've seen to date.
+ - April 18, 2011&&&5.0 &&&&&& - Version 1.2&&&Works great on Droid Inc cm7 stable&&&
+ - April 5, 2011&&&1.0 &&& - HTC Desire HD &&& 1.2&&&I am not able to use this app on my Desire HD and the ...&&&I am not able to use this app on my Desire HD and the developer do not want to reply me!
+ - March 25, 2011&&&1.0 &&& - HTC Desire &&& 1.2&&&Not happy, cant get rid of these awful animations even after uninstall, had to ...&&&Not happy, cant get rid of these awful animations even after uninstall, had to reinstall entire Rom on my desire 2.2
+ - April 14, 2011&&&1.0 &&& - Samsung Galaxy S &&& 1.2&&&Toxic Toxic Do not Install This App will Brick your phone.&&&
+ - April 30, 2011&&&5.0 &&& - Motorola Droid II &&& 1.2&&&Perfect!! LIBERTY GINGER D2&&&
+ - March 28, 2011&&&4.0 &&&&&& - Version 1.2&&&Works perfect on my motorola droid x&&&
+ - May 1, 2011&&&5.0 &&& - Motorola Droid &&& 1.2&&&Peeps read the info! Make a backup cuz its mods the framework so there ...&&&Peeps read the info! Make a backup cuz its mods the framework so there could be problems
+ - March 31, 2011&&&5.0 &&& - Motorola Droid &&& 1.2&&&Thank you, great app!&&&
+ - March 25, 2011&&&1.0 &&&&&& - Version 1.2&&&Wont let me open, says I need to download from market (I did). Says ...&&&Wont let me open, says I need to download from market (I did). Says to email dev to fix.....no response!
+ - April 21, 2011&&&3.0 &&&&&& - Version 1.2&&&It corrupts my Google services but it used to work :$&&&
+ - April 11, 2011&&&5.0 &&& - Samsung Galaxy S &&& 1.2&&&Works great, thanks!&&&
+ - April 23, 2011&&&5.0 &&& - Samsung Galaxy S &&& 1.2&&&Freaking awesome app and awesome developer.&&&
+ - April 4, 2011&&&2.0 &&& - Motorola Droid X &&& 1.2&&&I like all of jrummy's apps but this one did not change my animations ...&&&I like all of jrummy's apps but this one did not change my animations what so ever, refunded thank god. Liberty 1.5 on dx
+ - March 25, 2011&&&5.0 &&& - HTC Evo 4G &&& 1.2&&&This was a winner!!! EVO 2.2&&&
+ - May 1, 2011&&&5.0 &&& - Motorola Droid X &&& 1.2&&&Fly in is the best.&&&
+ - March 28, 2011&&&5.0 &&&&&& - Version 1.2&&&Works!&&&
+ - April 30, 2011&&&5.0 &&&&&& - Version 1.2&&&Nicely done. ! Droid x&&&
+ - March 25, 2011&&&1.0 &&& - Samsung Galaxy S &&& 1.2&&&Gave non stop force closes on my epic. Had to reset phone&&&
+ - April 14, 2011&&&5.0 &&&&&& - Version 1.2&&&Kickass! "Flip" is legit! Rooted X&&&
+ - April 13, 2011&&&5.0 &&& - HTC Evo 4G &&& 1.2&&&Doesnt work with mikfroyo latest version on rooted evo&&&
+ - April 18, 2011&&&1.0 &&& - Samsung Galaxy S &&& 1.2&&&Did not work on darks rom 9.5 sgs&&&
+ - April 5, 2011&&&1.0 &&&&&& - Version 1.2&&&Does not work on Desire Z CM7.&&&
+ - April 27, 2011&&&1.0 &&& - HTC Evo 4G &&& 1.2&&&It didn't do anything. Refunded. Cm7 evo&&&
+ - April 27, 2011&&&1.0 &&& - SEMC Xperia X10 &&& 1.2&&&Does this app work on the Sony Ericsson x10?&&&
+ - March 31, 2011&&&4.0 &&&&&& - Version 1.2&&&Works 50% on hd2&&&
+ - April 4, 2011&&&3.0 &&&&&& - Version 1.2&&&Waiting for a fix to that "download from market" error.&&&
+ - March 30, 2011&&&3.0 &&& - Motorola Droid &&& 1.2&&&Not worth the price, but okay..&&&
+ - March 16, 2011&&&5.0 &&& - Motorola Atrix &&& 1.1&&&Works perfect with g2 on froyo or gingerbread. Now working perfectly on defy with ...&&&Works perfect with g2 on froyo or gingerbread. Now working perfectly on defy with 2.2. Must have app for a rooted phone.
+ - March 16, 2011&&&3.0 &&& - SEMC Xperia X10 &&& 1.1&&&Got my x10 stuck at boot screen... Seems like a good app, I think ...&&&Got my x10 stuck at boot screen... Seems like a good app, I think I did something wrong...
+ - March 16, 2011&&&5.0 &&& - HTC Evo 4G &&& 1.1&&&My bad the issue was on my end fixed and it's working just fine ...&&&My bad the issue was on my end fixed and it's working just fine now. :) if you are not giving 5 stars your bugging.
+ - March 17, 2011&&&1.0 &&& - Acer Picasso &&& 1.1&&&Doesnt work on android 2.3 no response from devs...useless watch out&&&
+ - March 22, 2011&&&5.0 &&& - Motorola Droid X &&& 1.1&&&Works great DX running liberty 1.0 1250 oc'ed&&&
+ - March 22, 2011&&&5.0 &&&&&& - Version 1.1&&&This app is off the chain works perfect on my rooted evo&&&
+ - March 25, 2011&&&5.0 &&& - Samsung Droid Charge &&& 1.1&&&Amazing update!:) now works perfect on my rooted htc thunderbolt!&&&
+ - March 16, 2011&&&5.0 &&&&&& - Version 1.1&&&Great update dude. Working flawlessly. Glad I could help out. DX Macpro.&&&
+ - March 16, 2011&&&5.0 &&& - HTC Desire &&& 1.1&&&Now I can FINALLY be at home on Gingerbread : ) 12 Stars : ...&&&Now I can FINALLY be at home on Gingerbread : ) 12 Stars : )
+ - March 17, 2011&&&5.0 &&& - HTC Evo 4G &&& 1.1&&&Gave my evo a touch of class&&&
+ - March 20, 2011&&&1.0 &&& - HTC G2 &&& 1.1&&&Does not work with HTC Vision. Sad.&&&
+ - March 23, 2011&&&1.0 &&& - Motorola Droid X &&& 1.1&&&Does nothing&&&
+ - March 2, 2011&&&1.0 &&& - HTC Evo 4G &&& 1.0.2&&&listen..paid my 99¢ had the app for 3 mins, dint like it plain & ...&&&listen..paid my 99¢ had the app for 3 mins, dint like it plain & simple.Couldn't refunded "ONE" dollar back to loyal customer. SAD!!!!
+ - February 3, 2011&&&5.0 &&&&&& - Version 1.0.2&&&This is Sick! I love it. I know have a DX, rooted, overclocked and ...&&&This is Sick! I love it. I know have a DX, rooted, overclocked and unique thanks to Jrummy.
+ - March 5, 2011&&&5.0 &&& - Asus Eee Pad &&& 1.0.2&&&Nice to change the crappy stock animations that comes with apex. Now happily ...&&&Nice to change the crappy stock animations that comes with apex. Now happily running Liberty 1.5 and Apex 1.41. Thank you. You are amazing! Droid X
+ - March 6, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.0.2&&&Fantastic app,working great on galaxy s.Would b nice to see future updates with ...&&&Fantastic app,working great on galaxy s.Would b nice to see future updates with more transitions.
+ - February 19, 2011&&&4.0 &&& - Samsung Galaxy S2 &&& 1.0.2&&&Wow great app. Only complaint if any is that it doesn't reboot when its ...&&&Wow great app. Only complaint if any is that it doesn't reboot when its says it is. 5* when its sorted. Still a great app!
+ - January 28, 2011&&&5.0 &&& - Motorola Droid &&& 1.0.2&&&JRummy responded quickly to my email when app wasn't loading properly and fixed the ...&&&JRummy responded quickly to my email when app wasn't loading properly and fixed the problem within a day!!!...Awesome Support!!!...JRummy Rocks!!!
+ - February 27, 2011&&&5.0 &&& - Motorola Droid X &&& 1.0.2&&&Great job ...works flawless. I support all his apps&&&
+ - February 8, 2011&&&5.0 &&&&&& - Version 1.0.2&&&Any possibilities of transparency options? Keep up good work!&&&
+ - March 3, 2011&&&5.0 &&&&&& - Version 1.0.2&&&Works great on D1 ..does what it says.thanks ...&&&
+ - February 11, 2011&&&5.0 &&& - HTC Droid Eris  &&& 1.0.2&&&No go on Eris running PureHero 2.1. Looks good and will try again if ...&&&No go on Eris running PureHero 2.1. Looks good and will try again if you can fix.
+ - March 8, 2011&&&5.0 &&&&&& - Version 1.0.2&&&Very cool man! Keep up the good work&&&
+ - February 3, 2011&&&5.0 &&& - Motorola Droid X &&& 1.0.2&&&Thank you for your great support jR.&&&
+ - March 11, 2011&&&4.0 &&&&&& - Version 1.0.2&&&Doesn't work on htc desire 2.3 running cm7 yet, but the developer is very ...&&&Doesn't work on htc desire 2.3 running cm7 yet, but the developer is very helpful and responsive :)
+ - February 19, 2011&&&5.0 &&& - Samsung Infuse 4G &&& 1.0.2&&&Way past dope! I love it!&&&
+ - February 15, 2011&&&5.0 &&& - HTC myTouch 3G &&& 1.0.2&&&Another great app from JRummy16. Thanks. Support your dev's.&&&
+ - February 8, 2011&&&5.0 &&& - LG Ally &&& 1.0.2&&&Could not get app to work for my ROM but developer took care of ...&&&Could not get app to work for my ROM but developer took care of me right away. I recommend buying from this dev!
+ - February 26, 2011&&&3.0 &&& - Motorola Droid &&& 1.0.2&&&Never downloaded, so I couldn't test it out&&&
+ - March 4, 2011&&&1.0 &&&&&& - Version 1.0.2&&&why it stop working??? Dx liberty 1.5&&&
+ - February 28, 2011&&&5.0 &&& - HTC Droid Incredible &&& 1.0.2&&&Does nothing. Does not work. Droid Incredible CM7. Finally got it to work once, ...&&&Does nothing. Does not work. Droid Incredible CM7. Finally got it to work once, so I'll give it a 2. But now it isn't working again. Good. Works.
+ - March 5, 2011&&&5.0 &&& - HTC Desire HD &&& 1.0.2&&&Doesn't work on desire HD. OR actually it does?! I was fiddling with things ...&&&Doesn't work on desire HD. OR actually it does?! I was fiddling with things and got it right. Im Very happy!
+ - February 1, 2011&&&5.0 &&& - Motorola Droid X &&& 1.0.2&&&This app is awesome.&&&
+ - March 16, 2011&&&5.0 &&&&&& - Version 1.0.2&&&Fantastic. Works great on my OG Droid.&&&
+ - February 23, 2011&&&1.0 &&& - Samsung Galaxy Tab &&& 1.0.2&&&Doesn't work on Galaxy tablet. Just freezes the device for ever and ever and ...&&&Doesn't work on Galaxy tablet. Just freezes the device for ever and ever and ever....etc
+ - January 28, 2011&&&5.0 &&&&&& - Version 1.0.2&&&Works great on Droid Inc. Great job jrummy&&&
+ - February 3, 2011&&&5.0 &&& - Motorola Droid X &&& 1.0.2&&&update fixed my problems. Awsome app!!&&&
+ - February 18, 2011&&&5.0 &&& - HTC G2 &&& 1.0.2&&&Update for gingerbread please? Hang there after selection. HTCDesireZ-CM7&&&
+ - February 6, 2011&&&5.0 &&&&&& - Version 1.0.2&&&Amazing!&&&
+ - February 27, 2011&&&5.0 &&& - Motorola XOOM &&& 1.0.2&&&Great app love the transition choices!&&&
+ - February 18, 2011&&&5.0 &&& - HTC Evo 4G &&& 1.0.2&&&One of the best apps ever! Worth way more!&&&
+ - February 23, 2011&&&1.0 &&& - Samsung Galaxy S &&& 1.0.2&&&Does not do a dam thing epic&&&
+ - March 5, 2011&&&2.0 &&&&&& - Version 1.0.2&&&Doesnt work on MyTouch3GSlide it just stays at applying animation.&&&
+ - February 6, 2011&&&5.0 &&& - Motorola Droid X &&& 1.0.2&&&Fly in and fold please&&&
+ - February 13, 2011&&&5.0 &&& - Motorola Droid X &&& 1.0.2&&&Anim & Liberty FTMFW!&&&
+ - January 27, 2011&&&5.0 &&& - Motorola Atrix &&& 1.0.1&&&Great great app! Works perfect on Vibrant running Bionix-v:)&&&
+ - January 26, 2011&&&5.0 &&& - Motorola XOOM &&& 1.0.1&&&Doesn't work on my 2000 Moto StarTac. Please fix. Lol Awesome work!!&&&
+ - January 27, 2011&&&5.0 &&& - Motorola Droid X &&& 1.0.1&&&I only buy the essential apps ie. JRummy's...&&&
+ - January 26, 2011&&&5.0 &&& - Motorola Droid X &&& 1.0.1&&&Great App from a Great Dev!!!&&&
+ - January 27, 2011&&&5.0 &&& - Galaxy Tab 10.1 &&& 1.0.1&&&Jrummy you are the man, as always you make what we need before we ...&&&Jrummy you are the man, as always you make what we need before we know we need it.
+ - January 26, 2011&&&5.0 &&& - Motorola Droid X &&& 1.0&&&I figure you and Kejar deserve my buying these apps...plus a small ...&&&I figure you and Kejar deserve my buying these apps...plus a small donation...because you released Liberty for free =]
+ - January 26, 2011&&&5.0 &&& - Motorola Droid X &&& 1.0&&&Once again JRummy impresses, thank you for your hard work!&&&
+ - January 26, 2011&&&5.0 &&& - Samsung Galaxy S &&& 1.0&&&Wow, great dev! Fixed a small issue in a matter of minutes. Works great, ...&&&Wow, great dev! Fixed a small issue in a matter of minutes. Works great, Rubix Focused, Droid X.
+ - January 26, 2011&&&5.0 &&& - Motorola Droid X &&& 1.0&&&Best dev ! Works great now.&&&
+ - January 25, 2011&&&5.0 &&&&&& - Version 1.0&&&I was hesitate to buy this, but it works on cm7 mt4G. Will be ...&&&I was hesitate to buy this, but it works on cm7 mt4G. Will be keeping it for sure
+ - January 26, 2011&&&5.0 &&& - Motorola Droid X &&& 1.0&&&+1 kit.....liberty rocks!!!...thanks guys for all you do!!!&&&
+ - January 26, 2011&&&5.0 &&&&&& - Version 1.0&&&Purchased because I'm rocking liberty!&&&
+ - March 28, 2012&&&4.0 &&&&&& - LG Optimus 2X&&&Great, but abandoned&&&There hadn't been an update since may of 2011
+ - March 27, 2012&&&1.0 &&&&&& - Samsung Galaxy Note&&&Realize ICS animation!&&&
+ - December 17, 2011&&&1.0 &&&&&& - HTC Evo 4G&&&BRICK ALERT&&&
+ - March 28, 2012&&&4.0 &&&&&& - LG Optimus 2X&&&Great, but abandoned&&&There hadn't been an update since may of 2011
+ - March 27, 2012&&&1.0 &&&&&& - Samsung Galaxy Note&&&Realize ICS animation!&&&
+ - December 17, 2011&&&1.0 &&&&&& - HTC Evo 4G&&&BRICK ALERT&&&

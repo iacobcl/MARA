@@ -1,0 +1,230 @@
+ - June 25, 2012&&&5.0 &&& - Samsung Galaxy S3 &&& 3.3.1&&&Seldom miss any notifications ever since...&&&It works as intended that I have become busier ever since I had this app installed.
+ - July 1, 2012&&&4.0 &&& - Samsung Galaxy S3 &&& 3.3.1&&&Nice notification app&&&Good app. Would like an option to enable clicking the widget to open the monitored apps when there are no notifications present. Would make the widget a better experience
+ - June 22, 2012&&&1.0 &&& - Samsung Galaxy S2 &&& 3.3.1&&&No refund&&&Uninstalled in less than 15 mins but didn't give a refund.
+ - June 17, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 3.3.1&&&Works great!!&&&I use it along with: TeslaUnread LightFlow NotifierPro Plus & StatusBar+ Can't live without it!
+ - June 19, 2012&&&4.0 &&& - Samsung Galaxy Note &&& 3.3.1&&&Nova launcher&&&Lets me have notification badges like my iphone had with nova launcher
+ - June 20, 2012&&&3.0 &&&&&& - Version 3.3.1&&&Cool idea but flawed&&&I liked this app at first but started noticing flaws like having to completely reboot my phone in order to clear call log.  Notifications come in properly for most elements, and all clear after checking, except for call history.  I have tried actually calling the missed number back, clearing it from call log history.  Only way to clear a missed call notification is to reboot my phone.  Kind of renders the app entirely useless.
+ - July 1, 2012&&&2.0 &&& - Samsung Galaxy S3 &&& 3.3.1&&&Good app, serious flaw&&&I love the functionality but the fact that it says "the folder is open" even I click on a folder is horribly annoying. I have followed your suggestions making sure that the two options in accessibility are turned off. Fix this and you have a 5 star app. Otherwise it is useless because of how annoying it is.
+ - June 25, 2012&&&1.0 &&& - Samsung Galaxy S2 &&& 3.3.1&&&Force close on s2&&&Keep on force closing when i tried to use my presets made in former versions.
+ - June 22, 2012&&&4.0 &&&&&& - Version 3.3.1&&&Five Stars when we can use icons&&&I'd love to use icons instead of text.  Can you make this happen?
+ - June 19, 2012&&&4.0 &&&&&& - Version 3.3.1&&&Need to remove the voice notifications&&&Everytime i open a folder and missed it is on with accessibility, the phone says "folder open/closed"  how can i remove this?
+ - June 15, 2012&&&3.0 &&&&&& - Version 3.3&&&Nova Launcher&&&How do I make it work with Nova Launcher?
+ - June 17, 2012&&&1.0 &&&&&& - Version 3.3&&&Terrible&&&Continuously crashes and doesn't work. Doesn't even Gabe the options mentioned in the tutorial. No monitored elements tab in my version if the program
+ - June 9, 2012&&&5.0 &&& - HTC G2 &&& 3.2.1&&&A killer app&&&Using it with widget locker is great. A very functional apps but a bit hard to config.  Not very userfriendly for beginners. But once running  its great.  Widget are user designed,  great!
+ - May 25, 2012&&&1.0 &&& - HTC Sensation 4G &&& 3.2.1&&&Worked ok till ics&&&This doesn't work with Gmail anymore. Says I need to update gmail app but I have the latest.
+ - June 8, 2012&&&5.0 &&&&&& - Version 3.2.1&&&ICS and gmail&&&Very nice app, using it together with WidgetLocker.  Those having issue with gmail notifications after upgrading to ICS and new Gmail version, reinstall the Missed it! application, it will work nicely then.
+ - May 21, 2012&&&1.0 &&& - Samsung Galaxy Note &&& 3.2.1&&&Under-cooked App...Refund pls!&&&I would like a refund pls, but there is no way to email the developer...the app is good in concept but that's where it stops...it randomly shows unread msgs (when infact there are none)...shows "checking licenses" frequently and for long periods...and the most crucial - it does not show notifications at the lock-up screen. If the developer is reading this, i would like my refund pls.
+ - May 18, 2012&&&5.0 &&&&&& - Version 3.2.1&&&Awesome&&&Works very well, very easy to use compared to Minimalistic Text
+ - May 25, 2012&&&2.0 &&& - HTC Sensation 4G &&& 3.2.1&&&not good.&&&I purchased this after reading about nova launcher support, I don't use the widget, only with nova, gmail counts does not always get cleared properly, thought setting it as foreground service would help but it places an icon in task bar and notification, bugs the hell out of me, please make the icon optional!or you can actually make it do something(show missed counts?) instead of going into setup.
+ - May 31, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 3.2.1&&&Awesome.&&&Does exactly what it says - SGSII ICS.  The licence check is annoying though, would be much better if it was done in the background.
+ - May 15, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 3.2&&&Love it&&&Awesome application easy to use & customisable to boot you can't go wrong ;-) if you want it on your lock screen install one that supports widgets like widgetlocker!
+ - May 15, 2012&&&5.0 &&& - Samsung Nexus S &&& 3.2&&&Great utility&&&Excellent for building a "glanceable" summary of updates on my homescreen without having to pull down the notification bar!
+ - May 17, 2012&&&5.0 &&& - HTC One X &&& 3.2&&&5 Stars!&&&A must for anyone using the WidgetLocker app.
+ - May 16, 2012&&&5.0 &&&&&& - Version 3.2&&&Tom&&&Awesome simple app!
+ - May 16, 2012&&&5.0 &&&&&& - Version 3.2&&&Gteat app&&&
+ - May 3, 2012&&&1.0 &&&&&& - Version 3.1.3&&&On the Galaxy Nexus&&&It only works as a widget on my homescreen but wont show at all on the locked screen.  Spent a hour and got bored so removed it
+ - May 12, 2012&&&2.0 &&& - HTC Sensation 4G &&& 3.1.3&&&Only ok&&&Works fine for some apps but I just can't get it to pick up any calendar notifications.
+ - May 14, 2012&&&2.0 &&&&&& - Version 3.1.3&&&Force closes on SGSII after ICS update. Used to eorg grest on gingerbread.&&&
+ - May 11, 2012&&&1.0 &&& - Samsung Galaxy Nexus &&& 3.1.3&&&Gmail&&&Gmail notification don´t work...
+ - May 5, 2012&&&5.0 &&& - Droid Bionic &&& 3.1.3&&&Great app&&&Since the last update I can't change the default text messaging app it opens with...
+ - May 15, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 3.1.3&&&The must have&&&Partner to Widget Locker.
+ - May 16, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 3.1.3&&&Good&&&Awesome widget,  makes for a cool lock screen
+ - May 5, 2012&&&5.0 &&&&&& - Version 3.1.3&&&New permissions...&&&Fuark. Zyzz brah. U mirin aesthetics son?
+ - May 2, 2012&&&5.0 &&& - HTC Desire &&& 3.1.3&&&Good program&&&Nice features and helpful dev. The latest 3.1.3 version is working great with the new Gmail API.
+ - May 13, 2012&&&3.0 &&& - Samsung Galaxy Nexus &&& 3.1.3&&&Works fine&&&Except for gmail always tells me I need to update for notifications to work even though I'm updated
+ - May 3, 2012&&&5.0 &&& - Samsung Galaxy Note &&& 3.1.3&&&.&&&Love this app because it does what it said it does and it look awesome and simple!
+ - April 29, 2012&&&2.0 &&& - Samsung Galaxy Nexus &&& 3.1.2&&&:(&&&Doesn't even work crashes on me ...galaxy nexus 4.0.4
+ - May 2, 2012&&&1.0 &&& - Samsung Galaxy S &&& 3.1.2&&&Doesnt work at all.&&&It only works as a widget on my homescreen but wont show at all  on the locked screen. Epic 4G
+ - April 30, 2012&&&3.0 &&&&&& - Version 3.1.2&&&Sgs2 issue&&&Worked great but now after the last update I don't get Gmail notifications. I'm on an att galaxy s 2.
+ - May 1, 2012&&&4.0 &&&&&& - Version 3.1.2&&&Pretty good&&&It works pretty good, my only complaint is for facebook notifications, it opens the camera app
+ - April 28, 2012&&&5.0 &&& - HTC Incredible 2 &&& 3.1.2&&&3rd Party Email Fixed!&&&Last update fixed all my issues.   Great app!
+ - April 27, 2012&&&5.0 &&&&&& - Version 3.1.2&&&Awesome&&&Great app! And great customer support. Quick to reply.
+ - April 29, 2012&&&4.0 &&& - Samsung Galaxy Nexus &&& 3.1.2&&&..&&&Still have problem with facebook
+ - April 26, 2012&&&4.0 &&& - Motorola Droid RAZR &&& 3.1.1&&&Question&&&I like the app concept. It does take some time to figure out, but thats part of the fun. I do have one code I cannot break. I cannot get the background to NOT show. Can anyone help with that please?
+ - April 18, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 3.1&&&Works a treat!&&&Love this app! It does what it says on the tin and works brilliantly when placed on my lockscreen.  @Golf - Have you tried going to Appearance > Color (under the background title)? Works fine for me. @twitter... - Make sure it's a ttf file in \sdcard\fonts. Mine show up fine, also make sure it's in your internal memory for your phone (your SD card is reported as \sdcard\external_sd\fonts).
+ - April 25, 2012&&&5.0 &&&&&& - Version 3.1&&&Perfect! I use it right on the home screen.&&&It is easy to configure and highly customizable! Disregard all the negativity, trust me. Their is no better all in one notification counter widget. Thanks developers!
+ - April 23, 2012&&&2.0 &&& - Samsung Galaxy Note &&& 3.1&&&Awful licensing checks&&&Great app but the constant licensing checks are ridiculous, especially because it NEVER WORKS. So basically this is an app that only works when it feels like it, but you still pay for it.
+ - April 20, 2012&&&3.0 &&& - Motorola Defy &&& 3.1&&&Refreshing gmail number&&&The new (3.1) version Gmail numbers not refreshing in the widget, When i enter and quit the appication the number is refreshing. The previous version had no such problem, although it is another method used to gmail account.
+ - April 20, 2012&&&4.0 &&& - Samsung Galaxy S2 &&& 3.1&&&Getting there!&&&A great app but I'd like different size Widgets (2x1 and 1x1).
+ - April 21, 2012&&&1.0 &&& - Samsung Galaxy S2 &&& 3.1&&&Hopeless&&&More bugs than in a rainforest. 165 unread emails? Really?
+ - April 22, 2012&&&4.0 &&& - Samsung Galaxy Nexus &&& 3.1&&&Nexus&&&Works fine.
+ - March 22, 2012&&&5.0 &&&&&& - Version 3.0.5&&&I buy and pay&&&This app don,t work in my GT-i9100 version 4.0.3 GBL   Repair hurry up                                                                                                Thank you
+ - April 2, 2012&&&4.0 &&& - HTC Desire HD &&& 3.0.5&&&Fonts&&&It says I can use my own from the SD card but none of my fonts are available when I go to choose. Only serif, sans, monospace, etc.
+ - April 6, 2012&&&5.0 &&&&&& - Version 3.0.5&&&Use this for Google Voice counters!&&&This app can count how many times any application creates a notification.  There are many people (including me and my friends) who have been looking for a clean way to show how many missed texts/voicemails we had from Google Voice and this app does that perfectly (assuming you don't care the count is the sum of texts and voicemails).  Great replacement for (large and ugly) Google Voice widget!  Dev should market this feature more since Google has not opened up the GVoice API and there are tons of bad apps out there that claim to do this, but fail or implement it poorly!
+ - February 28, 2012&&&1.0 &&& - Samsung Galaxy Note &&& 3.0.5&&&Don't update if u havn't yet!&&&It stops working after update. It won't even count!  Please change it back to the previous version So it can function properly.
+ - April 11, 2012&&&4.0 &&& - HTC Thunderbolt &&& 3.0.5&&&Worth it!&&&A little bit of a learning curve with this app, but the functionality is definitely there. Wish we could have icons next to the counters.
+ - April 10, 2012&&&2.0 &&& - Samsung Galaxy Nexus &&& 3.0.5&&&No save?&&&Would not allow me to save my presets ... big downer for me ...
+ - March 14, 2012&&&5.0 &&& - HTC Evo 4G &&& 3.0.5&&&Awesome App!&&&Using this widget on my lock screen with WidgetLocker. Works like a charm & has a lot of options for customization.
+ - March 16, 2012&&&4.0 &&&&&& - Version 3.0.5&&&Good but as others have said&&&Gmail, phone call are displayed ok, but carrier email client email numbers are displayed incorrectly at the minute. Still nice though!
+ - March 26, 2012&&&5.0 &&& - Motorola Atrix &&& 3.0.5&&&VERY CUSTOMIZABLE&&&One of my favorite apps. In my top 5, easy. Updates are always good. Visit the forum. Post screenshots.
+ - March 25, 2012&&&4.0 &&& - Samsung Galaxy S2 &&& 3.0.5&&&Great apps!&&&But it crash on samsung i9100 with ics4.0, please fix.
+ - March 25, 2012&&&5.0 &&& - HTC EVO 3D &&& 3.0.5&&&Nice app.&&&I don't get the low ratings. The app works great.
+ - March 21, 2012&&&5.0 &&& - Droid Bionic &&& 3.0.5&&&Greatness!!!&&&Use this with widget locker for an awesome lock screen.
+ - March 10, 2012&&&5.0 &&& - HTC Sensation 4G &&& 3.0.5&&&Awesome.&&&Works great.
+ - February 21, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 3.0.5&&&Works great&&&Galaxy s2
+ - February 13, 2012&&&2.0 &&&&&& - Version 3.0.4&&&SMS count wrong&&&- Difficult/quirky to configure - SMS count wrong(doubled up)  When configuring background color, I notice that upon configuring alpha(transparency), sometimes the setting doesn't "take".  So you'd have to go back to adjust it.  Tested SMS and the app doubles up on the true count, which is a bug that needs to be addressed.
+ - February 1, 2012&&&3.0 &&& - HTC Droid Incredible &&& 3.0.4&&&Was GREAT before most recent update&&&Previously reviewed MissedIt! and gave it one star for the bad update. After toying around with it for a while, i was finally able to rebuild my old widgets. That being said, dealing with the templates and the "defaults" is still very confusing and the app is overall more difficult to figure out. Wish things were like they were before 3.0.
+ - February 2, 2012&&&5.0 &&&&&& - Version 3.0.4&&&Excellent&&&Excellent app, very customizable. Move feature being able to save as preset. Better menu structure. Thanks
+ - February 4, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 3.0.4&&&Great app&&&Worth every penny.
+ - February 8, 2012&&&5.0 &&&&&& - Version 3.0.4&&&Great&&&Very helpful to see notifications
+ - January 26, 2012&&&4.0 &&&&&& - Version 3.0.3&&&Good&&&I think alot of people are been harsh here, granted it took a few moments to get to grips with how its laid out, but it works a treat. Once you work out your way round the menus its becomes easy.  i would however like to se the tap to edit return.  htc sensation, launcher pro, widget locker
+ - January 22, 2012&&&4.0 &&& - HTC Desire &&& 3.0.3&&&Back to Good&&&Rated it one star previously for the update that requires redoing all the customization but after redoing everything, it back to good. Still poss with the non backward compatibility.
+ - January 27, 2012&&&2.0 &&& - HTC Desire S &&& 3.0.3&&&Good in priciple&&&But the preset settings not loading is a bit of a dissapointment. Regret updating without backing up first but happy with widget overall.
+ - January 25, 2012&&&1.0 &&& - Motorola Droid RAZR &&& 3.0.3&&&It used to worked well.&&&Ever since i've updated the app, it no longer updates the notifications properly. It'll remain one star until it's fixed
+ - January 24, 2012&&&1.0 &&&&&& - Version 3.0.3&&&Bad Update&&&the new update is horrible..  not only does it not save your previous settings, it's impossible to reconstruct it back to what you had. the presets don't even work.  what a waste.
+ - January 24, 2012&&&1.0 &&&&&& - Version 3.0.3&&&Presets no longer work&&&I cant get the app to load any presets after the update..
+ - January 24, 2012&&&1.0 &&& - Motorola Droid RAZR &&& 3.0.3&&&Needs fixing&&&New update makes it very confusing. Please update again or go back to the way it was
+ - January 21, 2012&&&4.0 &&& - HTC Droid Incredible &&& 3.0.2&&&Losing transparency now fixed&&&Latest update fixed my issues. Not fond of recreating my widgets... but I can get passed that.
+ - January 22, 2012&&&2.0 &&& - Samsung Droid Charge &&& 3.0.2&&&More trouble than it's worth.&&&I had a perfectly nice widget on my lockscreen. Now I have to waste time figuring out how to rebuild it using a much more complicated system. Gee, thanks.
+ - January 24, 2012&&&5.0 &&&&&& - Version 3.0.2&&&Ok&&&- Good
+ - January 20, 2012&&&5.0 &&&&&& - Version 3.0.1&&&Easy to use yet powerful&&&This app is an essential companion to any lockscreen. Easy to use but powerful control over notifications. Develepor is responsive and active.
+ - January 19, 2012&&&4.0 &&& - Samsung Galaxy S2 &&& 3.0.1&&&update works for me&&&I too use this with widgetlocker and so far, so good. I certainly haven't seen any of the problems mentioned elsewhere. 4 stars only because i had to remake the widget
+ - January 19, 2012&&&3.0 &&& - Samsung Galaxy S2 &&& 3.0.1&&&Update at your own risk!&&&Used to be perfect, now its full of bugs but can be made to function after a lot of tinkering. Shadow no longer works no matter what you try though!
+ - January 17, 2012&&&1.0 &&& - Droid Bionic &&& 3.0.1&&&Update resets everything.&&&Want to start with a clean slate and not have those pesky personal settings remain? Then I highly recommend this update.  Seriously though, DO NOT DOWNLOAD THE UPDATE.
+ - January 21, 2012&&&5.0 &&& - HTC G2 &&& 3.0.1&&&great app!&&&This app is essential, it should be included in android by default, stupid slide down notification bar
+ - January 18, 2012&&&1.0 &&& - SEMC Xperia Arc &&& 3.0.1&&&Why why why&&&Lost all previous setups and cannot even get the templates to load now either.  Wish I hadn't updated now.
+ - January 19, 2012&&&4.0 &&& - HTC Evo 4G &&& 3.0.1&&&Edit&&&Bring back tap widget to edit!
+ - January 19, 2012&&&4.0 &&& - Droid Bionic &&& 3.0.1&&&Please allow for tabs&&&Please allow for tabs to be inserted instead of only new lines
+ - October 21, 2011&&&5.0 &&&&&& - Version 2.1.0&&&Essential widget!&&&Love it! All work perfectly for me - mail (exchange), gmail, whatsapp and missed calls htc sensation 4g.
+ - January 1, 2012&&&5.0 &&& - HTC Desire S &&& 2.1.0&&&Awesome app&&&Totally changed the way I use my android. Unlike iPhones, many android apps don't have the option to have notification badges. As a result, I uses to miss a whole bunch of stuff. Not anymore! Thanks, Missed It!
+ - June 8, 2011&&&5.0 &&& - Samsung Galaxy Ace &&& 2.1.0&&&Awesome app. As good as minimalist text.&&&Just wish the third party notifications would reset to zero when they're gone. I have 37 whatsapp notifications still? and they will only increase. Until I reset the whole widget. How about getting this right? Thanks.
+ - November 9, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 2.1.0&&&Amazing.&&&Everything works great on my GS2.  Works on the new Gmail, you just have to add it like you do with the other apps.  If it's not working for you, it's probably user error.
+ - August 3, 2011&&&4.0 &&& - Samsung Nexus S &&& 2.1.0&&&Stopped working&&&Work perfectly but now FC's all the time. Nexus S running CM7 and GO Launcher EX
+ - December 18, 2011&&&3.0 &&& - Samsung Galaxy Nexus &&& 2.1.0&&&Great on D2 but lacking on Google Nexus with ICS&&&For my D2, worked mostly with standard text messaging and missed calls, but not Talk or Gmail. Same w/ my G. Nexus but missing color change options
+ - October 12, 2011&&&4.0 &&& - HTC myTouch 3G Slide &&& 2.1.0&&&Neat app!&&&Would be nice if they'd figure out a work-around for the gmail counter..
+ - July 29, 2011&&&1.0 &&& - Motorola Droid &&& 2.1.0&&&Uh oh...&&&Looks like the new Gmail update broke this...hopefully there's a fix soon...won't show up and force closes in the settings menu...doh!
+ - October 28, 2011&&&5.0 &&&&&& - Version 2.1.0&&&Great app&&&Awesome, don't forget to enable access from settings!
+ - December 11, 2011&&&4.0 &&&&&& - Version 2.1.0&&&What is the No Alarm Widget in the screen capture?&&&Hi  Working perfectly on my Note, would like to know which one is the "No Alarm" widget on the 1st pic.
+ - December 15, 2011&&&4.0 &&& - Samsung Galaxy S2 &&& 2.1.0&&&Good and works&&&Please allow removal of default message and missed calls as some may be using third party apps. Other than that, would be good to have some themes.
+ - December 23, 2011&&&4.0 &&& - SEMC Xperia Mini &&& 2.1.0&&&Good but...&&&Doesn't work with whatsapp despite showing it in one of the screenshots. Fine for texts and calls though.
+ - July 17, 2011&&&4.0 &&& - HTC Desire &&& 2.1.0&&&Nice widget. Could use a few more options&&&
+ - August 1, 2011&&&3.0 &&& - HTC Desire HD &&& 2.1.0&&&Latest update = no help&&&Installed the latest update to fix the Gmail/Google issue. Have Gmail set as a monitored app, but emails parameter still won't display on the widget.
+ - July 30, 2011&&&1.0 &&& - HTC Sensation 4G &&& 2.1.0&&&Will NOT work&&&this widget was amazing. Just force closes now all the time. Will not work. Sensation 4g.
+ - November 22, 2011&&&2.0 &&& - HTC Desire HD &&& 2.1.0&&&Good but&&&Please allow HTC users to remove default msg program from monitored. When using 3rd party msg app, annoying menu appears when I click notification..
+ - December 6, 2011&&&5.0 &&& - SEMC Xperia Arc &&& 2.1.0&&&Whatsapp works with click the accessibility setting&&&Work great with many custom setting. Great app!
+ - July 29, 2011&&&5.0 &&& - HTC Evo 4G &&& 2.1.0&&&Oops&&&Updated most recent gmail app and now missed it FC constantly. Will uninstall and reinstall to see if this fixes issue, if not please update.Evo 4g
+ - December 29, 2011&&&3.0 &&&&&& - Version 2.1.0&&&Good&&&but I can't monitor yahoo mail and exchange mail notifications at the same time because they have the same name.
+ - November 18, 2011&&&5.0 &&&&&& - Version 2.1.0&&&Great!&&&Great app. Especially with moded gmail app from xda - reverts old api :)
+ - December 19, 2011&&&4.0 &&& - Samsung Galaxy Nexus &&& 2.1.0&&&The numbers are often incorrect&&&Great app, offers tons of customization. However, the number of notifications is often incorrect (on ICS, at least).
+ - October 13, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 2.1.0&&&Samsungs Galaxy S2&&&Easy to use and does exactly what it claims!
+ - July 31, 2011&&&2.0 &&& - Samsung Galaxy S2 &&& 2.1.0&&&Used to work great&&&Used to work great On original galaxy s. Keeps force closing on galaxy s2. Can't even open up the settings menu without a force close.
+ - June 24, 2011&&&4.0 &&&&&& - Version 2.1.0&&&Ignore my review below..&&&This was an issue with GOOGLE and NOT with this app. I have now installed and its great.
+ - August 1, 2011&&&3.0 &&& - HTC Desire HD &&& 2.1.0&&&Update messed up&&&Update made the missed mail look funny.
+ - July 29, 2011&&&4.0 &&& - Samsung Galaxy S &&& 2.1.0&&&Gmail update has broken it&&&superb widget, love it, but the new Gmail update has broken it and it's force closing all the time now, hope the dev can fix it
+ - July 13, 2011&&&3.0 &&& - Samsung Galaxy S &&& 2.1.0&&&I like this app (the idea of it anyway). It only gives me a ...&&&I like this app (the idea of it anyway). It only gives me a notification maybe 10% of the time, if that. Fix it for 5 stars. Samsung Fascinate,rooted.
+ - October 12, 2011&&&4.0 &&& - Samsung Galaxy S2 &&& 2.1.0&&&Good.&&&Was able to make it work.
+ - November 5, 2011&&&3.0 &&& - Samsung Galaxy S2 &&& 2.1.0&&&OK ish&&&doesn't work with latest Gmail client
+ - January 14, 2012&&&4.0 &&& - Samsung Galaxy Note &&& 2.1.0&&&It werks&&&But keep on force closing when I end a call
+ - November 2, 2011&&&3.0 &&& - Samsung Galaxy S2 &&& 2.1.0&&&Some features work&&&SMD works Missed calls - work All other applications do not work. GS 2
+ - July 29, 2011&&&2.0 &&& - Samsung Galaxy S2 &&& 2.1.0&&&Force close&&&Keep Force close when I click on monitored elements. Galaxy s2.
+ - October 26, 2011&&&5.0 &&&&&& - Version 2.1.0&&&SG2&&&Works like a charm
+ - October 13, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 2.1.0&&&Missed it&&&Best widget you can get for your phone. Couldn't live without.
+ - October 12, 2011&&&4.0 &&& - HTC Thunderbolt &&& 2.1.0&&&Great widget!&&&I just noticed that in your scresnshot Swollen Members is playing, rock on!
+ - July 14, 2011&&&4.0 &&& - Samsung Galaxy S &&& 2.1.0&&&Great widget&&&
+ - July 30, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 2.1.0&&&Good App&&&
+ - July 30, 2011&&&4.0 &&& - HTC Thunderbolt &&& 2.1.0&&&Great widget.&&&The new gmail update seems to have broken this.
+ - January 6, 2012&&&5.0 &&& - HTC Desire HD &&& 2.1.0&&&No problems&&&Works as it should
+ - October 30, 2011&&&3.0 &&& - HTC Evo 4G &&& 2.1.0&&&Meh&&&It's alright
+ - November 11, 2011&&&1.0 &&& - Casio G'zOne Commando &&& 2.1.0&&&Sucks&&&Out loud
+ - October 12, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 2.1.0&&&Great Product&&&
+ - July 14, 2011&&&1.0 &&& - Samsung Galaxy S &&& 2.1.0&&&Still not updating on samsung vibrant.&&&
+ - December 27, 2011&&&5.0 &&& - HTC Desire &&& 2.1.0&&&Like it&&&
+ - September 22, 2011&&&5.0 &&& - HTC Desire HD &&& 2.0.0&&&Works perfectly. Does not work with Gmail 2.3.5 but that is Googles fault. I'm ...&&&Works perfectly. Does not work with Gmail 2.3.5 but that is Googles fault. I'm running gmail 2.3.4.1 and am very happy. ;-)
+ - July 21, 2011&&&5.0 &&& - Samsung Droid Charge &&& 2.0.0&&&July 20th, New update completely fixed the no updating bug. Once again my most ...&&&July 20th, New update completely fixed the no updating bug. Once again my most used app. :-)
+ - September 23, 2011&&&3.0 &&& - Samsung Nexus S &&& 2.0.0&&&Didn't miss my calls 'n texts&&&Wish there was support for more apps, but works great! Be sure to enable it in the Accessibility menu!
+ - September 24, 2011&&&2.0 &&& - Samsung Galaxy S2 &&& 2.0.0&&&Galaxy S II Epic 4G Touch&&&What a great idea for an app, unfortunately the execution isn't spot on. It works for messages and gmail and calls but I was unable to get any other apps to work with it, even after going to the accessibility menu and activating it as suggested. Really all I want is for it to work with Calls and Social Hub since the Social Hub includes sms messages, facebook, twitter, and all of my mail accounts in once place. Would be the ultimate in simplicity. I don't want to clutter the screen with 5 dif email accounts.
+ - October 11, 2011&&&4.0 &&& - HTC Nexus One &&& 2.0.0&&&Great except I cannot hide background with a missed notification&&&
+ - July 29, 2011&&&2.0 &&& - HTC Thunderbolt &&& 2.0.0&&&Used to be great&&&Past couple updates the widget refuses to update. Developer was not helpful in email either. Such a shame
+ - September 23, 2011&&&2.0 &&& - SEMC Xperia Arc &&& 2.0.0&&&The idea is great, but it's a bit complicated and it refuses to work ...&&&The idea is great, but it's a bit complicated and it refuses to work with Sonyericssons apps for e-mail, texting and calling.
+ - August 25, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.5.3&&&Very happy. Were else can you get a 1x1 widget with notifications on Calls, ...&&&Very happy. Were else can you get a 1x1 widget with notifications on Calls, Msgs, Talks and Mails for my 2 gmail accounts. Nice work.
+ - August 2, 2011&&&1.0 &&& - Motorola Droid II &&& 1.5.3&&&Keep looking...&&&Has the developer ever heard of quality assurance or point releases? Updates everyday, breaks more everyday. Such a waste.
+ - August 12, 2011&&&1.0 &&& - Samsung Galaxy S2 &&& 1.5.3&&&Unable to backup on GS2! Crap!&&&
+ - September 23, 2011&&&1.0 &&&&&& - Version 1.5.3&&&Bugs&&&I really really love the idea of this app, but it has a lot of bugs & flaws. Force closes when you click a message. HTC Merge.
+ - July 17, 2011&&&5.0 &&& - HTC Droid Incredible &&& 1.5.3&&&Great for homescreen/lockscreen modders.&&&Developer updates this app, like, every week! Could someone tell me how to set up Missed It like in the second screenshot?
+ - July 14, 2011&&&1.0 &&& - HTC Droid Incredible &&& 1.5.3&&&Widget works for one notification, then stops and sits on zero new notifications ...&&&Widget works for one notification, then stops and sits on zero new notifications even when receiving new notifications - htc incredible
+ - July 17, 2011&&&5.0 &&& - Samsung Nexus S &&& 1.5.3&&&.&&&For this widget to work correctly you'll have to enable the accessibility from the phones settings.
+ - July 17, 2011&&&2.0 &&& - Motorola Droid X &&& 1.5.3&&&Every time app is updated (which of late occurs too often), the widget disappears ...&&&Every time app is updated (which of late occurs too often), the widget disappears from my home screen. Annoying.
+ - September 6, 2011&&&2.0 &&& - Samsung Galaxy S2 &&& 1.5.3&&&Won't display Missed Gmail,buggy&&&Seems very flaky. Won't accept changes unless I remove the Widget and re-add it. Also won't display missed Gmail, only calls and Messages. Can't get help from anywhere. Annoying but good idea.
+ - August 13, 2011&&&4.0 &&& - Motorola Atrix &&& 1.5.3&&&Fad&&&Well supported, works as advertised. Atrix 4g
+ - August 23, 2011&&&4.0 &&&&&& - Version 1.5.3&&&Great App...&&&Great App - works with Gmail 2.3.5 update after a little tweaking...
+ - August 16, 2011&&&3.0 &&& - LG Optimus 2X &&& 1.5.3&&&License Checking Issues&&&The license check causes notifications to stick even after checking.
+ - September 19, 2011&&&5.0 &&& - Samsung Nexus S &&& 1.5.3&&&Mostly works, but&&&does not work with whatsapp or gmail
+ - September 25, 2011&&&5.0 &&& - HTC Desire HD &&& 1.5.3&&&Works great! Anybody saying it doesn't work with something is dumb or not following ...&&&Works great! Anybody saying it doesn't work with something is dumb or not following directions. Visit the website and read stupid people.
+ - September 2, 2011&&&3.0 &&& - HTC Incredible 2 &&& 1.5.3&&&Works&&&Works perfectly with a little tweaking.... Wish it were easier though
+ - August 9, 2011&&&5.0 &&& - HTC Thunderbolt &&& 1.5.3&&&Indispensable for those running minimal interface and custom lockscreen.&&&
+ - August 2, 2011&&&1.0 &&&&&& - Version 1.5.3&&&Bug with 3x2 widget&&&It seems like the 3x2 widget takes up 3x3 spaces. Perhaps you can look into it for the next release?
+ - September 17, 2011&&&1.0 &&& - Samsung Galaxy S &&& 1.5.3&&&Inaccurate&&&Shows incorrect totals...sometimes shows I have 0 new emails when I have a dozen, or shows the wrong number of items, sometimes more, sometimes less.
+ - August 8, 2011&&&4.0 &&& - Samsung Galaxy S2 &&& 1.5.3&&&Gmail&&&Missing support for Gmail. I know it's not the devs fault, but no five stars.
+ - August 3, 2011&&&3.0 &&& - HTC Nexus One &&& 1.5.3&&&Was excellent now Gmail is broken :-(&&&
+ - August 2, 2011&&&2.0 &&& - HTC Desire HD &&& 1.5.3&&&Scuppered by Gmail.&&&Used to be good, but now multiple gmail accounts can't be monitored it's not useful for me.
+ - August 12, 2011&&&3.0 &&& - Motorola Atrix &&& 1.5.3&&&Didn't get whatsapp and gtalk notification at motorola atrix. Hopefully future ...&&&Didn't get whatsapp and gtalk notification at motorola atrix. Hopefully future update will fix it
+ - September 7, 2011&&&4.0 &&& - Samsung Nexus S &&& 1.5.3&&&Google Voice?&&&Like the idea, not working with google voice notifications though
+ - August 22, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.5.3&&&Cannot live without this, especially since the galaxy s2 does not have led ...&&&Cannot live without this, especially since the galaxy s2 does not have led notification.
+ - September 12, 2011&&&2.0 &&&&&& - Version 1.5.3&&&not complete&&&I had problems with two different ROMs. I'm very disappointed.
+ - August 2, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.5.3&&&Excellent&&&Nice one.
+ - September 20, 2011&&&1.0 &&& - Samsung Galaxy S2 &&& 1.5.3&&&Regret to buy it, never update&&&
+ - October 7, 2011&&&3.0 &&& - LG Optimus 2X &&& 1.5.3&&&...&&&
+ - July 30, 2011&&&3.0 &&& - Motorola Droid X &&& 1.5.1&&&Missed It! Worked excellently for about ten minutes and now must force close ...&&&Missed It! Worked excellently for about ten minutes and now must force close everytime I think about it. This is such a cool app I wish it worked.
+ - July 31, 2011&&&5.0 &&& - LG Optimus One &&& 1.5.1&&&Great app. Sucks that we can't use it with the latest Gmail update. Hopefully, ...&&&Great app. Sucks that we can't use it with the latest Gmail update. Hopefully, it will be fixed soon.
+ - July 29, 2011&&&4.0 &&& - Samsung Galaxy S2 &&& 1.5.1&&&The new gmail update breaks most 3rd party notification apps - not the dev's ...&&&The new gmail update breaks most 3rd party notification apps - not the dev's fault, missed it was working perfectly well and I hope new version soon!
+ - July 27, 2011&&&2.0 &&& - Motorola Droid II &&& 1.5.1&&&Not as much customization as I expected, can't delete stock msg app from list. ...&&&Not as much customization as I expected, can't delete stock msg app from list. refunded
+ - July 18, 2011&&&3.0 &&&&&& - Version 1.5.1&&&Can't have 2x1 widget anymore, cuts off bottom string. Reverting to previous ...&&&Can't have 2x1 widget anymore, cuts off bottom string. Reverting to previous build.
+ - July 18, 2011&&&3.0 &&& - Motorola Atrix &&& 1.5.1&&&Slow to update&&&Easy to use, slow to update after new items arrive or after clearing your inbox, even after following developer's optimization suggestions.
+ - July 29, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.5.1&&&Excelent little app. Hope we can have the fix for it soon ;-)&&&
+ - June 20, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.5.1&&&Great&&&Works really well, and the developer seems to be on hand to help on the forum.
+ - July 31, 2011&&&1.0 &&& - Samsung Galaxy S2 &&& 1.5.1&&&Cannot back up on GS2 Force close all the time&&&
+ - July 16, 2011&&&5.0 &&&&&& - Version 1.5.1&&&Works perfectly for me, remember to enable the accessibility option&&&
+ - July 29, 2011&&&1.0 &&& - Samsung Galaxy S2 &&& 1.5.1&&&FC on sg2.&&&
+ - August 1, 2011&&&4.0 &&& - Samsung Galaxy S2 &&& 1.5.1&&&Force close fixed.&&&
+ - July 29, 2011&&&1.0 &&& - HTC Desire HD &&& 1.5.1&&&FC all the time.&&&
+ - July 12, 2011&&&4.0 &&& - Samsung Galaxy S &&& 1.4.2&&&App working again after latest update. Perfect for my current minimalist style ...&&&App working again after latest update. Perfect for my current minimalist style Galaxy S, on Gingerbread (2.3.3)
+ - July 12, 2011&&&4.0 &&& - LG Optimus One &&& 1.4.2&&&Very useful. Notifications weren't working until the latest update, but now ...&&&Very useful. Notifications weren't working until the latest update, but now everything seems to work great!
+ - July 12, 2011&&&4.0 &&& - Samsung Galaxy S &&& 1.4.2&&&Good application, make sure accessibility is checked when you update.&&&
+ - July 14, 2011&&&3.0 &&&&&& - Version 1.4.2&&&themes&&&for the average person, getting the theme to look cool like the photos will be really hard. But it does do a good job for what is :)
+ - July 16, 2011&&&3.0 &&& - LG Optimus 2X &&& 1.4.2&&&A few glitches.&&&It looks awesome but doesn't update. I'm using the G2X
+ - July 17, 2011&&&3.0 &&&&&& - Version 1.4.2&&&hi, Shaun. open this app>output format>customize, then delete [nl] and put | for ...&&&hi, Shaun. open this app>output format>customize, then delete [nl] and put | for that as a static text. don't forget checking always show output.
+ - July 12, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.4.2&&&Its working again. Adrian, theres an option for it.&&&
+ - July 12, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.4.2&&&All fixed now 5/5&&&
+ - July 13, 2011&&&1.0 &&& - SEMC Xperia Arc &&& 1.4.2&&&didnt work on xperia arc anymore&&&
+ - August 1, 2011&&&5.0 &&& - HTC Evo 4G &&& 1.4.2&&&Everything fixed&&&
+ - July 9, 2011&&&5.0 &&& - HTC Desire HD &&& 1.4.1&&&Ok, after investigating problem solved, after new update, accessibility ...&&&Ok, after investigating problem solved, after new update, accessibility services was unchecked which caused malfunctioning. everything's perfect now.
+ - July 11, 2011&&&5.0 &&&&&& - Version 1.4.1&&&Great app....previously&&&Great widget. However latest update has caused the widgets on my homescreen to stop updating. All lines read "no new" when I do infact have messages waiting. Removing and readding the widget forces an update but no further dynamic update occurs once it reaches zero again. Maybe getting forced out of memory? Nexus S
+ - July 8, 2011&&&4.0 &&& - HTC Desire &&& 1.4.1&&&Was good, no longer updates in lock screen since last update.&&&
+ - July 17, 2011&&&2.0 &&& - Samsung Galaxy S2 &&& 1.4.1&&&Annoying icon&&&Ok now I get an annoying constant exclamation mark icon top left of my status bar. Howd I get rid of that?
+ - July 8, 2011&&&2.0 &&& - Samsung Galaxy S &&& 1.4.1&&&Widget no longer launching relevant app and notifications no longer clearing ...&&&Widget no longer launching relevant app and notifications no longer clearing after last update please fix asap!
+ - July 8, 2011&&&3.0 &&& - Samsung Galaxy S &&& 1.4.1&&&Great app until latest update. No longer updates. Have to manually update by ...&&&Great app until latest update. No longer updates. Have to manually update by restarting app. Samsung vibrant
+ - July 10, 2011&&&1.0 &&& - Motorola Atrix &&& 1.4.1&&&Last update ruined it, disappears from my widget locker screen. Fix and stars will ...&&&Last update ruined it, disappears from my widget locker screen. Fix and stars will go back to 5.
+ - July 15, 2011&&&1.0 &&& - HTC Droid Incredible &&& 1.4.1&&&I'm having the same problem as the other HTC incredible user. Notifications will ...&&&I'm having the same problem as the other HTC incredible user. Notifications will not update properly or consistently
+ - July 29, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.4.1&&&Fc&&&New gmail seems to cause this to fc now..
+ - July 10, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.4.0&&&Great app. Does what I need it to do!&&&
+ - July 12, 2011&&&5.0 &&& - HTC Evo 4G &&& 1.4.0&&&Possible way to have strings invisible until notification shows? (Next Update?)&&&
+ - June 29, 2011&&&5.0 &&& - Motorola Defy &&& 1.3.4&&&Cool app. Yay for active and responsive developer!&&&
+ - June 27, 2011&&&5.0 &&& - HTC myTouch 4G &&& 1.3.4&&&Great app does what its suppose to do. Read the FAQ before adding 3rd ...&&&Great app does what its suppose to do. Read the FAQ before adding 3rd party apps. There's room for improvement as well
+ - June 28, 2011&&&4.0 &&& - Motorola Droid &&& 1.3.4&&&What is the lock screen in the first screenshot???!&&&
+ - June 16, 2011&&&5.0 &&& - HTC Desire HD &&& 1.3.3&&&Thanks for fixing up the GTalk issues, works great now!&&&
+ - May 26, 2012&&&1.0 &&& - Samsung Galaxy S2 &&& 1.3.3&&&annoying inability to find license got in my nerves&&&Its annoying inability to find license got on my nerves, so I uninstalled it.  I do not wish to always be on-line. When I am am not he cannot find license, and bothers me with messages about that...
+ - June 23, 2011&&&3.0 &&& - SEMC Xperia Arc &&& 1.3.4&&&Need a 3rd party app for the lockscreen and good luck getting it to ...&&&Need a 3rd party app for the lockscreen and good luck getting it to look as in photos. In addition mail and whatsup didn't work for me. Dev gives help
+ - July 3, 2011&&&3.0 &&& - Motorola Milestone2 &&& 1.4.0&&&Gtalk is still not working :( stays on 0&&&
+ - June 29, 2011&&&3.0 &&& - SEMC Xperia Arc &&& 1.4.0&&&@dan it looks like widget locker, with custom sliders.&&&
+ - June 9, 2011&&&5.0 &&&&&& - Version 1.3.2&&&Exactly what I was looking for. Maintained by a skilled and attentive developer. ...&&&Exactly what I was looking for. Maintained by a skilled and attentive developer. Well worth the price.
+ - June 30, 2011&&&4.0 &&& - Motorola Droid X &&& 1.3.4&&&Not very user friendly on the x. Will not show missed text only email&&&
+ - August 3, 2011&&&4.0 &&& - Samsung Galaxy S2 &&& 1.3.2&&&After the last updates it stopped working properly&&&
+ - May 25, 2011&&&2.0 &&& - Motorola Droid X &&& 1.2.3&&&Not very user friendly. Droid X&&&
+ - May 27, 2011&&&5.0 &&&&&& - Version 1.2.3&&&Great app hope it will allow other email client's too&&&
+ - June 16, 2011&&&3.0 &&& - HTC Thunderbolt &&& 1.3.2&&&It would be 5 stars if it actually displayed unread email outside of gmail. ...&&&It would be 5 stars if it actually displayed unread email outside of gmail. I waited until this feature was added to buy the app, but it doesn't work!
+ - April 17, 2011&&&5.0 &&&&&& - Version 1.3.0&&&Great App&&&At the moment this app is a simple text display of missed events. It only does this but it does it well and with minimal effort! I would love to see the ability to launch the relevant app from the widget. For example, if I click on missed call open my call log. I have given this app 5* even though this feature is missing because it is fresh to the market. Hint hint developer... add this feature ;)
+ - June 6, 2011&&&5.0 &&&&&& - Version 1.3.0&&&Absolutely the best notification widget now it's updated. Very easy to customise ...&&&Absolutely the best notification widget now it's updated. Very easy to customise and much better range of notification elements available. Good stuff!
+ - June 8, 2011&&&5.0 &&& - HTC Nexus One &&& 1.2.3&&&Nice and simple&&&Just what i was looking for. Text based widget that is simple, lightweight and customisable. Very good.
+ - June 8, 2011&&&2.0 &&& - HTC Desire HD &&& 1.3.2&&&Works fine until I try to add handcent to monitored apps then it does ...&&&Works fine until I try to add handcent to monitored apps then it does nothing but fc. HTC Inspire
+ - June 2, 2011&&&4.0 &&&&&& - Version 1.2.3&&&Developer responded quickly and was helpful when emailed.&&&
+ - June 1, 2011&&&2.0 &&& - Samsung Nexus S &&& 1.2.3&&&Needs exchange email option&&&
+ - May 18, 2011&&&4.0 &&&&&& - Version 1.2.3&&&.&&&
+ - April 16, 2012&&&4.0 &&&&&& - Samsung Galaxy Note&&&wrong whatsapp notification number&&&does what i says in a neat way! but whatsapp counter always show more than the actual number of unread message, pls fix!
+ - April 13, 2011&&&5.0 &&&&&& - Version 1.0&&&Awesome&&&
+ - April 13, 2011&&&4.0 &&& - HTC Droid Incredible &&& 1.0&&&cool&&&
+ - May 10, 2011&&&5.0 &&& - HTC Thunderbolt &&& 1.2.1&&&Killer app. Well worth it.&&&
+ - April 15, 2011&&&2.0 &&& - HTC Desire &&& 1.0&&&A little too simplistic. Add gmail unread messages support and I'll reconsider&&&
+ - April 21, 2011&&&4.0 &&&&&& - Version 1.1&&&Not a bad app. Missing a few features but it is still a 1.x ...&&&Not a bad app. Missing a few features but it is still a 1.x release so thats expected. Would like to be able to select more than one gmail address
+ - April 22, 2012&&&4.0 &&&&&& - Galaxy Tab 7.0 Plus&&&color&&&Unable to change color on my galaxy tab plus. Works perfectly on my arc s. Please advice.
+ - June 20, 2012&&&1.0 &&&&&& - SEMC Xperia Arc&&&Sad&&&Is worst..... Its complicated n does not work on my ICS
+ - March 13, 2012&&&3.0 &&&&&&&&&Nice idea&&&This is a nice idea, but it has a few problems. Firstly it really needs some documentation, ideally somewhere that is easy to find. And secondly it seems to cause random reboots on my GSM GNex (Stock, 4.0.2), although this is purely my speculation and I have no hard data.  But, the application does what it's supposed to do, is fairly easy to figure out and works pretty well. Add icons, documentation and look into the ICS reboot issue, and it will be much better.

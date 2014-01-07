@@ -1,0 +1,218 @@
+ - July 2, 2012&&&4.0 &&& - HTC Desire HD &&& 1.2.7 full&&&Great&&&Sound is a little bit crackly but fine really, might be a setting. Works work my Nokia CK 600 Bluetooth Carkit
+ - June 28, 2012&&&1.0 &&& - Samsung Galaxy Nexus &&& 1.2.7 full&&&Poor&&&Doesn't save any call longer than a couple of minutes = useless.
+ - June 27, 2012&&&5.0 &&& - Samsung Galaxy S3 &&& 1.2.7 full&&&Galaxy S 3&&&Works great on US GS III
+ - June 27, 2012&&&5.0 &&& - HTC Sensation 4G &&& 1.2.7 full&&&Useful app&&&A very useful app and so far has never fail me. The wav file format is good for high quality recording.
+ - July 3, 2012&&&5.0 &&& - HTC Evo 4G &&& 1.2.7 full&&&Works as expected&&&
+ - June 27, 2012&&&5.0 &&&&&& - Version 1.2.7 full&&&Always works&&&
+ - July 4, 2012&&&3.0 &&& - Samsung Galaxy Nexus &&& 1.2.7 full&&&Galaxy Nexus Jelly Bean 4.1&&&Fantastic app until Jelly Bean, it worked flawlessly in ICS. Now in Jelly Bean it doesn't record anything.  Five stars again when it works in JB.
+ - June 26, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 1.2.6 full&&&Works superb on my rooted GS2.&&&I have tried every other call recording app out there, and none of them worked. I am pleased to say that this app work like a treat on my Galaxy S2. Well done!
+ - June 29, 2012&&&5.0 &&& - HTC Nexus One &&& 1.2.6 full&&&Simply, the best!&&&This is the best phone recorder on the Market. Highly recommended!
+ - June 27, 2012&&&5.0 &&& - HTC One X &&& 1.2.6 full&&&Work perfectly&&&Works perfectly on rooted one x .   @ Helo Wei, Better to check the settings again as its working perfectly in my one x . I think there was a thread on xda how to to get it to work .
+ - June 24, 2012&&&5.0 &&&&&& - Version 1.2.6 full&&&HTC vivid&&&Works flawless on my rooted HTC vivid
+ - July 4, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.2.6 full&&&Works well with Google nexus&&&Android 4.04, don't  forget to root. Worth the effort. ,
+ - June 9, 2012&&&4.0 &&& - Samsung Galaxy Note &&& 1.2.5 full&&&!!!!&&&Samsung galaxy note n 7000 now working...but BT NO I wish it stay unless like this
+ - June 22, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.2.5 full&&&Works perfectly on my galaxy nexus..&&&Needed some work around to install with the alsa and all... but once installed, works like a charm !
+ - June 18, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 1.2.5 full&&&Salam - Samsung Galaxy 2&&&Works like charm: Stock ICS 4.0.3 ROOTED rom (I9100XXLPS), Kernel: 3.0.33-Syiah, updated libs from the developer standard API (vUplink+ vDwnlink).
+ - June 7, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.2.5 full&&&Works gr8 on my gnex&&&Good sound quality. Installation process was a little annoying because it asked for alsa and alsa asked for busybox and I had to try few busybox installers until alsa worked. But still worth the money and 5 stars.
+ - June 14, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 1.2.5 full&&&Working once again&&&Best recorder ever, had a problem because of software upgrade on phone, uninstall and reinstalled choose phone model , works great
+ - June 24, 2012&&&5.0 &&& - HTC Sensation 4G &&& 1.2.5 full&&&Perfektní&&&Na HTC Sensation a Virtuous Inkvizition ROM funguje perfektne.
+ - June 5, 2012&&&1.0 &&&&&& - Version 1.2.5 full&&&No go for EVO 4g LTE&&&Doesn't work, never had this problem before.
+ - June 18, 2012&&&5.0 &&&&&& - Version 1.2.5 full&&&Works on T989 ICS&&&Well programmed. Good graphical interface. Good selection of audio formats. Records both callers in a clear manner. Very pleased with the purchase. Especially because it works with the ICS upgrade on my Samsung Galaxy S2 T989.
+ - June 29, 2012&&&4.0 &&& - Samsung Galaxy S2 &&& 1.2.5 full&&&SGS2 ICS4.03 is not work&&&SGS2 ICS4.03 is work now.
+ - June 18, 2012&&&5.0 &&& - Samsung Galaxy Note &&& 1.2.5 full&&&Sulerb&&&It is superb . Works great on lg soul. Not work in motorola razar .
+ - June 21, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.2.5 full&&&Finally&&&A reliable call recorder on the galaxy nexus
+ - June 24, 2012&&&5.0 &&& - HTC One X &&& 1.2.5 full&&&Excellent&&&Great aap. A must have.
+ - June 16, 2012&&&5.0 &&& - HTC One X &&& 1.2.5 full&&&Works good&&&After installing a zip patch from recovery on a rooted device. A bit pricy but you get what you pay for!
+ - June 24, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.2.5 full&&&Working great.&&&Good solution for call recording. Keep up the good work!
+ - June 3, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.2.4 full&&&Please!&&&If the app is not working please contact with the developer if you want to get it work. Your message here won't help to fix your issue.
+ - June 3, 2012&&&5.0 &&& - HTC Sensation 4G &&& 1.2.4 full&&&Works flawlessly on HTC Sensation - Ordroid&&&I have used this app for months on several different roms and always works as advertised. Current ROM is Ordroid with sense 4 on HTC Sensation
+ - June 3, 2012&&&1.0 &&& - Samsung Infuse 4G &&& 1.2.4 full&&&Won't open&&&Won't open on samsung infuse 4g, froyo  Can't get refund even within 15 min bc tried installing twice.
+ - June 4, 2012&&&5.0 &&&&&& - Version 1.2.4 full&&&SGSII GT-I9100 ICS 4.0.3 LP7 official with Root&&&SGSII GT-I9100 ICS 4.0.3 LP7 official with Root  WORKING!!!  best software for callrecording!!!
+ - June 3, 2012&&&5.0 &&& - HTC Desire &&& 1.2.4 full&&&Proga - super!&&&
+ - May 18, 2012&&&2.0 &&&&&& - Version 1.2.2 full&&&Infuse 4G not working&&&Craig, can you tell me what settings you used to get this to work please? Can anyone?  thanks
+ - May 17, 2012&&&5.0 &&&&&& - Version 1.2.2 full&&&With out question its worth the pennies!!&&&I used the beta on my HTC Desire HD and fell in love with this app. Never forget a single conversation on the phone again. I Now own a Galaxy Nexus and discovered a pro version!! Its on my top five must have first installed apps.
+ - May 29, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.2.2 full&&&Works Perfectly&&&I am happy to report that this app works perfectly without any configuration other than the installation of a secondary application on my Galaxy Nexus. One of my new must have apps.
+ - May 24, 2012&&&5.0 &&& - HTC EVO 3D &&& 1.2.2 full&&&Love it!&&&Thanks for this awesome app... Been wanting something to do this for awhile, and the level of polish is commendable. Thanks again!
+ - May 17, 2012&&&4.0 &&&&&& - Version 1.2.2 full&&&Desire Yes... Vivid Not so far&&&Worked like a charm and I loved it on my HTC Desire.  Just got HTC Vivid and haven't been able to get it to work on this phone yet.
+ - May 22, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.2.2 full&&&Perfect&&&Works out of the box on my Gnex. Just installed ALSA, then this and calls are recording without any further config. Excellent solution, and very grateful to Skvalex. Well worth the price. Thank you.
+ - May 16, 2012&&&4.0 &&& - Samsung Infuse 4G &&& 1.2.2 full&&&Samsung Infuse 4G&&&Took a little bit of time testing out various settings but all seems to be working on my Samsung Infuse 4G running custom GB ROM
+ - May 6, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.2.2 full&&&YES!&&&It really works! On Galaxy Nexus!
+ - May 31, 2012&&&5.0 &&&&&& - Version 1.2.2 full&&&Motorola Droid Bionic&&&Works great I'm on Eclipse Rom 2.2 using the AlsaMixer here and the CallRecorder. It records both sides great after a reboot. I am very happy I have been looking everywhere to record on the Bionic nothing worked but this.
+ - May 30, 2012&&&1.0 &&& - Samsung Galaxy Note &&& 1.2.2 full&&&Waste of Money .&&&I dnt wanna give ne star in My galaxy Note 4.0.3 Version ICS it does not wrk My Money Is Wasted dnt pay if ur using ICS. .
+ - June 2, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.2.2 full&&&Galaxy Nexus&&&Literally the only voice recorder that works on the Nexus - and its has great quality and interface. Great!
+ - May 15, 2012&&&5.0 &&& - HTC Desire HD &&& 1.2.2 full&&&The best call recording application&&&
+ - June 1, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.2.2 full&&&Only one that works&&&
+ - June 2, 2012&&&5.0 &&& - Samsung Galaxy S3 &&& 1.2.2 full&&&Superb software&&&Devloper are rocking thanks.
+ - May 2, 2012&&&5.0 &&& - Motorola Droid RAZR &&& 1.2.1 full&&&So close!&&&He almost has it fully compatible with the Motorola RAZR... I can't wait :-D
+ - May 5, 2012&&&5.0 &&& - HTC EVO 3D &&& 1.2.1 full&&&Perfect&&&Just what I needed! No more, "But you said..."
+ - May 4, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.2.1 full&&&Works perfect on Galaxy Nexus!&&&Install this app, download ASLA and open it. Install the ASLA package. REBOOT your phone. Enjoy. THANKS!
+ - May 2, 2012&&&3.0 &&& - HTC EVO 3D &&& 1.2.1 full&&&Causes evo 3d to reboot when using alsa option&&&Alsa is causing evo 3d to freeze and reboot when using to record calls. Using kernel patch 2nd party is very quite and hard to hear in recordings.
+ - May 2, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.2 full&&&Finally&&&Been waiting for this since I got my phone.
+ - May 3, 2012&&&5.0 &&& - HTC EVO 3D &&& 1.2 full&&&Excellent&&&Love this app. Works great. The rom I'm using and kernel are awesome and have this app working perfecrly
+ - April 30, 2012&&&5.0 &&& - HTC G2 &&& 1.1.9 full&&&Finally found it&&&Works perfect on htc vision rooted,I mean works not using mic, it records and plays perfect quality while on bluetooth too, took long time for the android coders to figure this out. Now how about adding some more features like auto email delivery, thanks for Russian coders. Spasibo Alex
+ - March 16, 2012&&&5.0 &&& - HTC G2 &&& 1.1.9 full&&&perfect.&&&using it on desire z with andromedus ICS. turned off vibrations. first few seconds are sometimes missing, i guess that's lag.
+ - April 10, 2012&&&5.0 &&& - HTC Sensation 4G &&& 1.1.9 full&&&Working on HTC Sensation (ARHD 6.5.1)&&&FINALLY, after what seemed like endless searching & trialing 4 different apps that failed miserably, finally a call recorder that works on HTC Sensation using the int ph line (not mic/spkr) & records in WAV. You guys rock! Thanks for a competent functioning app with tonnes of options. The playback sound is loud & clear! Well worth the money! THANK YOU! :)
+ - April 26, 2012&&&5.0 &&&&&& - Version 1.1.9 full&&&Works good on Galaxy S2 with Cyangenmod 9 ICS 4.0&&&Thanks, call recording works very well on Galaxy S2 with Cyangenmod 9 ROM (Android ICS 4.0.4). But for start working you must add some system files by hands or via "Call Recorder Galaxy S2 Trial" application (in this app select "Audio - Fix call recording". After this - reboot and skvalex CallRecorder will work well (Standart android api)!
+ - April 2, 2012&&&5.0 &&&&&& - Version 1.1.9 full&&&HTC Sensation (ARHD 6.5.5)&&&Works really great.. immediately buy after trying lite version. THIS was that app i was looking for. Thanks a lot
+ - March 18, 2012&&&5.0 &&&&&& - Version 1.1.9 full&&&Awesome so far&&&HTC rezound running stock Rom with ziggy kernel...BA in call recording
+ - April 19, 2012&&&5.0 &&& - HTC Desire &&& 1.1.9 full&&&Zdecydowanie najlepszy&&&HTC Desire. Samo nagrywanie w domy?lnej opcji "Kernel z mo?liwo?ci? dwustronnego nagr..." (dla zrootowanych urz?dze?) do pliku .wav dzia?a rewelacyjnie. Doskonale s?ycha? obie strony. Pocz?tkowo mia?em problem z tym, ?e podczas rozmowy telefon si? zawiesza? i trzeba by?o wyci?ga? bateri?, ale odznaczy?em opcje:  1. "Poka? powiadomienie" i w zaawansowanych 2. "Nie wy??czaj ekranu..." oraz 3. "Poka? powiadomienie podczas..." - od tego czasu dzia?a bez zarzutu (nie wiem, która z tych opcji powodowa?a problemu bo wy??czy?em jednocze?nie). Plus za mo?liwo?? wy??czenia grup kontaktów. Ogólnie to czego d?ugo szuka?em - nagrywa w tle wszystko co chc? w doskona?ej jako?ci.
+ - April 18, 2012&&&5.0 &&&&&& - Version 1.1.9 full&&&Awesome so far ...&&&Everything's perfect ... run smoothly on Samsung Galaxy S2 v2.3.6 ...
+ - April 14, 2012&&&4.0 &&& - Samsung Galaxy S2 &&& 1.1.9 full&&&charbel&&&it's a great app. but if u could add a feature that allows to sort the recordings by name or phone number.  or if it could group the recordings by date.
+ - April 24, 2012&&&5.0 &&&&&& - Version 1.1.9 full&&&worked like a charm&&&didn't have to do anything. go into preferences to make sure you know where your files are being saved.
+ - April 26, 2012&&&5.0 &&&&&& - Version 1.1.9 full&&&SKVAlex's Call Rec works great on HTC Incredible S&&&Rec from a line, lots of customizations, highly recommended. Worth paying for the full version.
+ - April 17, 2012&&&3.0 &&& - HTC Desire HD &&& 1.1.9 full&&&I have an HTC desire hd running on gingerbread . I hear my voice ...&&&I have an HTC desire hd running on gingerbread . I hear my voice loudly although I sound a bit nasal but can't hear the other person at all . Help !!!
+ - April 4, 2012&&&5.0 &&&&&& - Version 1.1.9 full&&&Xperia Active&&&Tökéletesen használható.  Egy kis apróság jó lenne bele. Mint pl ha be lehetne állítani azt, hogy melyik számot vegye fel :D
+ - April 10, 2012&&&1.0 &&& - Samsung Galaxy S2 &&& 1.1.9 full&&&not working with my ICS&&&its not recording with my ICS Nexus S, ever after rooting it. what's the solution
+ - April 28, 2012&&&1.0 &&& - Motorola Droid X &&& 1.1.9 full&&&Does not work&&&I have a motorola DROIDX and this app does not work on my phone.
+ - March 20, 2012&&&1.0 &&& - HTC Incredible 2 &&& 1.1.9 full&&&NO WORK WELL. No Funciona en HTC Incredible 2.&&&not work well, that my money back.
+ - April 1, 2012&&&4.0 &&& - Samsung Galaxy S2 &&& 1.1.9 full&&&Photon 4G Epic touch 4G&&&Good app..work perfect in Galaxy II Epic Touch . Not Working in Photon:(
+ - March 19, 2012&&&5.0 &&& - HTC Nexus One &&& 1.1.9 full&&&Excellent&&&Everything works as expected. 5+++ on Nexus One
+ - March 16, 2012&&&5.0 &&& - HTC G2 &&& 1.1.9 full&&&Works great&&&Works like a dream on my desire z with cwm 7.1
+ - March 15, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 1.1.9 full&&&Samsung Hercules s2&&&Works great with custom kernel..
+ - May 15, 2012&&&5.0 &&& - HTC Sensation 4G &&& 1.1.9 full&&&Great. Always works. HTC sensation.&&&
+ - April 10, 2012&&&5.0 &&& - Galaxy S2 Skyrocket &&& 1.1.9 full&&&Galaxy sii lte&&&Work great
+ - March 19, 2012&&&5.0 &&&&&& - Version 1.1.9 full&&&The best&&&
+ - April 20, 2012&&&4.0 &&& - Samsung Galaxy S2 &&& 1.1.9 full&&&Galaxy s2&&&Works great no complaints
+ - March 11, 2012&&&5.0 &&& - HTC EVO 3D &&& 1.1.8 full&&&HTC EVO 3D&&&ROM: Synergy Kernel: 2.6.35.14RCMIX-ACS-EVO3D-CR-V9  App needs to be more user friendly & instructions could DEFINITELY be more clear; however, recording works perfectly! Only took 3 days of searching & flashing dif kernels, but works nonetheless. Con't really complain about that! Great Job!
+ - March 12, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 1.1.8 full&&&SGS2 2.3.6&&&Mea culpe. If you're running custom kernel make sure "android logger" is enabled. Work as advertised.  Thx
+ - March 3, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.1.8 full&&&Refund&&&Doesn't work on galaxy nexus was issued refund
+ - March 2, 2012&&&5.0 &&&&&& - Version 1.1.8 full&&&Records everything on AT&T Note&&&This records from all streams including bluetooth.  It just works.  The dev also is very active in supporting it.  Running it on an AT&T Note with DAGr8 RC2 Saurom ROM (Android 2.3.6) with the Standard Android API.
+ - March 8, 2012&&&4.0 &&& - HTC Desire &&& 1.1.8 full&&&????? ???????? ????????? Android ICS 4.0?&&&? ????? ?? ???????
+ - March 9, 2012&&&5.0 &&& - Samsung Exhibit 2 4G &&& 1.1.8 full&&&One of the best&&&Worth the money.  Worked perfectly on my ROOTED Samsung Exhibit II 4G
+ - March 5, 2012&&&5.0 &&& - HTC Desire &&& 1.1.8 full&&&HTC Desire&&&Works perfect!
+ - March 4, 2012&&&5.0 &&& - HTC Sensation 4G &&& 1.1.8 full&&&Near perfect.&&&
+ - March 7, 2012&&&5.0 &&& - Samsung Galaxy Tab &&& 1.1.8 full&&&Nearing perfect. Good work&&&
+ - March 1, 2012&&&5.0 &&& - Samsung Galaxy Note &&& 1.1.7 full&&&Excellent, works on AT&T Note, and finally a decent trial!&&&This is the only call record program I was able to get working on the AT&T version of the Galaxy Note, and it works better than any of the others worked on my other phones! Thank you for providing a decent, usable trial period! Long enough to ensure it works. I'm now a happy customer!
+ - February 23, 2012&&&5.0 &&& - Galaxy S2 Skyrocket &&& 1.1.6 full&&&Works with GSII Skyrocket!!!&&&Iv been searching for months for a app that would record my calls on my Att Skyrocket I727. This has been confirmed to work on android 2.3.5 and 2.3.6 stock kernal. I had to change settings to record calls from standard android API. Call recording quality is great!! Thanks!!
+ - February 27, 2012&&&5.0 &&&&&& - Version 1.1.6 full&&&Perfect&&&Samsung Galaxy s 2. Just purchased it and it is working fine. (Sharing is not working but I used USB to get the files out).
+ - February 19, 2012&&&5.0 &&& - HTC Desire HD &&& 1.1.6 full&&&Very very good&&&So pleased that this works after a little effort. The ability to add a text note per recording somewhere in metadata would ice my cake.
+ - February 23, 2012&&&5.0 &&&&&& - Version 1.1.6 full&&&Awesome!&&&Works with my Thunderbolt with a custom kernel. Also works with stock kernel with root on HTC Rezound, this app is invaluable for dishonest customer service reps, and general information (phone numbers, web URLs, confirmations). Be smart, check your local laws before using.
+ - February 26, 2012&&&1.0 &&& - SEMC Xperia Ray &&& 1.1.6 full&&&Not at all recording the calls&&&I just purchased the full version yesterday in my ST18i phone. First, I am unable to enable the root permissions. I do not know how to update the kernel for 2 way recording. I am not seeing a guide or the patch in the site for doing this. This is really like a cheating for a paid software. It is not fulfilling the purpose as mentioned in the website. Also, I am not able to play the recorded calls.   Please help me to enable the root permissions.
+ - February 21, 2012&&&4.0 &&& - Samsung Galaxy Note &&& 1.1.6 full&&&Call Recorder&&&Working very well after initial struggle. I recommend strongly for all those who need authentic recording of calls
+ - February 26, 2012&&&5.0 &&& - SEMC Xperia Mini Pro &&& 1.1.6 full&&&Perfect&&&Just what I wanted, handy config and does the job no hassle (am pleased my kernel has two way call recording support)
+March 1, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 1.1.6 full&&&Good as&&&I love it easy and just pleasure to use
+ - February 20, 2012&&&1.0 &&& - Samsung Nexus S &&& 1.1.6 full&&&Doesn't work.&&&Don't waste your money. Not working on my Google Nexus. You can only get your money back in the first 15 minutes. rip off.
+ - February 23, 2012&&&1.0 &&& - Samsung Galaxy S2 &&& 1.1.6 full&&&Doesn't work on Galaxy s2&&&Made the mistake of buying without trial. Does not work on my Samsung GT-I9100 Galaxy S II. Get the message "an error occured.." but there seems to be no way to fix it.
+ - February 16, 2012&&&4.0 &&&&&& - Version 1.1.6 full&&&Great!&&&It works on my Galaxy S2!
+ - March 7, 2012&&&1.0 &&& - Samsung Galaxy Y &&& 1.1.6 full&&&New update sucks&&&Latest update is very bad,phone hangs before and after call,why we need a vibration ?pls rectify the bugs....
+ - February 22, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 1.1.6 full&&&Cool&&&Prefect
+ - May 11, 2012&&&3.0 &&& - HTC Shooter &&& 1.1.5 full&&&...&&&Hmm EVO 3d gsm ....works but user side is distorted and other side is quiet.. uninstalling till fixed. Btw 2way calling supported ROM installed... Disapointed for price
+ - February 9, 2012&&&5.0 &&&&&& - Version 1.1.5 full&&&Amazing!&&&Works flawlessly on HTC rezound with ziggy kernel. Perfect sound from both sides, including Bluetooth
+ - February 16, 2012&&&5.0 &&& - HTC Desire HD &&& 1.1.5 full&&&Best&&&Best app ever!!!!!
+ - February 14, 2012&&&5.0 &&& - HTC G2 &&& 1.1.5 full&&&Best&&&Best of all
+ - February 14, 2012&&&5.0 &&& - HTC Sensation 4G &&& 1.1.5 full&&&SARAFIMCHO CHORLEV&&&THE BEST.N>1
+ - February 2, 2012&&&5.0 &&& - HTC EVO 3D &&& 1.1.4 full&&&Just&&&Sweet!
+ - February 1, 2012&&&5.0 &&& - HTC Nexus One &&& 1.1.3 full&&&Great app&&&Love the seamless integration into call user interface
+ - January 31, 2012&&&5.0 &&& - HTC myTouch 4G &&& 1.1.3 full&&&MT4G&&&working very nicely, awesome work :-)
+ - January 30, 2012&&&5.0 &&&&&& - Version 1.1.2 full&&&It just works!&&&The only call recorder that recorded clearly from both, the mike and/or loudspeaker right "off the box" on my SG2 LTE. It worked just fine before, as well as after rooting. Although somewhat expensive, it's a well worth purchase!
+ - January 17, 2012&&&5.0 &&& - HTC Incredible S &&& 1.1.2 full&&&Excellent App!&&&Please make a widget enabling calls record without entering the program. Thank you!
+ - January 18, 2012&&&1.0 &&& - Samsung Galaxy S &&& 1.1.2 full&&&Samsung Galaxy 4G&&&Force close. Does not record.
+ - January 5, 2012&&&5.0 &&& - HTC Evo 4G &&& 1.0.45 alpha full&&&Great update&&&Was not working at first. Reflashed Rom to my EVO again all is good. Email the dev didn't go through though.  Update works great, still recording perfect through cell and speaker. Great app. Rooted EVO on Classic Rom by tommytomatoe. Fantastic.
+ - January 3, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.0.45 alpha full&&&well worth the money, and more&&&quality speaks for itself.
+ - January 8, 2012&&&5.0 &&&&&& - Version 1.0.45 alpha full&&&Best app&&&Works great on ziggy kernel rooted rezound
+ - January 4, 2012&&&1.0 &&& - Samsung Nexus S &&& 1.0.45 alpha full&&&Does not work... refund plz&&&Does not work on.nexus s... is there any way to refund this? Just downloaded...
+ - January 7, 2012&&&1.0 &&& - Samsung Galaxy S2 &&& 1.0.45 alpha full&&&NOT WORKING AT ALL&&&Notworking :( even after the freaking update, waste of my money...!
+ - January 4, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 1.0.45 alpha full&&&Marvelous&&&Absolutely the best call recorder app in the market .
+ - January 6, 2012&&&5.0 &&& - HTC Desire &&& 1.0.45 alpha full&&&Please&&&read list of supported devices before buying
+ - January 8, 2012&&&4.0 &&& - Samsung Galaxy S2 &&& 1.0.45 alpha full&&&.&&&Works great but not on wifi calling.
+ - March 31, 2012&&&5.0 &&& - LG Optimus One &&& 1.0.45 alpha full&&&Bst&&&I like
+ - April 6, 2012&&&5.0 &&& - SEMC Xperia Ray &&& 1.0.44 alpha full&&&Cant update&&&Why i cant update if i have bought it?
+ - December 30, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.0.44 alpha full&&&Interesting&&&
+ - December 27, 2011&&&2.0 &&& - HTC Evo 4G &&& 1.0.43 alpha full&&&Poor performance for HTC Evo 4G&&&Voice on other end too low to hear. I love the idea of this application! But sadly on my rooted, MikG 3.0 sense rom, it's not worth the money I paid!
+ - December 28, 2011&&&5.0 &&& - HTC EVO 3D &&& 1.0.43 alpha full&&&Awesome!&&&Awesome! Works prefect on my rooted HTC Evo 3D with ViperROM Redline v2.1.1 and anthrax kernel. Other parties vice is a bit low at times but it works great!
+ - December 31, 2011&&&1.0 &&& - Samsung Galaxy Nexus &&& 1.0.43 alpha full&&&Call recorder volume&&&Dosent work too low
+ - December 18, 2011&&&5.0 &&&&&& - Version 1.0.43 alpha full&&&real 2 way call recording&&&works great on htc hd2 with tytung r14 kernel with callrec patch
+ - April 5, 2012&&&4.0 &&& - SEMC Xperia Arc &&& 1.0.43 alpha full&&&Cool, but...&&&The program is great, but why does it show the 403 error while trying to be updated?
+ - December 16, 2011&&&1.0 &&& - Samsung Galaxy Nexus &&& 1.0.43 alpha full&&&Galaxy Nexus (root) not working.&&&
+ - December 28, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.0.43 alpha full&&&Good app works well for sgs2&&&
+ - December 2, 2011&&&4.0 &&& - HTC Droid Incredible &&& 1.0.42 alpha full&&&HTC Incredible&&&Working on HTC Incredible with CM7 nightlies with 2.6.38.8 incredikernel 11/27/2011. Some of the audio quality is not great but it works.
+ - March 31, 2012&&&4.0 &&& - SEMC Xperia Arc &&& 1.0.42 alpha full&&&Stefan&&&Last version slows down my arc s after dialing, going back to pevious ver. Arconium 8.1 doomkernel v19
+ - December 8, 2011&&&1.0 &&& - Samsung Galaxy S &&& 1.0.42 alpha full&&&Not working on samsung galaxy s i9000&&&I bay this app but its not working on my samsung s I 9000 and when app runing in backgraund incoming and out going call not working.
+ - December 2, 2011&&&5.0 &&& - HTC Droid Incredible &&& 1.0.42 alpha full&&&Works great on&&&HTC Incredible. Recorded over 200 phone calls to date. Using incredikernel by Chad and CM7.
+ - December 24, 2011&&&5.0 &&& - HTC G2 &&& 1.0.42 alpha full&&&???????? ??????????&&&???????? ? ?????????? ??????????. Desire Z, cyanogenmod 7.1, ???????? ????????? ? ??? ?????? ???????.
+ - November 20, 2011&&&5.0 &&&&&& - Version 1.0.41 alpha full&&&Excellent !!!!&&&I've been looking for something like this since my Palm Trio died a few years ago.  Its working in and out on my Motorola Admiral even with Bluetooth
+ - November 19, 2011&&&4.0 &&& - HTC Nexus One &&& 1.0.41 alpha full&&&Works great&&&My only complaint is the audio from my side of the conversation is sometimes to low to hear without boosting.  Caller side is crystal clear though.
+ - November 17, 2011&&&5.0 &&& - HTC Desire &&& 1.0.41 alpha full&&&Perfect&&&Even headset is recorded crystal clear! Excellent app.
+ - December 26, 2011&&&5.0 &&& - HTC Nexus One &&& 1.0.41 alpha full&&&Great App&&&Works well on the HD2 with Tytung ROM.
+ - November 19, 2011&&&5.0 &&& - HTC EVO 3D &&& 1.0.41 alpha full&&&Works Great&&&Rooted EVO 3D.
+ - November 28, 2011&&&5.0 &&& - HTC Nexus One &&& 1.0.41 alpha full&&&Works on N1&&&with Pershoot kernel + CM7. It doesn't work with T-Mobile wifi-calling so I just disable that when needed.
+ - July 28, 2011&&&3.0 &&& - HTC Nexus One &&& 1.0.40 alpha full&&&which roms need to be installed?&&&Running CM7 on a nexus one. App works, but other side is recorded very faintly and noisily - i'm guessing it's recording from the mic, not from the line, and i bought this specifically so i'd get the line recording. What needs to be done on a nexus one / CM7 so this app will work properly???
+ - July 13, 2011&&&5.0 &&&&&& - Version 1.0.40 alpha full&&&HTC Thunderbolt works great!&&&Running CM7/MR2 official radio using KangBang 0.8 works flawlessly!
+ - November 7, 2011&&&5.0 &&& - HTC Desire &&& 1.0.39 alpha full&&&Flawless&&&Rooted htc desire, cm7. Works flawlessly. At least i n my case it doesn't use the mic, so in/out quality is excellent. Thanks!
+ - November 5, 2011&&&5.0 &&&&&& - Version 1.0.39 alpha full&&&Great app!&&&Works Flawlessly!!! Works on rooted EVO 4G on Kinged-Shooter ROM w/ Lithids Freedom kernel v0.9.   Also works on Motorola Admiral out of the box!
+ - November 13, 2011&&&5.0 &&& - HTC Desire &&& 1.0.39 alpha full&&&Great!&&&Works on HTC Desire. Cyanogen 7.1. One wish - need to started on device boot.
+ - November 16, 2011&&&5.0 &&& - HTC myTouch 4G Slide &&& 1.0.39 alpha full&&&Mind changed about call recorder, I used to hate this app, now it's the ...&&&Mind changed about call recorder, I used to hate this app, now it's the best on the market. No 1 talks trash unless you understand complicated apps.
+ - November 14, 2011&&&5.0 &&& - Samsung Galaxy Note &&& 1.0.39 alpha full&&&Works on Galaxy Note, with "downlink" setting. But doesnt record the other party ...&&&Works on Galaxy Note, with "downlink" setting. But doesnt record the other party with wired headset.
+ - November 9, 2011&&&5.0 &&& - HTC Nexus One &&& 1.0.39 alpha full&&&Awesome&&&I tried a lots of app, this is the best fully work and easy,  Nexus One , CM 7
+ - November 17, 2011&&&5.0 &&& - HTC Desire &&& 1.0.41 alpha full&&&Thanks!!&&&:) Works  petfectly. Thanks!! Htc Desire Oxygen ROM thalamus kernel
+ - October 19, 2011&&&5.0 &&&&&& - Version 1.0.38 alpha full&&&Not perfect, but AS DESCRIBED&&&Not functioning on Sensation with Revolution HD ROM.  Switched to  Virtuous Unity Sense 3.0 (v2.1?) and recordings clear, but both incoming and outgoing have reduced volume from the other party.  If there was a way to boost that relative to my voice, it would be very impressive.
+ - October 22, 2011&&&5.0 &&& - HTC G2 &&& 1.0.38 alpha full&&&Cyanogenmod 7.1 HTC Desire Z&&&Works perfectly from call & not just over mic - I did not use any kernel replacement, just "stock" CM7.1. I did not install "trial".
+ - October 21, 2011&&&5.0 &&& - LG Optimus One &&& 1.0.38 alpha full&&&Works great on my lg Optimus one&&&
+ - June 27, 2012&&&5.0 &&& - HTC Nexus One &&& 1.0.38 alpha full&&&Awesome&&&Best app I have ever used.
+ - October 8, 2011&&&5.0 &&& - HTC G2 &&& 1.0.37 alpha full&&&Completely works on my HTC Desire Z !&&&I'm running the Virtuous Unity Sense 3.0 Custom ROM with the Virtuous Unity v9 kernel, and 2 way call recording is working without turning on speaker!
+ - September 26, 2011&&&5.0 &&& - HTC Desire HD &&& 1.0.37 alpha full&&&Perfect!&&&The App works, simple, effective worth the $£€ cost ^_^
+ - October 9, 2011&&&4.0 &&& - HTC myTouch 4G &&& 1.0.37 alpha full&&&Works on HTC Panache (Canadian Glacier/MyTouch 4G)&&&I'm running CM7 with the demonspeed v10 kernel on a rooted HTC Panache (Glacier) and this app successfully records both voices during calls without the speaker.   The voices could be louder though, the app would benefit from a volume boost when saving audio.
+ - September 28, 2011&&&5.0 &&& - HTC Sensation 4G &&& 1.0.37 alpha full&&&HTC Sensation&&&beast rom w V13 Unity kernel. Kernel mode works :-) My voice is ultra loud but caller is about 30%. Do-able but wish other caller louder &mine lower
+ - September 26, 2011&&&1.0 &&& - HTC Thunderbolt &&& 1.0.37 alpha full&&&Doesn't work&&&Doesnt work on thunderbolt after update :-( used to work fine
+ - January 30, 2012&&&5.0 &&& - HTC Desire &&& 1.0.37 alpha full&&&Must have app for rooted HTC with supernova ROM&&&
+ - September 25, 2011&&&5.0 &&& - HTC Thunderbolt &&& 1.0.37 alpha full&&&HTC Thunderbolt&&&Working great
+ - October 1, 2011&&&5.0 &&& - HTC Desire &&& 1.0.37 alpha full&&&perfecto&&&perfect app!
+ - October 5, 2011&&&5.0 &&& - HTC G2 &&& 1.0.37 alpha full&&&Excellent! !!!!!&&&The best recording app
+ - September 23, 2011&&&5.0 &&& - HTC Desire S &&& 1.0.36 alpha full&&&Finally!&&&Holy crap, after 1.5 years of continuous search, I've finally found one that works. Functionality seems complete. Desire S with cm7.1.
+ - November 16, 2011&&&5.0 &&& - HTC Desire S &&& 1.0.36 alpha full&&&Update; fully working without need to root. Very good work on behalf of the ...&&&Update; fully working without need to root. Very good work on behalf of the developer!
+ - September 23, 2011&&&5.0 &&& - HTC Sensation 4G &&& 1.0.35 alpha full&&&I confirm that this works in HTC Sensation with bricked kernel. How ever have ...&&&I confirm that this works in HTC Sensation with bricked kernel. How ever have problems with Bluetooth headsets.
+ - September 19, 2011&&&5.0 &&& - HTC Thunderbolt &&& 1.0.35 alpha full&&&A+&&&5 star app. Rooted TB on Gingeritis 3D VIII. Works perfect!
+ - September 17, 2011&&&5.0 &&&&&& - Version 1.0.33 alpha full&&&Works great on HTC Sensation&&&Works great on HTC Sensation with the Bricked Kernel and Unity kernels. Well done!
+September 16, 2011&&&5.0 &&&&&& - Version 1.0.33 alpha full&&&Finally two-way recorder&&&It's worth to take a risk and patch the kernel. HTC Desire radio: 32.54.00.32U_5.14.05.17 - patch: 2.6.32.
+ - September 9, 2011&&&5.0 &&& - HTC Droid Incredible &&& 1.0.32 alpha full&&&Works great on Incredible!&&&Awesome app!!! Works perfectly on my Incredible with the 08152011 Incredikernel (CM7 nightly 08312011)
+ - September 4, 2011&&&5.0 &&&&&& - Version 1.0.32 alpha full&&&HTC Desire&&&ROM MIUI 2.3.5 graet app, the first one i managed to see it is working with no speaker recording. dialer seems to restart my phone, but this is ROM issue, and can not blame this great App, also I had some trubles with making it work, the developer gave quick and accurate support, untill I was up and running.
+ - September 7, 2011&&&4.0 &&& - HTC Desire HD &&& 1.0.32 alpha full&&&One and only&&&This is what I wanted thank you. MP3 recording feature is great.
+ - September 8, 2011&&&5.0 &&& - HTC Evo 4G &&& 1.0.32 alpha full&&&work great on my htc evo&&&using freedom kernal with my evo work great
+ - September 7, 2011&&&5.0 &&& - HTC Desire HD &&& 1.0.32 alpha full&&&Daha iyisi yok&&&Kay?tlar cam gibi.
+ - August 30, 2011&&&5.0 &&& - HTC G2 &&& 1.0.30 alpha full&&&Finally found it!&&&The only callrecorder I've found (I tried a LOT) that works on my Desire Z without using speakerphone. Running CM7 nightly with it's standard kernel, I've only had to install this app. No flashing of other .zips or patches was necessary. Good app!
+ - September 6, 2011&&&3.0 &&& - HTC Desire HD &&& 1.0.30 alpha full&&&Won't record long calls&&&
+ - March 28, 2012&&&5.0 &&& - HTC Desire HD &&& 1.0.28 alpha full&&&Perfect app!&&&It works great. Lots of features to make it the perfect call recorder. Great dev support. Desire HD.
+ - August 16, 2011&&&5.0 &&& - HTC Desire HD &&& 1.0.28 alpha full&&&2 Way Recording At It's Best.&&&The implementation is great and I love being prompted after a call to keep or delete the conversation. Trying to write notes about what a person talks to me about is not an issue any longer! I'm using it on a rooted DHD running MIUI with LordModUE Kernel. The new features in 1.28 are beyond what I hoped; 1.21 was so basic compared to this. Great Work!
+ - August 19, 2011&&&5.0 &&& - HTC G2 &&& 1.0.28 alpha full&&&Great app!!! Only one that works for me.&&&Works perfectly on T-Mobile G2 with CM7 latest nightly and Pershoot kernel. Thanks to the dev for this it makes life easier and can protect you from
+ - August 14, 2011&&&2.0 &&& - HTC Desire &&& 1.0.28 alpha full&&&totally unclear instructions about making it work PROPERLY. directing to forum ...&&&totally unclear instructions about making it work PROPERLY. directing to forum thread writtten by different person for different app for THIS price?!
+ - August 15, 2011&&&5.0 &&& - HTC Thunderbolt &&& 1.0.28 alpha full&&&Make sure you have the right kernel !&&&This app is by far the best recorder app. If its giving you problems you most likely have a kernel what doesn't support call recording.
+ - August 20, 2011&&&5.0 &&& - HTC G2 &&& 1.0.28 alpha full&&&Great&&&Works with cm7 nightly on G2 with regular kernel.
+ - August 19, 2011&&&5.0 &&& - HTC EVO 3D &&& 1.0.28 alpha full&&&Works perfectly on the EVO 3D. Sound is great on MP3 setting and wav ...&&&Works perfectly on the EVO 3D. Sound is great on MP3 setting and wav records all calls without fail
+ - August 16, 2011&&&3.0 &&& - HTC Thunderbolt &&& 1.0.28 alpha full&&&HTC Thunderbolt&&&Froyo: DasBamf ROM records both incoming and outgoing calls. Gingerbread: Records only incoming calls using KangBang or Dream kernels
+ - August 16, 2011&&&5.0 &&& - HTC Desire HD &&& 1.0.28 alpha full&&&Hb&&&??? ???? ???????? ?? ????
+ - July 22, 2011&&&5.0 &&& - HTC Desire &&& 1.0.27 alpha&&&Perfect on my HTC hd2 rooted phone. Only negative is price but guess its ...&&&Perfect on my HTC hd2 rooted phone. Only negative is price but guess its worth it
+ - February 29, 2012&&&5.0 &&& - HTC Nexus One &&& 1.0.27 alpha&&&Suggestion to the developer&&&If I'm in a conversation on the phone and the Callrecorder app is running, if another person tries to call me at the same time, the recording stops and what has been recorded so far is lost. Could you make an update so that the recording is saved if any exception occures? Also, is it possible to resume recording after the second caller has stoped? Thank you
+ - August 13, 2011&&&3.0 &&& - HTC Thunderbolt &&& 1.0.27 alpha&&&Works when included with BAMF FroYo ROM on my TBolt, but not with any ...&&&Works when included with BAMF FroYo ROM on my TBolt, but not with any other ROM. Worth paying if it worked. Dev helpful via forum. Maybe later...
+ - July 19, 2011&&&5.0 &&& - HTC Desire HD &&& 1.0.27 alpha&&&:)&&&
+ - July 12, 2011&&&5.0 &&& - HTC Desire &&& 1.0.25 alpha&&&Good,two way,clear,blue tooth support too.&&&
+ - July 4, 2011&&&4.0 &&& - HTC Desire HD &&& 1.0.24 alpha&&&Works like description&&&
+ - July 1, 2011&&&4.0 &&& - HTC Desire HD &&& 1.0.24 alpha&&&Top notch. Few bugs in time recording. Rooted DHD&&&
+ - May 6, 2011&&&5.0 &&&&&& - Version 1.0.23 alpha&&&Awesome app, works great on MDJ's V11 for DHD&&&Installed this after support was added in MDJ's V11, works great, very useful.
+ - July 15, 2011&&&5.0 &&& - HTC Desire HD &&& 1.0.23 alpha&&&Works perfect on my rooted HTC inspire with DHD coredroid v7 Rom. Five stars ...&&&Works perfect on my rooted HTC inspire with DHD coredroid v7 Rom. Five stars to the dev on this app.!!!!! Worth $5 big time.
+ - June 15, 2011&&&5.0 &&& - HTC Desire &&& 1.0.23 alpha&&&Super!!! MIUI XJ 1.6.10 HTC DESIRE.&&&
+ - May 26, 2011&&&5.0 &&& - HTC Thunderbolt &&& 1.0.21 alpha&&&This is truly the best call recorder out. I've tested 4 others and this ...&&&This is truly the best call recorder out. I've tested 4 others and this blows them away. Even if there is background noise u can still hear caller:)
+ - June 13, 2011&&&5.0 &&& - HTC Thunderbolt &&& 1.0.21 alpha&&&Alexander, the developer is great. He has been quick to respond to my emails. ...&&&Alexander, the developer is great. He has been quick to respond to my emails. I look forward to future updates.
+ - April 8, 2012&&&5.0 &&& - HTC Nexus One &&& 1.0.20 alpha&&&Can't download&&&Gives me error 403, so i'm using an hacked version
+ - April 16, 2012&&&5.0 &&&&&&&&&finally! a proper 2 way voice recorder&&&This is by the far the best working 2wvr. The other party's voice is crystal clear on the recording. My voice is a little less loud but all words are easily identifiable. Just a note, Im still on the trial version, as the paid version doesnt seem to record calls. Im on Liquidsmooth custom rom, running tuna hyrdra v15 kernel  once again, great app
+ - April 13, 2012&&&1.0 &&&&&& - HTC Sensation 4G&&&Error recording&&&I think the error has to do with recording to the sd card.  Couldn't figure out how to have it record to the phone memory.  A help file might have made a difference.
+ - April 30, 2012&&&5.0 &&&&&&&&&Works perfectly&&&i've tried all the available recorder available on the market !  this is the ONLY one that can record both your voice AND the voice of the person you are calling !  this is great !
+ - May 27, 2012&&&2.0 &&&&&& - HTC Thunderbolt&&&It shuts off my Bluetooth automatically. Doesn't work with with any Bluetooth. Not ...&&&It shuts off my Bluetooth automatically. Doesn't work with with any Bluetooth.	Not working with blue tooth
+ - June 14, 2012&&&1.0 &&&&&& - Motorola Droid RAZR&&&Doesn't work for Razr&&&Installs fine. Can't find a setting that works. Alas doesn't work for Razr and the developer said he doesn't have the phone so he can't update his alas software. Waiting for a fix
+ - February 2, 2012&&&3.0 &&&&&&&&&Ok sometimes&&&It wont work half the time on my moto triumph...worked good on my lg optimus
+ - June 25, 2012&&&5.0 &&&&&& - Samsung Galaxy Nexus&&&?????....???? ?? ???&&&
+ - December 29, 2011&&&5.0 &&&&&&&&&Perfeito&&&Fiz os três testes. Fone normal - Fone de ouvido - Viva voz Em todos os três o audio ficou perfeito! Vale os US$5.
+ - June 28, 2012&&&5.0 &&&&&&&&&the only working app&&&perfect on miui for galaxy nexus
+ - April 27, 2012&&&1.0 &&&&&&&&&CallRecorder Not for Xperia!&&&I reluctantly purchased this app for my Sony Ericsson Xperia pro Android-based SmartPhone.  The list of compatible devices has two Sony Ericsson Xperia models.  So, I figured that the application would be compatible with my Xperia pro since it too uses the same Android OS as the two models listed on the application's page.  Well, it does NOT.  If you have a Sony Ericsson Xperia cell phone, do not buy this application as it will likely not work!  The application apparently records the conversation, but then it will not let you play it back.
+ - June 25, 2012&&&5.0 &&&&&& - Samsung Galaxy S3&&&Perfect on Galaxy S3&&&Love it!
+ - June 1, 2012&&&5.0 &&&&&& - Samsung Galaxy Nexus&&&Works Perfectly&&&Great for remembering details & instructions during a phone call. On GSM Gnex with/CM9 & Franco kernel. The only one that works while using Bluetooth.
+ - March 27, 2012&&&1.0 &&&&&&&&&Not working on Sony Xperia S&&&It didnt work on Sony Xperia S. Please refund the money.!
+ - April 23, 2012&&&2.0 &&&&&& - Samsung Nexus S&&&Did not work and use lot of battery&&&Did not work for nexus s.and using lot of battery
+ - April 15, 2012&&&1.0 &&&&&& - HTC One X&&&Htc one x&&&Could not get this app to work at all no matter what I tried rubbish !!!
+ - May 1, 2012&&&5.0 &&&&&& - Droid Bionic&&&This is a great app&&&The support for this is amazing best support yet for any app. The app works great too.
+ - June 26, 2012&&&5.0 &&&&&& - Samsung Galaxy S3&&&Excellent&&&Good work in galaxy s3
+ - March 29, 2012&&&5.0 &&&&&& - Galaxy S2 Skyrocket&&&Works excellently&&&YES!!
+ - April 20, 2012&&&1.0 &&&&&& - Samsung Galaxy S&&&Galaxy S - not working&&&Tried several recorders, as their quality was poor, finally bought this app. Its a shame it never worked. Tried changing settings still not working. Waste of my money.
+ - May 1, 2012&&&5.0 &&&&&& - Droid Bionic&&&This is a great app&&&The support for this is amazing best support yet for any app. The app works great too.
+ - June 26, 2012&&&5.0 &&&&&& - Samsung Galaxy S3&&&Excellent&&&Good work in galaxy s3
+ - March 29, 2012&&&5.0 &&&&&& - Galaxy S2 Skyrocket&&&Works excellently&&&YES!!
+ - April 20, 2012&&&1.0 &&&&&& - Samsung Galaxy S&&&Galaxy S - not working&&&Tried several recorders, as their quality was poor, finally bought this app. Its a shame it never worked. Tried changing settings still not working. Waste of my money.

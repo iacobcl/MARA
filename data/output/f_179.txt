@@ -1,0 +1,58 @@
+ - August 23, 2011&&&3.0 &&& - HTC Sensation 4G &&& 1.0.2&&&Hot boot got me a black screen, a reboot sound, than nothing... I hoped ...&&&Hot boot got me a black screen, a reboot sound, than nothing... I hoped it could simple reboot the HTC Sense (what I was looking for). HTC Sensation.
+ - September 10, 2011&&&5.0 &&& - HTC Evo 4G &&& 1.0.2&&&Excellent!!&&&I have been using Quick Boot for awhile on my Evo 4G without issues, and bought Quick Boot Plus to support the Developers.
+ - March 23, 2012&&&1.0 &&& - Samsung Galaxy S &&& 1.0.2&&&Does not work ad promised, no help from support&&&paid for the application to get the quick boot option, it does not work on Samsung galaxy s - needs hard reset afterward. Emailed support for help and did not get answer
+ - October 1, 2011&&&5.0 &&& - LG Ally &&& 1.0.2&&&Good stuff&&&Odd. Hot boot takes as long as regular reboot on my Ally, but is blazing fast on my fiance's Ally. Odd indeed. Still great!
+ - September 6, 2011&&&5.0 &&& - HTC G2 &&& 1.0.2&&&Great&&&Bought this months ago but never reviewed. Sickess reboot ever. No complaints at all
+ - September 26, 2011&&&5.0 &&& - HTC Aria &&& 1.0.2&&&Easy and efficient!&&&No more button pressing for rebooting, turning off, bootloader. Must have for rooted phones. Simple and efficient. Running on Liberated Aria 2.2.2
+ - June 6, 2011&&&5.0 &&&&&& - Version 1.0.2&&&I love it but wish it was a standalone app.&&&
+ - May 17, 2011&&&4.0 &&& - HTC Droid Incredible &&& 1.0.2&&&Works well but "hot boot" isn't impressive&&&On my Droid Incredible, the "hot boot" seems to take almost as long as the regular boot so I don't see the advantage. Otherwise, it handles all of the other tasks well. I like the Tasker plug in for scheduled reboots. (running Cyanogen 7). I would only BUY this to support the developer and get the Tasker plugin.
+ - May 11, 2011&&&1.0 &&&&&& - Version 1.0.2&&&It works... but i have killed 2 sdhc cards. It has to be removed. ...&&&It works... but i have killed 2 sdhc cards. It has to be removed. Too freaking bad. I liked it, but now have a 16g and 8g garbage.
+ - February 7, 2011&&&1.0 &&&&&& - Version 1.0.2&&&BS! I bought +, stopped data service, hot boot (why i bought it for) ...&&&BS! I bought +, stopped data service, hot boot (why i bought it for) did nothing, "non-refundable?" Uninstalling free and + for aggrevation. 0 *s
+ - December 24, 2010&&&5.0 &&& - Motorola Droid X &&& 1.0.2&&&A must have! Hot Boot & Power Off work with XDAndroid Rhod500. Confirmation screen ...&&&A must have! Hot Boot & Power Off work with XDAndroid Rhod500. Confirmation screen is great feature. Responsive Developer.
+ - February 4, 2011&&&1.0 &&&&&& - Version 1.0.2&&&Power Control Plus wouldn't work without this. Bought both and still didn't work! ...&&&Power Control Plus wouldn't work without this. Bought both and still didn't work! Both nonrefundable!
+ - December 31, 2010&&&0.0 &&& - Motorola Droid X &&& 1.0.2&&&Make sure you really need/want this, it only enables the hot-boot function. ...&&&Make sure you really need/want this, it only enables the hot-boot function. Uninstalled within 10 minutes but the refund was denied anyway!
+ - December 24, 2010&&&0.0 &&& - HTC Desire &&& 1.0.2&&&What's difference between "reboot" and "hot boot"? In my htc desire(refleXTsense ...&&&What's difference between "reboot" and "hot boot"? In my htc desire(refleXTsense 1.5.0 rom), there is no difference. Fix it plz.
+ - December 24, 2010&&&5.0 &&& - HTC Droid Incredible &&& 1.0.2&&&Awesome app. Big thanks to the dev.&&&
+ - December 27, 2010&&&5.0 &&& - Samsung Galaxy S &&& 1.0.2&&&Been using for over a year, had no issues supporting the developer when I ...&&&Been using for over a year, had no issues supporting the developer when I saw the plus version. Great app!
+ - February 16, 2011&&&5.0 &&& - HTC Desire &&& 1.0.2&&&Purchased full version for Hotboot feature. Works perfectly on rooted Desire ...&&&Purchased full version for Hotboot feature. Works perfectly on rooted Desire Froyo 2.2.
+ - August 25, 2011&&&5.0 &&& - HTC Sensation 4G &&& 1.0.2&&&Bought to support the developers. Flawless!&&&
+ - January 9, 2011&&&5.0 &&&&&& - Version 1.0.2&&&Bought exclusively for hot boot, which works great on N1 running CM 6.1.1, Android ...&&&Bought exclusively for hot boot, which works great on N1 running CM 6.1.1, Android 2.2.1!
+ - December 25, 2010&&&5.0 &&& - Samsung Galaxy S2 &&& 1.0.2&&&Excellent app. Works like a charm!&&&
+ - July 30, 2011&&&5.0 &&& - Samsung Europa  &&& 1.0.2&&&Nice work dev should be built in as standard ...&&&
+ - May 6, 2011&&&1.0 &&& - Samsung Galaxy S &&& 1.0.2&&&Make this app stop formatting my sd card and I will use it again.......WTF!&&&
+ - January 26, 2011&&&3.0 &&&&&& - Version 1.0.2&&&Used to work to soft reboot my Droid X, now locks up my phone ...&&&Used to work to soft reboot my Droid X, now locks up my phone on "Hot Boot," requiring a hard reboot.
+ - December 28, 2010&&&2.0 &&& - SEMC Xperia X10 &&& 1.0.2&&&Hotboot locks up phone so you have to remove battery Sony x10 refunded&&&
+ - July 19, 2011&&&5.0 &&& - Samsung Nexus S &&& 1.0.2&&&Ns4g. Everything works. I used this app for a long time and decided to ...&&&Ns4g. Everything works. I used this app for a long time and decided to support the devs.
+ - April 21, 2011&&&1.0 &&& - Samsung Galaxy S &&& 1.0.2&&&When used this app does something to my sd card. OS tells me sd ...&&&When used this app does something to my sd card. OS tells me sd card is damaged format now. This app sucks.
+ - September 21, 2011&&&5.0 &&& - Samsung Nexus S &&& 1.0.2&&&Exactly what I needed ..&&&Thanks! Nexus S 4G
+ - February 16, 2011&&&1.0 &&& - Huawei M865 &&& 1.0.2&&&IVE TRIED TO DOWNLOAD IT SEVERAL OF TIMES I WANT MY MONEY BACK YOU ...&&&IVE TRIED TO DOWNLOAD IT SEVERAL OF TIMES I WANT MY MONEY BACK YOU THIEF
+ - February 2, 2011&&&1.0 &&& - HTC Droid Incredible &&& 1.0.2&&&Downloads, but won't install.&&&
+ - May 23, 2012&&&5.0 &&& - LG Optimus 2X &&& 1.0.2&&&Android phone must have!&&&I use it almost every day on my rooted unlocked phone. Very useful app. Keep the good work going. Be blessed.
+ - June 18, 2011&&&1.0 &&& - Samsung Galaxy S &&& 1.0.2&&&Hotboot locks up Epic.&&&
+ - January 17, 2011&&&5.0 &&& - HTC Desire HD &&& 1.0.2&&&Absolutely awesome and a must have for rooted phones!&&&
+ - July 9, 2011&&&5.0 &&& - HTC G2 &&& 1.0.2&&&I use this all the time, pro version is worth it. Nice job developers.&&&
+ - November 4, 2011&&&5.0 &&& - HTC Sensation 4G &&& 1.0.2&&&Nice work&&&Work perfect
+ - February 22, 2011&&&5.0 &&& - HTC Evo 4G &&& 1.0.2&&&A must have for root users. Running on Evo 2.2 Mikfroyo 4.5 custom Rom ...&&&A must have for root users. Running on Evo 2.2 Mikfroyo 4.5 custom Rom BIG thanx to XDA and the DEVS.
+ - February 29, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 1.0.2&&&Great work&&&One of my favorites
+ - October 20, 2011&&&3.0 &&& - HTC Incredible 2 &&& 1.0.2&&&Hot Boot no faster than Reboot&&&
+ - February 14, 2011&&&5.0 &&& - HTC Evo 4G &&& 1.0.2&&&Anyone who purchases this license key and then give it one star is a ...&&&Anyone who purchases this license key and then give it one star is a moron. This app is awesome. May need a better looking UI but works like a charm!
+ - May 27, 2012&&&5.0 &&& - Motorola Droid 3 &&& 1.0.2&&&D3&&&Root deserves the best.
+ - March 21, 2011&&&4.0 &&& - Samsung Galaxy S &&& 1.0.2&&&Works perfet on my HTC EVO 4G, however it does not works on my ...&&&Works perfet on my HTC EVO 4G, however it does not works on my Samsung Epic 4G
+ - May 11, 2011&&&5.0 &&& - Galaxy Tab 10.1 &&& 1.0.2&&&Flawless.&&&
+ - March 16, 2011&&&5.0 &&&&&& - Version 1.0.2&&&Works as advertised, Moto Atrix&&&
+ - April 7, 2011&&&5.0 &&&&&& - Version 1.0.2&&&Hot Boot!&&&
+ - March 5, 2011&&&4.0 &&& - HTC Nexus One &&& 1.0.2&&&Works as advertised. Tmo G2.&&&
+ - May 25, 2011&&&5.0 &&&&&& - Version 1.0.2&&&Perfect.&&&
+ - March 12, 2011&&&1.0 &&& - HTC Evo 4G &&& 1.0.2&&&Won't answer emails.&&&
+ - January 14, 2011&&&5.0 &&&&&& - Version 1.0.2&&&Great&&&
+ - January 12, 2011&&&5.0 &&&&&& - Version 1.0.2&&&Nice :-)&&&
+ - November 29, 2010&&&5.0 &&& - Galaxy Tab 10.1 &&& 1.0&&&awesome integration with tasker, hopefully future versions will support fast ...&&&awesome integration with tasker, hopefully future versions will support fast boot, but happy to support the devs for this great app
+ - December 13, 2010&&&5.0 &&& - Motorola Droid X &&& 1.0&&&Does exactly what it says it does. Works great on my Droid X.&&&
+ - December 10, 2010&&&3.0 &&&&&& - Version 1.0&&&Normal boot option works fine, but the hot boot always freezes my X10, have ...&&&Normal boot option works fine, but the hot boot always freezes my X10, have to remove the battery to reset. Shame :-(
+ - November 29, 2010&&&5.0 &&& - Droid Bionic &&& 1.0&&&Just made the best boot app better!&&&
+ - November 29, 2010&&&5.0 &&& - Motorola Droid X &&& 1.0&&&Bought this to support developer. Great app.&&&
+ - December 15, 2010&&&5.0 &&&&&& - Version 1.0&&&Perfection. Rooted HTC Incredible froyo&&&
+ - November 29, 2010&&&5.0 &&&&&& - Version 1.0&&&What a great app&&&
+ - November 30, 2010&&&5.0 &&& - Samsung Galaxy S2 &&& 1.0&&&Use this all the time..&&&
+ - January 24, 2012&&&5.0 &&&&&& - HTC Nexus One&&&Nice.&&&Makes rebooting very easy.
+ - January 21, 2012&&&5.0 &&&&&& - HTC Sensation 4G&&&Works great&&&

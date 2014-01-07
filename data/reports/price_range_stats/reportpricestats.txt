@@ -1,0 +1,316 @@
+[0.5, 0.6]: 
+positive feedback  overall	40	23.529411764705884	0.0
+positive feedback  speed	2	1.1764705882352942	0.0
+positive feedback  gui	6	3.5294117647058822	0.0
+positive feedback  functionality	6	3.5294117647058822	0.0
+positive feedback  customization	1	0.5882352941176471	0.0
+positive feedback  smoothness	5	2.9411764705882355	0.0
+negative feedback  overall	3	1.7647058823529411	0.0
+negative feedback  gui	3	1.7647058823529411	0.0
+negative feedback  functionality	1	0.5882352941176471	0.0
+comparative feedback  negative	3	1.7647058823529411	0.0
+comparative feedback  positive	4	2.3529411764705883	0.0
+money feedback  uninstall	1	0.5882352941176471	0.0
+money feedback  worth the money	3	1.7647058823529411	0.0
+money feedback  not worth the money	7	4.117647058823529	0.0
+money feedback  buy to support	1	0.5882352941176471	0.0
+requirements  more options	4	2.3529411764705883	0.0
+requirements  missing gui feat	1	0.5882352941176471	0.0
+requirements  missing logic feat	16	9.411764705882353	0.0
+requirements  more updates	2	1.1764705882352942	0.0
+requirements  more features	2	1.1764705882352942	0.0
+requirements  diff preference for existing gui feat	2	1.1764705882352942	0.0
+requirements  diff preference for existing logic feat	3	1.7647058823529411	0.0
+reporting  major bug	9	5.294117647058823	0.0
+reporting  minor bug	13	7.647058823529412	0.0
+reporting  app incomp with device	3	1.7647058823529411	0.0
+reporting  app incomp with os	1	0.5882352941176471	0.0
+reporting  battery loss	1	0.5882352941176471	0.0
+usability  easy to learn	1	0.5882352941176471	0.0
+usability  difficult to understand	1	0.5882352941176471	0.0
+usability  uncertain about the right functionality	1	0.5882352941176471	0.0
+customer support  pf on support	5	2.9411764705882355	0.0
+customer support  misleading app descr	2	1.1764705882352942	0.0
+customer support  poor dev support	1	0.5882352941176471	0.0
+versioning  app improve with updates	13	7.647058823529412	0.0
+versioning  update messed it up	1	0.5882352941176471	0.0
+versioning  update messep up specific feat	2	1.1764705882352942	0.0
+----------------------------------------
+[0.6, 1.2]: 
+positive feedback  overall	980	34.85064011379801	0.0
+positive feedback  size	3	0.10668563300142248	0.0
+positive feedback  speed	5	0.17780938833570412	0.0
+positive feedback  gui	113	4.018492176386913	0.0
+positive feedback  functionality	180	6.401137980085348	0.0
+positive feedback  customization	37	1.3157894736842106	0.0
+positive feedback  portability	3	0.10668563300142248	0.0
+positive feedback  device	55	1.9559032716927454	0.0
+positive feedback  organization	6	0.21337126600284495	0.0
+positive feedback  updates	9	0.3200568990042674	0.0
+positive feedback  smoothness	8	0.2844950213371266	0.0
+positive feedback  memory	2	0.07112375533428165	0.0
+positive feedback  must have	11	0.3911806543385491	0.0
+positive feedback  options	8	0.2844950213371266	0.0
+negative feedback  overall	76	2.7027027027027026	0.0
+negative feedback  size	1	0.03556187766714083	0.0
+negative feedback  speed	12	0.4267425320056899	0.0
+negative feedback  gui	22	0.7823613086770982	0.0
+negative feedback  functionality	26	0.9246088193456614	0.0
+negative feedback  device	34	1.209103840682788	0.0
+negative feedback  updates	1	0.03556187766714083	0.0
+negative feedback  smoothness	1	0.03556187766714083	0.0
+negative feedback  memory	4	0.1422475106685633	0.0
+comparative feedback  negative	11	0.3911806543385491	0.0
+comparative feedback  positive	66	2.3470839260312943	0.0
+money feedback  uninstall	19	0.6756756756756757	0.0
+money feedback  worth the money	96	3.413940256045519	0.0
+money feedback  not worth the money	30	1.0668563300142246	0.0
+money feedback  ask for refund	33	1.1735419630156472	0.0
+money feedback  switch from free to paid	13	0.4623044096728307	0.0
+money feedback  buy to support	18	0.6401137980085349	0.0
+requirements  version for new device	6	0.21337126600284495	0.0
+requirements  more options	22	0.7823613086770982	0.0
+requirements  missing gui feat	63	2.240398293029872	0.0
+requirements  missing logic feat	175	6.223328591749644	0.0
+requirements  more updates	26	0.9246088193456614	0.0
+requirements  more features	17	0.604551920341394	0.0
+requirements  diff preference for existing gui feat	41	1.4580369843527738	0.0
+requirements  diff preference for existing logic feat	43	1.5291607396870555	0.0
+reporting  major bug	118	4.196301564722617	0.0
+reporting  medium bug	65	2.3115220483641536	0.0
+reporting  minor bug	66	2.3470839260312943	0.0
+reporting  app incomp with device	13	0.4623044096728307	0.0
+reporting  app incomp with os	6	0.21337126600284495	0.0
+reporting  fix	12	0.4267425320056899	0.0
+reporting  battery loss	19	0.6756756756756757	0.0
+usability  easy to use	25	0.8890469416785206	0.0
+usability  different to use	2	0.07112375533428165	0.0
+usability  difficult to learn	6	0.21337126600284495	0.0
+usability  hard to setup	11	0.3911806543385491	0.0
+usability  easy to understand	4	0.1422475106685633	0.0
+usability  difficult to understand	5	0.17780938833570412	0.0
+usability  used over more devices	5	0.17780938833570412	0.0
+usability  uncertain about the right functionality	9	0.3200568990042674	0.0
+usability  recommend it	41	1.4580369843527738	0.0
+usability  invasive	1	0.03556187766714083	0.0
+usability  user friendly	8	0.2844950213371266	0.0
+usability  unusable	2	0.07112375533428165	0.0
+usability  lack of docs	1	0.03556187766714083	0.0
+usability  intuitive	4	0.1422475106685633	0.0
+customer support  no support	2	0.07112375533428165	0.0
+customer support  pf on support	37	1.3157894736842106	0.0
+customer support  misleading app descr	12	0.4267425320056899	0.0
+customer support  no dev support	4	0.1422475106685633	0.0
+versioning  app improve with updates	29	1.031294452347084	0.0
+versioning  update messed it up	14	0.49786628733997157	0.0
+versioning  update messep up specific feat	8	0.2844950213371266	0.0
+versioning  long time user	1	0.03556187766714083	0.0
+----------------------------------------
+[1.2, 2.25]: 
+positive feedback  overall	814	35.4066985645933	0.0
+positive feedback  speed	9	0.39147455415397997	0.0
+positive feedback  gui	93	4.045237059591127	0.0
+positive feedback  functionality	158	6.872553284036537	0.0
+positive feedback  customization	30	1.3049151805132666	0.0
+positive feedback  portability	5	0.21748586341887777	0.0
+positive feedback  device	38	1.6528925619834711	0.0
+positive feedback  organization	5	0.21748586341887777	0.0
+positive feedback  updates	11	0.4784688995215311	0.0
+positive feedback  smoothness	6	0.26098303610265333	0.0
+positive feedback  must have	15	0.6524575902566333	0.0
+positive feedback  options	5	0.21748586341887777	0.0
+negative feedback  overall	61	2.653327533710309	0.0
+negative feedback  size	2	0.08699434536755112	0.0
+negative feedback  speed	10	0.43497172683775553	0.0
+negative feedback  gui	7	0.3044802087864289	0.0
+negative feedback  functionality	24	1.0439321444106133	0.0
+negative feedback  customization	2	0.08699434536755112	0.0
+negative feedback  device	33	1.4354066985645932	0.0
+negative feedback  organization	1	0.04349717268377556	0.0
+negative feedback  updates	3	0.13049151805132667	0.0
+negative feedback  memory	1	0.04349717268377556	0.0
+comparative feedback  negative	5	0.21748586341887777	0.0
+comparative feedback  positive	45	1.9573727707699	0.0
+money feedback  uninstall	14	0.6089604175728578	0.0
+money feedback  worth the money	91	3.9582427142235757	0.0
+money feedback  not worth the money	36	1.5658982166159199	0.0
+money feedback  ask for refund	21	0.9134406263592867	0.0
+money feedback  switch from free to paid	9	0.39147455415397997	0.0
+money feedback  buy to support	3	0.13049151805132667	0.0
+money feedback  willing to buy other apps	2	0.08699434536755112	0.0
+requirements  version for new device	6	0.26098303610265333	0.0
+requirements  more options	22	0.9569377990430622	0.0
+requirements  missing gui feat	34	1.4789038712483689	0.0
+requirements  missing logic feat	123	5.350152240104393	0.0
+requirements  more updates	17	0.7394519356241844	0.0
+requirements  more features	9	0.39147455415397997	0.0
+requirements  diff preference for existing gui feat	39	1.6963897346672465	0.0
+requirements  diff preference for existing logic feat	13	0.5654632448890822	0.0
+reporting  major bug	100	4.349717268377556	0.0
+reporting  medium bug	77	3.349282296650718	0.0
+reporting  minor bug	45	1.9573727707699	0.0
+reporting  app incomp with device	6	0.26098303610265333	0.0
+reporting  app incomp with os	6	0.26098303610265333	0.0
+reporting  fix	14	0.6089604175728578	0.0
+reporting  battery loss	4	0.17398869073510223	0.0
+usability  easy to use	32	1.3919095258808178	0.0
+usability  different to use	2	0.08699434536755112	0.0
+usability  difficult to learn	3	0.13049151805132667	0.0
+usability  hard to setup	12	0.5219660722053067	0.0
+usability  easy to understand	4	0.17398869073510223	0.0
+usability  difficult to understand	3	0.13049151805132667	0.0
+usability  used over more devices	2	0.08699434536755112	0.0
+usability  uncertain about the right functionality	8	0.34797738147020446	0.0
+usability  recommend it	21	0.9134406263592867	0.0
+usability  user friendly	15	0.6524575902566333	0.0
+usability  unreliable	1	0.04349717268377556	0.0
+usability  intuitive	3	0.13049151805132667	0.0
+customer support  poor support	1	0.04349717268377556	0.0
+customer support  no support	3	0.13049151805132667	0.0
+customer support  pf on support	39	1.6963897346672465	0.0
+customer support  misleading app descr	8	0.34797738147020446	0.0
+customer support  poor dev support	2	0.08699434536755112	0.0
+customer support  no dev support	5	0.21748586341887777	0.0
+versioning  app improve with updates	21	0.9134406263592867	0.0
+versioning  update messed it up	15	0.6524575902566333	0.0
+versioning  update messep up specific feat	20	0.8699434536755111	0.0
+versioning  downgrade to older version	2	0.08699434536755112	0.0
+----------------------------------------
+[2.25, 3.5]: 
+positive feedback  overall	140	22.18700475435816	0.0
+positive feedback  speed	18	2.8526148969889067	0.0
+positive feedback  gui	17	2.6941362916006337	0.0
+positive feedback  functionality	47	7.448494453248811	0.0
+positive feedback  customization	10	1.5847860538827259	0.0
+positive feedback  device	12	1.901743264659271	0.0
+positive feedback  organization	1	0.15847860538827258	0.0
+positive feedback  updates	5	0.7923930269413629	0.0
+positive feedback  smoothness	2	0.31695721077654515	0.0
+positive feedback  must have	3	0.4754358161648177	0.0
+positive feedback  options	3	0.4754358161648177	0.0
+negative feedback  overall	13	2.0602218700475436	0.0
+negative feedback  size	1	0.15847860538827258	0.0
+negative feedback  speed	11	1.7432646592709984	0.0
+negative feedback  functionality	8	1.2678288431061806	0.0
+negative feedback  device	8	1.2678288431061806	0.0
+negative feedback  options	2	0.31695721077654515	0.0
+comparative feedback  negative	17	2.6941362916006337	0.0
+comparative feedback  positive	42	6.6561014263074485	0.0
+money feedback  uninstall	3	0.4754358161648177	0.0
+money feedback  worth the money	32	5.071315372424722	0.0
+money feedback  not worth the money	13	2.0602218700475436	0.0
+money feedback  ask for refund	6	0.9508716323296355	0.0
+money feedback  switch from free to paid	3	0.4754358161648177	0.0
+money feedback  switch to other app	1	0.15847860538827258	0.0
+money feedback  buy to support	2	0.31695721077654515	0.0
+money feedback  willing to buy other apps	1	0.15847860538827258	0.0
+requirements  version for new device	1	0.15847860538827258	0.0
+requirements  missing gui feat	5	0.7923930269413629	0.0
+requirements  missing logic feat	20	3.1695721077654517	0.0
+requirements  more updates	1	0.15847860538827258	0.0
+requirements  more features	3	0.4754358161648177	0.0
+requirements  diff preference for existing gui feat	6	0.9508716323296355	0.0
+requirements  diff preference for existing logic feat	4	0.6339144215530903	0.0
+reporting  major bug	22	3.4865293185419968	0.0
+reporting  medium bug	46	7.290015847860539	0.0
+reporting  minor bug	19	3.011093502377179	0.0
+reporting  fix	2	0.31695721077654515	0.0
+usability  easy to use	20	3.1695721077654517	0.0
+usability  different to use	10	1.5847860538827259	0.0
+usability  easy to learn	1	0.15847860538827258	0.0
+usability  difficult to learn	2	0.31695721077654515	0.0
+usability  easy to understand	3	0.4754358161648177	0.0
+usability  difficult to understand	1	0.15847860538827258	0.0
+usability  uncertain about the right functionality	2	0.31695721077654515	0.0
+usability  recommend it	14	2.218700475435816	0.0
+usability  user friendly	2	0.31695721077654515	0.0
+usability  intuitive	1	0.15847860538827258	0.0
+usability  used because no other option is available	1	0.15847860538827258	0.0
+customer support  no support	2	0.31695721077654515	0.0
+customer support  pf on support	7	1.109350237717908	0.0
+customer support  misleading app descr	6	0.9508716323296355	0.0
+versioning  app improve with updates	4	0.6339144215530903	0.0
+versioning  update messed it up	4	0.6339144215530903	0.0
+versioning  downgrade to older version	1	0.15847860538827258	0.0
+----------------------------------------
+[3.5, 5.0]: 
+positive feedback  overall	49	28.823529411764707	0.0
+positive feedback  speed	2	1.1764705882352942	0.0
+positive feedback  gui	6	3.5294117647058822	0.0
+positive feedback  functionality	11	6.470588235294118	0.0
+positive feedback  customization	3	1.7647058823529411	0.0
+positive feedback  device	1	0.5882352941176471	0.0
+positive feedback  organization	1	0.5882352941176471	0.0
+positive feedback  options	3	1.7647058823529411	0.0
+negative feedback  overall	3	1.7647058823529411	0.0
+negative feedback  size	2	1.1764705882352942	0.0
+negative feedback  speed	2	1.1764705882352942	0.0
+negative feedback  gui	3	1.7647058823529411	0.0
+negative feedback  functionality	2	1.1764705882352942	0.0
+negative feedback  device	1	0.5882352941176471	0.0
+comparative feedback  positive	2	1.1764705882352942	0.0
+money feedback  worth the money	5	2.9411764705882355	0.0
+money feedback  not worth the money	3	1.7647058823529411	0.0
+money feedback  ask for refund	1	0.5882352941176471	0.0
+requirements  more options	4	2.3529411764705883	0.0
+requirements  missing gui feat	6	3.5294117647058822	0.0
+requirements  missing logic feat	6	3.5294117647058822	0.0
+requirements  more updates	4	2.3529411764705883	0.0
+requirements  diff preference for existing gui feat	3	1.7647058823529411	0.0
+requirements  diff preference for existing logic feat	3	1.7647058823529411	0.0
+reporting  major bug	11	6.470588235294118	0.0
+reporting  medium bug	7	4.117647058823529	0.0
+reporting  minor bug	4	2.3529411764705883	0.0
+reporting  fix	3	1.7647058823529411	0.0
+usability  easy to use	4	2.3529411764705883	0.0
+usability  different to use	1	0.5882352941176471	0.0
+usability  hard to setup	2	1.1764705882352942	0.0
+usability  difficult to understand	1	0.5882352941176471	0.0
+usability  recommend it	2	1.1764705882352942	0.0
+customer support  no support	2	1.1764705882352942	0.0
+customer support  pf on support	2	1.1764705882352942	0.0
+customer support  misleading app descr	2	1.1764705882352942	0.0
+customer support  no dev support	1	0.5882352941176471	0.0
+versioning  app improve with updates	2	1.1764705882352942	0.0
+----------------------------------------
+[5.0, 20.0]: 
+positive feedback  overall	32	13.91304347826087	0.0
+positive feedback  speed	1	0.43478260869565216	0.0
+positive feedback  gui	3	1.3043478260869565	0.0
+positive feedback  functionality	28	12.173913043478262	0.0
+positive feedback  device	24	10.434782608695652	0.0
+positive feedback  must have	2	0.8695652173913043	0.0
+positive feedback  options	1	0.43478260869565216	0.0
+negative feedback  overall	9	3.9130434782608696	0.0
+negative feedback  gui	2	0.8695652173913043	0.0
+negative feedback  functionality	1	0.43478260869565216	0.0
+negative feedback  device	12	5.217391304347826	0.0
+negative feedback  updates	1	0.43478260869565216	0.0
+comparative feedback  negative	2	0.8695652173913043	0.0
+comparative feedback  positive	13	5.6521739130434785	0.0
+money feedback  uninstall	2	0.8695652173913043	0.0
+money feedback  worth the money	9	3.9130434782608696	0.0
+money feedback  not worth the money	9	3.9130434782608696	0.0
+money feedback  ask for refund	6	2.608695652173913	0.0
+requirements  missing gui feat	3	1.3043478260869565	0.0
+requirements  missing logic feat	4	1.7391304347826086	0.0
+requirements  diff preference for existing gui feat	3	1.3043478260869565	0.0
+requirements  diff preference for existing logic feat	1	0.43478260869565216	0.0
+reporting  major bug	17	7.391304347826087	0.0
+reporting  medium bug	11	4.782608695652174	0.0
+reporting  minor bug	2	0.8695652173913043	0.0
+reporting  fix	5	2.1739130434782608	0.0
+usability  easy to use	5	2.1739130434782608	0.0
+usability  difficult to learn	1	0.43478260869565216	0.0
+usability  hard to setup	3	1.3043478260869565	0.0
+usability  uncertain about the right functionality	1	0.43478260869565216	0.0
+usability  recommend it	3	1.3043478260869565	0.0
+usability  user friendly	1	0.43478260869565216	0.0
+customer support  no support	1	0.43478260869565216	0.0
+customer support  pf on support	3	1.3043478260869565	0.0
+customer support  misleading app descr	3	1.3043478260869565	0.0
+customer support  no dev support	1	0.43478260869565216	0.0
+versioning  app improve with updates	1	0.43478260869565216	0.0
+versioning  downgrade to older version	1	0.43478260869565216	0.0
+versioning  long time user	3	1.3043478260869565	0.0
+----------------------------------------

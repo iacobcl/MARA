@@ -1,0 +1,15 @@
+ - June 1, 2012&&&4.0 &&& - Samsung Nexus S &&& 4.5.9.8&&&Good app&&&Good app
+ - May 31, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 4.5.9.6&&&Great file search&&&Pls update some good file icons; or if we can add own icons would be nice; other than that everything great.
+ - June 12, 2012&&&5.0 &&&&&& - Version 4.5.6.2&&&All i needed&&&Thank you developer. With this app i managed to control my files and extract protected 7z archives as well as creating them. Its worth mentioning that the compression ratio for the archives i tested was slightly better than the original 7zip on windows. Great application and the update made it better. What I love about the support is that I emailed the developer before I sleep and woke up to find a reply to my email and an update ready solving my issue. Very responsive support.
+ - March 10, 2012&&&5.0 &&& - HTC Sensation 4G &&& 4.0.2.2&&&Best around&&&Better than Astro just because u can multi-select results from search & then copy, cut, etc. V.4 is even better...nice improvements. Can't backup.
+ - March 31, 2012&&&1.0 &&& - HTC Nexus One &&& 4.0.2.2&&&"Not licensed"&&&When not connected to internet, the purchased App quits with message "Not licensed"!!! What a piece of spyware-crap!
+ - April 7, 2012&&&5.0 &&& - SEMC Xperia Mini &&& 4.0.2.2&&&Good apps&&&Very usefull to check and manage your apps
+ - February 1, 2012&&&1.0 &&& - Motorola XOOM &&& 4.0.1.1&&&Worst Update EVER!!!&&&You sure know how to ruin a good app!!!!  Please leave the free version alone...... UNINSTALLING THIS GARBAGE.... Motorola xoom
+ - January 31, 2012&&&2.0 &&& - HTC Sensation 4G &&& 3.0.4.6&&&New Version 31 January&&&Its functionality is excellent, but It's no faster on my stock Sensation than the previous version. It lost all my shortcuts when I upgraded. The LONG press that allowed you (I think!) to add folder as a shortcut has disappeared. Can't seem to customise the order of items on the lower tool bar. Disappointing!
+ - November 14, 2011&&&1.0 &&& - Samsung Galaxy S2 &&& 3.0.4.6&&&Doesn't do what it's paid to do!&&&POS doesn't extract 7z files correctly, haven't tested the other file yet but I wouldn't be surprised if it crap out also.
+ - March 8, 2012&&&5.0 &&& - Motorola Defy &&& 3.0.4.6&&&Best&&&Is the one I use for archives more than half year and it works perfect.
+ - December 30, 2011&&&5.0 &&& - Samsung Galaxy Ace &&& 3.0.4.6&&&Unzipped encrypted 7z !!!&&&Fantastic! Only app I could find that managed to extract an encrypted 7z file. Using samsung galaxy ace. Thanks!!
+ - October 26, 2011&&&4.0 &&& - SEMC Xperia X10 &&& 3.0.4.6&&&Update&&&Not bad, but starts to lag behind.
+ - December 16, 2011&&&4.0 &&&&&& - Version 3.0.4.6&&&It does most everything.&&&This allows you to see deep into your device and it's SD card. It has alot of features including encryption.
+ - November 7, 2011&&&5.0 &&& - HTC Thunderbolt &&& 3.0.4.6&&&Great&&&
+ - August 9, 2011&&&5.0 &&& - Motorola Droid X &&& 3.0.4.2&&&Great app. DROID X&&&

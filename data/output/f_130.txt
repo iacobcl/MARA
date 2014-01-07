@@ -1,0 +1,480 @@
+ - May 8, 2012&&&4.0 &&&&&& - Version 2.4.0&&&Great work&&&Works really well on flashed droid 2 (cm9 rom). Love the conservative governor and the profiles. For some reason it won't let the cpu drop bellow 200mhz as a min. It did for a bit then stopped. Still works great otherwise. Max 1.2ghz overclock
+May 22, 2012&&&1.0 &&&&&& - Version 2.4.0&&&Don't waste your money&&&used to work all the time and was great. now it force closes all the time and i can't do anything (couldn't do that much to start either cause of the phone i have). is not worth the money and headaches. don't buy it, just find another app. only thing this has going for it is it looks flashy, other than that it's complete junk.
+ - April 11, 2012&&&5.0 &&& - Motorola Droid X &&& 2.4.0&&&Amazing on Droid X&&&Works instantly with root. With profiles I can set it to underclock when temps reach too high or battery reaches a certain level.  When gaming I crank it up to 1.25 / 1.35 and it flies.   Returns an error when background data is off, it requires it to make sure it's not a free version. Obviously not a problem just a side note.
+ - April 24, 2012&&&4.0 &&& - Motorola Droid RAZR &&& 2.4.0&&&Droid razr&&&Got the app on my Droid it worked great and was stable just got my Droid razr and at start told me bad kernel files please update sad I can't overclock it just yet hopefully next update
+ - May 6, 2012&&&5.0 &&&&&& - Version 2.4.0&&&Jrummy= (GOD)roid&&&Works great, bought it as my first oc app 2 years ago, and love and use every extra feature that's included and will for years to come. Its perfect... and people- if you get a new phone, don't expect it to just oc your device simply because it worked on the last one. There's more to this than just installing an app. There's a lot of people working on the razr right now so just chill. Or do it yourself ;)
+ - April 23, 2012&&&3.0 &&& - Motorola Droid X &&& 2.4.0&&&Crashes frequently.&&&Milestone X (aka Droid X).
+ - June 20, 2012&&&5.0 &&&&&& - Version 2.4.0&&&The best OC solution&&&Easy to use, and the "Profiles" feature is powerful.
+ - April 11, 2012&&&4.0 &&& - HTC Evo 4G &&& 2.4.0&&&No Widgets?&&&Great app I have been useing this app for a long time now and all of a sudden I can't use the widgets, I will give 5 ?'s when I get them back. Please update.
+ - June 20, 2012&&&2.0 &&&&&& - Version 2.4.0&&&Fc&&&Htc merge. Fc every time you touch cpu. Hopefully update will fix. App looks nice
+ - May 11, 2012&&&3.0 &&& - Samsung Galaxy S2 &&& 2.4.0&&&It gets stuck.&&&SGS2 BeastMod v5.0 I don't like it. I will go back to Set CPU.
+ - April 26, 2012&&&5.0 &&& - Motorola Droid X &&& 2.4.0&&&Force closing&&&Force closes when attempting to set scaling. Droid x running MIUI 1.8.5
+ - April 1, 2012&&&4.0 &&& - Motorola Droid RAZR &&& 2.4.0&&&NEEDS WORK&&&So i bought this app for my old DROID x when I rooted it 2 years back loved worked good and great updates till I upgraded to my razor now the temperature is inaccurate just seems like the program isn't keeping up with the new model phones of course I'm not over clocked on the RAZR amd well this app does nothing for me now that i use other better updated but this as an all in one was a great app just falling behind
+ - June 24, 2012&&&3.0 &&& - Motorola XOOM &&& 2.4.0&&&Xoom and defy&&&Running rooted stock 4.0.4 with tiamat kernel and I don't have all options, mentions something about modules and kernels on first opening. Makes defy crash. Would like to use it because it looks really good. Any suggestions?
+ - June 13, 2012&&&1.0 &&& - Motorola Droid II &&& 2.4.0&&&droid 2&&&Used to love this app but every time I lose cell reception a license check fails and the app doesn't let me use it, getting whatever clock setting stuck until I get reception again. All just to retroactively make sure the developer got paid.
+ - May 22, 2012&&&5.0 &&& - HTC Desire HD &&& 2.4.0&&&:)&&&Very useful app. Have overclocked the HTC desire.hd with no issues. How ever does force close when turning the application sideways. But doesn't really bother me. Well worth the money. Never. Reverted purchasing. :)
+ - May 5, 2012&&&3.0 &&& - HTC Evo 4G &&& 2.4.0&&&It doesn't do much for a rooted EVO.&&&
+ - April 27, 2012&&&4.0 &&& - Motorola Droid X2 &&& 2.4.0&&&Same&&&No different from any CPU control
+ - April 9, 2012&&&5.0 &&&&&& - Version 2.4.0&&&@ Eric&&&The newest phones are still in development.. give it some time dude....  I mean come on, they just got it working for ics not long ago  -DroidX ICS 4.0.4
+ - June 28, 2012&&&5.0 &&& - HTC Thunderbolt &&& 2.4.0&&&Jrummy16, root king.&&&GREAT app, saves my battery life and optimized the performance of my kernels. Pure gold.
+ - April 2, 2012&&&5.0 &&& - Motorola Droid X &&& 2.4.0&&&Great widget&&&Great app!
+ - June 16, 2012&&&5.0 &&& - HTC One X &&& 2.4.0&&&Great app&&&Everything works perfectly except the help menu
+ - March 28, 2012&&&5.0 &&& - Motorola Droid X &&& 2.4.0&&&Great&&&Excellent app. Just works.
+ - March 31, 2012&&&5.0 &&& - Motorola Droid X &&& 2.4.0&&&DROID X&&&Works awesome.Look forward to more of your apps.Cheers.
+ - June 26, 2012&&&5.0 &&& - Motorola Droid X &&& 2.4.0&&&Works great&&&
+ - April 4, 2012&&&5.0 &&& - Samsung Infuse 4G &&& 2.4.0&&&Great app&&&Worked great on my HTC inspire and currently works great on my Samsung infuse.
+ - March 27, 2012&&&5.0 &&& - Motorola Droid X2 &&& 2.4.0&&&Great ui.&&&Best overclock app available.
+ - April 12, 2012&&&4.0 &&& - Motorola Droid X &&& 2.4.0&&&Good app&&&The only reason I didn't rate it higher because I don't have the expertise to fully utilize this app
+ - February 16, 2012&&&1.0 &&& - Motorola Droid RAZR &&& 2.3.7&&&Continuously loads on razr&&&I have had this app on my global since froyo .. once my global hit ginger this app stopped working now I have RAZR it just loads... tho I didn't expect it too work... since it don't work on bionic. Will this ever work again?
+ - February 8, 2012&&&5.0 &&& - Motorola Droid X &&& 2.3.7&&&Excellent&&&Running on DroidX GB.602 rooted with ultra low voltage at 1.25ghz. Completely stable and smooth. No force close issues. LCD Density at 200. Looking great. Granted there are somethings I'm not sure how to utilize, but a great tool for developers and tinkerer's alike.
+December 20, 2011&&&5.0 &&& - Galaxy S2 Skyrocket &&& 2.3.7&&&So far so good&&&I'm using a Skyrocket, my phone is not yet fully supported. yet.  Easy to use, my oc is stable.  I'll be monitoring my battery life over the next few days, to see how it is affected.
+ - January 14, 2012&&&5.0 &&& - Samsung VinsQ(M910) &&& 2.3.7&&&Samsung Intercept&&&Love this so much, it makes this phone worth having.
+ - February 25, 2012&&&2.0 &&& - Motorola Atrix &&& 2.3.7&&&Jrummy&&&He has done it again.  UC@816 device info reads 816, but clocking at 1000. Profiles are useless as the clocking is un changed dispite slider values.  Rooted atrix 4g.  You blow jrummy
+ - February 13, 2012&&&5.0 &&& - Motorola Droid X &&& 2.3.7&&&Awesome App and Dev!&&&Answered several emails, assisted with trouble shooting for a nube. Rooted DroidX running .605, Liberty 3 v 2.0, @ 1.25 ultra-low and smoking. A BIG thanks to you J.
+ - February 29, 2012&&&5.0 &&& - Motorola Droid RAZR &&& 2.3.7&&&Great app!&&&Would be great to add the Droid RAZR as supported.
+ - January 4, 2012&&&5.0 &&& - Motorola Droid X &&& 2.3.7&&&JUST UPDATING MY RATING....&&&This dude is one of the best in the biz. So is this app. Great app bro! DX on VorteX RC1
+ - December 11, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.7&&&Finally, an update!&&&It's about time you fixed the governor issue!!! Just kidding. You are the man. Thanks for all your hard work.
+ - December 8, 2011&&&5.0 &&& - Motorola Droid II &&& 2.3.7&&&I agree with Daniel!&&&Experiment with Vltgz!  Dont set to boot until stable vltg And dont use task killers! It will Kill this and cause problems! Jrums apps 10 stars
+ - May 3, 2012&&&5.0 &&& - Samsung Galaxy Note &&& 2.3.7&&&Doesn't work!.&&&Force closes constantly. Xperia play 2.3.4 rooted
+ - March 21, 2012&&&5.0 &&& - Motorola Droid II &&& 2.3.7&&&Perfect app&&&Got my Droid 2 up to 1.35ghz ran a little warm so I scaled it to 1.2 tuning liberty rom. Works like a dream I <3 jrummy
+ - March 8, 2012&&&2.0 &&& - Samsung Infuse 4G &&& 2.3.7&&&Samsung infuse 4g&&&Can't use full function of app any ideas saying there are issues with kernel
+ - April 3, 2012&&&5.0 &&& - Motorola Droid X &&& 2.3.7&&&Yes.&&&The only app that overclocks my Droid X. Revnumber's CM7
+ - January 31, 2012&&&5.0 &&& - Motorola Droid X &&& 2.3.7&&&Droid X&&&running fast at 1.25Ghz. I'm hitting in the lower 2000's on quadrant, about 500 points better than when it was stock.
+ - December 29, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.7&&&Could use a widget refresh rate option like setcpu has.&&&This is the best OC app! Hoping for Motorola Xoom support.
+ - March 26, 2012&&&5.0 &&&&&& - Version 2.3.7&&&A man of his word!&&&Jrummy thank you for this and all your amazing apps you truly are a great dev thank you for returning one of my favorite apps to me with the ics update!!!
+ - January 12, 2012&&&5.0 &&& - Motorola Droid II &&& 2.3.7&&&Working good now&&&Droid 2... running several days now with out a crash. Took dev some time to make it work right buts its working now
+ - January 4, 2012&&&5.0 &&& - LGE Bryce &&& 2.3.7&&&Sad face&&&I saw how this app worked on my friends fone. And I loved it unfortunately it doesn't work on my LG REVOLUTION.  ..... PLEASE FIX IT
+ - March 18, 2012&&&2.0 &&& - Motorola Droid II &&& 2.3.7&&&Used to be great, not so much now...&&&My provider updated my D2G to Gingerbread and now this does not work. Phone freezes and reboots. Contacted support, they said to wait for an update.
+ - January 10, 2012&&&1.0 &&& - HTC Thunderbolt &&& 2.3.7&&&WTF MATE?!?!?&&&How the hell do I get this to work with the HTC Thunderbolt???
+ - January 1, 2012&&&1.0 &&& - Motorola Droid X2 &&& 2.3.7&&&Doesn't work at all on rooted Droid x2&&&Worst app I've used yet but could be great if fixed. Stock rom *rooted*
+ - March 9, 2012&&&3.0 &&& - HTC Desire HD &&& 2.3.7&&&What happend?&&&It was running great on my rooted phone. Still am using the same kernel as before but now it's saying that it may not be compatible with my kernel?? What's up with that?
+ - March 3, 2012&&&4.0 &&& - Motorola Droid RAZR &&& 2.3.7&&&No dual core support?&&&Worked great on my DX, but no support for my Razr Maxx. Get with it man.
+ - February 13, 2012&&&5.0 &&&&&& - Version 2.3.7&&&Support this Dec.&&&Droid X running cm7. Low voltage 1.3 GHz running stable. This app has come so far from the original issue. Keep up the good work on all your apps.
+ - January 9, 2012&&&3.0 &&& - Motorola Droid II &&& 2.3.7&&&Moto droid 2 mini ics&&&I had a problem and the dev fixed it for everyone.
+ - February 16, 2012&&&5.0 &&& - Motorola Droid X &&& 2.3.7&&&Sweet&&&JRummy brought the life back into this phone.  Just because of this app,  my phones lifespan has doubled.
+ - March 3, 2012&&&1.0 &&& - EeePad Transformer TF201 &&& 2.3.7&&&Not supported.&&&Doesn't support my droid bionic or razr. Also doesn't support my transformer prime. Please add support for atleast the prime and ill 5 star.
+ - December 17, 2011&&&4.0 &&& - Motorola Droid X &&& 2.3.7&&&Works Great&&&Easy to use and effective. Feels much snappier on MIUI DX w/ ULV @ 1.3 GHz. Sliders for editing build props need work. Hard to select precise values.
+ - January 9, 2012&&&5.0 &&& - Motorola Droid X &&& 2.3.7&&&Best developer!!&&&This is the best developer! I have the droid x and just flashed the Jew liberty Rom....AMAZING
+ - January 12, 2012&&&5.0 &&& - Samsung Droid Charge &&& 2.3.7&&&not sure&&&ahhhh I dont know how
+ - February 16, 2012&&&5.0 &&& - Samsung Galaxy Note &&& 2.3.7&&&Awsome&&&Hd2 perfect, testing on galaxy note now
+ - March 18, 2012&&&3.0 &&& - Motorola Droid X &&& 2.3.7&&&DROIDX. 621&&&doesn't work
+ - March 25, 2012&&&5.0 &&& - Motorola Droid RAZR &&& 2.3.7&&&Droid razr&&&Worked great on droid 2, please update the app to support droid razr
+ - March 6, 2012&&&1.0 &&& - Motorola Droid RAZR &&& 2.3.7&&&No support?&&&Used to work great on my DROIDX. Doesn't work on Droid RAZR MAXX.
+ - March 6, 2012&&&1.0 &&& - Motorola Droid X &&& 2.3.7&&&Out-of-Date&&&Seems to have abandoned.support for newer phones. USED TO work great.
+ - February 29, 2012&&&5.0 &&& - Droid Bionic &&& 2.3.7&&&Croc&&&Like to use this app in moderation.
+ - February 5, 2012&&&5.0 &&& - Motorola Droid X2 &&& 2.3.7&&&Droid x2&&&Is it true this app does nothing for me
+ - March 8, 2012&&&5.0 &&& - Motorola Droid X2 &&& 2.3.7&&&Yes&&&This works great on the droid x 2
+ - February 19, 2012&&&2.0 &&& - Motorola Droid X2 &&& 2.3.7&&&Wont Load&&&Droid X2 running ICS 4.0.3
+ - February 8, 2012&&&5.0 &&&&&& - Version 2.3.7&&&Great app&&&Very very nice
+ - February 23, 2012&&&4.0 &&& - Motorola Droid 3 &&& 2.3.7&&&DROID 3&&&Overclock doesn't work for DROID 3 says not supported
+ - March 27, 2012&&&5.0 &&& - Motorola Droid X &&& 2.3.7&&&THE BEST!&&&this app has improved the functionality of my droid x greatly! Worth every penny. Thank you!
+ - February 27, 2012&&&5.0 &&& - HTC Hero &&& 2.3.7&&&Gives speed to my old HTC HERO 200!&&&
+ - February 22, 2012&&&5.0 &&& - Motorola Droid X2 &&& 2.3.7&&&Not for Droid X2&&&I bought this for my Droid X and it worked flawlessly. I got an X2 and I can't overclock the dual core cpu :-( C'mon jrummy and write a new kernel for your program!
+ - December 17, 2011&&&5.0 &&& - Motorola Droid X2 &&& 2.3.7&&&Fantastic&&&Love it
+ - January 2, 2012&&&1.0 &&& - Droid Bionic &&& 2.3.7&&&No module support for Droid bionic&&&Still doesn't support the Droid bionic.
+ - March 19, 2012&&&5.0 &&& - HTC Thunderbolt &&& 2.3.7&&&Awesome app, needs updated for new market&&&
+ - January 1, 2012&&&5.0 &&& - Motorola Droid X &&& 2.3.7&&&OVERCLOCK&&&Ha sick, very nice jrummy
+ - February 4, 2012&&&5.0 &&& - Motorola Droid X &&& 2.3.7&&&greatest&&&
+ - March 26, 2012&&&5.0 &&& - Motorola Droid X &&& 2.3.7&&&Legit!&&&Self-titled!
+ - January 31, 2012&&&5.0 &&& - Motorola Droid X &&& 2.3.7&&&awsome&&&does what it says
+ - February 5, 2012&&&5.0 &&& - Motorola Droid X2 &&& 2.3.7&&&Nice&&&Does what it says
+ - March 12, 2012&&&5.0 &&& - LG Optimus One &&& 2.3.7&&&Excellent&&&Works great on optimus v!
+ - January 30, 2012&&&5.0 &&& - Motorola Droid X &&& 2.3.7&&&Its&&&Good
+ - January 25, 2012&&&3.0 &&& - Motorola Droid X &&& 2.3.7&&&..&&&Decent...
+ - March 19, 2012&&&1.0 &&& - Samsung Droid Charge &&& 2.3.7&&&Droid charge&&&Slow....
+ - November 19, 2011&&&4.0 &&& - Samsung Galaxy S2 &&& 2.3.4&&&Force close SGS2 t989. Looks promising!&&&App isn't very stable on my galaxy s2 t989. looks great though. excellent functionality!
+ - July 15, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&App and the DEV&&&If you want to overclock your droid, this is the one you're looking. Make no mistake. I'm not one to leave comments but of the apps I've used, the best ones have had JRUMMY involved. Man, keep up the great work! We really appreciate it!
+ - February 21, 2011&&&5.0 &&&&&& - Version 2.3.4&&&Awesome&&&Awesome app man! I love the layout, and I def. loving the widget! Keep up the good work!!! rooted d1 CyanogenMod :D
+ - November 19, 2011&&&5.0 &&&&&& - Version 2.3.4&&&Works Great!&&&Just what I was missing from the OG Droid days, really like I can switch on the fly the low and ultra low voltages! Profiles work great!   Droid X
+ - October 4, 2011&&&5.0 &&& - Motorola Droid II &&& 2.3.4&&&Awesome program. Just started using profiles and I love it. Just wish I could ...&&&Awesome program. Just started using profiles and I love it. Just wish I could figure out how to keep my D2G from getting so hot.
+ - September 3, 2011&&&5.0 &&& - Motorola Droid II &&& 2.3.4&&&Working great&&&Great application. If it is not working properly try reloading the rom.
+ - September 22, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Woot!&&&Awsome sauce, I rarely buy apps but this one was worth it, no regrets:) - droid x
+ - December 8, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Excellent!&&&Had an initial FC problem, but fixed it with an uninatall/reinstall. Running so smooth now :)
+ - November 14, 2011&&&3.0 &&& - Motorola Droid II &&& 2.3.4&&&D2G on 2.3.3&&&Reboots phone when opening app. Looking forward to using it when bug is fixed. Only gave 3 stars since I can't use it yet.
+ - September 18, 2011&&&5.0 &&& - Droid Bionic &&& 2.3.4&&&Worked great on X..&&&Worked great for a year and a half on my X, let's hope for future support of the Bionic!
+ - October 27, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Awesome!&&&Worth the money... first paid app... only thing I don't like is that I have to reset settings after a reboot.
+ - October 23, 2011&&&5.0 &&& - Motorola Droid II &&& 2.3.4&&&A+ Application (v2.3.4)&&&This is one of those applications that works, but no really - it WORKS and with no hassle whatsoever. As if that's not enough the application even has a polished interface that looks very Androidy, in the best of ways this App is a happy-maker.
+ - October 6, 2011&&&4.0 &&& - Motorola Droid &&& 2.3.4&&&Baqbaq&&&I don't know what you're talking about? Works fine for me, running up to 1,100 mhz
+ - May 23, 2011&&&5.0 &&& - SEMC Xperia Play &&& 2.3.4&&&the Xperia PLAY is not supported....&&&Purchased this knowing that the Xperia PLAY is not supported, but definitely is a lot more user friendly than OC'ing a PC and has a lot potential. @ JRummy16, please consider adding support for the Xperia PLAY in a near future update, because TBH, I think it's probably the best Android platform that should be OC'ed! :)
+ - May 4, 2011&&&5.0 &&& - Samsung Galaxy S &&& 2.3.4&&&most useful app for the xoom&&&Xoom overclock is pack with tool....must have for every xoom owner. Extremely stable with the latest update. Its worth the price x10!
+ - May 14, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Works Great on DX&&&I've been using this for a little while now and it's working great. I have been able to clock my DX to 1350 on UltraLow voltage and it has been very stable. You definitely need to experiment before you set the boot parms but I'm happy with this app.
+ - September 13, 2011&&&3.0 &&& - Samsung Galaxy S &&& 2.3.4&&&Great app!&&&Badass app, but u need to add support for the newer devices. Still useful tho. Gallaxy 4g
+ - September 17, 2011&&&5.0 &&& - Motorola Droid II &&& 2.3.4&&&JRummy is the man!&&&Best OC/UC app for Droid. It's SetCPU on steroids. Highly recommended.
+ - October 16, 2011&&&2.0 &&& - Motorola Droid &&& 2.3.4&&&Moto Droid&&&Have had this app for quite a while, always been excellent but after latest update phone freezes every time I overclock. Please fix soon!
+ - November 1, 2011&&&1.0 &&& - Motorola Droid II &&& 2.3.4&&&After months, still doesn't work. Useless. Worked before gingerbread.&&&emailed jrummy16 and said it would be fixed soon, two months later, not one update, free overlook application? works fine, one I paid for? garbage.
+ - September 13, 2011&&&5.0 &&&&&& - Version 2.3.4&&&Great....but&&&Love the app but ATM it force closes on my xperia arc... Please fix
+ - July 14, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&1.2 at low voltage gives me a faster Droid X and longer battery life. ...&&&1.2 at low voltage gives me a faster Droid X and longer battery life. Completely stable. This app is the best!
+ - May 24, 2011&&&5.0 &&& - Motorola Droid II &&& 2.3.4&&&Works Great Tons of Extras&&&App does what it says on my R2D2 Droid 2 and was very surprised by all the extras. I bought it just for the Ultra Low Voltage Overclock option to save battery but I love the ad removal and other great features. Keep up the great work JRummy.
+ - September 27, 2011&&&5.0 &&& - Motorola Droid II &&& 2.3.4&&&Needs and update&&&Love this app... although, the gui half crashes every time its opened in d2g gb.... please update it for us!!
+September 21, 2011&&&5.0 &&&&&& - Version 2.3.4&&&Magnificent&&&This is the best tool for your DROID. Works on my DROIDX great.
+ - October 30, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Excellent tool&&&Runs great on my Droid x. a lot of tools and functions to customize the phone's behavior.
+ - September 17, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Be nice&&&Read before downloading. All the bad reviews could have been avoided if those users took a minute to educate themselves.
+ - September 7, 2011&&&1.0 &&& - Motorola Droid X &&& 2.3.4&&&Crap&&&Resets my phone freezes constantly it sucks
+ - October 10, 2011&&&5.0 &&&&&& - Version 2.3.4&&&Love it...but i have a problem&&&I love your app I don't know what I did to the density setting but wen my phone rebooted it powered back on but now I can't see my screen and my phone just vibrates simultaneously please help me how do I change it back, erase the data settings or uninstall it so I can reinstall it without being able to access my screen. I actually purchased this app and love it please help me thanks.
+ - November 17, 2011&&&1.0 &&&&&& - Version 2.3.4&&&My phone been rooted w z4 root still asking for root, i went to ...&&&My phone been rooted w z4 root still asking for root, i went to superusers app n don't show up, i hit the wall, apparently don't work, android Huawei.
+ - October 1, 2011&&&5.0 &&& - Motorola Droid II &&& 2.3.4&&&Misc Extra disappeared&&&App is awesome, except for Misc from the Extras menu is now gone. Now cant change boot image option or fix permissions. PLEASE FIX (Droid 2 R2D2)
+ - September 20, 2011&&&5.0 &&& - Droid Bionic &&& 2.3.4&&&Re&&&Maybe Chris should update his phone. Great app and hope for bionic support :)
+ - March 5, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&One of the most polished Android App's I've used!&&&JRummy really knows how to build a solid app, and it shows in this wonderfully easy to use overclocking app. Includes easy to use presets, advanced settings for the power user, and even a clear and detailed help explaining the basics of overclocking! If you want to overclock your Droid, there's no excuse NOT to buy this app!
+ - March 11, 2011&&&4.0 &&& - Samsung Galaxy S &&& 2.3.4&&&Keller&&&this app is realy awesome if you have the right phone and you use it right. otherwise you can mess up your phone big time! now i cant unlock it, set its usb debugging so its turned on, turn my screen on, or even turn it off without taking my battery out.. but it really was my bad and this app would have worked great if i hadn't messed it up.
+ - July 15, 2011&&&2.0 &&& - Motorola Droid X &&& 2.3.4&&&profile bug...&&&patiently waiting for the profile bug to be fixed. have stopped using profiles now, which sucks, cuz it was a big selling point.
+ - July 16, 2011&&&5.0 &&& - Motorola Droid II &&& 2.3.4&&&great app. very easy to use. love the widget&&&
+ - November 20, 2011&&&5.0 &&& - Motorola Droid II &&& 2.3.4&&&5stars&&&Very good, Bricked my phone.. so, downgraded to Froyo (2.2) and rerooted, and installed, came right up, allowed it, everything works great! D2G
+ - October 1, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Luisr007&&&Love this app.  Works great. Although unable to add widget to homescreen on MIUI 1.9.23.
+ - September 16, 2011&&&5.0 &&&&&& - Version 2.3.4&&&Awsome&&&This app doubled my phones speed
+ - September 20, 2011&&&5.0 &&& - Motorola Droid &&& 2.3.4&&&Awesome! I love it! Was using milestone overclock, made the switch, because of the ...&&&Awesome! I love it! Was using milestone overclock, made the switch, because of the customization, well worth it for just $1.50.
+ - December 13, 2011&&&3.0 &&& - Motorola Droid X &&& 2.3.4&&&Still no governor installed&&&Miui ics I can use a backup and it works but when I try to update it goes back to no governor installed 5 stars when fixed
+ - November 12, 2011&&&1.0 &&& - HTC EVO 3D &&& 2.3.4&&&Does not work right for HTC couldn't root my phone. No refund, I basically ...&&&Does not work right for HTC couldn't root my phone. No refund, I basically threw away money to this app.
+ - September 7, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Super easy!&&&Best o/u clock/voltage app on the market!
+ - October 3, 2011&&&4.0 &&& - Motorola Droid X &&& 2.3.4&&&Ehhrm&&&Force closes a lot in landscape. The widget makes the force close as well. Needs to be able to read and modify voltages on different devices.
+ - October 8, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Droid x. This really is the best CPU overclocker out there.&&&
+ - October 3, 2011&&&3.0 &&& - Samsung Droid Charge &&& 2.3.4&&&Good start&&&This application has a great idea behind it, but still needs a lot of but fixes. App crashes and locks up constantly. Droid Charge - gummycharged 2.0
+ - August 1, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&.&&&Great tool must have for rooted Droid X users.
+ - May 31, 2011&&&3.0 &&& - Motorola Droid X &&& 2.3.4&&&all features not supported on MOTOROI X&&&All the features are not supported on Mexican droid x (motoroi x). When is an update with this fix going to be available!? Other than that, it is ok.
+ - October 3, 2011&&&3.0 &&& - Motorola Droid X &&& 2.3.4&&&Forcelose&&&Forceclose a lot from widget but other than that very good
+ - September 7, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Great.. but&&&Add battery > profile
+ - April 4, 2011&&&5.0 &&& - Motorola Droid II &&& 2.3.4&&&Works great so far&&&Underclocked it and my battery stayed at 100% for... a while, lol, then didn't reach 10% for another 19hours. Does exactly what I wanted.
+ - July 20, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Overclockin'&&&Good stuff!
+ - October 13, 2011&&&1.0 &&& - Motorola Droid X &&& 2.3.4&&&Needs update!!&&&Governors failing to install, fix permissions removed...?? DX .605
+ - October 23, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Super awesome&&&Best oc app by far, a must have
+ - November 25, 2011&&&3.0 &&& - HTC Desire HD &&& 2.3.4&&&Problems&&&Works when it works. Will not stay on the frequency I set. Resets itself. HTC inspire. Android revolution rom
+ - December 4, 2011&&&4.0 &&& - Motorola Droid X &&& 2.3.4&&&Hmm&&&Not really overclocking my DROID x. Just as fast as always..
+ - October 21, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Perfect&&&This app is worth every penny. Works flawlessly. Has my DROIDX running faster while using less battery
+ - October 3, 2011&&&1.0 &&& - Motorola Droid &&& 2.3.4&&&Motorola Milestone not supported&&&Milestone (Droid 1) is not supported and author is absolutely unresponsive.
+ - November 6, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Does what it says&&&Works well, no problems through multiple OS versions and custom ROMs. Droid X
+ - November 13, 2011&&&1.0 &&& - Motorola Droid II &&& 2.3.4&&&Needs update for 2.3&&&When will you update this? D2G reboots instead of app opening. Used to work great.  Can you fix it please?
+ - September 5, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Works great&&&Great app however no custom settings are reapplied on reboot. miui dx
+ - November 7, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Works great&&&Other than it does not keep settings on reboot. Droid x cm7
+ - October 10, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Droid X. Awsome App!!! Keep up the good work!!!!!&&&
+ - January 10, 2011&&&1.0 &&& - Motorola Droid II &&& 2.3.4&&&When is this going to get fixed? Last update causes my Droid 2 to ...&&&When is this going to get fixed? Last update causes my Droid 2 to get stuck in a bootloop until I restore. Looks like i'm not the only one either.
+ - October 16, 2011&&&3.0 &&& - HTC Evo 4G &&& 2.3.4&&&Evo 4g&&&Will give 5 when evo4g is supported.
+ - November 15, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Awesome performance.&&&This is the best thing to ever happen to my DX
+ - March 29, 2011&&&0.0 &&&&&& - Version 2.3.4&&&Why do I keep getting a message whenever I try to do something. It ...&&&Why do I keep getting a message whenever I try to do something. It says major error occurred please try again.
+ - July 25, 2011&&&1.0 &&& - Motorola Droid X &&& 2.3.4&&&No support.&&&Would be nice if it worked and dev responded for support. Keeps telling me the overclock module is not installed.
+ - September 4, 2011&&&3.0 &&& - Motorola Droid II &&& 2.3.4&&&V2.3.4&&&Still seems to reset max clock to 1000 every time I open it up. Also, custom presets don't load at boot. D2.
+ - September 11, 2011&&&1.0 &&& - Motorola Droid II &&& 2.3.4&&&restarts phone on app startup&&&And please add support for 5 slot cpu
+ - September 21, 2011&&&1.0 &&& - Motorola Droid II &&& 2.3.4&&&:(&&&Paid and doesn't work :/ D2G Gingerbread Official
+ - October 13, 2011&&&1.0 &&& - Samsung Infuse 4G &&& 2.3.4&&&Android Overclock v2.3.4 on Samsung i997&&&The Slot 1 to Slot 4 still shows 50000 MHz!!!!!!  and I paid for this crap too!!!!! DELETED!!!!
+ - September 3, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Best Battery Life Ever!&&&Running this app with profiles enabled (and CM 7). I'm going on 28 hours without a charge and moderate usage. Get this app and set some profiles!
+ - December 16, 2010&&&0.0 &&& - Motorola Droid X &&& 2.3.4&&&Tried to install with apex rom. Would not install overclock module.&&&
+ - July 14, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&I love this game! 5 thumbs up!&&&
+ - February 18, 2011&&&0.0 &&& - Samsung Galaxy S &&& 2.3.4&&&Hey ive bought the prog, however it will not download to my phone..&&&
+ - July 23, 2011&&&1.0 &&& - HTC Desire HD &&& 2.3.4&&&Crappy!&&&Force closed when I click on somthing I demand my money back
+ - December 10, 2011&&&5.0 &&& - Motorola Droid II &&& 2.3.4&&&Terry, you're an idiot.&&&Terry, the program does EXACTLY what it is supposed to do! Run a benchmark test to confirm before claiming it doesn't work!
+ - April 14, 2011&&&1.0 &&&&&& - Version 2.3.4&&&Not working on XOOM wifi&&&v2.1.4 says the device is incompatible. Forse closes on CPU scaling
+ - September 18, 2011&&&5.0 &&& - Motorola Droid II &&& 2.3.4&&&Awesome&&&Works great with CM7 on Droid 2
+ - October 29, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Must have for DROID x&&&Nice
+ - November 14, 2011&&&1.0 &&& - Samsung Galaxy S &&& 2.3.4&&&Wont start anymore&&&Keeps crashing at startup.serendipity galaxy s
+ - September 15, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&!&&&Works great. Love the extras.
+ - July 14, 2011&&&4.0 &&& - Motorola Droid X &&& 2.3.4&&&tweak&&&always fc and set at boot does what it wants most of the time cm4dx
+ - August 1, 2011&&&3.0 &&& - Samsung Droid Charge &&& 2.3.4&&&Dont support samsung charge&&&
+ - September 4, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Great&&&Very useful
+ - October 7, 2011&&&3.0 &&& - Motorola Droid &&& 2.3.4&&&Can only use the profiles with my Milestone&&&
+ - November 1, 2011&&&3.0 &&& - Droid Bionic &&& 2.3.4&&&if it actually work 4 the bionic...&&&please hurry lets overclock this beast soon.
+October 24, 2011&&&5.0 &&& - HTC Droid Incredible &&& 2.3.4&&&Awesome&&&Perfect
+ - November 25, 2011&&&1.0 &&& - Samsung Galaxy Tab &&& 2.3.4&&&Brick my phone&&&Destroyed my phone first time I used it.  No point in using it
+ - September 22, 2011&&&5.0 &&& - Droid Bionic &&& 2.3.4&&&Bionic&&&Force closes with bionic...
+ - November 21, 2011&&&1.0 &&& - Motorola Droid X2 &&& 2.3.4&&&Help&&&Needs Droid x2 overclock
+ - September 12, 2011&&&1.0 &&& - Motorola Droid X2 &&& 2.3.4&&&Does not work&&&Doesn't work droidx2
+ - November 26, 2011&&&5.0 &&& - Motorola Droid II &&& 2.3.4&&&Very&&&Nice
+ - September 6, 2011&&&3.0 &&& - Motorola Droid II &&& 2.3.4&&&Overclock module will not install&&&
+ - October 25, 2011&&&0.0 &&& - Motorola Droid X &&& 2.3.4&&&Stop blocking ads&&&
+ - October 26, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&I like&&&
+ - August 29, 2011&&&5.0 &&&&&& - Version 2.2.4&&&Best $1.50 I've ever spent!&&&This app works INCREDIBLY well! I have a Samsung Intercept, which isn't that powerful of a phone, but with Android Overclock everything moves so much smoother and faster. I'm actually able to play Cut the Rope and all my SNES roms without any glitchy graphics! This should be a mandatory purchase for every Android owner.
+ - August 27, 2011&&&3.0 &&& - Motorola Droid II &&& 2.2.4&&&D2G&&&Was working on 2.2 since I now have 2.3 (.606) pre rooted stalls and re starts my phone. Loved it til now.
+ - June 27, 2011&&&5.0 &&& - Samsung Droid Charge &&& 2.2.4&&&Works great on my Droid 2&&&Works great on my Droid 2 running CM7. Love the Info tab wish more apps would do this.
+ - July 26, 2011&&&3.0 &&& - Motorola Droid X &&& 2.2.4&&&Love this program!, but why with every update the freq goes lower. Was 1.45 ...&&&Love this program!, but why with every update the freq goes lower. Was 1.45 three updates later and can't get over 1. What's the point now.
+ - August 26, 2011&&&1.0 &&& - Motorola Droid II &&& 2.2.4&&&Was great on droid2 2.2 w liberty rom. Now Fc so much i cant ...&&&Was great on droid2 2.2 w liberty rom. Now Fc so much i cant use it. The FC issues started w update to this n to liberty tools app. Was 5* now 1*.
+ - July 19, 2011&&&2.0 &&& - Motorola Droid X &&& 2.2.4&&&As soon as I click "cpu frequency scaling" I get FC. At this point ...&&&As soon as I click "cpu frequency scaling" I get FC. At this point I don't even know if the app is working. Reinstall will work once but after that FC
+ - August 29, 2011&&&2.0 &&& - Motorola Photon 4G &&& 2.2.4&&&An error has occurred! App only works if purchased?&&&An error has occured! App only works if purchased? I keep getting the above error if I attempt to change settings more than a few times on Motorola Ph
+ - July 9, 2011&&&5.0 &&& - Motorola Droid II &&& 2.2.4&&&Jared is the greatest Dev ever! Thanks to him, my phone is awesome and ...&&&Jared is the greatest Dev ever! Thanks to him, my phone is awesome and super quick. Dont complain if you dont know what youre doing!
+ - August 16, 2011&&&3.0 &&& - Motorola Droid X &&& 2.2.4&&&Worked alright when I first got it. But now it force closes with a ...&&&Worked alright when I first got it. But now it force closes with a null pointer exception every time I run it. Im on liberty so you would run great
+ - July 3, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&The best since fix on presets, bout time, awesome app don't get to froggy ...&&&The best since fix on presets, bout time, awesome app don't get to froggy on your new phones.don't test extremes first time bootlooper.
+ - July 5, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Works great and the widgets are useful. More and more features since I first ...&&&Works great and the widgets are useful. More and more features since I first downloaded it. Best overclock/underclock app around.
+ - July 1, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&New build.prop interface is SO NICE for us nightly flashers. ...ok, that sounded ...&&&New build.prop interface is SO NICE for us nightly flashers. ...ok, that sounded creepy...
+ - July 3, 2011&&&5.0 &&& - Motorola Droid II &&& 2.2.4&&&Fantastic app. Allowed my droid2 to outscore the Evo 3D on quadrant standard. ...&&&Fantastic app. Allowed my droid2 to outscore the Evo 3D on quadrant standard. Doesn't just overclock but also allows you to change other things!
+ - September 1, 2011&&&4.0 &&& - Motorola Droid 3 &&& 2.2.4&&&I can haz Droid 3 support?&&&Still works fine, although limited. Loved this app on my X. But, doesn't overclock my D3 yet. Guessing a custom recovery is important to have first?
+ - June 29, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Droid x isn't changing profiles with screen on etc. Will be 5 stars for ...&&&Droid x isn't changing profiles with screen on etc. Will be 5 stars for sure when that is fixed. Love this app!
+ - August 21, 2011&&&2.0 &&& - Motorola Droid X &&& 2.2.4&&&Are you more concerned with other stuff(I.e roms and toolboxes) more so than this? ...&&&Are you more concerned with other stuff(I.e roms and toolboxes) more so than this? Why are you giving no support/updates?..
+ - August 5, 2011&&&4.0 &&& - Motorola Droid X &&& 2.2.4&&&Runs almost flawlessly on my Droid x(force closes at ultra low voltage when going ...&&&Runs almost flawlessly on my Droid x(force closes at ultra low voltage when going to change the frequency). Definitely an app I would recommended.
+ - August 28, 2011&&&5.0 &&& - Motorola Droid II &&& 2.2.4&&&Good overclocker&&&With lots of options... only if it won't fc on first run. D2 gb.
+ - July 20, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Awesome dev&&&Very responsive to bugs and helpful. Excellent app very useful.
+ - September 1, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Wow&&&This app has been great, overclock, undervolt, governers, who can ask for anything more.
+ - August 8, 2011&&&1.0 &&& - Samsung Droid Charge &&& 2.2.4&&&Not enough support&&&It's a nice app but it's not as good as set cpu which is free on xda. That one works and supports a lot more kernels than this one.
+ - July 13, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Nice app&&&Even though I haven't mastered overclocking I like seeing my phone stats
+ - July 2, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Great app. Like the continued support and makes my DX fly........&&&
+ - July 7, 2011&&&5.0 &&&&&& - Version 2.2.4&&&Great app and frequent updates. HTC hd2&&&
+ - July 11, 2011&&&3.0 &&&&&& - Version 2.2.4&&&Good app, Needs some fixes but still good&&&Love the app, only problem cpu frequencies dont stay applied and force closes when the battery starts getting low. All of this could also be due to the droid 2 global really does not like cpu tweaks but it does indeed overclock my global to 1.35ghz just cant get the frequencies to stay even using advanced settings to manual define each slot and its voltage. A few quarks but still worth buying. Great UI layout and great features, Widgets are very nice looking.
+ - August 26, 2011&&&2.0 &&& - Motorola Droid II &&& 2.2.4&&&Never consistant&&&Always goes back to default after a while.profiles only work for a little while. Force closes issues all the time. Not really worth it!Please fix!D2GB
+ - July 4, 2011&&&5.0 &&& - Motorola Droid X2 &&& 2.2.4&&&We need this awesome app on droid x2 .....please!!&&&
+ - August 19, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&as described!!&&&Works great On a rooted DX stable at 1.3 gigahertz to 400 megahertz
+ - August 6, 2011&&&4.0 &&& - Motorola Droid II &&& 2.2.4&&&Very good, however you can't set 5 slots&&&
+ - July 16, 2011&&&4.0 &&& - Motorola Droid &&& 2.2.4&&&nice but REALLY wish could set the voltages (with any kernal) like shown in ...&&&nice but REALLY wish could set the voltages (with any kernal) like shown in screenshots
+ - July 6, 2011&&&5.0 &&& - Motorola Droid X2 &&& 2.2.4&&&Needs D-core love .......DX2&&&
+ - August 7, 2011&&&4.0 &&& - Motorola Droid X &&& 2.2.4&&&Best overclock underclock app. I dont use it cuz my Droid X performs well ...&&&Best overclock underclock app. I dont use it cuz my Droid X performs well with great battery life w/o AO.
+ - July 10, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Frequencies not sticking on boot again. Also a few force closes. Still a good ...&&&Frequencies not sticking on boot again. Also a few force closes. Still a good app
+ - August 7, 2011&&&2.0 &&& - Motorola Droid X &&& 2.2.4&&&DROIDX wont use profiles I've set and doesn't seem to save my changes after ...&&&DROIDX wont use profiles I've set and doesn't seem to save my changes after reboot kind of annoying to keep manually changing settings
+ - May 2, 2011&&&0.0 &&& - Motorola Droid II &&& 2.2.4&&&Works great, lets me lower speed & voltage when I'm not going to be ...&&&Works great, lets me lower speed & voltage when I'm not going to be near an outlet.
+ - August 8, 2011&&&1.0 &&& - Motorola Droid X &&& 2.2.4&&&crap&&&made my phone shut down then took to long to reboot so now I cant get a refund
+ - June 30, 2011&&&1.0 &&& - Motorola Droid X &&& 2.2.4&&&Bootloop city, even w/o oc, at least I can use the widgets. Warning do ...&&&Bootloop city, even w/o oc, at least I can use the widgets. Warning do not set on boot or you might need to factory reset.
+ - August 17, 2011&&&4.0 &&& - Motorola Droid X &&& 2.2.4&&&Great&&&Overclock settings are not sticking after reboot. I have DX on. 620
+ - August 12, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Works well w/Cyanogen!&&&Fantastic implementation, solid coding. Great work, jrummy! ~:sds:~ CM7DX
+ - August 24, 2011&&&2.0 &&& - Motorola Droid X &&& 2.2.4&&&Used to work...&&&Was good, now broken. Tells me to click New Module but no such setting. Droid X. I haven't changed anything, it just quit working.
+ - July 11, 2011&&&1.0 &&& - HTC Droid Incredible &&& 2.2.4&&&Encountered issue, emailed developer. Completely unresponsive. Don't waste ...&&&Encountered issue, emailed developer. Completely unresponsive. Don't waste your money on this app.
+ - August 21, 2011&&&4.0 &&& - Motorola Droid II &&& 2.2.4&&&Some fc issues and profiles are spotty at best, but my phone is noticeably ...&&&Some fc issues and profiles are spotty at best, but my phone is noticeably faster when overclocked from 1 ghz to 1.15ghz
+ - July 8, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Nice apps keep goodworks dude&&&
+ - August 6, 2011&&&1.0 &&& - HTC Droid Incredible &&& 2.2.4&&&Completely useless on droid incredible with skyraider 3.5.&&&
+ - December 20, 2010&&&0.0 &&&&&& - Version 2.2.4&&&Great app. Does what its suppose to. Droid x&&&
+ - August 9, 2011&&&3.0 &&& - Motorola Droid X &&& 2.2.4&&&Meh^2&&&Doesn't retain settings... Kind of disappointed but quite a bit of effort went into this. Keep development alive, please!
+ - July 11, 2011&&&2.0 &&& - Motorola Droid II &&& 2.2.4&&&What happened? I have a droid 2 and app says its not supported? Really...fix ...&&&What happened? I have a droid 2 and app says its not supported? Really...fix this...
+ - July 9, 2011&&&5.0 &&& - Motorola Droid X2 &&& 2.2.4&&&Would love to see support to overclock the X2.&&&
+ - June 30, 2011&&&4.0 &&& - Motorola Droid X &&& 2.2.4&&&Use to work great but now it just reverts back to stock and stays ...&&&Use to work great but now it just reverts back to stock and stays there until I run the frequency again. DX
+ - July 4, 2011&&&5.0 &&& - Motorola Droid II &&& 2.2.4&&&Awesome app and super excellent support. I had a problem, submitted feedback, and ...&&&Awesome app and super excellent support. I had a problem, submitted feedback, and my claims were solved on a later update, love this app.
+ - August 25, 2011&&&5.0 &&& - Motorola Droid X2 &&& 2.2.4&&&Still the best! DX2 support?&&&
+ - July 11, 2011&&&3.0 &&& - HTC Hero &&& 2.2.4&&&Not working real well.....&&&I am new to Android Phones... I have a Sprint HTC Hero and I sent the profile I want and after 20-25 min it reverts back to a slwer clock speed. I have it set at 528/480 and I am thrilled at the performance at those settings....but it does not stay there. Whats wrong????
+ - July 10, 2011&&&1.0 &&& - Motorola Droid X &&& 2.2.4&&&This was once a great app. Now it sucks!&&&
+ - July 10, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Have had this bad boy since I learned to root. With all the forum ...&&&Have had this bad boy since I learned to root. With all the forum support, this is a simple to use awesome app.
+ - July 24, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Freq jumps all over the place&&&
+ - June 30, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Fantastic app! This made overlooking and undervolting super easy! A must have!&&&
+ - July 1, 2011&&&3.0 &&& - Motorola Droid X &&& 2.2.4&&&Stopped working module wont load droid x was working fine now boot loops and ...&&&Stopped working module wont load droid x was working fine now boot loops and no module loading
+ - August 3, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&One of the best apps on the market. Works flawlessly on my DROIDX.&&&
+ - July 7, 2011&&&5.0 &&& - Motorola Droid &&& 2.2.4&&&Wont stop force closing on motorola droid. 5 stars when fixed, worked great when ...&&&Wont stop force closing on motorola droid. 5 stars when fixed, worked great when it wasnt force closing
+ - July 30, 2011&&&1.0 &&& - Motorola Droid II &&& 2.2.4&&&On droid 2 global, rooted, forced close. Would not operate&&&
+ - July 6, 2011&&&4.0 &&& - Motorola Droid Pro &&& 2.2.4&&&Did ad block just stop working or is it me?&&&
+ - August 27, 2011&&&4.0 &&& - Motorola Droid II &&& 2.2.4&&&Good&&&Random force closes
+ - June 29, 2011&&&3.0 &&& - Motorola Droid II &&& 2.2.4&&&Are these releases even tested? Every update is always followed by 3 more updates ...&&&Are these releases even tested? Every update is always followed by 3 more updates within the next 24 hours to fix bugs.
+ - June 29, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Droid x after recent update profiles don't work now&&&
+ - August 25, 2011&&&3.0 &&& - Motorola Droid X &&& 2.2.4&&&mehhh&&&stupid widget keeps disappearing, only way to get it back is uninstall and reinstall.. ANNOYING
+ - July 7, 2011&&&1.0 &&& - Motorola Droid X &&& 2.2.4&&&Uninstalled because of lots of force closes 10+ a day&&&
+ - July 28, 2011&&&3.0 &&&&&& - Version 2.2.4&&&My kernel not supported, so what should i do?&&&
+ - July 27, 2011&&&2.0 &&& - Motorola Droid II &&& 2.2.4&&&Doesnt keep frequencies at restart on cm7 build 23 doid2&&&
+ - August 30, 2011&&&1.0 &&& - HTC Desire HD &&& 2.2.4&&&Doesn't work&&&Doesn't work on HTC inspire...
+ - July 12, 2011&&&3.0 &&& - Motorola Droid X &&& 2.2.4&&&No longer applies at boot no matter using presets or custom settings. Dx running ...&&&No longer applies at boot no matter using presets or custom settings. Dx running liberty
+ - August 3, 2011&&&5.0 &&& - HTC Thunderbolt &&& 2.2.4&&&best&&&.
+ - February 8, 2011&&&0.0 &&&&&& - Version 2.2.4&&&After update keeps force closing. Droid x&&&
+ - August 28, 2011&&&1.0 &&& - Motorola Droid X2 &&& 2.2.4&&&No support for DROIDX2?!? Wtf man this app is so legit.&&&
+ - August 10, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Adding some more governors&&&Can you add lagfree,mobile,and interactiveX governors Please?
+ - August 20, 2011&&&1.0 &&& - HTC EVO 3D &&& 2.2.4&&&Keeps force close, and no overclock. EVO 3D&&&
+ - July 12, 2011&&&2.0 &&& - Motorola Droid II &&& 2.2.4&&&Why do I have ads all of a sudden?&&&
+ - July 1, 2011&&&3.0 &&& - Motorola Droid II &&& 2.2.4&&&What happened to the boot screen animation disable? And the Ad Blocker isn't ...&&&What happened to the boot screen animation disable? And the Ad Blocker isn't working anymore.
+ - August 18, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Flawless&&&Droid X
+ - July 9, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Money well spent!!! Best app ever!&&&
+ - July 8, 2011&&&1.0 &&& - HTC Desire &&& 2.2.4&&&Root Required&&&
+ - August 16, 2011&&&4.0 &&& - Motorola Droid &&& 2.2.4&&&Force closing&&&Keeps force closing on Droid 1
+ - July 7, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Perfect. Keep up the great work.&&&
+ - July 16, 2011&&&4.0 &&& - Motorola Droid X2 &&& 2.2.4&&&Just need support for the x2. I've seen it work. Now it needs to ...&&&Just need support for the x2. I've seen it work. Now it needs to work for me ha
+ - July 6, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Awesome app!!!&&&
+ - July 20, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Love it!!!&&&
+ - June 29, 2011&&&3.0 &&& - Motorola Droid X &&& 2.2.4&&&Profiles work now but not OC on boot :/ DX .596&&&
+ - August 28, 2011&&&1.0 &&&&&& - Version 2.2.4&&&Does not work on galaxy&&&S2
+ - July 7, 2011&&&1.0 &&& - Motorola Droid &&& 2.2.4&&&Keeps FC....Can't set frequencies! !&&&
+ - August 19, 2011&&&5.0 &&& - Motorola Droid II &&& 2.2.4&&&A must have for rooted users!&&&
+ - August 20, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Droidx&&&DOUBLED Quadrant Score
+ - July 12, 2011&&&1.0 &&& - Motorola Droid &&& 2.2.4&&&No comment.&&&
+ - July 22, 2011&&&3.0 &&& - Motorola Droid &&& 2.2.4&&&Getting constant FC&&&
+ - July 7, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Awesome&&&
+ - July 10, 2011&&&1.0 &&& - Motorola Droid &&& 2.2.4&&&Topo mmaaannyy force closes&&&
+ - August 31, 2011&&&1.0 &&& - Samsung Galaxy Tab &&& 2.2.4&&&Does not work, error Samsung Galaxy Tab&&&
+ - July 4, 2011&&&5.0 &&& - Motorola Droid II &&& 2.2.4&&&Love it&&&
+ - June 30, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Still buggy&&&
+ - August 2, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&.&&&Suck it Moto!
+ - August 31, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.4&&&Works. Droid X ;)&&&
+ - July 30, 2011&&&3.0 &&& - Motorola Droid X &&& 2.2.4&&&..&&&
+ - June 29, 2011&&&1.0 &&& - Motorola Droid X &&& 2.2.3&&&Won't let me use any profile except for stock settings. My max frequency on ...&&&Won't let me use any profile except for stock settings. My max frequency on anything else just stays on 400mhz. DX CM7
+ - June 29, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.3&&&Great app, a few bugs at times but the developer is always quick to ...&&&Great app, a few bugs at times but the developer is always quick to correct any issues. Highly recommended!
+ - June 29, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.3&&&Great app!!! The best overclocking and underclocking on my liberated X. Nice ...&&&Great app!!! The best overclocking and underclocking on my liberated X. Nice work!!!
+ - June 30, 2011&&&5.0 &&& - Motorola Droid &&& 2.2.3&&&Awesome app couldn't use my phone without it&&&
+ - June 29, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.3&&&It was working fine yesterday now it wont go past 1.0 ghz fix please. ...&&&It was working fine yesterday now it wont go past 1.0 ghz fix please. After last update this happened
+ - August 2, 2011&&&3.0 &&& - Motorola Droid X &&& 2.2.4&&&Force closes a lot&&&
+ - June 29, 2011&&&2.0 &&& - Motorola Droid &&& 2.2.3&&&Bought for fix permissions. Now it's gone!&&&
+ - September 2, 2011&&&1.0 &&& - Motorola Droid X &&& 2.2.4&&&This app blOws wind&&&
+ - June 29, 2011&&&3.0 &&& - Motorola Droid X &&& 2.2.4&&&Working atm&&&
+ - June 30, 2011&&&5.0 &&& - Galaxy Tab 10.1 &&& 2.2.3&&&Does what it says on the box and more.&&&
+ - June 30, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.3&&&Works&&&
+ - June 29, 2011&&&4.0 &&& - SEMC Xperia Play &&& 2.2.2&&&This app could be great if it was compatible with more devices :( overclock ...&&&This app could be great if it was compatible with more devices :( overclock (the reason I got it) doesnt work in my phone, only works on a select few
+ - June 29, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.2&&&Awesome, Droid X @ 1150MHz ULV&&&
+ - June 29, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.2&&&We are aware of the profile bug and it will be fixed within 24 ...&&&We are aware of the profile bug and it will be fixed within 24 hours. Thanks for your understanding. -JRummy
+ - June 29, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.3&&&Works most of the time.&&&
+ - June 28, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.2&&&Love this app. However last update, profiles are not working/updating. DX.&&&
+ - June 28, 2011&&&2.0 &&& - Motorola Droid X2 &&& 2.2.2&&&This isshawn one of my favorites of all time even though it doesn't fully ...&&&This isshawn one of my favorites of all time even though it doesn't fully support my DROID x2. Since the last update all it does is force close.
+ - July 1, 2011&&&5.0 &&& - Motorola Droid X2 &&& 2.2.2&&&I love this app but now i got a droid x2 if you could ...&&&I love this app but now i got a droid x2 if you could make it work with droidx2 that would be great! 5* for the great time i had with it on the droidx
+ - July 20, 2011&&&5.0 &&& - Motorola Droid X2 &&& 2.2.2&&&Awesome app.. Works fantastic on DroidX. Hopefully some Tegra2 support in the ...&&&Awesome app.. Works fantastic on DroidX. Hopefully some Tegra2 support in the future :) Major props, JRummy!!
+ - June 30, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.2&&&Simply the best, constant updates and extras are awesome. Purchase and support!&&&
+ - June 30, 2011&&&3.0 &&& - Motorola Droid &&& 2.2.2&&&latest update fixes profiles, but no oc after boot&&&
+ - July 1, 2011&&&2.0 &&& - Motorola Droid X &&& 2.2.2&&&Well the profiles work and boot works, but now it is showing up to ...&&&Well the profiles work and boot works, but now it is showing up to 30% usage on my battery. Kinda pointless to use at this point :/
+ - June 29, 2011&&&3.0 &&& - Motorola Droid X &&& 2.2.2&&&awesome app, but the daily updates are driving me crazy&&&
+ - June 28, 2011&&&5.0 &&& - Motorola Droid II &&& 2.2.2&&&Most comprehensive overclock app out there. Love it!&&&
+ - July 1, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.2&&&I use it to undrclock, saves battery!&&&
+ - June 28, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.2&&&Best!&&&
+ - June 29, 2011&&&2.0 &&& - Motorola Droid X &&& 2.2.2&&&Currently not working properly. Profile screen on/off not working right with ...&&&Currently not working properly. Profile screen on/off not working right with Liberty or cm4dx
+ - July 8, 2011&&&3.0 &&& - Motorola Droid X &&& 2.2.2&&&Ad blocking broken, also rebooted my DroidX when setting advanced. GB Stock ...&&&Ad blocking broken, also rebooted my DroidX when setting advanced. GB Stock rooted.
+ - June 28, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.2&&&Running cm 7 on dx, quadrant benchmark was 3006 with overclock!!&&&
+ - June 28, 2011&&&5.0 &&& - Samsung Droid Charge &&& 2.2.1&&&This guy & app are siply amazing ;D&&&
+ - June 29, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.2&&&Its the bomb diggity!!&&&
+ - June 30, 2011&&&3.0 &&& - Motorola Droid X &&& 2.2.2&&&Smartass governor and profiles are still buggy with CM4DX.&&&
+ - June 28, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.1&&&Dev. responded to my concern and is doing everything possible to take care of ...&&&Dev. responded to my concern and is doing everything possible to take care of things. 5 stars well deserved!
+ - June 28, 2011&&&5.0 &&& - Motorola Droid II &&& 2.2.1&&&Make sure you get this if your phone is supported by the module. If ...&&&Make sure you get this if your phone is supported by the module. If not, setcpu is good, but this is way better! Worth every penny. Great dev!
+ - June 27, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.1&&&Working great on CM4DX. Very solid performing app.&&&
+ - July 31, 2011&&&4.0 &&& - Motorola Droid X &&& 2.2.1&&&Great app, used to work amazingly, but recent updates have almost completely ...&&&Great app, used to work amazingly, but recent updates have almost completely broken it. Don't use the Widgets. Force close city. DroidX Apex RC2
+ - June 28, 2011&&&5.0 &&& - Samsung Galaxy S &&& 2.2.1&&&Helped improve battery life, and phones performance by a huge amount. Well done. ...&&&Helped improve battery life, and phones performance by a huge amount. Well done. Galaxy S I9000.
+ - June 30, 2011&&&3.0 &&& - Motorola Droid X &&& 2.2.2&&&Loading loading loading&&&
+ - July 1, 2011&&&4.0 &&& - Motorola Droid X &&& 2.2.2&&&Adblocker no longer works...&&&
+ - June 28, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.1&&&This guy goes above and beyond with his work!!! Support his efforts and enjoy ...&&&This guy goes above and beyond with his work!!! Support his efforts and enjoy this great app! DX@ 1.3GHZ L/V!!
+ - June 27, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.1&&&So much better than@ quickclock advanced!! The addition of interactive governor ...&&&So much better than@ quickclock advanced!! The addition of interactive governor makes phone scream!! Thanks jrummy for all the badass apps!
+ - June 28, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.1&&&Awesomeness is all there is. Updates are killer! Great work man! macpro88&&&
+ - June 30, 2011&&&1.0 &&& - Motorola Droid II &&& 2.2.1&&&New update froze phone, constantly FC'ed apps. :(&&&
+ - June 29, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.1&&&Love the frequent updates! It's nice seeing a dev support his work.&&&
+ - June 28, 2011&&&5.0 &&& - HTC Evo 4G &&& 2.2.1&&&Cool app but doesn't work on my evo :(&&&
+ - June 28, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2.1&&&Pure awesome sauce!&&&
+ - June 27, 2011&&&5.0 &&& - HTC Thunderbolt &&& 2.2.1&&&hands down best&&&
+ - June 27, 2011&&&4.0 &&& - Motorola Droid II &&& 2.2.1&&&Not blocking my ads anymore :(&&&
+ - June 28, 2011&&&5.0 &&& - Samsung Galaxy S &&& 2.2.1&&&Lightning quick Samsung galaxy s&&&
+ - June 27, 2011&&&1.0 &&& - Motorola Droid X2 &&& 2.2.1&&&Droid X2?&&&
+ - December 4, 2011&&&5.0 &&& - HTC EVO 3D &&& 2.2&&&Great app!&&&If you brick your device by setting the frequency too high and set it on boot, then that's a user problem....not the apps fault.
+ - June 24, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2&&&Great. Must have for rooted Droid x&&&
+ - April 6, 2012&&&1.0 &&& - Samsung Galaxy Nexus &&& 2.2&&&Sad&&&It seems to be updated, but does not support newer phones.  Bought SetCpu to work on the GNex.  Seems this was made for the X and that was about it.  Shouldn't be so hard to support the custom voltage kernels for newer phones.  The current kernels are pretty much open source.  Seems like the money was made and now a lack of effort.
+ - June 28, 2011&&&5.0 &&&&&& - Version 2.2&&&Works awesome. While you could overclock for free, the extras make it worth the ...&&&Works awesome. While you could overclock for free, the extras make it worth the $1. -Droid X
+ - June 27, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2&&&Works great! Makes my battery last for days and days.&&&
+ - June 25, 2011&&&4.0 &&& - Motorola Droid X &&& 2.2&&&After update, force closing. CM4X. Plus, any advice for getting settings to stick ...&&&After update, force closing. CM4X. Plus, any advice for getting settings to stick on boot CM4X would be AWESOME.
+ - June 24, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2&&&Great app and works flawless with the new update. Constant support from the dev. ...&&&Great app and works flawless with the new update. Constant support from the dev. Money well spent.
+ - June 27, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2&&&Great app, but the latest update is using almost 30% of my battery...please fix. ...&&&Great app, but the latest update is using almost 30% of my battery...please fix. (cm4dx)
+ - June 27, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2&&&This app works great on my Dx!!! Wouldn't overclock w/out it.&&&
+ - June 26, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2&&&No issues here. Cm4dx&&&
+ - June 28, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2&&&Droid 2 Global will not overclock...but not app writers fault. Seems to work well ...&&&Droid 2 Global will not overclock...but not app writers fault. Seems to work well to save battery.
+ - June 27, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2&&&Wonderful app!&&&
+ - June 27, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2&&&Worth every red cent. Awesome app from awesome developer. Upgraded from Setcpu ...&&&Worth every red cent. Awesome app from awesome developer. Upgraded from Setcpu finally.
+ - June 27, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2&&&Uses more battery life now after your update!&&&
+ - June 27, 2011&&&5.0 &&& - Motorola Droid &&& 2.2&&&Works great for my CM7 Droid 1&&&
+ - June 25, 2011&&&3.0 &&& - Motorola Droid X &&& 2.2&&&Works well on DX GB588. Very snappy now. Like the profiles.&&&
+ - June 24, 2011&&&4.0 &&& - Motorola Droid X &&& 2.2&&&Latest update force closes even if the widget isn't on a homescreen. Droid X ...&&&Latest update force closes even if the widget isn't on a homescreen. Droid X froyo 1.15ghz low voltage
+ - June 24, 2011&&&3.0 &&& - Motorola Droid X2 &&& 2.2&&&Nothing works on rooted X2. Temps are way off, ad block doesn't work, overclock ...&&&Nothing works on rooted X2. Temps are way off, ad block doesn't work, overclock mod doesn't even load.
+ - June 30, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2&&&Working great once again since bug fixes. Developer is amazingly quick at ironing ...&&&Working great once again since bug fixes. Developer is amazingly quick at ironing out problems!
+ - June 24, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2&&&New version fixes apply boot frequencies on cm4dx&&&
+ - June 27, 2011&&&3.0 &&& - Motorola Droid X &&& 2.2&&&Force closes a lot... droid x Liberty GB 0.8&&&
+ - June 24, 2011&&&3.0 &&& - Motorola Droid X &&& 2.2&&&Great app! but, unfortunately it doesn't work well with Cyanogen for the Droid X. ...&&&Great app! but, unfortunately it doesn't work well with Cyanogen for the Droid X. Constant reboots.
+ - June 27, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2&&&Awesome&&&
+ - June 25, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2&&&Runs good but sometimes causes reboots using 1.1 ULV and interactive governor on ...&&&Runs good but sometimes causes reboots using 1.1 ULV and interactive governor on CM4DX.
+ - June 24, 2011&&&4.0 &&& - LG Optimus One &&& 2.2&&&Since update keeps force closing. Please fix.&&&
+ - June 27, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2&&&Da bomb&&&
+ - June 27, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2&&&Fixed. Perfect! Awesome thanks!&&&
+ - June 27, 2011&&&5.0 &&& - Motorola Droid X &&& 2.2&&&Recent update fixed CM4DX&&&
+ - July 24, 2011&&&5.0 &&& - Motorola Droid II &&& 2.1.7&&&Great on D2!&&&Great on the D2, verizon sent me a d2g and I'm wondering if it works on that!
+ - June 6, 2011&&&5.0 &&& - HTC G2 &&& 2.1.7&&&Great app, helped me a lot, thanks for making it&&&
+ - June 27, 2011&&&5.0 &&& - HTC Droid Incredible &&& 2.1.7&&&Can you support Droid Incredible please?&&&
+ - May 30, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&perfect on Droid X running gingerbread 596 :)&&&
+ - August 30, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&Using version 2.2.2 until these profile bugs and such are fixed, working great for ...&&&Using version 2.2.2 until these profile bugs and such are fixed, working great for me
+ - June 19, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&Great app! Droid X&&&
+ - June 25, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&DX CM7 nightly #10. For me, new update is working just fine. As always ...&&&DX CM7 nightly #10. For me, new update is working just fine. As always great work.
+ - June 18, 2011&&&3.0 &&& - Motorola Droid &&& 2.1.7&&&Only supports 4 slots! Most kernals are seven slots. Lame! All the extras don't ...&&&Only supports 4 slots! Most kernals are seven slots. Lame! All the extras don't make up for this. Time to support 7 slots.
+ - June 24, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&Worked great until last update, 4x1 widget forces close&&&
+ - June 2, 2011&&&5.0 &&& - Acer Picasso &&& 2.1.7&&&Works perfect on rooted droid x and xoom, thanks jrummy!&&&
+ - June 24, 2011&&&5.0 &&& - HTC Thunderbolt &&& 2.1.7&&&Love this widget. Used it on my Xoom, DX and now my Thunderbolt. Wish ...&&&Love this widget. Used it on my Xoom, DX and now my Thunderbolt. Wish it keep the Droid name or say the name of the phone. Hope that's in a new update
+ - June 21, 2011&&&4.0 &&& - Motorola Droid X &&& 2.1.7&&&Have to also add that it's not overclocking at boot for CM4DX. Nor does ...&&&Have to also add that it's not overclocking at boot for CM4DX. Nor does ad blocker work currently. Back to 5 stars when those are fixed.
+ - June 13, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&With its on-the-fly speed change options, and plethora of extra features it beats ...&&&With its on-the-fly speed change options, and plethora of extra features it beats all other overclocking options on the DX.
+ - June 13, 2011&&&3.0 &&& - Motorola Droid X &&& 2.1.7&&&I use to be able to manage stage fright, now its telling me my ...&&&I use to be able to manage stage fright, now its telling me my device is not supported yet im using the same DX???
+ - August 7, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&Really amazing app....better battery life and better phone performance what more ...&&&Really amazing app....better battery life and better phone performance what more could you ask for?
+ - June 5, 2011&&&3.0 &&&&&& - Version 2.1.7&&&Good App. Will rate 5 when they cover Samsung Galaxy S. Just being able ...&&&Good App. Will rate 5 when they cover Samsung Galaxy S. Just being able to change governor not quite enough.
+ - May 30, 2011&&&4.0 &&& - Motorola Droid X &&& 2.1.7&&&Good, but set on boot seems to be broken for Droid X GB 596... ...&&&Good, but set on boot seems to be broken for Droid X GB 596... Otherwise would be 5 star
+ - June 16, 2011&&&2.0 &&& - Motorola Droid &&& 2.1.7&&&Good idea but won't open droid&&&
+ - May 29, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&Seems to be having overheating issues with .596 - even at a measly 1.15 ...&&&Seems to be having overheating issues with .596 - even at a measly 1.15 low voltage. I'm sure it will get sorted out though, great dev... Still # 1!
+ - June 5, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&Excellent app for over/under clocking or volting. Haven't had any problems with ...&&&Excellent app for over/under clocking or volting. Haven't had any problems with it. JRummy16 always does good work.
+ - June 28, 2011&&&4.0 &&& - LG Optimus 2X &&& 2.1.7&&&Cpu frequency scaling doesn't work can't overclock have very limited functions ...&&&Cpu frequency scaling doesn't work can't overclock have very limited functions but the functions I do have work really well, G2x
+ - June 6, 2011&&&3.0 &&& - Motorola Droid X &&& 2.1.7&&&Love the design but I keep getting stuck in the screen off profile setting ...&&&Love the design but I keep getting stuck in the screen off profile setting and it never changes. DroidX LGB 0.6
+ - June 3, 2011&&&5.0 &&&&&& - Version 2.1.7&&&Very nice. Rooted HTC EVO 4G&&&
+ - June 7, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&I realy like this app my phone is alot faster hooray&&&
+ - June 21, 2011&&&5.0 &&& - HTC myTouch 4G &&& 2.1.7&&&Nice app, could you get htc my touch 4g working with it.&&&
+ - June 25, 2011&&&2.0 &&& - Motorola Droid II &&& 2.1.7&&&Great BUT... I constantly get "Droid overclock has been granted superuser ...&&&Great BUT... I constantly get "Droid overclock has been granted superuser permission" notification, at least once every 5 minutes
+ - July 19, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&Works great. Thanks for the updates!!&&&
+ - June 26, 2011&&&1.0 &&& - Motorola Droid X &&& 2.1.7&&&New update FC constantly ...restoring previous version ...DX...back to the ...&&&New update FC constantly ...restoring previous version ...DX...back to the drawing board JRummy..
+ - June 27, 2011&&&3.0 &&& - Motorola Droid X &&& 2.1.7&&&Love the application. So much stuff in one app. Until the problems with CM7 ...&&&Love the application. So much stuff in one app. Until the problems with CM7 get worked out.I cannot give this the 5 stars it deserves
+ - June 2, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&Amazing look and feel. Just seems a lil sluggish at times&&&
+ - June 12, 2011&&&1.0 &&& - Motorola Droid II &&& 2.1.7&&&I cannot fairly rate this app. The only thing I ask, along with my ...&&&I cannot fairly rate this app. The only thing I ask, along with my money, is that you make it clear it a rom/root is needed. Thank you.
+ - June 24, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&Worked great till I updated to gingerbread and lost root. Can someone give me ...&&&Worked great till I updated to gingerbread and lost root. Can someone give me insight on how to obtain root access running gingerbread?
+ - June 22, 2011&&&3.0 &&& - Motorola Droid X2 &&& 2.1.7&&&Five stars once droid x2 is fully supported. Great ui and quality app though ...&&&Five stars once droid x2 is fully supported. Great ui and quality app though ;-)
+ - June 2, 2011&&&5.0 &&&&&& - Version 2.1.7&&&Just the extras are worth. I can maximize the CPU. Its like I have ...&&&Just the extras are worth. I can maximize the CPU. Its like I have a new Droid
+ - July 12, 2011&&&2.0 &&& - Motorola Droid X &&& 2.1.7&&&I have had problems with every update in one form or another. I want ...&&&I have had problems with every update in one form or another. I want to love it, but can't. I'm not a noob, either. DX darkslide 4.2
+ - June 15, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&Sweet app. My sweet spot seems to be 1.25 ghz Max at low voltage. ...&&&Sweet app. My sweet spot seems to be 1.25 ghz Max at low voltage. 1950 average for my quadrant score. LGB v0.8.
+ - June 23, 2011&&&3.0 &&& - Motorola Droid X &&& 2.1.7&&&Fix for gingerbread droidx! Nothing works from the add blocker to the overclock ...&&&Fix for gingerbread droidx! Nothing works from the add blocker to the overclock crashes whole phone now
+ - June 14, 2011&&&1.0 &&& - Motorola Droid X &&& 2.1.7&&&Uninstalled. Very dangerous. Over clocking severely overheats processor on ...&&&Uninstalled. Very dangerous. Over clocking severely overheats processor on Droid X. Kills battery fast! Even without over clocking, app slowed down ph
+ - June 19, 2011&&&5.0 &&& - Motorola Droid X2 &&& 2.1.7&&&Was excellent on my Droid X. Hope u support the X2 soon&&&
+ - June 13, 2011&&&1.0 &&& - HTC Desire &&& 2.1.7&&&Force closes and hangs my phone. Far better apps do the same thing. Not ...&&&Force closes and hangs my phone. Far better apps do the same thing. Not impressed.
+ - June 20, 2011&&&4.0 &&& - Motorola Droid X2 &&& 2.1.7&&&Please we need DROID X2 support and u got 5 stars for sure! Please ...&&&Please we need DROID X2 support and u got 5 stars for sure! Please asap!! I need to overclock this phone!!
+ - July 17, 2011&&&3.0 &&& - Motorola Droid II &&& 2.1.7&&&Getting constant FC's on Cyanogen 7.1 D2, Cyanogen 7.1, OC to 1.25 on LV&&&
+ - May 29, 2011&&&5.0 &&& - Motorola Droid II &&& 2.1.7&&&Works really well. Extras alone a worth the cost of the app. I recommend ...&&&Works really well. Extras alone a worth the cost of the app. I recommend this.
+ - June 25, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&Just plain awesome!&&&
+ - June 16, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&Great app ty&&&
+ - June 7, 2011&&&1.0 &&&&&& - Version 2.1.7&&&I previously liked this app. Today, it was overheating my phone. It was set ...&&&I previously liked this app. Today, it was overheating my phone. It was set at 1.2 GHz. Uninstalled. D2 Liberty 2.0.1.
+ - June 7, 2011&&&1.0 &&& - Motorola Droid X &&& 2.1.7&&&Not working on Liberty .6 or .7, no response to repeated pleas for help ...&&&Not working on Liberty .6 or .7, no response to repeated pleas for help in Liberty forum.
+ - June 21, 2011&&&2.0 &&& - Samsung Galaxy S &&& 2.1.7&&&Will not work with rooted epic 4g on a sprint network&&&
+ - June 26, 2011&&&4.0 &&& - Motorola Droid X2 &&& 2.1.7&&&NEEDS TO BE UPGRADED TO SUPPORT DROID X2 PLEASE!!!!&&&
+ - July 20, 2011&&&3.0 &&& - Motorola Droid X &&& 2.1.7&&&Freqs jump all over once activated. It never settles down even when phone's doing ...&&&Freqs jump all over once activated. It never settles down even when phone's doing nothing. DroidX on CM7.
+ - June 7, 2011&&&5.0 &&& - Motorola Droid &&& 2.1.7&&&Jrummy as always great work&&&
+ - June 16, 2011&&&5.0 &&& - Motorola Droid II &&& 2.1.7&&&Great app, I love all the control options!&&&
+ - June 13, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&With my extended battery I love the extra speed I get!&&&
+ - June 25, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&Smiles... reflash to froyo and use z4.&&&
+ - May 29, 2011&&&5.0 &&&&&& - Version 2.1.7&&&So amazing. Overclocked my droid x to 1.3. Flies like crazy&&&
+ - June 23, 2011&&&2.0 &&& - Samsung Moment &&& 2.1.7&&&I was disappointed with this app.. No updates to currect crashing issues. I would ...&&&I was disappointed with this app.. No updates to currect crashing issues. I would NOT recommend the purchase of this app.
+ - June 27, 2011&&&4.0 &&& - Motorola Droid X &&& 2.1.7&&&Force closes constantly. When it does work it works well. D X Darkslide 4.2&&&
+ - June 10, 2011&&&1.0 &&&&&& - Version 2.1.7&&&Doesn't work on rooted mid x5a refund!&&&
+ - June 24, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&Does it work for CM7 for Droid X?&&&
+ - June 10, 2011&&&5.0 &&& - Motorola XOOM &&& 2.1.7&&&It does what it says and more! Droid X , droid 2&&&
+ - May 29, 2011&&&4.0 &&& - Motorola Droid X &&& 2.1.7&&&DX running GB. 596 deodexed, Busybox 1.19. Overclock wont hold settings on reboot.&&&
+ - June 25, 2011&&&3.0 &&& - Motorola Droid X &&& 2.1.7&&&tt&&&
+ - May 29, 2011&&&5.0 &&&&&& - Version 2.1.7&&&Works&&&
+ - June 3, 2011&&&1.0 &&& - Motorola Droid X &&& 2.1.7&&&Unable to get it to work.&&&
+ - June 4, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&I love this app and this developer. Great work!!!&&&
+ - June 9, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&New update. DROID X gingerbread wont load.......&&&
+ - June 2, 2011&&&1.0 &&&&&& - Version 2.1.7&&&Wast of time and money&&&
+ - June 7, 2011&&&5.0 &&&&&& - Version 2.1.7&&&Perfect&&&
+ - November 9, 2011&&&5.0 &&& - Motorola Droid X &&& 2.3.4&&&Easy to use.&&&Awesome app Only thing I have run into is one of the updates removed the option to change the boot screen. Now I'm stuck with the non-stock boot scree
+ - June 18, 2011&&&5.0 &&& - Motorola Droid X2 &&& 2.1.7&&&Please support DX2!&&&
+ - May 29, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.7&&&Simply awesome and fundamentally easy to use.&&&
+ - May 2, 2011&&&1.0 &&& - Motorola Droid X &&& 2.1.6&&&THANKS JASON. OK ISSUE ME RESETS HERE AND THERE, AND! WHEN I WANNA DIAL ...&&&THANKS JASON. OK ISSUE ME RESETS HERE AND THERE, AND! WHEN I WANNA DIAL IT WONT ALLOW ME AT ALL BUT IM ABLE TO CALL ME CURRRENT CONTACTS .. ANY IDEAS
+ - May 26, 2011&&&3.0 &&& - Motorola Droid X &&& 2.1.6&&&Make it work for dx2! Worked great on my dx&&&
+ - June 5, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&Fantastic app. $1.50 is a good price for its core function, but it gives ...&&&Fantastic app. $1.50 is a good price for its core function, but it gives loads of great functionality in addition. More than worth it!
+ - June 9, 2011&&&1.0 &&&&&& - Version 2.1.6&&&Would be good if i could get it to actually Work. Dont buy unless ...&&&Would be good if i could get it to actually Work. Dont buy unless u know u how to hack your phone
+ - May 6, 2011&&&1.0 &&& - Huawei M860 &&& 2.1.6&&&Does not work for acend. But is worth 5 stars in better droids&&&
+ - May 11, 2011&&&5.0 &&&&&& - Version 2.1.6&&&Work with droid2, but make sure you test your speed before setting to max.&&&
+ - May 1, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&Easy to use,pre set CPU choices,or go custom and come up with your own.I ...&&&Easy to use,pre set CPU choices,or go custom and come up with your own.I totally notice a nice increase in speed with the same battery life.Liberty 2.
+ - May 29, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&Great app! All the way around. DX&&&
+ - May 16, 2011&&&4.0 &&& - Motorola Droid X &&& 2.1.6&&&Works well on rooted 2.21 Profiles are great once you master them. This utility ...&&&Works well on rooted 2.21 Profiles are great once you master them. This utility is not for timid users.
+ - May 27, 2011&&&5.0 &&&&&& - Version 2.1.6&&&Using Ultra Low Voltage with 1.35 GHz screen-on prof and 400 MHz screen-off prof ...&&&Using Ultra Low Voltage with 1.35 GHz screen-on prof and 400 MHz screen-off prof on DX with LGB v0.5. Completely stable. GREAT APP!
+ - May 12, 2011&&&4.0 &&&&&& - Version 2.1.6&&&Good app. Screen density fix makes my gb DROIDX look retarded. Underclocked to ...&&&Good app. Screen density fix makes my gb DROIDX look retarded. Underclocked to 900mhz it sips juice. 4 stars.
+ - May 13, 2011&&&5.0 &&&&&& - Version 2.1.6&&&Great utility and nice UI.. Only issue is changing the lcd density screws stock ...&&&Great utility and nice UI.. Only issue is changing the lcd density screws stock dialer up... fixed by getting one from market.. 5* DX
+ - May 5, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&JRummy has created the single most useful app on my phone 5 stars. Jrummy ...&&&JRummy has created the single most useful app on my phone 5 stars. Jrummy u sir are a bada$$
+ - May 1, 2011&&&1.0 &&& - Motorola Droid &&& 2.1.6&&&Set cpu is much better than this excuse for a turd. I am very ...&&&Set cpu is much better than this excuse for a turd. I am very unpleased and on top of that will not refund my app.
+ - May 2, 2011&&&5.0 &&&&&& - Version 2.1.6&&&Great dx gb&&&
+ - May 9, 2011&&&3.0 &&& - Asus Eee Pad &&& 2.1.6&&&This app is defiantly 5 stars the only reason I put three is z4root ...&&&This app is defiantly 5 stars the only reason I put three is z4root does not root thunderbolt please support the thunderbolt
+ - May 1, 2011&&&5.0 &&&&&& - Version 2.1.6&&&Works great with density change. Makes my droidx hi Res. Can't wait to start ...&&&Works great with density change. Makes my droidx hi Res. Can't wait to start playing with the CPU controls
+ - May 14, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&This is the best OC software out. Droid X 1.3 ghz on low voltage ...&&&This is the best OC software out. Droid X 1.3 ghz on low voltage last a long time b4 crash. 1.25 ghz hardly ever crashes. Also has tons of extras!
+ - May 12, 2011&&&5.0 &&& - Motorola Droid II &&& 2.1.6&&&The 2 udates said that you have fixed the droid 2 bug.. well I ...&&&The 2 udates said that you have fixed the droid 2 bug.. well I still have it. Nothing works for me; it just reboots.
+ - May 29, 2011&&&4.0 &&& - Motorola Droid X &&& 2.1.6&&&Dev, most of us DX owners simply updated and we started to bootloop. Don't ...&&&Dev, most of us DX owners simply updated and we started to bootloop. Don't try to tell us its our fault due to settings. Man up.
+ - May 28, 2011&&&1.0 &&&&&& - Version 2.1.6&&&Having problems with this app, keep getting "root required" message, even though ...&&&Having problems with this app, keep getting "root required" message, even though phone is rooted with z4root, "superuser" can't even find this app
+ - May 6, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&As usual another great app from jrummy. Been using for about 6 months. Love ...&&&As usual another great app from jrummy. Been using for about 6 months. Love it!
+ - May 14, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&This app is legit. Running 1.2ghz w/low volt battery. Runs better than stock. Great ...&&&This app is legit. Running 1.2ghz w/low volt battery. Runs better than stock. Great job JRUMMY
+ - May 27, 2011&&&3.0 &&& - Motorola Droid X &&& 2.1.6&&&Some reason won't let me over clock any more says something about kernel changed. ...&&&Some reason won't let me over clock any more says something about kernel changed. Any ideas.
+ - May 23, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&keep up the great work&&&
+ - May 10, 2011&&&1.0 &&& - Motorola Droid X &&& 2.1.6&&&Took my money, but refuses to download. Also will not provide a refund&&&
+ - May 8, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&Works great! Oc'd lv 1200 mhz&&&
+ - May 25, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&Such a great app. Best overclocker on the market. And the developer is very ...&&&Such a great app. Best overclocker on the market. And the developer is very involved in the scene and deserves the support. Thanks!
+ - May 5, 2011&&&3.0 &&& - Motorola Droid X &&& 2.1.6&&&settings don't stay after boot. works great just stinks having to reset every boot&&&
+ - May 21, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&Very good..Dx&&&
+ - May 11, 2011&&&4.0 &&&&&& - Version 2.1.6&&&The widget keeps disappearing from my home screen. Please fix. Droid x.&&&
+ - May 26, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&Awesome&&&
+ - May 10, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&DX on GB .595 OC'd to 1.3ghz w/ hi Quad of 2395, although generates ...&&&DX on GB .595 OC'd to 1.3ghz w/ hi Quad of 2395, although generates too much heat. Undervolted @ stock freq, battery lasts much longer & 1986 Quad.
+ - May 15, 2011&&&5.0 &&&&&& - Version 2.1.6&&&This blows all other OCing apps out of the water.&&&
+ - May 29, 2011&&&5.0 &&& - Motorola Droid &&& 2.1.6&&&Works vary nice&&&
+ - May 29, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&Works fantastic, and very easy to use.&&&
+ - May 9, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&Awesome.&&&
+ - May 9, 2011&&&1.0 &&&&&& - Version 2.1.6&&&Crashes my milestone.&&&
+ - May 30, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&System benchmark score of 1787 before, 2209 after w/ med. voltage set to 1350 ...&&&System benchmark score of 1787 before, 2209 after w/ med. voltage set to 1350 mhz using Antutu System Benchmark. Increased battery temp. -Droid X.
+ - May 12, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&Best around&&&
+ - May 30, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&Great&&&
+ - May 24, 2011&&&5.0 &&&&&& - Version 2.1.6&&&Cool&&&
+ - May 18, 2011&&&5.0 &&&&&& - Version 2.1.6&&&Insane tool. Highly recommended. 5/5&&&
+ - May 6, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&Got 2.3 with rooted access. Overclocked to 1.3. Quadrant Standard benchmark score ...&&&Got 2.3 with rooted access. Overclocked to 1.3. Quadrant Standard benchmark score of 2241!
+ - May 14, 2011&&&1.0 &&& - Motorola Droid X &&& 2.1.6&&&Forces closed and shuts down the phone....&&&
+ - May 29, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&Two words: da bomb&&&
+ - May 25, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&Would give it a ten if I could does everything!!!!&&&
+ - May 28, 2011&&&5.0 &&& - Motorola Droid X &&& 2.1.6&&&Love it. Though crashing on latest GB build .596&&&
+ - May 30, 2011&&&3.0 &&& - Motorola Droid X &&& 2.1.6&&&Seems to be having heat issues.. Droid X&&&
+ - May 15, 2011&&&5.0 &&&&&& - Version 2.1.6&&&Nice app&&&

@@ -1,0 +1,57 @@
+ - May 27, 2012&&&3.0 &&& - Motorola Photon 4G &&& 2.6&&&Cool!&&&I have live dmesg and live logcat both installed on my Motorola Photon, and they work great. I have no idea what 99.999999% of the info they show means, but hey it keeps me distracted while my phone boots! Two points subtracted for having an author that ignores emails.
+ - March 7, 2012&&&5.0 &&& - LG Optimus 2X &&& 2.6&&&G2x&&&Does not work on g2x. Running latest faux kernel with hells latest pics. Just a quick heads up before you buy.
+ - February 20, 2012&&&5.0 &&&&&& - Version 2.6&&&Worked on TF101&&&Great app, however it's not working on ICS for Transformer Prime. It did work on my original transformer TF101 so I'm giving it 5 stars, I just hope the dev updates it to work on ICS as I've bought both his apps. I want to see how quick this moves on my Prime compared to tf101 :)
+ - January 10, 2012&&&5.0 &&& - HTC Desire &&& 2.6&&&Still awesome&&&No longer working on my HTC Desire running beta CM9 (black screen same as others) . Still a 5 star app hope there is a fix soon.
+ - January 20, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 2.6&&&10/10&&&Perfection for the Galaxy Nexus. A lock screen like this would be worth your time also!
+ - March 6, 2012&&&3.0 &&& - EeePad Transformer TF101 &&& 2.6&&&Doesn't work on ICS (TF101)&&&Worked great on Honeycomb. No longer works on my ASUS TF101 since updating to ICS. On boot the screen is blank.
+ - March 21, 2012&&&5.0 &&& - LG Optimus 2X &&& 2.6&&&Doesn't work on ics&&&As the title says, I'll rate it max as it's still a great app for GB ROMS, am in AOKP 28
+ - May 9, 2012&&&5.0 &&& - Samsung Nexus S &&& 2.6&&&Nexus s 4g aokp&&&Confirmed working on nexus s 4g aokp m5. No touch support though if you want both set it to split screen. Awesome work!
+ - December 24, 2011&&&5.0 &&&&&& - Version 2.6&&&Awesome!&&&But unfortunately all the devs for the AT&T GSII have screwed us with that crap ICS boot-animation! this app no longer works:(
+ - March 8, 2012&&&4.0 &&&&&& - Version 2.6&&&Htc evo 4g running cm7.1&&&App works great. Had the lite version for awhile and just decided to spice it up with the full version to support the dev. Great work!
+ - March 23, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 2.6&&&Have a beer on me :)&&&Excellent! Would love to be able to select font size (numerical) and font family with a preview in settings.
+ - April 25, 2012&&&5.0 &&& - HTC One X &&& 2.6&&&Not quite there yet.&&&Doesn't work with the One X yet. Clearly because we don't have s-off yet. Keeping it tho because 1. You deserve the beer and 2. S-off is just around the corner. Nice work as always pal.
+ - January 29, 2012&&&5.0 &&&&&& - Version 2.6&&&Stonefisher&&&Works great on the ZTE Skate/Orange Monte Carlo. You've earned your beer.
+ - January 8, 2012&&&4.0 &&& - HTC Evo 4G &&& 2.6&&&Cool&&&It does what it says and I've never had a problem with it.
+ - April 9, 2012&&&5.0 &&&&&& - Version 2.6&&&Works great&&&How about an option to change text colors and add .ogg's?
+ - February 21, 2012&&&5.0 &&& - HTC Sensation 4G &&& 2.6&&&Superb&&&The best geeky tool ever... You deserve a ton of beers :d
+ - January 5, 2012&&&5.0 &&& - Motorola XOOM &&& 2.6&&&No ICS  - XOOM&&&Does not work on xoom EOS ICS nightly, did work on HC
+ - February 15, 2012&&&5.0 &&& - HTC Evo 4G &&& 2.6&&&Big reg&&&Love app awesome
+ - May 11, 2012&&&5.0 &&& - HTC One X &&& 2.6&&&Att one x rooted&&&Works great on tat one x that is rooted with out s-off. Thanks for great work.
+ - June 7, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 2.6&&&Just to show my gratitude for your contribution&&&Bought app as a form of donation for your great contribution in XDA community, thanks to you I love my SGS2 more, possibly SGS3/Nexus in the future
+ - May 11, 2012&&&5.0 &&& - Samsung Infuse 4G &&& 2.6&&&Great bootscreen 5 stars&&&This app still works.Samsung Infuse 4G
+ - January 27, 2012&&&5.0 &&& - Motorola Droid X &&& 2.6&&&Very nice!&&&Looks awesome and is very usefull
+ - December 14, 2011&&&3.0 &&& - Samsung Galaxy S2 &&& 2.5&&&.&&&Was working properly but after the last update I just get a black screen.. Galaxy s2.
+ - September 21, 2011&&&5.0 &&& - Motorola Droid X2 &&& 2.3&&&Very cool and geeky!! :)&&&It seems to be working just fine on my Droid X2. Figured I'd mention that since I don't see it as a listed device. Thanks for the cool app, enjoy your cold beverage! :)
+ - April 18, 2012&&&5.0 &&& - Motorola Droid Pro &&& 2.3&&&Problems after latest update for Droid Pro&&&After Verizon's latest update 4.7.3, having either live dmesg or logcat installed causes the camera to no longer show a preview on the screen, or any video applications to play back video. The camera still takes pictures and the youtube app still streams audio. Tried a factory data reset and unfortunately this app causes these side-effects on the Droid Pro. The app itself works great and is very cool, but i have to uninstall for now. Thanks for a nice replacement for the bootup animation!
+ - August 12, 2011&&&4.0 &&& - Motorola Droid X &&& 2.3&&&Very cool but settings don't save&&&Droid X CM7. I have both paid bootanimations and can tap to change the display between the three settings but the defaults I set in the app don't show
+ - July 30, 2011&&&5.0 &&&&&& - Version 2.3&&&Works great on G2/Vision&&&Great app, works perfectly on my G2. Unfortunately, it is unreadable on my new sensation (540 x 960): text appears broken and flickers like an off-sync CRT screen.
+ - September 12, 2011&&&4.0 &&& - LGE Bryce &&& 2.3&&&Looks cool&&&Aww wish this worked on LG Revolution ='( running 2.2.2btw
+ - August 18, 2011&&&5.0 &&&&&& - Version 2.3&&&Works great on the Toshiba Thrive&&&Very nice app. Works well on my Tegra-2 Toshiba Thrive.
+ - September 16, 2011&&&5.0 &&& - HTC Incredible 2 &&& 2.3&&&Awesome!!&&&I love it, Droid Incredible 2.
+ - September 2, 2011&&&4.0 &&& - Samsung Galaxy S2 &&& 2.3&&&Bought dmsg & logcat and also nomoarpowah on sgs2 with Lite'ning Rom V5.0 XXKG6. ...&&&Bought dmsg & logcat and also nomoarpowah on sgs2 with Lite'ning Rom V5.0 XXKG6. Blank on boot. 100% from system process and hot. Uninstall cured.
+ - June 24, 2011&&&5.0 &&& - Motorola Droid X2 &&& 2.3&&&Pretty neat&&&Works on my Droid X2 along with live dmesg.
+ - November 21, 2011&&&5.0 &&& - Samsung Droid Charge &&& 2.3&&&Very cool&&&Works on Droid Charge.
+ - July 22, 2011&&&5.0 &&& - Motorola Droid &&& 2.3&&&Nerdgasm!&&&I got both the dmesg and this and I'll never need another custom boot animation ever again.
+ - July 9, 2011&&&5.0 &&& - Dell Streak &&& 2.2&&&Worth every penny, even supports my landscape oriented streak&&&
+ - July 30, 2011&&&3.0 &&& - Samsung Europa  &&& 2.2&&&Can I plz get better support for gt i5500 works but buggy plz update ...&&&Can I plz get better support for gt i5500 works but buggy plz update for this device as firmware update is released and it rocks thx dev
+ - June 16, 2011&&&5.0 &&& - Samsung Nexus S &&& 2.2&&&Works on Nexus S 4G! This is perfect, makes my android more like my ...&&&Works on Nexus S 4G! This is perfect, makes my android more like my laptop.
+ - June 17, 2011&&&5.0 &&& - HTC Desire HD &&& 2.2&&&A must have with live dmesg the split screen option is so cool.&&&
+ - June 7, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 2.2&&&Better than the stock boot screen. Maybe create a feature to export to a ...&&&Better than the stock boot screen. Maybe create a feature to export to a file for review and a guide to decode it? Great work on all apps!
+ - June 5, 2011&&&5.0 &&& - Samsung Galaxy S &&& 1.9&&&Excellent on SGS stock ROM 2.2&&&
+ - June 2, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.8&&&Works great on DesireHD running gingerbread 2.3.4 (miui 1.5.27)&&&
+ - June 4, 2011&&&5.0 &&& - Motorola Citrus &&& 1.7&&&Works great on mytouch 3G (with s-off) and OG droid. Has a small issue ...&&&Works great on mytouch 3G (with s-off) and OG droid. Has a small issue booting on the LG Citrus (verizon logo flashes behind log). Thank you dev!
+ - June 1, 2011&&&5.0 &&& - HTC Evo 4G &&& 1.7&&&Works great on Nook Color with latest CM7 nightly.&&&
+ - May 24, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.7&&&Very nice app, works perfectly! Love to see the log! Samsung Captivate 2.2 (Stock, ...&&&Very nice app, works perfectly! Love to see the log! Samsung Captivate 2.2 (Stock, rooted)
+ - June 17, 2011&&&5.0 &&& - HTC Desire HD &&& 1.7&&&VERY cool. Too bad there aren't more customize options.&&&
+ - May 18, 2011&&&5.0 &&& - HTC Thunderbolt &&& 1.6&&&Works perfect on my nook color running CM7!&&&
+ - May 5, 2011&&&5.0 &&& - Motorola XOOM &&& 1.6&&&Blank screen for hot reboots on og droid cm7.0.2. normal reboots show the ...&&&Blank screen for hot reboots on og droid cm7.0.2. normal reboots show the animation. other boot animations work with hot reboots.
+ - April 29, 2011&&&5.0 &&& - HTC Nexus One &&& 1.6&&&Excellent app. May I suggest adding just a black screen with "Android" in the ...&&&Excellent app. May I suggest adding just a black screen with "Android" in the center as option (tap/drag/button).Will help to save some battery points
+ - May 17, 2011&&&5.0 &&& - Motorola Atrix &&& 1.6&&&Works great on Nook Color running CM7&&&
+ - April 27, 2011&&&5.0 &&& - Motorola Droid &&& 1.6&&&SU kept FCing after initial install. Works fine after reboot. Droid 1 rooted stock ...&&&SU kept FCing after initial install. Works fine after reboot. Droid 1 rooted stock 2.2.2 w/ SU 2.3.1-ef --- good app!
+ - April 27, 2011&&&5.0 &&&&&& - Version 1.6&&&In the words of Vader...Very Impressive.&&&
+ - May 6, 2011&&&2.0 &&& - LG Optimus 2X &&& 1.6&&&Doesn't work on G2X. Took too long for refund. Will re-rate when G2X support ...&&&Doesn't work on G2X. Took too long for refund. Will re-rate when G2X support is added.
+ - May 5, 2011&&&4.0 &&& - LG Optimus 2X &&& 1.6&&&Doesn't work on G2x (stock, rooted), but at least it got rid of the ...&&&Doesn't work on G2x (stock, rooted), but at least it got rid of the annoying stock boot animation.
+ - April 24, 2011&&&5.0 &&& - Motorola Droid X &&& 1.5&&&Works great on a Droidx running 2.3&&&
+ - April 20, 2011&&&5.0 &&& - HTC Thunderbolt &&& 1.5&&&Awesome, and now we have a live logcat. Great job Chainfire!&&&
+ - April 27, 2011&&&5.0 &&& - HTC Desire HD &&& 1.5&&&runs perfect on HTC Inspire (cm7)&&&
+ - April 20, 2011&&&5.0 &&& - HTC Evo 4G &&& 1.5&&&Must have!&&&

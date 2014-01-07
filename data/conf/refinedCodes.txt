@@ -1,0 +1,76 @@
+overall
+size
+speed
+gui
+functionality
+customization
+portability
+device
+organization
+animations
+updates
+stability
+smoothness
+memory
+feels safe
+versatile
+must have
+options
+negative
+positive
+poor support
+no support
+pf on support
+misleading app descr
+poor dev support
+no dev support
+uninstall
+worth the money
+not worth the money
+ask for refund
+switch from free to paid
+switch from paid to free
+switch to other app
+buy to support
+willing to buy other apps
+major bug
+medium bug
+minor bug
+app incomp with device
+app incomp with os
+fix
+battery loss
+version for new device
+revert changes
+more options
+missing gui feat
+missing logic feat
+more updates
+more features
+diff preference for existing gui feat
+diff preference for existing logic feat
+easy to use
+different to use
+easy to learn
+difficult to learn
+hard to setup
+easy to understand
+difficult to understand
+used over more devices
+uncertain about the right functionality
+recommend it
+invasive
+user friendly
+unusable
+unreliable
+lack of docs
+intuitive
+used because no other option is available
+transition not seamless
+outdated
+app improve with updates
+update messed it up
+update messep up specific feat
+downgrade to older version
+long time user
+

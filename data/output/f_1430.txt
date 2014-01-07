@@ -1,0 +1,480 @@
+ - December 30, 2011&&&5.0 &&& - Samsung Galaxy Nexus &&& 2.6.8&&&Fantastic.&&&Works as advertised. Dev is friendly and responds promptly to email inquiries. Update for ICS support is great. A must have for rooted phones.
+ - January 1, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 2.6.8&&&Good.&&&This is how apps should be. No BS permissions and functions better than any other app of this type. Keep doing the good work dev.
+ - January 4, 2012&&&4.0 &&& - HTC G2 &&& 2.6.8&&&Good!&&&Update fixed alot of issues but still needs to scan current apps and give option to select all, internal/sd, etc. The built-in is not really useful. That would make it perfect!
+ - February 17, 2012&&&4.0 &&& - HTC Thunderbolt &&& 2.6.8&&&Great&&&Had the free version and paid the buck. Great work keep it up! Thanks
+ - January 21, 2012&&&5.0 &&& - Motorola Droid RAZR &&& 2.6.8&&&does what it says&&&I use this every few days.  great useful app.  can't beat a buck!  hate ads... Droid Razr
+ - April 27, 2012&&&3.0 &&& - Motorola Atrix &&& 2.6.8&&&Needs work&&&50mb cleared by app2sd after 250kb cleared here...this needs work. Never updated..
+ - April 14, 2012&&&2.0 &&& - Samsung Galaxy S2 &&& 2.6.8&&&Well...&&&It only clears a small portion of my cache about 1-2mb when app2sd finds 18-30mb that this misses, not as big of a deal as it was on my nexus but shouldn't a root cache clearer clear more than a non-root?
+ - December 29, 2011&&&5.0 &&& - Motorola Droid X &&& 2.6.8&&&Great!&&&Excellent app, essential for all root users.
+ - February 29, 2012&&&3.0 &&& - SEMC Xperia Play &&& 2.6.8&&&Not so good&&&Well first off,it does it job well. But not always working :( sometimes it stays stuck...I feel kinda ripped off for the buck I paid for it though..rooted xperia play with stock rom.
+ - June 4, 2012&&&4.0 &&& - Motorola Photon 4G &&& 2.6.8&&&Great job&&&Keeps the phone nice and clear of unnecessary files left over from browsing and such. Only complaint is that it deletes the search cache for slacker radio, even though I have unchecked the box
+ - December 29, 2011&&&5.0 &&& - HTC myTouch 4G &&& 2.6.8&&&Johnathan, Not Abandoned&&&Major update today. That refund thread on Google is two years old and I NEVER said I like Apple. Please don't tell lies.
+ - January 1, 2012&&&5.0 &&& - HTC Evo 4G &&& 2.6.8&&&It does what it says and just a great app for the price *make ...&&&It does what it says and just a great app for the price *make sure your device is rooted* EVO 4G
+ - January 3, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 2.6.8&&&Great&&&...loved the free...had to get the paid to show support
+ - January 1, 2012&&&5.0 &&&&&& - Version 2.6.8&&&It's nice&&&To finally see an update! :D
+ - March 30, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 2.6.8&&&WoW&&&I hope it's not taking stuff I do want... But 18mb free!!! Way more free space than the free app. Great Buy!
+ - June 6, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 2.6.8&&&Worth it!&&&Well worth the purchase as it saves me from clearing everything one by one.
+ - May 19, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 2.6.8&&&Saves much time&&&Like Ccleaner for Android
+ - February 2, 2012&&&5.0 &&& - Motorola Droid X &&& 2.6.8&&&Awesome app&&&Must have for all rooted users!  Thanks made in brooklyn
+ - March 14, 2012&&&5.0 &&& - Motorola Droid RAZR &&& 2.6.8&&&Excellent&&&Loved the free version..had to buy and support the dev..
+ - December 29, 2011&&&5.0 &&& - HTC Evo 4G &&& 2.6.8&&&Updates!&&&Updated version works great on evo running CM 7!
+ - May 16, 2012&&&5.0 &&& - HTC Nexus One &&& 2.6.8&&&Awesomesauce&&&Rocks my socks off
+ - March 8, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 2.6.8&&&Galaxy Nexus LTE&&&Does what it says.
+ - April 28, 2012&&&5.0 &&& - HTC Desire &&& 2.6.8&&&Simple and works great&&&My phone runs much better with an occasional cache wipe. HTC Desire GSM
+ - May 27, 2012&&&3.0 &&& - EeePad Transformer TF300 &&& 2.6.8&&&NEEDS UPDATE !!!!!!!!!!!!!!!!&&&WORKS GOOD, BUT COULD BE BETTER. PLEASE UPDATE. IT'S BEEN 6 MONTHS...
+ - June 13, 2012&&&3.0 &&& - Samsung Galaxy Nexus &&& 2.6.8&&&Nothing special.&&&Ain't bad.
+ - March 17, 2012&&&5.0 &&& - Droid Bionic &&& 2.6.8&&&Works for me.....&&&No problems here.
+ - June 17, 2012&&&5.0 &&& - EeePad Transformer TF201 &&& 2.6.8&&&Awesome!&&&
+ - December 29, 2011&&&5.0 &&& - HTC Evo 4G &&& 2.6.8&&&Pretty cool...&&&thanks for the hard work and the update.
+ - March 6, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 2.6.8&&&Great&&&Great
+ - May 21, 2012&&&5.0 &&& - Samsung Droid Charge &&& 2.6.8&&&A+&&&Good stuff
+ - May 6, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 2.6.8&&&Awesome!&&&Simple amazing app.
+ - January 21, 2012&&&5.0 &&& - HTC Desire HD &&& 2.6.8&&&Perfect&&&Does exactly what it says...Thanks
+ - April 13, 2012&&&1.0 &&& - Samsung Europa  &&& 2.6.8&&&Pointless app. Cleans nothing.&&&
+ - February 26, 2012&&&4.0 &&&&&& - Version 2.6.8&&&Works&&&Like it's suppose to
+ - April 26, 2012&&&3.0 &&& - HTC Sensation 4G &&& 2.6.8&&&Confused!&&&Cleared 1MB of cache data then I booted aCCleaner Pro which cleared 49MB of cache data! aCCleaner is a non-root app? Any response Dev? Am I doing something wrong?
+ - February 18, 2012&&&4.0 &&& - LG Optimus One &&& 2.6.8&&&BXRAY&&&NICE APP
+ - March 15, 2012&&&2.0 &&& - Samsung Galaxy S2 &&& 2.6.8&&&No good&&&Update to ICS plzzz...... sgs2
+ - January 14, 2012&&&4.0 &&& - HTC Desire &&& 2.6.8&&&@@@&&&Good
+ - March 1, 2012&&&1.0 &&& - Motorola XOOM &&& 2.6.8&&&.&&&
+ - September 26, 2011&&&5.0 &&& - HTC Aria &&& 2.6.7&&&Excellent app!&&&Works like a charm! On my top 10 list of utilities for rooted phones. Had some issue at first, then Developer contacted me fast with solution. Worthy!
+ - April 19, 2011&&&5.0 &&& - HTC Nexus One &&& 2.6.7&&&Nice app. Like most good things simple but effective. Thumbs up.&&&
+ - April 8, 2011&&&5.0 &&& - Galaxy Tab 10.1 &&& 2.6.7&&&Wonderful app! Frequently updated to clear more types of caches. SPRINT ...&&&Wonderful app! Frequently updated to clear more types of caches. SPRINT HERO...updated to Epic 4g, still works perfect
+ - October 4, 2011&&&5.0 &&& - Motorola Droid X &&& 2.6.7&&&Wonderful app!&&&This cleared cache data that my other cleaner app missed! Totally worth a buck!
+ - August 10, 2011&&&3.0 &&& - HTC Desire &&& 2.6.7&&&Maybe a bit too effective. Erases some important data as well&&&
+ - May 19, 2011&&&5.0 &&&&&& - Version 2.6.7&&&Great app does as it says. How did I function without, I don't run ...&&&Great app does as it says. How did I function without, I don't run widgets and auto clear is perfect. All negative feedbacks read HELP menu #duh
+ - December 29, 2011&&&1.0 &&& - Motorola Droid X2 &&& 2.6.7&&&DO NOT BUY  Abandonware!&&&Dev was on Google forums complaining about return policy and how much he loves Apple.  No longer updating app. It's been almost a year.
+ - March 30, 2011&&&4.0 &&& - HTC Droid Eris  &&& 2.6.7&&&Got it working&&&I wiped the Dalvik cache several times and reinstalled and it started working again. Now if I could just get a message to the dev to add some apps it would be 5 stars.
+ - May 13, 2011&&&5.0 &&&&&& - Version 2.6.7&&&Free version worked great. Upgrade to support dev.&&&
+ - May 31, 2011&&&4.0 &&& - HTC Thunderbolt &&& 2.6.7&&&Very responsive developer. Works great.&&&
+ - August 2, 2011&&&5.0 &&& - HTC Sensation 4G &&& 2.6.7&&&Needs screen resolution fixed for the Htc Sensation too. Still the perfect app.&&&
+ - September 13, 2011&&&1.0 &&& - Samsung Galaxy S2 &&& 2.6.7&&&Broken&&&App simply doesn't work anymore. Used to be perfect, however it just sits on the cleaning animation forever. This is the same on all 5 of my Android devices, all running some build of gingerbread
+ - April 23, 2011&&&5.0 &&&&&& - Version 2.6.7&&&This app is amazing! -lg ally 2.2 velocity 1.0 rooted&&&
+ - April 3, 2011&&&5.0 &&&&&& - Version 2.6.7&&&Better than accleaner. Actually works&&&
+ - May 6, 2011&&&4.0 &&& - Samsung Galaxy S2 &&& 2.6.7&&&Excellent - simple and does the job, happy to get the paid version. Widgit ...&&&Excellent - simple and does the job, happy to get the paid version. Widgit is too big tho! (or wrong shape, either way it just doesnt fit well)
+ - August 4, 2011&&&5.0 &&& - HTC Nexus One &&& 2.6.7&&&Better than I thought after I realized it's the original and best. Very fast ...&&&Better than I thought after I realized it's the original and best. Very fast at clearing caches. Deceptive in its simplicity ... look at settings
+ - December 31, 2011&&&5.0 &&& - Transform(M920) &&& 2.6.7&&&Love app and great dev to deal with&&&Great app. Dev responds to questions quickly and nicely. Complaints about no updates? What's to update? Its been a wonderful app and now is even better.
+ - June 10, 2011&&&5.0 &&&&&& - Version 2.6.7&&&Perfect for my Incredible showing "low on space" I felt like breaking my phone ...&&&Perfect for my Incredible showing "low on space" I felt like breaking my phone from the annoying notification until I used this app
+ - April 8, 2011&&&5.0 &&&&&& - Version 2.6.7&&&Works great on n1 w/CM7-RC4.&&&
+ - March 16, 2011&&&5.0 &&& - HTC myTouch 3G &&& 2.6.7&&&Works Great. No complaints. Fast and efficient at what it's supposed to do.&&&
+ - August 30, 2011&&&1.0 &&& - HTC Sensation 4G &&& 2.6.7&&&Dev is gone.&&&Seriously need to update for this app, alot of new phones with higher resolution having improper scaling. 1 star till it fix
+ - June 18, 2011&&&1.0 &&& - Motorola Droid X &&& 2.6.7&&&Used to be good. Now takes way to long. Don't see use old cleaning ...&&&Used to be good. Now takes way to long. Don't see use old cleaning method. Please fix.
+ - June 3, 2011&&&5.0 &&& - Samsung Nexus S &&& 2.6.7&&&Great nexus s 2.3.4&&&
+ - May 11, 2011&&&5.0 &&& - Samsung Galaxy S &&& 2.6.7&&&Does what its supposed to. Widget could be better. I am hoping that development ...&&&Does what its supposed to. Widget could be better. I am hoping that development hasn't ceased yet.
+ - March 31, 2011&&&5.0 &&&&&& - Version 2.6.7&&&It works. Simple as that. Android should have had this built in.&&&
+ - August 13, 2011&&&3.0 &&& - Samsung Galaxy S &&& 2.6.7&&&Curtis&&&This app has not been updated for awhile for the new apps that have been added to market. For a paid app I would not recommend it till they update it!
+ - November 18, 2011&&&2.0 &&&&&& - Version 2.6.7&&&Needs Update&&&There are lots of apps like Xda that Cachemate does not clear cache for. Cachemate is becoming outdated and needs update badly..
+ - July 25, 2011&&&4.0 &&&&&& - Version 2.6.7&&&Still works&&&Since.on cyanogen it keeps saying no caches to clear after running. After further inspection I found it is clearing cache. Just not saying it is.
+ - February 5, 2011&&&3.0 &&& - HTC Evo 4G &&& 2.6.7&&&unrEVOked HTC EVO worked good on initial use with my unrEVOked HTC EVO. Once ...&&&unrEVOked HTC EVO worked good on initial use with my unrEVOked HTC EVO. Once I changed some of the settings, it stalled and wouldn't finish the cleaning... I uninstalled and reinstalled and now just use it with the basic settings.
+ - July 11, 2011&&&5.0 &&&&&& - Version 2.6.7&&&Got the Paid version but there's no widget... UPDATE: dev responded quickly and ...&&&Got the Paid version but there's no widget... UPDATE: dev responded quickly and problem resolved.
+ - August 26, 2011&&&1.0 &&& - HTC Desire &&& 2.6.7&&&Now I know why I uninstalled this app, coz it DOESN'T WORK.!! - HELLO.!! ...&&&Now I know why I uninstalled this app, coz it DOESN'T WORK.!! - HELLO.!! Says "Cleaning Cache"... for over 30 MINUTES.?? Htc Desire, 2.3 Gingerbread
+ - May 12, 2011&&&1.0 &&& - Samsung Nexus S &&& 2.6.7&&&Runs horribly.&&&
+ - April 28, 2011&&&5.0 &&&&&& - Version 2.6.7&&&Gud stuff Vibrant/Bionix-V&&&
+ - March 16, 2011&&&5.0 &&& - HTC Evo 4G &&& 2.6.7&&&Fantastic app! Very responsive developer.&&&
+ - July 18, 2011&&&5.0 &&& - Samsung Galaxy S &&& 2.6.7&&&Cachemate pro is the quickest and easiest to use cleanup tool for root users.&&&
+ - May 26, 2011&&&5.0 &&& - Samsung Nexus S &&& 2.6.7&&&Works as advertised. Liberates pesky cache usage. Any discrepancies can be ...&&&Works as advertised. Liberates pesky cache usage. Any discrepancies can be answered by referencing the help file.
+ - August 18, 2011&&&5.0 &&& - HTC EVO 3D &&& 2.6.7&&&threw smooth into jail, it's so good it's criminal&&&love it cleans up
+ - March 9, 2011&&&5.0 &&& - Motorola XOOM &&& 2.6.7&&&Good stuff&&&Use this constantly to clear my cache. A must for rooted users
+ - April 15, 2011&&&5.0 &&& - HTC myTouch 3G &&& 2.6.7&&&Maaaan oh maaaan you must have this it cleans up a whole lotta stuff ...&&&Maaaan oh maaaan you must have this it cleans up a whole lotta stuff off your phone. I supported the dev thats why i paid and it has more features tha
+ - March 17, 2011&&&4.0 &&& - HTC Evo 4G &&& 2.6.7&&&Needs to be able to clear my history! Unless I haven't figured out how:-)&&&
+ - October 16, 2011&&&5.0 &&& - HTC Desire &&& 2.6.7&&&Top notch. Must have app.&&&
+ - October 25, 2011&&&1.0 &&& - Samsung Infuse 4G &&& 2.6.7&&&Piece of crap&&&Waste of time and money ....by Shak.
+ - March 19, 2011&&&5.0 &&& - HTC Nexus One &&& 2.6.7&&&A must have app. Awesome.&&&
+ - June 9, 2011&&&5.0 &&& - Motorola Droid &&& 2.6.7&&&Excellent! Easy to use and I notice a speed difference.&&&
+ - July 4, 2011&&&5.0 &&& - SEMC Xperia X8 &&& 2.6.7&&&This app works great&&&
+ - March 15, 2011&&&1.0 &&&&&& - Version 2.6.7&&&Hasn't worked since intall developer doesn't reply to emails, takes money no ...&&&Hasn't worked since intall developer doesn't reply to emails, takes money no support. Defy. DONT BUY
+ - July 11, 2011&&&5.0 &&&&&& - Version 2.6.7&&&Here's the point of all this...&&&One of the reviewers asked what is the point of clearing all your cache? Well, this morning, turned on my rooted Captivate, running C7. I had Force Closes all over the place. I clicked my CacheMate...and NO MORE FORCE CLOSES. Every now and then, Android acts like Windows 95. CacheMate is one-click back to the Android we know and love.
+ - July 24, 2011&&&5.0 &&& - LG Optimus 2X &&& 2.6.7&&&Definitely worth the purchase! LG G2X&&&
+ - June 23, 2011&&&5.0 &&& - Motorola Droid &&& 2.6.7&&&Can you please update this to support newer apps like Boat Browser Mini and ...&&&Can you please update this to support newer apps like Boat Browser Mini and Droid Life
+ - September 25, 2011&&&4.0 &&& - Motorola Droid &&& 2.6.7&&&Works well, no issues on D1&&&
+ - March 15, 2011&&&4.0 &&& - HTC Evo 4G &&& 2.6.7&&&Can we get the old icon back for widget? New one is abit ugly&&&
+ - April 15, 2011&&&3.0 &&&&&& - Version 2.6.7&&&Paid for to get widget, but widget is twice the size of the regular ...&&&Paid for to get widget, but widget is twice the size of the regular icon...waste of space on homescreen.
+ - June 20, 2011&&&3.0 &&& - Samsung Galaxy S &&& 2.6.7&&&Worked first time now takes most of the day to perform the same function. ...&&&Worked first time now takes most of the day to perform the same function. Pitty
+ - September 7, 2011&&&5.0 &&& - Motorola Droid X &&& 2.6.7&&&Great app for root users!&&&
+ - March 12, 2011&&&5.0 &&&&&& - Version 2.6.7&&&Works great for me!&&&
+ - December 4, 2011&&&1.0 &&& - Samsung Galaxy Note &&& 2.6.7&&&UPDATE IT.&&&I take it your not too bothered any more about your apps UPDATE IT you doughnut.
+ - June 15, 2011&&&4.0 &&&&&& - Version 2.6.7&&&Works as advertised. Good stuff.&&&
+ - July 10, 2011&&&4.0 &&& - HTC G2 &&& 2.6.7&&&Good app. I use it all the time. Powerclear can be problematic though.&&&
+ - October 21, 2011&&&5.0 &&& - Samsung Galaxy S &&& 2.6.7&&&U need this one for any app u dontwant to manually reopen after boot.&&&I'm a rooted supeeerwoman now.  Bam!
+ - August 7, 2011&&&1.0 &&& - HTC EVO 3D &&& 2.6.7&&&FREE FULL VERSION&&&Hit me up for the full version for free until this guy fixes this app.
+ - December 20, 2011&&&5.0 &&& - LG Optimus One &&& 2.6.7&&&Add Pulse&&&Please add Pulse news reader, thanks!
+ - March 10, 2011&&&5.0 &&& - HTC Evo 4G &&& 2.6.7&&&Glad you started working on it again. I was beginning to think that I ...&&&Glad you started working on it again. I was beginning to think that I wasted money on this app
+ - June 21, 2012&&&5.0 &&& - Motorola Atrix &&& 2.6.7&&&Fixed&&&Screen issue is fully fixed now and you did a great job.
+ - March 28, 2011&&&1.0 &&&&&& - Version 2.6.7&&&Doesn't work after last update. All it says is clearing cache and doesn't stop!&&&
+ - March 7, 2011&&&4.0 &&&&&& - Version 2.6.7&&&Whatever you changed, thanks. It actually works again. Didn't work & just hung on ...&&&Whatever you changed, thanks. It actually works again. Didn't work & just hung on previous 2 versions...Droid
+ - June 22, 2011&&&3.0 &&& - HTC myTouch 3G Slide &&& 2.6.7&&&Freezes up, free version is better&&&
+ - December 20, 2011&&&5.0 &&&&&& - Version 2.6.7&&&Works as advertised&&&Very simple widget that I use on a daily basis.
+ - November 18, 2011&&&5.0 &&& - HTC Evo 4G &&& 2.6.7&&&Cachemate For Root Users&&&Love This App!!!
+ - April 3, 2011&&&5.0 &&& - HTC Evo 4G &&& 2.6.7&&&Definitely worth a buck&&&
+ - March 4, 2011&&&5.0 &&&&&& - Version 2.6.7&&&Atrix works great!&&&Free version works great. Paid version works better and removes that pesky "Free" branding on icon.
+ - December 30, 2011&&&5.0 &&& - HTC Thunderbolt &&& 2.6.7&&&Excellent!!&&&Won't own a rooted phone without it!!
+ - July 30, 2011&&&4.0 &&& - HTC EVO 3D &&& 2.6.7&&&Plan on fixing the app to work on evo3D the resolution is.&&&
+ - July 27, 2011&&&5.0 &&& - LG Optimus One &&& 2.6.7&&&Works great.&&&
+ - August 18, 2011&&&3.0 &&& - HTC Nexus One &&& 2.6.7&&&after changing to a new microSDHC card the app won&&&after changing to a new microSDHC card the app won't finished cleaning. change setting doesn't help. Nexus One.
+ - October 3, 2011&&&3.0 &&& - Motorola Atrix &&& 2.6.7&&&Doesn't&&&Fill the screen on my atrix running gingerbread.
+ - March 14, 2011&&&5.0 &&& - Motorola Atrix &&& 2.6.7&&&Must have. Works like a charm and if it does not, developer is very ...&&&Must have. Works like a charm and if it does not, developer is very helpful.
+ - April 10, 2011&&&5.0 &&&&&& - Version 2.6.7&&&Great app! Freed up about 50 GB on my Evo 4G...was running out of ...&&&Great app! Freed up about 50 GB on my Evo 4G...was running out of space otherwise.
+ - March 24, 2011&&&3.0 &&& - Motorola Droid &&& 2.6.7&&&Good app but droid overclock is way better plus you get more for 50 ...&&&Good app but droid overclock is way better plus you get more for 50 cents more
+ - October 1, 2011&&&5.0 &&& - Droid Bionic &&& 2.6.7&&&Thank you&&&Great app
+ - August 28, 2011&&&5.0 &&& - HTC Sensation 4G &&& 2.6.7&&&Dev left&&&No dev Used to be good but dev left. Use cache cleaner NG by L Sartory
+ - March 9, 2011&&&4.0 &&&&&& - Version 2.6.7&&&Simple and useful.&&&
+ - April 7, 2011&&&5.0 &&&&&& - Version 2.6.7&&&I guess size does not matter, small but awesome.&&&
+ - December 29, 2011&&&5.0 &&& - Samsung Nexus S &&& 2.6.7&&&Thanks for the update!&&&Useful app.
+ - May 10, 2011&&&5.0 &&& - HTC Evo 4G &&& 2.6.7&&&Works. No issues yet.&&&
+ - June 11, 2011&&&5.0 &&& - HTC Evo 4G &&& 2.6.7&&&Ok, an update is in order 'cause since I upgraded my evo 4g to ...&&&Ok, an update is in order 'cause since I upgraded my evo 4g to 2.3.3 this app ain't clrearing sh......! How about, ah!
+ - May 3, 2011&&&3.0 &&&&&& - Version 2.6.7&&&Doesn't clean all cache files even with the main option selected&&&
+ - March 8, 2011&&&5.0 &&& - HTC Evo 4G &&& 2.6.7&&&Like the new icon but the widget is huge!&&&
+ - March 30, 2011&&&5.0 &&& - HTC Nexus One &&& 2.6.7&&&Awesome utility, has come in handy many times!&&&
+ - April 18, 2011&&&5.0 &&& - Samsung Nexus S &&& 2.6.7&&&Mast have, specifically for budget devices with limited memory&&&
+ - March 14, 2011&&&5.0 &&&&&& - Version 2.6.7&&&Amazing little apk&&&
+ - April 12, 2011&&&5.0 &&& - HTC Thunderbolt &&& 2.6.7&&&It works. Thunderbolt&&&
+ - May 26, 2011&&&4.0 &&&&&& - Version 2.6.7&&&Needs hide notification function.&&&
+ - March 25, 2011&&&5.0 &&&&&& - Version 2.6.7&&&Works great. Fresh evo&&&
+ - March 22, 2011&&&5.0 &&& - Acer Picasso &&& 2.6.7&&&Does what it says!&&&
+ - March 13, 2011&&&3.0 &&& - Motorola Droid X &&& 2.6.7&&&New icon?&&&
+ - September 21, 2011&&&1.0 &&& - HTC Evo 4G &&& 2.6.7&&&I pay a dollar for this, needs an update&&&
+ - April 16, 2011&&&3.0 &&&&&& - Version 2.6.7&&&Sucks on galaxy tab&&&
+ - March 20, 2011&&&4.0 &&&&&& - Version 2.6.7&&&Does what it says ... but can be slow!&&&
+ - September 27, 2011&&&5.0 &&& - HTC Desire &&& 2.6.7&&&Awesome!&&&
+ - June 18, 2011&&&5.0 &&& - LG Optimus One &&& 2.6.7&&&.&&&
+ - May 31, 2011&&&5.0 &&& - HTC Nexus One &&& 2.6.7&&&Works great. Incorrect resolution on nook color.&&&
+ - October 1, 2011&&&5.0 &&&&&& - Version 2.6.7&&&A+++++++++++++++++++++++++++++++++++++++&&&
+ - May 5, 2011&&&1.0 &&&&&& - Version 2.6.7&&&Stopped working&&&
+ - July 17, 2011&&&1.0 &&& - HTC Evo 4G &&& 2.6.6&&&Abandoned&&&No updates anymore... And its buggy like hell... Abandoned by dev...
+ - March 6, 2011&&&5.0 &&& - Samsung Droid Charge &&& 2.6.6&&&Great new UI. Had app for months almost since release and still love it!..great!!!&&&
+ - March 7, 2011&&&5.0 &&& - Motorola Droid X &&& 2.6.6&&&Works great on my x&&&
+ - March 6, 2011&&&5.0 &&& - Samsung Galaxy S &&& 2.6.6&&&This has worked great for me on several different handsets. The new icon's great.&&&
+ - March 6, 2011&&&5.0 &&&&&& - Version 2.6.6&&&Love the new icon!&&&
+ - December 2, 2011&&&3.0 &&& - HTC Nexus One &&& 2.6.7&&&ICS&&&Needs to be updated for ICS. Doesn't seem to clear anymore.
+ - March 6, 2011&&&5.0 &&& - HTC Evo 4G &&& 2.6.6&&&Works great. Get more space!&&&
+ - March 7, 2011&&&5.0 &&& - Motorola Droid X &&& 2.6.6&&&Why no updates?&&&
+ - October 14, 2010&&&5.0 &&& - Motorola Droid II &&& 2.6.5&&&Love it! A very useful app if you're Android Device is ROOTED. Works great ...&&&Love it! A very useful app if you're Android Device is ROOTED. Works great on my ROOTED Motorola Droid 2 running Android 2.2 Froyo.
+ - December 24, 2010&&&4.0 &&& - HTC Evo 4G &&& 2.6.5&&&Works great but some times it loops and won't stop unless I reinstall. Rooted ...&&&Works great but some times it loops and won't stop unless I reinstall. Rooted evo.
+ - February 10, 2011&&&5.0 &&&&&& - Version 2.6.5&&&I can see why you have 5 stars,for your great app,better customer ...&&&I can see why you have 5 stars,for your great app,better customer service,updates.The friendliest dev with a great app/idea.This is my rate once again
+ - November 13, 2010&&&1.0 &&& - HTC Nexus One &&& 2.6.5&&&Every update breaks it more and more, endless loop and now have to uncheck ...&&&Every update breaks it more and more, endless loop and now have to uncheck most options to get it to clean. Using cache cleaner instead!
+ - March 6, 2011&&&5.0 &&&&&& - Version 2.6.5&&&Been running since my G1 days, always great and always supported.&&&
+ - November 15, 2010&&&4.0 &&& - Samsung Galaxy S2 &&& 2.6.5&&&What a bloody useful app! Well done dev!&&&
+ - March 5, 2011&&&2.0 &&& - Toshiba AT100 &&& 2.6.5&&&Not fully compatible with Droid Incredible.&&&
+ - January 22, 2011&&&5.0 &&&&&& - Version 2.6.5&&&Clears up at least 50-100MB of unneeded cache each day for me which makes ...&&&Clears up at least 50-100MB of unneeded cache each day for me which makes the phone run smoother.
+ - November 30, 2010&&&5.0 &&& - HTC myTouch 3G &&& 2.6.5&&&Its awesome, keeps my phone clean. Precious MB's of space liberated.&&&
+ - February 4, 2011&&&5.0 &&& - Motorola XOOM &&& 2.6.5&&&Great app. Cleans everything. Simple to use (One. Click.).&&&
+ - December 11, 2010&&&5.0 &&& - Motorola XOOM &&& 2.6.5&&&Support devs of fantastic apps like this and buy the pro versions&&&
+ - October 21, 2010&&&1.0 &&& - Samsung Nexus S &&& 2.6.5&&&Doesnt work for vibrant users!&&&
+ - December 17, 2010&&&3.0 &&& - HTC Droid Incredible &&& 2.6.5&&&No difference noticed. HTC INCREDIBLE FROYO ROOTED&&&
+ - November 10, 2010&&&5.0 &&&&&& - Version 2.6.5&&&I love the control this app gives you.&&&
+ - December 22, 2010&&&1.0 &&&&&& - Version 2.6.5&&&Doesn't work on vibrant. Too bad so sad.&&&
+ - November 22, 2010&&&2.0 &&& - Motorola Droid &&& 2.6.5&&&Was working great... now loops and wont update properly (on both my MotoDroid & ...&&&Was working great... now loops and wont update properly (on both my MotoDroid & husbands Droid2). Emailed dev, no response. Uninstall.
+ - January 2, 2011&&&1.0 &&&&&& - Version 2.6.5&&&The free cache clearers are MUCH better. Upgrade it to keep up especially since ...&&&The free cache clearers are MUCH better. Upgrade it to keep up especially since we paid for this. Uninstalling. D2
+ - November 4, 2010&&&2.0 &&& - Samsung Galaxy S &&& 2.6.5&&&I feel ripped off, having paid for this app... CacheCleaner works on the Droid ...&&&I feel ripped off, having paid for this app... CacheCleaner works on the Droid Incredible, why doesn't this? CacheCleaner is Free!
+ - November 17, 2010&&&3.0 &&& - Motorola Droid X &&& 2.6.5&&&The free version is just as good. Why pay a dollar extra for settings ...&&&The free version is just as good. Why pay a dollar extra for settings I will never use. Refund and uninstall plz.
+ - March 6, 2011&&&1.0 &&& - Motorola Droid X &&& 2.6.5&&&Used to work great, but this update broke it. Does nothing now. (DroidX 2.2.1 ...&&&Used to work great, but this update broke it. Does nothing now. (DroidX 2.2.1 rooted).
+ - October 8, 2010&&&2.0 &&& - Samsung Galaxy S &&& 2.6.5&&&Was really great until last couple updates now it stalls and fc. Too bad&&&
+ - February 6, 2011&&&5.0 &&& - HTC G2 &&& 2.6.5&&&Works perfectly and love the options to clear only what you want.&&&
+ - February 21, 2011&&&5.0 &&& - Motorola Droid X &&& 2.6.5&&&A very well designed and developed application. A must have for root users! 5 ...&&&A very well designed and developed application. A must have for root users! 5 Stars*****
+ - January 1, 2011&&&5.0 &&&&&& - Version 2.6.5&&&Works great EVO cyanogen 6.1&&&
+ - March 6, 2011&&&5.0 &&& - HTC Evo 4G &&& 2.6.5&&&Loving this app. A must have.&&&
+ - March 6, 2011&&&1.0 &&&&&& - Version 2.6.5&&&I run cachemate then CacheCleaner and it finds 2-3mb more, cleans better than ...&&&I run cachemate then CacheCleaner and it finds 2-3mb more, cleans better than cachemate does and faster.
+ - October 7, 2010&&&3.0 &&&&&& - Version 2.6.5&&&Used to be 5 stars. After recent updates though, it keeps hanging. Never was ...&&&Used to be 5 stars. After recent updates though, it keeps hanging. Never was a problem before
+ - November 17, 2010&&&5.0 &&&&&& - Version 2.6.5&&&I've tried alot of cache cleaners and for me, this works the best. Original ...&&&I've tried alot of cache cleaners and for me, this works the best. Original Droid (SS 4.7)
+ - February 26, 2011&&&1.0 &&& - HTC Hero &&& 2.6.5&&&Was awesome. Now sucks. Dev doesn't update at all... forgotten app.&&&
+ - November 20, 2010&&&5.0 &&& - Motorola Droid X &&& 2.6.5&&&Loop fixed! Works Great Now! Dev awesome at responding!&&&
+ - October 26, 2010&&&4.0 &&& - Samsung Nexus S &&& 2.6.5&&&Very useful to have on any android&&&
+ - March 4, 2011&&&5.0 &&&&&& - Version 2.6.5&&&Great on my Rooted Motorola Droid&&&
+ - December 1, 2010&&&5.0 &&&&&& - Version 2.6.5&&&A Must Have! Major diff in paid & free: free has only 23 configured ...&&&A Must Have! Major diff in paid & free: free has only 23 configured apps & paid has 200+ Try free 1st, like it, BUY IT & support quality developers
+ - February 5, 2011&&&1.0 &&& - HTC EVO 3D &&& 2.6.5&&&Crap, uninstalled. I see the shills are back.&&&
+ - January 10, 2011&&&5.0 &&& - HTC Evo 4G &&& 2.6.5&&&Is working great mt4g I love the widget too&&&
+ - March 6, 2011&&&5.0 &&&&&& - Version 2.6.5&&&Love the new icon! Love the app helps alot!&&&
+ - October 10, 2010&&&5.0 &&& - HTC Nexus One &&& 2.6.5&&&Best Cache cleaner on Android&&&
+ - November 9, 2010&&&4.0 &&& - HTC Nexus One &&& 2.6.5&&&Gains me 12-18mb when run every couple of days&&&
+ - January 8, 2011&&&0.0 &&& - Motorola Motoroi &&& 2.6.5&&&Why isn't this application refundable? Application is over my head.&&&
+ - February 7, 2011&&&1.0 &&& - Samsung Galaxy S &&& 2.6.5&&&Rip off...used this for months until the "rom updater" app which cleared 22mb this ...&&&Rip off...used this for months until the "rom updater" app which cleared 22mb this one Couldn't.
+ - December 1, 2010&&&2.0 &&&&&& - Version 2.6.5&&&Only loops now. Motorola Droid. Froyo 2.2&&&
+ - November 2, 2010&&&3.0 &&& - Samsung Moment &&& 2.6.5&&&Stopped working after recent Sprint update, D|08/7. Rooted Moment.&&&
+ - November 15, 2010&&&5.0 &&& - HTC Nexus One &&& 2.6.5&&&Works as advertised. Rooted Nexus One MIUI rom.&&&
+ - December 18, 2010&&&5.0 &&&&&& - Version 2.6.5&&&Awesome app!&&&
+ - December 30, 2010&&&0.0 &&& - HTC Evo 4G &&& 2.6.5&&&Last update causes it to hang at clearing cache on evo&&&
+ - October 11, 2010&&&1.0 &&& - Samsung Galaxy S &&& 2.6.5&&&Free version works, now when i bought this app it does not work anymore ...&&&Free version works, now when i bought this app it does not work anymore just endless loop :( And i dont really know if it does clear the cache.
+ - December 29, 2010&&&5.0 &&& - HTC Desire &&& 2.6.5&&&Great app!!&&&
+ - December 25, 2010&&&5.0 &&& - HTC Evo 4G &&& 2.6.5&&&Works Great!!&&&
+ - March 6, 2011&&&5.0 &&& - Motorola Droid &&& 2.6.5&&&Cachmate for the win. Don't be suckerd into anything Cachmate is the best cache ...&&&Cachmate for the win. Don't be suckerd into anything Cachmate is the best cache cleaner since droid came out, hands down. 8 thumbs up
+ - March 6, 2011&&&5.0 &&& - Samsung Nexus S &&& 2.6.5&&&Pure awesomeness.&&&
+ - November 26, 2010&&&5.0 &&&&&& - Version 2.6.5&&&Phone update fixed issues I was having with this app.&&&
+ - December 28, 2010&&&4.0 &&&&&& - Version 2.6.5&&&Good cache cleaner for rooted phones! EVO 2.2&&&
+ - December 10, 2010&&&4.0 &&& - Motorola Droid X &&& 2.6.5&&&Awesome app&&&
+ - January 14, 2011&&&3.0 &&&&&& - Version 2.6.5&&&Used to take a few seconds, now it takes a while&&&
+ - March 6, 2011&&&5.0 &&& - Motorola Droid &&& 2.6.5&&&Is this compatible with Gingerbread…?&&&
+ - December 3, 2010&&&5.0 &&& - Transform(M920) &&& 2.6.5&&&Like this a lot. Root transform / 2.1&&&
+ - December 23, 2010&&&5.0 &&& - Motorola Droid X &&& 2.6.5&&&Great!&&&
+ - October 6, 2010&&&5.0 &&& - HTC myTouch 3G &&& 2.6.5&&&The hanging force closing issue was fixed. Works as expected&&&
+ - February 8, 2011&&&5.0 &&& - HTC Legend &&& 2.6.5&&&Great! Frees up an alarming amount of space.&&&
+ - December 13, 2010&&&3.0 &&& - HTC Evo 4G &&& 2.6.5&&&I don't really notice a difference after a cache clear, even with powerclear. To ...&&&I don't really notice a difference after a cache clear, even with powerclear. To speed it up again I have to restart.
+ - March 7, 2011&&&5.0 &&&&&& - Version 2.6.5&&&Thought it wanst working for abit, just needed a unistall and install&&&
+ - October 2, 2010&&&5.0 &&& - Samsung Nexus S &&& 2.6.4&&&Great app. Fast and easy and clears everything I want. Last run liberated 15Mb!&&&
+ - February 4, 2011&&&5.0 &&&&&& - Version 2.6.5&&&Don't know what I'd do without it!&&&
+ - October 9, 2010&&&5.0 &&&&&& - Version 2.6.5&&&Nice&&&
+ - February 13, 2011&&&5.0 &&& - HTC myTouch 3G &&& 2.6.5&&&G'day, it does what it says and empties your caches, mate.&&&
+ - March 6, 2011&&&5.0 &&& - HTC Nexus One &&& 2.6.5&&&Oh yeah!&&&
+ - January 8, 2011&&&5.0 &&& - Samsung Nexus S &&& 2.6.5&&&Brilliant!&&&
+ - January 30, 2011&&&5.0 &&&&&& - Version 2.6.5&&&Must have!&&&
+ - March 8, 2011&&&4.0 &&& - Motorola XOOM &&& 2.6.5&&&Moto Droid works as advertised&&&
+ - October 3, 2010&&&3.0 &&& - HTC Droid Incredible &&& 2.6.4&&&@Steven - agree. I have a rooted DInc running Virtuous and this doesn't work. ...&&&@Steven - agree. I have a rooted DInc running Virtuous and this doesn't work. Constantly says cache empty or already cleared.
+ - October 4, 2010&&&1.0 &&&&&& - Version 2.6.4&&&Used to work. Just goes om forever when u press the button. Using rooted ...&&&Used to work. Just goes om forever when u press the button. Using rooted droid eris with koush cyanogenmod.
+ - October 3, 2010&&&5.0 &&& - HTC Nexus One &&& 2.6.4&&&Since last update, seems to hang during clearing&&&
+ - October 6, 2010&&&1.0 &&&&&& - Version 2.6.4&&&Doesn't work on incredible&&&
+ - October 8, 2010&&&5.0 &&&&&& - Version 2.6.4&&&Works great... does what it says&&&
+ - October 4, 2010&&&5.0 &&& - Motorola Droid X &&& 2.6.4&&&Works great...does what it says!&&&
+ - October 5, 2010&&&5.0 &&& - Motorola Atrix &&& 2.6.4&&&I found that if it keeps running then uninstall then reinstall to fix. Worked ...&&&I found that if it keeps running then uninstall then reinstall to fix. Worked for me a few times.
+ - October 5, 2010&&&4.0 &&& - Samsung Galaxy S &&& 2.6.4&&&Can u add the cache from the stock browser in I9000 and Feedsquares app? ...&&&Can u add the cache from the stock browser in I9000 and Feedsquares app? Thanks!
+ - October 4, 2010&&&5.0 &&& - Motorola Atrix &&& 2.6.4&&&I really like this app. does a good job.&&&
+ - October 7, 2010&&&5.0 &&& - EeePad Transformer TF101 &&& 2.6.4&&&Used to being 1 of my favorite apps. Now it just hangs in force ...&&&Used to being 1 of my favorite apps. Now it just hangs in force closes. Moto droid 2.1. This app went from super to useless.
+ - October 5, 2010&&&1.0 &&& - HTC Hero  &&& 2.6.4&&&going back to free version for now since paid goes into an endless loop ...&&&going back to free version for now since paid goes into an endless loop and never completes
+ - September 19, 2010&&&5.0 &&& - Samsung VinsQ(M910) &&& 2.6.3&&&Great app for the price. Made my samsung moment run faster&&&
+ - July 24, 2011&&&5.0 &&& - Motorola Droid II &&& 2.6.3&&&Update&&&Last update caused it to not clear cache on Droid 2. Just says clearing cache for a good 20 minutes. Hope you have an update soon
+ - August 23, 2010&&&3.0 &&& - HTC Droid Incredible &&& 2.6.3&&&Good but would be nice to see size of caches before and after cleaning.&&&
+ - September 27, 2010&&&1.0 &&& - HTC Droid Incredible &&& 2.6.3&&&Incredible owners beware this app doesn't clear the cache. Garbage. Save your ...&&&Incredible owners beware this app doesn't clear the cache. Garbage. Save your money!
+ - October 6, 2010&&&3.0 &&&&&& - Version 2.6.4&&&Dude props for trying but it still says that my cache looks like it ...&&&Dude props for trying but it still says that my cache looks like it has been cleared or nothing to clear on HTC incredible
+ - September 24, 2010&&&5.0 &&& - HTC Evo 4G &&& 2.6.3&&&Wow. Amazing. I am so happy. Rooted HTC Evo 4G&&&
+ - October 4, 2010&&&4.0 &&& - HTC Nexus One &&& 2.6.4&&&Since last update it doesn't seems to work, not aswell atleast. Reverted back to ...&&&Since last update it doesn't seems to work, not aswell atleast. Reverted back to earlier version..
+ - October 4, 2010&&&3.0 &&& - Samsung Galaxy S2 &&& 2.6.4&&&doesn't work on a lagfixed Samsung I9000.&&&
+ - October 3, 2010&&&2.0 &&&&&& - Version 2.6.3&&&Widget doesnt work always say recently clean on 2.2.Cache cleaner cleans way more ...&&&Widget doesnt work always say recently clean on 2.2.Cache cleaner cleans way more than this even I do a power clean. Plus cache cleaner is free.
+ - September 5, 2010&&&5.0 &&& - Motorola Droid X2 &&& 2.6.3&&&Great cleaning job excellent make my droid faster on internet&&&
+ - August 31, 2010&&&5.0 &&&&&& - Version 2.6.3&&&Pure awesomeness, not to mention the dev is very helpful.&&&
+ - September 4, 2010&&&5.0 &&& - HTC myTouch 3G &&& 2.6.3&&&Visit the Devs site, best instructions for an app [Period]&&&
+ - September 30, 2010&&&5.0 &&&&&& - Version 2.6.3&&&Great app! People need to read the descriptions before purchasing. Tired of seeing ...&&&Great app! People need to read the descriptions before purchasing. Tired of seeing good apps get bad ratings because people dont read them.
+ - August 15, 2010&&&3.0 &&& - Motorola Droid X &&& 2.6.3&&&3 stars for all the positive feedback but doesn't work for me always says ...&&&3 stars for all the positive feedback but doesn't work for me always says it's already cleared. Is this not compatible with Froyo? Incredible SR 2.5.2
+ - August 18, 2010&&&5.0 &&& - HTC Nexus One &&& 2.6.3&&&Works great on Rooted Nexus One Froyo 2.2 frf91&&&
+ - August 30, 2010&&&3.0 &&&&&& - Version 2.6.3&&&Used to be good til 2.1. And CM 6.0.&&&
+ - August 24, 2010&&&1.0 &&& - Motorola Droid &&& 2.6.3&&&Dev should state in description that requires busybox, rooted canadian milestone ...&&&Dev should state in description that requires busybox, rooted canadian milestone has locked bootloader, can't get ROMs, refund not going through
+ - August 10, 2010&&&5.0 &&&&&& - Version 2.6.3&&&Use it constantly on my droid1 and my new droidx. Works great.&&&
+ - August 22, 2010&&&5.0 &&& - Motorola Droid X &&& 2.6.3&&&Cleared out 6mb and phone is much more responsive at this point. Worth the ...&&&Cleared out 6mb and phone is much more responsive at this point. Worth the Buck. don't laugh at devs who are ripped off financially. Droid 2.2
+ - October 12, 2010&&&2.0 &&&&&& - Version 2.6.3&&&CacheCleaner is way better and free. Wish I hadn't wasted my money on this.&&&
+ - September 17, 2010&&&5.0 &&&&&& - Version 2.6.3&&&A most have for froyo user, good job&&&
+ - August 26, 2010&&&1.0 &&&&&& - Version 2.6.3&&&Purchased and installed on my Moto Droid, Rooted w/busybox, and the program didn't ...&&&Purchased and installed on my Moto Droid, Rooted w/busybox, and the program didn't work, it would function 100% until i clean the cache, then froze.
+ - August 6, 2010&&&5.0 &&& - Motorola XOOM &&& 2.6.3&&&Absolutely essential. Love devs focusing on the practical functionality. Thanks ...&&&Absolutely essential. Love devs focusing on the practical functionality. Thanks heaps.
+ - August 26, 2010&&&5.0 &&&&&& - Version 2.6.3&&&Best cache cleaning app in the market&&&
+ - September 15, 2010&&&5.0 &&& - Motorola Atrix &&& 2.6.3&&&Google needs to take notes and build something like this in by default&&&
+ - August 20, 2010&&&5.0 &&& - Samsung Nexus S &&& 2.6.3&&&This program is a must have for any serious android user. I love it.&&&
+ - September 14, 2010&&&5.0 &&& - Samsung Galaxy S2 &&& 2.6.3&&&Works well on xperia x10 rooted!!&&&
+ - September 5, 2010&&&5.0 &&& - Samsung Galaxy Tab &&& 2.6.3&&&Cleared 18mb off my Droid X !!!! Awesome app !!!&&&
+ - October 4, 2010&&&5.0 &&& - HTC myTouch 3G &&& 2.6.3&&&Latest update won't stop trying to clear on rooted 2.1 hero. Worked sound prior ...&&&Latest update won't stop trying to clear on rooted 2.1 hero. Worked sound prior to update, now trys forever to clear cache.
+ - August 20, 2010&&&4.0 &&&&&& - Version 2.6.3&&&So what is the point of clearing the cache?&&&
+ - October 2, 2010&&&5.0 &&&&&& - Version 2.6.3&&&Droid X. Does what it says.&&&
+ - September 20, 2010&&&5.0 &&&&&& - Version 2.6.3&&&You need this!&&&
+ - October 1, 2010&&&5.0 &&& - Samsung Galaxy S &&& 2.6.3&&&Works on DX.&&&
+ - September 13, 2010&&&5.0 &&& - Motorola Droid X2 &&& 2.6.3&&&love this app. Developer is awesome and very responsive, even to us OCD folk.&&&
+ - September 18, 2010&&&5.0 &&& - Motorola Droid &&& 2.6.3&&&Worth the money! Great app!!!&&&
+ - August 30, 2010&&&5.0 &&& - HTC myTouch 3G &&& 2.6.3&&&5 stars&&&
+ - August 27, 2010&&&5.0 &&& - LG Optimus 2X &&& 2.6.3&&&Worth the money spent!&&&
+ - August 6, 2010&&&5.0 &&& - Samsung Galaxy S &&& 2.6.3&&&I like this.&&&
+ - August 16, 2010&&&5.0 &&& - HTC Droid Eris  &&& 2.6.3&&&ThankYou!!! I'd give ya 10 Stars if there were space!!!&&&
+ - September 25, 2010&&&5.0 &&& - HTC Desire &&& 2.6.3&&&Awesome work dev!&&&
+ - September 23, 2010&&&5.0 &&& - Samsung Galaxy S &&& 2.6.3&&&Sweet&&&
+ - July 5, 2010&&&5.0 &&& - Motorola Droid &&& 2.6.2&&&DEV is the dogs bollocks! Knows what he's doing! Quality/useful app & only a ...&&&DEV is the dogs bollocks! Knows what he's doing! Quality/useful app & only a Buck? It's Christmas for our phones! BUY IT! (Droid froyo 2.2) =]
+ - August 1, 2010&&&5.0 &&&&&& - Version 2.6.2&&&Essential app, period. Paid ver cleared only 2mb more than free ver (for me ...&&&Essential app, period. Paid ver cleared only 2mb more than free ver (for me at least), but supporting the dev is far more important, buy it!
+ - June 27, 2010&&&5.0 &&&&&& - Version 2.6.2&&&F**KIN GREEEAAAATTTT...made mytouch(superbad 1.6 rooted)2.1 move faster & ...&&&F**KIN GREEEAAAATTTT...made mytouch(superbad 1.6 rooted)2.1 move faster & smoother afta first try....MUST HAVE 4 ROOTED ANDROIDS
+ - September 25, 2010&&&5.0 &&&&&& - Version 2.6.3&&&Excellent work&&&
+ - August 9, 2010&&&5.0 &&&&&& - Version 2.6.3&&&Absolutely the best.&&&
+ - June 11, 2010&&&5.0 &&& - Motorola Droid &&& 2.6.2&&&Absolutely the best app! Will regain LOTS of space for you! Well worth the ...&&&Absolutely the best app! Will regain LOTS of space for you! Well worth the tiny price! Get it before the price goes up to what it's actually worth!
+ - August 12, 2010&&&4.0 &&& - Motorola Droid X &&& 2.6.2&&&Haha dev is on google's boards complaining about ppl downloading, backing up, ...&&&Haha dev is on google's boards complaining about ppl downloading, backing up, uninstalling w/refund, and restoring. Poor baby.
+ - November 2, 2010&&&5.0 &&& - Samsung Nexus S &&& 2.6.2&&&You need this if your rooted.... Vibrant ¤bionix fusion v1.1¤&&&
+ - August 1, 2010&&&5.0 &&& - Motorola Droid X &&& 2.6.2&&&Seems to be running well on my rooted Droid X, widget and all. Great ...&&&Seems to be running well on my rooted Droid X, widget and all. Great app and price!
+ - June 17, 2010&&&5.0 &&& - Motorola Droid &&& 2.6.2&&&This app cleared 20mb on my 2.2 Droid! Thanks!&&&
+ - July 30, 2010&&&5.0 &&& - Motorola Droid &&& 2.6.2&&&7/2010: Upgraded from free ver. Great, reliable, needed app.&&&
+ - July 4, 2010&&&5.0 &&& - Motorola Droid &&& 2.6.2&&&Works great with Bugless Beast V0.4 on droid...&&&
+ - June 19, 2010&&&5.0 &&&&&& - Version 2.6.2&&&Love it! ... works great on G1 running Cyanogen.&&&
+ - July 27, 2010&&&5.0 &&&&&& - Version 2.6.2&&&Keeps my Hero fresh and clean. She flies after a good cleaning. Love it!&&&
+ - July 17, 2010&&&5.0 &&& - Motorola Droid &&& 2.6.2&&&Well worth a Buck! Great job dev!&&&
+ - July 15, 2010&&&1.0 &&&&&& - Version 2.6.2&&&After cache clear internet does not work.&&&
+ - August 6, 2010&&&5.0 &&& - Motorola Atrix &&& 2.6.2&&&Great app, @Sean you're an idiot&&&
+ - June 23, 2010&&&5.0 &&& - SEMC Xperia X10 &&& 2.6.2&&&A must have app for root users.&&&
+ - August 2, 2010&&&5.0 &&&&&& - Version 2.6.2&&&Does what it should. Just be careful...it can remove too much!&&&
+ - August 6, 2010&&&5.0 &&& - HTC Nexus One &&& 2.6.2&&&Love it. Nice update.&&&
+ - August 7, 2010&&&5.0 &&&&&& - Version 2.6.2&&&Works well on the hd2&&&
+ - July 18, 2010&&&5.0 &&& - HTC Droid Incredible &&& 2.6.2&&&This app single handedly saved my phone from the dreaded "low on space" error&&&
+ - December 23, 2010&&&5.0 &&&&&& - Version 2.6.2&&&Love this app.&&&
+ - June 28, 2010&&&5.0 &&& - HTC Desire &&& 2.6.2&&&Fantastic. Does exactly what it says on the tin.&&&
+ - August 2, 2010&&&5.0 &&& - Samsung Galaxy S &&& 2.6.2&&&The only paid app that every root phone needs&&&
+ - October 7, 2010&&&5.0 &&&&&& - Version 2.6.2&&&Super amazing app. 100 stars. Dev is ridiculously responsive. People are too quick ...&&&Super amazing app. 100 stars. Dev is ridiculously responsive. People are too quick to change their rating.
+ - June 28, 2010&&&5.0 &&&&&& - Version 2.6.2&&&Wish i could use it. i am rooted, but installed busybox after i got ...&&&Wish i could use it. i am rooted, but installed busybox after i got this app, so it does not work for my moto droid :(
+ - August 3, 2010&&&5.0 &&& - Samsung Moment &&& 2.6.2&&&bessssst app to save battery! this app is the isshh&&&
+ - June 19, 2010&&&5.0 &&& - HTC Nexus One &&& 2.6.2&&&Works as intended&&&
+ - May 25, 2010&&&5.0 &&& - HTC Nexus One &&& 2.6.1&&&Fixed G1 lagginess with Android 2.1 & freed space on /data. Settings & built-in ...&&&Fixed G1 lagginess with Android 2.1 & freed space on /data. Settings & built-in documentation are easy to understand. Bought pro after first use.
+ - June 11, 2010&&&5.0 &&& - Motorola Droid &&& 2.6.1&&&I loved it since the begining, if ur a root user then u already ...&&&I loved it since the begining, if ur a root user then u already know that u are gonna buy it
+ - June 25, 2010&&&5.0 &&& - Samsung Galaxy S &&& 2.6.2&&&Awesome&&&
+ - June 5, 2010&&&5.0 &&& - Motorola XOOM &&& 2.6.1&&&Would it be possible to add an auto clear cache option for when the ...&&&Would it be possible to add an auto clear cache option for when the screen goes out. That would be kinda neat. I would love that.
+ - June 11, 2010&&&5.0 &&& - HTC Nexus One &&& 2.6.2&&&Awsum!&&&
+ - May 15, 2010&&&5.0 &&&&&& - Version 2.6.1&&&Love it... tried the free version had to support you. Nice app&&&
+ - June 28, 2010&&&5.0 &&& - HTC Hero &&& 2.6.2&&&Great app&&&
+ - July 11, 2010&&&5.0 &&& - HTC myTouch 3G &&& 2.6.1&&&Awsome thanks how can I save my battery life on HTC magic anyone knows.&&&
+ - July 4, 2010&&&5.0 &&& - Motorola Various &&& 2.6.2&&&Works as advertised&&&
+ - November 1, 2010&&&5.0 &&&&&& - Version 2.6.1&&&Dev is top notch thanks bro . Vibrant&&&
+ - June 11, 2010&&&5.0 &&& - HTC EVO Shift 4G &&& 2.6.1&&&A must have!! MT3G running 2.1 desire :)&&&
+ - May 31, 2010&&&5.0 &&& - Motorola Droid &&& 2.6.1&&&1st run cleared 18M on Cyanogen. Nice app&&&
+ - May 26, 2010&&&5.0 &&& - Motorola Various &&& 2.6.1&&&Another essential part of being rooted.&&&
+ - May 30, 2010&&&4.0 &&& - Motorola Droid &&& 2.6.1&&&Doesn't seem to work with new roms like cyanogen&&&
+ - June 6, 2010&&&5.0 &&&&&& - Version 2.6.1&&&Does what it says good for people who dont want to reboot into recovery ...&&&Does what it says good for people who dont want to reboot into recovery to whipe cache
+ - June 6, 2010&&&5.0 &&&&&& - Version 2.6.1&&&Works on froyo after reboot for me. Is dolphin hd supported? Does not clear ...&&&Works on froyo after reboot for me. Is dolphin hd supported? Does not clear cache there I think
+ - June 8, 2010&&&5.0 &&& - Motorola Droid &&& 2.6.1&&&Droid!&&&
+ - October 9, 2010&&&5.0 &&& - Samsung Galaxy S &&& 2.6.1&&&XD&&&
+ - May 16, 2010&&&4.0 &&&&&& - Version 2.6.1&&&Works! Cyanogen mod&&&
+ - May 26, 2010&&&5.0 &&& - HTC Hero &&& 2.6.1&&&Does what it says it does :)&&&
+ - August 6, 2010&&&5.0 &&& - HTC Nexus One &&& 2.6&&&Must have for root users&&&
+ - May 10, 2010&&&3.0 &&&&&& - Version 2.6&&&Battery died 4hrs after charger removal. Sammy's Moment 2.1.&&&
+ - May 3, 2010&&&5.0 &&& - Motorola Droid &&& 2.6&&&Amazing developer! Asked for improvements, and got them! A+ for sure :-)&&&
+ - May 12, 2010&&&5.0 &&&&&& - Version 2.6&&&works great! But Id buy this app all over again just because the developer ...&&&works great! But Id buy this app all over again just because the developer emailed me back instantly & answered my question! Thanks!
+ - June 7, 2010&&&5.0 &&& - HTC Nexus One &&& 2.6&&&Makes my phone run smooth! Thank you! Nexus 1 froyo 2.2 Cyanogen root mod!&&&
+ - May 18, 2010&&&5.0 &&& - Samsung Droid Charge &&& 2.6.1&&&Cool beans&&&
+ - October 5, 2010&&&5.0 &&&&&& - Version 2.6&&&Works perfectly on Vibrant with Eugenes franktwiz final rom&&&
+ - May 10, 2010&&&5.0 &&& - Motorola Droid X &&& 2.6&&&Great app, 5 stars!&&&
+ - May 6, 2010&&&5.0 &&&&&& - Version 2.6&&&Must have app for rooted phones. Awesome knowing how much is cleared now. Great ...&&&Must have app for rooted phones. Awesome knowing how much is cleared now. Great work
+ - May 11, 2010&&&5.0 &&& - HTC Nexus One &&& 2.6&&&Wow! No more doing it manually! Android DOES!&&&
+ - May 3, 2010&&&5.0 &&&&&& - Version 2.6&&&Very effective apparently for rooted phones&&&
+ - April 25, 2010&&&1.0 &&&&&& - Version 2.5.9&&&Doesn't Work!&&&
+ - May 12, 2010&&&5.0 &&& - HTC Nexus One &&& 2.6&&&Works good&&&
+ - May 15, 2010&&&5.0 &&& - Motorola Droid X &&& 2.6&&&awesome!!!!!!&&&
+ - April 29, 2010&&&5.0 &&& - Samsung Moment &&& 2.5.9&&&Worth every penny. Any way to include dalvik cache?&&&
+ - April 30, 2010&&&5.0 &&&&&& - Version 2.5.9&&&If not rooted, get Quick App Clean Cache&&&
+ - April 19, 2010&&&5.0 &&&&&& - Version 2.5.9&&&OMG! This is the bomb! Well worth the dollar. This is a must buy ...&&&OMG! This is the bomb! Well worth the dollar. This is a must buy application for 2010.
+ - April 26, 2010&&&4.0 &&& - HTC G1  &&& 2.5.9&&&Good...but why, even though it is checked to clear, do i still have to ...&&&Good...but why, even though it is checked to clear, do i still have to manually clear browser and pandora?
+ - April 21, 2010&&&5.0 &&&&&& - Version 2.5.9&&&Seems to work great. First use cleared 37 megs of clutter!&&&
+ - May 29, 2010&&&5.0 &&& - Samsung Galaxy Tab &&& 2.5.9&&&Android 2.2 dont work does nothing&&&
+ - April 30, 2010&&&4.0 &&&&&& - Version 2.5.9&&&Awesome&&&
+ - April 19, 2010&&&5.0 &&& - HTC Evo 4G &&& 2.5.9&&&Great app. Absolute must have for any rooted phone.&&&
+ - April 29, 2010&&&5.0 &&& - Acer Picasso &&& 2.5.9&&&Has to be the best app on the market. well worth the money. Dalvik ...&&&Has to be the best app on the market. well worth the money. Dalvik would be good
+ - April 22, 2010&&&5.0 &&&&&& - Version 2.5.9&&&Good program buy it before the price goes up. Developer is very responsive and ...&&&Good program buy it before the price goes up. Developer is very responsive and informative
+ - May 2, 2010&&&5.0 &&& - Samsung Nexus S &&& 2.5.9&&&Perfect!&&&
+ - April 21, 2010&&&5.0 &&& - Samsung Galaxy S &&& 2.5.9&&&Hell yes!!&&&
+ - May 3, 2010&&&5.0 &&&&&& - Version 2.5.9&&&Very good, never had one problem&&&
+ - May 3, 2010&&&5.0 &&& - HTC Droid Eris  &&& 2.5.9&&&great app. Keeps my Eris running smooth.&&&
+ - April 21, 2010&&&5.0 &&&&&& - Version 2.5.9&&&It did not clear my market search?nevermind&&&
+ - April 19, 2010&&&5.0 &&&&&& - Version 2.5.9&&&Efficient and easy to use - definitely worth the reduced price.&&&
+ - May 4, 2010&&&5.0 &&&&&& - Version 2.5.9&&&?love it?&&&
+ - April 6, 2010&&&3.0 &&& - HTC myTouch 3G &&& 2.5.8&&&How do I know its working?&&&
+ - April 15, 2010&&&1.0 &&& - Samsung Behold2 &&& 2.5.8&&&Not doing jack squat on rooted bh2 w/ no twiz rom. Please fix. Or ...&&&Not doing jack squat on rooted bh2 w/ no twiz rom. Please fix. Or do u actually guarantee ur prog...
+ - April 11, 2010&&&4.0 &&&&&& - Version 2.5.8&&&Definitely speeds up my G1 after it's been running for awhile&&&
+ - April 10, 2010&&&5.0 &&& - LGE Bryce &&& 2.5.8&&&Nice app man, frees up space on your phone, A MUST HAVE for rooted ...&&&Nice app man, frees up space on your phone, A MUST HAVE for rooted phones!
+ - April 19, 2010&&&5.0 &&& - Motorola Droid X &&& 2.5.8&&&Support this developer. Works hard and fast on one of the best apps for ...&&&Support this developer. Works hard and fast on one of the best apps for Android. Kudos!
+ - March 27, 2010&&&5.0 &&&&&& - Version 2.5.7&&&Very satisfied. After my first clear my Droid was much more fluent. Thanks!&&&
+ - June 11, 2010&&&5.0 &&&&&& - Version 2.5.7&&&Best thing ever....mytouch user..@Marie do you even know what root is?&&&
+ - September 17, 2010&&&5.0 &&& - Motorola XOOM &&& 2.5.8&&&Best cache cleaning app by far! Iv tried all the other ones but none ...&&&Best cache cleaning app by far! Iv tried all the other ones but none work nearly as well or clear as much cache as this one! & dev is very helpful!
+ - April 5, 2010&&&5.0 &&&&&& - Version 2.5.8&&&Woops i dont have root and downloaded it.. i swear they need to make ...&&&Woops i dont have root and downloaded it.. i swear they need to make the android able to do it without root. 5 stars anyways
+ - March 26, 2010&&&5.0 &&& - HTC Desire &&& 2.5.7&&&Great app&&&
+ - March 29, 2010&&&5.0 &&& - Samsung Galaxy S &&& 2.5.7&&&Perfect App!! A must have from a Cliq user!&&&
+ - June 14, 2010&&&4.0 &&&&&& - Version 2.5.7&&&Include Handcent SMS please! Nice cleanup tool.&&&
+ - March 17, 2010&&&5.0 &&&&&& - Version 2.5.6&&&This application works perfectly on a motor Droid as long as you root your ...&&&This application works perfectly on a motor Droid as long as you root your phone. Great app
+ - March 31, 2010&&&3.0 &&&&&& - Version 2.5.7&&&Meh. Didnt really do much for my phone but that could be my phones ...&&&Meh. Didnt really do much for my phone but that could be my phones fault i guess
+ - March 29, 2010&&&5.0 &&& - Motorola Droid &&& 2.5.7&&&Great app&&&
+ - April 5, 2010&&&4.0 &&& - HTC Nexus One &&& 2.5.7&&&I like it but sometimes forces closes.. nexus one. Enom 1.8.1&&&
+ - March 31, 2010&&&5.0 &&&&&& - Version 2.5.7&&&Works great, sprint hero, super screen shots@ support site.&&&
+ - March 29, 2010&&&5.0 &&& - Motorola XOOM &&& 2.5.7&&&Very nice app speeds up dramatically a must have for root users. - Samsung ...&&&Very nice app speeds up dramatically a must have for root users. - Samsung Moment
+ - August 12, 2010&&&5.0 &&& - HTC Nexus One &&& 2.5.7&&&Perfect with nexus&&&
+ - March 15, 2010&&&5.0 &&&&&& - Version 2.5.6&&&I didnt read all the requirements upon downloading this app but the dev was ...&&&I didnt read all the requirements upon downloading this app but the dev was very helpfull and showed great interest in helping me find the right app5*
+ - March 24, 2010&&&4.0 &&& - Motorola Droid &&& 2.5.6&&&DROID...BB_v9...Chevy1.25_10step... getting force closes when clearing ...&&&DROID...BB_v9...Chevy1.25_10step... getting force closes when clearing cache.
+ - March 21, 2010&&&5.0 &&& - HTC Evo 4G &&& 2.5.6&&&Love the app, Nexus One running smoothly.&&&
+ - March 21, 2010&&&5.0 &&&&&& - Version 2.5.6&&&Saves me a ton of time...no more individual app clearing...keep up the awesome ...&&&Saves me a ton of time...no more individual app clearing...keep up the awesome work!
+ - March 21, 2010&&&5.0 &&& - Motorola Droid &&& 2.5.6&&&Great app. Updates frequently with more apps to clear. Would root only for this ...&&&Great app. Updates frequently with more apps to clear. Would root only for this app
+ - March 15, 2010&&&5.0 &&& - Motorola Droid &&& 2.5.6&&&Worth the money. Awesome app.&&&
+ - March 14, 2010&&&5.0 &&&&&& - Version 2.5.6&&&GREEEAAAT. :) did work simple click-clean. :)))&&&
+ - March 15, 2010&&&5.0 &&& - Motorola Droid &&& 2.5.6&&&Works great moto droid.&&&
+ - March 19, 2010&&&5.0 &&& - Motorola Droid &&& 2.5.6&&&Phone feels faster. *rooted droid*&&&
+ - March 11, 2010&&&5.0 &&&&&& - Version 2.5.6&&&Makes me happy&&&
+ - March 7, 2010&&&3.0 &&&&&& - Version 2.5.5&&&I haven't noticed any difference in my phone. Rooted Droid running at 1ghz&&&
+ - July 31, 2010&&&5.0 &&& - Motorola XOOM &&& 2.5.4&&&Please allow installation to SD Card! Still great, even more essential as ROMs get ...&&&Please allow installation to SD Card! Still great, even more essential as ROMs get bigger but G1 wears the same size britches.
+ - March 10, 2010&&&5.0 &&& - Motorola Droid &&& 2.5.5&&&Great application! I wish it could clean my home too!!&&&
+ - March 8, 2010&&&5.0 &&& - HTC Nexus One &&& 2.5.5&&&Why would anyone give this less than 5 stars?&&&
+ - March 4, 2010&&&5.0 &&& - Motorola Droid X &&& 2.5.5&&&One of the best apps for the droid thus far! Great work dev!&&&
+ - March 10, 2010&&&5.0 &&&&&& - Version 2.5.5&&&Awesome app. Phone flies after running this program. Well worth the money!&&&
+ - March 16, 2010&&&5.0 &&&&&& - Version 2.5.6&&&Recommonded&&&
+ - March 4, 2010&&&5.0 &&&&&& - Version 2.5.5&&&Fasho&&&
+ - March 6, 2010&&&5.0 &&& - Samsung Moment &&& 2.5.5&&&Amen!&&&
+ - March 12, 2010&&&5.0 &&& - Motorola Droid &&& 2.5.5&&&LoL no doubt. Made my droid from clogged toilet into a a fine river. ...&&&LoL no doubt. Made my droid from clogged toilet into a a fine river. I Love it!!
+ - March 2, 2010&&&5.0 &&&&&& - Version 2.5.4&&&Fantastic, extremely useful multiple times a day&&&
+ - March 2, 2010&&&5.0 &&& - Samsung Galaxy S &&& 2.5.4&&&Works great. With the latest update, this app is absolutely perfect. Would give it ...&&&Works great. With the latest update, this app is absolutely perfect. Would give it more stars if I could. Root and install this app now!
+ - March 1, 2010&&&5.0 &&& - Motorola Droid X &&& 2.5.2&&&Couldnt be easier to use, works great really helps me clear up space, runs ...&&&Couldnt be easier to use, works great really helps me clear up space, runs smoothly - Droid
+ - March 3, 2010&&&5.0 &&&&&& - Version 2.5.4&&&Quick simple effective. Nice. Droid.&&&
+ - July 20, 2010&&&5.0 &&& - HTC myTouch 3G &&& 2.5.4&&&Fine app. Does it's job.&&&
+ - March 2, 2010&&&5.0 &&&&&& - Version 2.5.4&&&Very nice app. Reason enough to root.&&&
+ - March 3, 2010&&&2.0 &&& - Motorola Droid &&& 2.5.4&&&Doesn't seem to work on my rooted droid. Didn't clear the Market even after ...&&&Doesn't seem to work on my rooted droid. Didn't clear the Market even after killed and rebooted.
+ - March 1, 2010&&&5.0 &&&&&& - Version 2.5.4&&&Flawless app! Must have!&&&
+ - March 3, 2010&&&4.0 &&& - Motorola Droid X &&& 2.5.4&&&So far so good. Now to add google earth cache clearing!!!&&&
+ - February 26, 2010&&&5.0 &&& - HTC Nexus One &&& 2.5.2&&&I'm addicted to clearing my cache on my n1. It doesn't usually slow down ...&&&I'm addicted to clearing my cache on my n1. It doesn't usually slow down but I do notice a very slight increase in smoothness
+ - February 19, 2010&&&5.0 &&& - Motorola Droid &&& 2.5&&&Works exactly as described. Worth much more than $1.&&&
+ - March 1, 2010&&&5.0 &&& - HTC Nexus One &&& 2.5.2&&&Love it, keeps my phone running smoothly. Must have app.&&&
+ - February 16, 2010&&&5.0 &&&&&& - Version 2.5&&&Great app!! Makes clearing cache SOOO much easier then doing it one by one ...&&&Great app!! Makes clearing cache SOOO much easier then doing it one by one in the settings menu.And the dev is GREAT, GREAT communication.
+ - February 21, 2010&&&5.0 &&& - Motorola Droid &&& 2.5&&&Works well. Market search clearing perfectly Error was my fault not the apps fault. ...&&&Works well. Market search clearing perfectly Error was my fault not the apps fault. This app is awesome.
+ - March 2, 2010&&&5.0 &&& - HTC Nexus One &&& 2.5.2&&&I have had this app a long time now and it is hands down ...&&&I have had this app a long time now and it is hands down the most usefull app i have
+ - March 1, 2010&&&5.0 &&& - HTC Evo 4G &&& 2.5.2&&&Love the app! Makes clearing cache as easy as touching one button. Dev very ...&&&Love the app! Makes clearing cache as easy as touching one button. Dev very responsive to adding apps.
+ - March 25, 2010&&&5.0 &&& - Motorola Droid &&& 2.5.2&&&The only thing that bothers me is that it doesn't read my mind!&&&
+ - February 26, 2010&&&3.0 &&&&&& - Version 2.5.2&&&Good app&&&
+ - April 20, 2010&&&5.0 &&&&&& - Version 2.5&&&all devs should be like this one. Top notch app.top notch cust service&&&
+ - February 15, 2010&&&5.0 &&& - HTC myTouch 4G Slide &&& 2.5&&&Developer is very responsive! Best app has gotten better with latest update!&&&
+ - February 21, 2010&&&5.0 &&& - Motorola Droid &&& 2.5&&&Great app. Works great&&&
+ - February 18, 2010&&&4.0 &&&&&& - Version 2.5&&&After clearing cache.. check the application manager. Didn't seem to work... ...&&&After clearing cache.. check the application manager. Didn't seem to work... still got cache on market and browser..
+ - February 9, 2010&&&5.0 &&& - HTC Nexus One &&& 2.4.5&&&One of the most important apps for root users. This app is great on ...&&&One of the most important apps for root users. This app is great on the Nexus one.
+ - February 12, 2010&&&5.0 &&&&&& - Version 2.4.6&&&Even your dog will like this!&&&
+ - February 12, 2010&&&5.0 &&&&&& - Version 2.4.6&&&Outstanding app. Great work&&&
+ - February 12, 2010&&&5.0 &&&&&& - Version 2.4.5&&&Absolutely essential for keeping my Hero fast !&&&
+ - February 12, 2010&&&5.0 &&& - HTC Evo 4G &&& 2.4.5&&&Developer is great, program is great, and it even comes with a side of ...&&&Developer is great, program is great, and it even comes with a side of fries!
+ - February 23, 2010&&&5.0 &&&&&& - Version 2.5&&&It's great.....&&&
+ - February 21, 2010&&&5.0 &&& - HTC Nexus One &&& 2.5&&&Perfect, would have paid more&&&
+ - February 15, 2010&&&5.0 &&& - Motorola Droid &&& 2.5&&&Does exactly as it says. Great app&&&
+ - March 26, 2012&&&4.0 &&&&&&&&&Essential!&&&Wish you would update the UI to fit Ice Cream Sandwich. Other then that it's working great. 5 stars when you update.
+ - September 4, 2010&&&5.0 &&&&&& - Version 2.3&&&Does a better than the other cleaner app but wish I can see the ...&&&Does a better than the other cleaner app but wish I can see the list of programs it cleans like quick app cleaner. N1 2.2
+ - February 10, 2010&&&5.0 &&&&&& - Version 2.4.4&&&This app is amazing! I only wish it had an autodetect feature for other ...&&&This app is amazing! I only wish it had an autodetect feature for other installed apps. Moto Droid A+
+ - June 11, 2010&&&5.0 &&& - Toshiba AT100 &&& 2.4.2&&&fantastic. @Marie don't rate an app 1 star BC you are too lazy to ...&&&fantastic. @Marie don't rate an app 1 star BC you are too lazy to research what root access is and even ignore it.
+ - February 11, 2010&&&5.0 &&&&&& - Version 2.4.5&&&Excellent app! Does what it says and is a must-have.&&&
+ - February 6, 2010&&&5.0 &&& - Motorola Droid &&& 2.4.4&&&Very nice. One stop cache cleaner... xllent&&&
+ - February 7, 2010&&&5.0 &&& - HTC G1  &&& 2.4.4&&&Bought as a donation for his user.init creator app and ended up loving this ...&&&Bought as a donation for his user.init creator app and ended up loving this one too. Great developer.
+ - February 4, 2010&&&5.0 &&&&&& - Version 2.4.4&&&Perfect!&&&
+ - February 9, 2010&&&5.0 &&&&&& - Version 2.4.4&&&FANTASTIC!&&&
+ - January 31, 2010&&&5.0 &&&&&& - Version 2.4.4&&&@ louis..You have a google phone and can't figure out how to root! Try ...&&&@ louis..You have a google phone and can't figure out how to root! Try a google search from your google phone. Wow what an idea. App is awesome.
+ - November 21, 2009&&&4.0 &&&&&& - Version 1.5.4&&&Cleaned out crap I didn't know I had, excellent. Suggestion: Please add Slacker!&&&
+ - August 12, 2010&&&5.0 &&&&&& - Version 2.2.1&&&Great app to get ride of my usless cache... thanks&&&
+ - June 26, 2012&&&1.0 &&&&&& - HTC Sensation 4G&&&UPDATE PLEASE!!!!&&&Long time user and this doesn't do the job anymore. There are far better free apps than this junk.
+ - January 6, 2010&&&5.0 &&&&&& - Version 2.4.1&&&Very useful! Frees up a lot of memory...full version is much more thorough than ...&&&Very useful! Frees up a lot of memory...full version is much more thorough than demo, worth $1
+ - December 22, 2009&&&5.0 &&&&&& - Version 2.3&&&Works great! Phone gets slugish, I run this app, and no more problems. Thanks!&&&
+ - March 25, 2010&&&5.0 &&&&&& - Version 2.2&&&This is my favorite utility app. Developer is very dedicated and responds to ...&&&This is my favorite utility app. Developer is very dedicated and responds to requests very quickly. One app I can't live without. :-)
+ - August 16, 2010&&&5.0 &&&&&& - Version 2.3.1&&&@sean, don't worry google will silently delete it from there phone and then send ...&&&@sean, don't worry google will silently delete it from there phone and then send them a warning email lots of people used to do that w/ two phones
+ - January 4, 2010&&&3.0 &&& - HTC myTouch 3G &&& 2.4&&&Doesnt clear browser,market, or aim,yahoo,msn caches. Thats what i use the most n ...&&&Doesnt clear browser,market, or aim,yahoo,msn caches. Thats what i use the most n what takes all my memory. Good idea n app but fix that then b #1 app
+ - November 16, 2009&&&5.0 &&&&&& - Version 1.1&&&Data can possibly be added for certain apps. Might make a nice feature. I ...&&&Data can possibly be added for certain apps. Might make a nice feature. I was looking into already. Email me suggestions.
+ - February 25, 2010&&&5.0 &&&&&& - Version 2.4.1&&&probably the most responsive dev out there! answers very quickly. also, the app ...&&&probably the most responsive dev out there! answers very quickly. also, the app rocks! enough said
+ - December 18, 2009&&&5.0 &&& - HTC Legend &&& 1.7.6&&&Works pure and simple, "update" and it just gets better and better&&&
+ - January 10, 2010&&&5.0 &&& - HTC Evo 4G &&& 2.4.1&&&Works great! Worth the buck I payed! Remember root users only! Will not work ...&&&Works great! Worth the buck I payed! Remember root users only! Will not work on unrooted phones!
+ - November 9, 2009&&&5.0 &&&&&& - Version 1.0.2&&&All good.Convenience ×2!&&&
+ - January 19, 2010&&&5.0 &&&&&& - Version 2.4.2&&&Fantastic app! Has my Hero running like new!&&&
+ - May 12, 2012&&&1.0 &&&&&& - HTC myTouch 3G&&&cannot update, error 941&&&error 941
+ - December 17, 2009&&&5.0 &&& - HTC Nexus One &&& 1.7.5&&&Must have app for root users perfect app. If possible wld like for it ...&&&Must have app for root users perfect app. If possible wld like for it to say how much it clears when you use the widget.
+ - December 15, 2009&&&5.0 &&&&&& - Version 2.0&&&Widget...holy cr4p. Best app for cache ever. Dev is super responsive, highly ...&&&Widget...holy cr4p. Best app for cache ever. Dev is super responsive, highly recommended!!
+ - November 16, 2009&&&5.0 &&& - Motorola Droid X &&& 1.1&&&Awesome app... big time saver, but is there any way to add application data ...&&&Awesome app... big time saver, but is there any way to add application data cleaning too?
+ - December 17, 2009&&&5.0 &&& - HTC Nexus One &&& 2.0&&&Very impressed that the dev responds on here and listens to request ..very nice&&&
+ - November 13, 2009&&&5.0 &&& - HTC Desire &&& 1.0.2&&&Great app, does the job well. developer very communicative regarding suggestions ...&&&Great app, does the job well. developer very communicative regarding suggestions and help.
+ - January 31, 2010&&&4.0 &&&&&& - Version 2.4.3&&&Good 2 go only thing is when i used it my map fc all ...&&&Good 2 go only thing is when i used it my map fc all the time.
+ - August 3, 2010&&&5.0 &&& - HTC Evo 4G &&& 2.4&&&Can we get some froyo support?&&&
+ - June 24, 2012&&&3.0 &&&&&& - Samsung Exhibit 2 4G&&&Could be better&&&I had to uninstall because it would disable my ability to download apps. Waste of $ for me.
+ - December 4, 2009&&&5.0 &&&&&& - Version 1.6.4&&&Keeps my phone fresh and its speed, BLAZING!!!&&&
+ - November 24, 2009&&&5.0 &&&&&& - Version 1.6.1&&&Great app&&&
+ - December 4, 2009&&&5.0 &&&&&& - Version 1.6.4&&&Keeps my phone nice and clean and pretty fast too.&&&
+ - January 24, 2010&&&5.0 &&& - HTC Nexus One &&& 1.7.6&&&Gr8 app! awesome!&&&
+ - December 13, 2009&&&5.0 &&&&&& - Version 1.8&&&Amazing!&&&
+ - November 8, 2009&&&5.0 &&& - Asus Eee Pad &&& 1.0.1&&&This update somehow solved the fc issue. Thanks !&&&
+ - December 15, 2009&&&5.0 &&& - HTC Hero  &&& 2.0&&&Tried the demo, loves it. And bought the full version!&&&
+ - December 16, 2009&&&5.0 &&&&&& - Version 1.5.4&&&Thanks for adding the widget. This is just a fantastic app.&&&
+ - January 1, 2010&&&5.0 &&&&&& - Version 2.3.1&&&Works like a champ!&&&
+ - January 24, 2010&&&5.0 &&& - HTC Evo 4G &&& 2.4.3&&&Absolutely essential for root users. Keeps my g1 clear and fast.&&&
+ - November 8, 2009&&&5.0 &&&&&& - Version 1.0.1&&&Nice and easy.&&&
+ - January 2, 2010&&&5.0 &&&&&& - Version 2.3.1&&&Must have for rooted droids&&&
+ - January 21, 2010&&&5.0 &&&&&& - Version 2.4.2&&&best dollar I've spent on the market yet! This app rocks my socks!!!&&&
+ - December 14, 2009&&&5.0 &&&&&& - Version 2.0&&&Awesome support i got a response within a few hours&&&
+ - December 28, 2009&&&5.0 &&& - Motorola Droid &&& 2.3.1&&&What does root access mean and does it work on motor droid&&&
+ - November 19, 2009&&&5.0 &&& - Samsung Galaxy S &&& 1.5.2&&&Gotta give 5 stars now since u added auto-clear...but, is it possible 2 clear ...&&&Gotta give 5 stars now since u added auto-clear...but, is it possible 2 clear data also? Would be 6 stars (in spirit) with that! :-) Thanks!
+ - January 4, 2010&&&5.0 &&& - Motorola Droid X2 &&& 2.4&&&Does auto clear work without app running??&&&
+ - January 13, 2010&&&5.0 &&& - Samsung Galaxy S &&& 2.4.1&&&The best dev every this app rocks&&&
+ - January 13, 2010&&&5.0 &&&&&& - Version 2.4.1&&&thanks for adding Dungeon Quest!! Awesome!&&&
+ - November 8, 2009&&&5.0 &&& - HTC Nexus One &&& 1.0&&&Was going to pm you for dolphin, but no need...thanks!&&&
+ - January 21, 2010&&&5.0 &&&&&& - Version 2.4.2&&&Works great, first app I've actually bought&&&
+ - December 8, 2009&&&5.0 &&& - HTC myTouch 3G &&& 1.7.6&&&Works as it should, developer is very responsive. Keep up the great work.&&&
+ - December 22, 2009&&&5.0 &&&&&& - Version 2.2&&&This rocks! Should be a non-root, standard app for all Android devices!&&&
+ - January 20, 2010&&&3.0 &&& - Motorola Droid &&& 2.4.2&&&Does not clear market history. Works otherwise. Motor Droid&&&
+ - January 31, 2010&&&5.0 &&& - HTC Nexus One &&& 2.4.3&&&Works. Dev is speedy with adding new apps to remove cache for.&&&
+ - November 11, 2009&&&3.0 &&&&&& - Version 1.0.2&&&Did not list installed apps. Would've kept it if it had&&&
+ - December 17, 2009&&&5.0 &&& - Motorola Droid &&& 2.1&&&A must! Makes my moto droid run fast.&&&

@@ -1,0 +1,9 @@
+version for new device
+revert changes
+more options
+missing gui feat
+missing logic feat
+more updates
+more features
+diff preference for existing gui feat
+diff preference for existing logic feat

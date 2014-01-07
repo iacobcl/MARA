@@ -1,0 +1,152 @@
+ - Acer Liquid 
+ - Acer Picasso 
+ - Asus Eee Pad 
+ - Casio GzOne Commando 
+ - Dell Blaze 
+ - Dell Streak 
+ - Dell Streak 7 
+ - Droid Bionic 
+ - EeePad Slider SL101 
+ - EeePad Transformer TF101 
+ - EeePad Transformer TF201 
+ - EeePad Transformer TF300 
+ - Galaxy Player 
+ - Galaxy Precedent 
+ - Galaxy Prevail 
+ - Galaxy S Plus 
+ - Galaxy S2 Skyrocket 
+ - Galaxy Tab 10.1 
+ - Galaxy Tab 7.0 Plus 
+ - Garmin-Asus Nuvifone 
+ - Gravity Smart 
+ - HTC Aria 
+ - HTC Chacha 
+ - HTC Desire 
+ - HTC Desire HD 
+ - HTC Desire S 
+ - HTC Droid Eris  
+ - HTC Droid Incredible 
+ - HTC EVO 3D 
+ - HTC Evo 4G 
+ - HTC EVO Shift 4G 
+ - HTC Flyer 
+ - HTC G1  
+ - HTC G2 
+ - HTC Hero 
+ - HTC Incredible 2 
+ - HTC Incredible S 
+ - HTC Legend 
+ - HTC myTouch 3G 
+ - HTC myTouch 3G Slide 
+ - HTC myTouch 4G 
+ - HTC myTouch 4G Slide 
+ - HTC Nexus One 
+ - HTC One S 
+ - HTC One X 
+ - HTC Sensation 4G 
+ - HTC Sensation XL 
+ - HTC Shooter 
+ - HTC Thunderbolt 
+ - HTC Wildfire 
+ - HTC Wildfire CDMA 
+ - HTC Wildfire S 
+ - Huawei IDEOS 
+ - Huawei M835 
+ - Huawei M860 
+ - Huawei M865 
+ - Huawei U8180 
+ - Huawei V858 
+ - Iconia Tab A100 (VanGogh) 
+ - Identity Tab E201 
+ - Kyocera Echo 
+ - Lenovo Indigo 
+ - LG Ally 
+ - LG Cayman 
+ - LG Gelato 
+ - LG myTouch E739 
+ - LG myTouch Q 
+ - LG Optimus 2X 
+ - LG Optimus One 
+ - LG Optimus Pad 
+ - LG P2 
+ - LG Pecan 
+ - LG Swift 
+ - LGE Bryce 
+ - Motorola Atrix 
+ - Motorola Backflip 
+ - Motorola Citrus 
+ - Motorola CLIQ  
+ - Motorola Cliq-XT 
+ - Motorola Defy 
+ - Motorola Devour 
+ - Motorola Droid 
+ - Motorola Droid 3 
+ - Motorola Droid II 
+ - Motorola Droid Pro 
+ - Motorola Droid RAZR 
+ - Motorola Droid X 
+ - Motorola Droid X2 
+ - Motorola Flipout 
+ - Motorola Milestone2 
+ - Motorola Motoroi 
+ - Motorola Photon 4G 
+ - Motorola Various 
+ - Motorola XOOM 
+ - NEC MEDIAS N-04C 
+ - Pantech Apache 
+ - REGZA Phone T01C 
+ - Samsung Admire 
+ - Samsung Behold2 
+ - Samsung Dart 
+ - Samsung Droid Charge 
+ - Samsung Europa  
+ - Samsung Exhibit 2 4G 
+ - Samsung Exhibit 4G 
+ - Samsung Galaxy 3 
+ - Samsung Galaxy Ace 
+ - Samsung Galaxy Fit 
+ - Samsung Galaxy Gio 
+ - Samsung Galaxy Mini 
+ - Samsung Galaxy Nexus 
+ - Samsung Galaxy Note 
+ - Samsung Galaxy S 
+ - Samsung Galaxy S2 
+ - Samsung Galaxy S3 
+ - Samsung Galaxy Spica 
+ - Samsung Galaxy Tab 
+ - Samsung Galaxy W 
+ - Samsung Galaxy Y 
+ - Samsung Gem 
+ - Samsung Infuse 4G 
+ - Samsung Moment 
+ - Samsung Nexus S 
+ - Samsung Replenish 
+ - Samsung Sidekick 4G 
+ - Samsung Stratosphere 
+ - Samsung VinsQ(M910) 
+ - SEMC Experia Acro 
+ - SEMC Xperia Arc 
+ - SEMC Xperia Arc S 
+ - SEMC Xperia Live 
+ - SEMC Xperia Mini 
+ - SEMC Xperia Mini Pro 
+ - SEMC Xperia Neo 
+ - SEMC Xperia Neo V 
+ - SEMC Xperia Play 
+ - SEMC Xperia S 
+ - SEMC Xperia X10 
+ - SEMC Xperia X10 Mini 
+ - SEMC Xperia X8 
+ - Sharp Aquos 
+ - Sharp IS01 
+ - Sharp IS03 
+ - Sharp Lynx 3D SH-03C 
+ - Sony Tablet S 
+ - Toshiba AT100 
+ - Transform(M920) 
+ - Vizio VTAB1008 
+ - Xperia X10 Mini Pro 
+ - ZTE Blade 
+ - ZTE Racer 
+ - ZTE V9 
+ - ZTE X500 

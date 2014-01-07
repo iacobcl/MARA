@@ -1,0 +1,36 @@
+Category:Health
+Total positive:193
+% positive:37.84313725490196
+Total negative:12
+% negative:2.3529411764705883
+----------------------------------------
+Category:Personalization
+Total positive:1043
+% positive:42.02256244963739
+Total negative:63
+% negative:2.538275584206285
+----------------------------------------
+Category:Tools
+Total positive:153
+% positive:15.904365904365905
+Total negative:27
+% negative:2.8066528066528065
+----------------------------------------
+Category:Books
+Total positive:189
+% positive:26.433566433566433
+Total negative:22
+% negative:3.076923076923077
+----------------------------------------
+Category:Education
+Total positive:260
+% positive:40.94488188976378
+Total negative:16
+% negative:2.5196850393700787
+----------------------------------------
+Category:Productivity
+Total positive:217
+% positive:21.52777777777778
+Total negative:25
+% negative:2.4801587301587302
+----------------------------------------

@@ -1,0 +1,82 @@
+ - March 30, 2012&&&4.0 &&& - EeePad Transformer TF201 &&& 2.1.3&&&Great app, but do you call that a widget?!&&&Very nice design. I like how it closely matches the Android Email and Calendar apps. It's the app that Android should have as standard.  Now, the one problem is the Widget (or lack of!) Would be 5 stars if you had anything near a decent widget. A 1 by 1 widget? Come on, surely you can do better than that. A nice simple widget that matches your well designed app is desperately needed to make it really stand out from the crowd.
+ - May 11, 2012&&&4.0 &&& - HTC myTouch 4G Slide &&& 2.1.3&&&Fix the widget for 5 stars&&&The widget is pretty ridiculous, especially for a paid app. Shouldn't be that hard for the dev to fix....
+ - March 26, 2012&&&1.0 &&& - Galaxy Tab 10.1 &&& 2.1.3&&&Wasted Money on This APP&&&Don't waste your money.  Does not work.  Look elsewhere.
+ - May 15, 2012&&&3.0 &&& - Samsung Galaxy Tab &&& 2.1.3&&&Downgraded upgrade&&&I loved this app when I first got it because it was the only app out there that synched up with Exchange, displayed my entire task list message, and did not require additional software to run. Now, it's just like every other app out there, because it truncates the task title, so that all I see are messages that say thins like "Update the Me.." Very disappointed.
+ - May 5, 2012&&&2.0 &&& - Galaxy Tab 10.1 &&& 2.1.3&&&Does not support ActiveSync&&&It worked on my previous job, no more because the app doesn't support ActiveSync. Please support ActiveSync.
+ - April 30, 2012&&&3.0 &&& - Motorola Droid X &&& 2.1.3&&&Fair app&&&It would ne nice to see old completed tasks
+ - March 29, 2012&&&1.0 &&& - HTC Desire HD &&& 2.1.3&&&Desire HD&&&Good idea but didn't work with exchange 2010
+ - March 26, 2012&&&5.0 &&& - HTC Desire &&& 2.1.3&&&Works nice and smoothely!&&&
+ - March 30, 2012&&&4.0 &&& - Iconia Tab A100 (VanGogh) &&& 2.1.3&&&Solid&&&Works well with exchange 2007. Have fewer layers to work through, or use check boxes that autohide completed tasks. It has a nice layout, visually nice.
+ - April 2, 2012&&&4.0 &&& - Samsung Galaxy Nexus &&& 2.1.3&&&Love it&&&But could you include an ICS theme?
+ - April 23, 2012&&&3.0 &&& - LG Optimus One &&& 2.1.3&&&Problem with server&&&Potentially this is a great little app. The problem is that every few days it drops my MS Exchange settings and so stops syncing.
+ - March 19, 2012&&&4.0 &&& - LG Optimus 2X &&& 2.1.2&&&Good&&&Best one on the market
+ - March 16, 2012&&&5.0 &&& - Motorola Atrix &&& 2.1.2&&&Even Better&&&This has been a great app and has just got better. Works perfectly!
+ - March 16, 2012&&&5.0 &&& - Samsung Nexus S &&& 2.1.1&&&Brilliant!&&&The best tasks management app for Exchange! The new interface is great and the sync management better. Works well with our hosted Exchange 2007. Could be even better with a customizable widget (look and information)
+ - March 16, 2012&&&2.0 &&&&&& - Version 2.1.1&&&New version doesn't work as expected&&&2.1.x has a much better interface.  But it's killing my battery even though it was set to sync once an hour.  And the ironic thing is that it never sync properly.  Go figure.  Please fix.  I reverted back to 2.0.
+ - March 16, 2012&&&4.0 &&& - HTC Desire HD &&& 2.1.1&&&Good responsive developer&&&Good app, works well. Previous update caused a problem and developer quick to sort it out.
+ - March 16, 2012&&&1.0 &&& - Samsung Galaxy Nexus &&& 2.1&&&Force close on ICS&&&
+ - August 11, 2011&&&3.0 &&& - Motorola Droid 3 &&& 2.0.13&&&Needs a larger, better widget&&&I would up this to five stars for a better, larger widget. Ideally, I'd like to see a 4x2 widget with a list of uncompleted tasks. Not too unique looking, so that it blends with my other widgets.
+ - January 31, 2012&&&4.0 &&& - Motorola Droid RAZR &&& 2.0.13&&&Best tasks app for Outlook users&&&Great app, very stable.  I'm on Droid razr maxx and GoDaddy hosted exchange. Wisj it highlighted phone numers and addresses for easy calling and mapping
+ - August 16, 2011&&&5.0 &&& - HTC Desire &&& 2.0.13&&&Does exactly what it says on the box. Stable. Great interface. I miss a ...&&&Does exactly what it says on the box. Stable. Great interface. I miss a bit of functionality here and there but it's an easy five stars nonetheless.
+ - January 8, 2012&&&2.0 &&&&&& - Version 2.0.13&&&Trouble on Xoom&&&Can't add tasks on Xoom as the menu button isn't displayed on the bottom of the screeen and the choices presented by the button in the upper right of the screen doesn't included add task.  Ok on Desire but was told long ago prior to purchase that allowing display of completed tasks was a future improvement and when I queryed why it wasn't done I was told all efforts were focus on Tasblets.  Now I find tablets still don't work right.
+ - September 10, 2011&&&5.0 &&&&&& - Version 2.0.13&&&Simply best&&&Simple and useful. The best one so far which connects with MS Outlook via Exchange Server.
+ - March 19, 2012&&&4.0 &&& - Motorola Atrix &&& 2.0.13&&&Liking the new look&&&The app works great. I use it to drop in quick To-Do items on my work Outlook Task list. The new look is a much needed improvement.
+ - July 22, 2011&&&4.0 &&& - HTC Sensation 4G &&& 2.0.13&&&Not perfect, no private option, task owner, view completed tasks... But what it can ...&&&Not perfect, no private option, task owner, view completed tasks... But what it can do works really well... Need something for syncing notes next!
+ - September 4, 2011&&&2.0 &&& - HTC Desire HD &&& 2.0.13&&&Well, it works....&&&It only works; sync via a timed poll. Push would be nice. The interface is plain Jane. Lastly the widget is pointless its an overgrown shortcut.
+ - April 25, 2011&&&4.0 &&& - Motorola XOOM &&& 2.0.13&&&As promised&&&Set up was simple, used the same settings as my existing exchange account. Synced perfectly. Using Motorola Droid with 2.2.2. Really needs a larger widget. Widget shows a count of overdue and today's tasks. Would like a list.
+ - August 11, 2011&&&4.0 &&& - HTC Desire S &&& 2.0.13&&&Assign task to 'me' when creating&&&When you create a new task in Outlook it automatically assigns to the current user logged on to Exchange. Any task in Outlook can have assignee (user who created the task, or user the task was delegated to). When you create task from phone using this app then assignee is empty. Thank you!
+ - May 26, 2011&&&3.0 &&& - HTC Desire S &&& 2.0.13&&&Wish the widget was more detailed but worked first time. Optimistic about ...&&&Wish the widget was more detailed but worked first time. Optimistic about development, let's see.
+ - February 13, 2011&&&0.0 &&& - Samsung Galaxy S &&& 2.0.13&&&This app is the answer to tasks on my droid, finally. Get it, it ...&&&This app is the answer to tasks on my droid, finally. Get it, it works perfectly.
+ - March 4, 2011&&&5.0 &&& - HTC Desire &&& 2.0.13&&&Worked perfectly&&&purchased on the Market and worked perfectly. I love it.
+ - June 21, 2011&&&3.0 &&& - HTC Evo 4G &&& 2.0.13&&&Needs work. Minimal interface - no color, no checkboxes, only one level of sorting, ...&&&Needs work. Minimal interface - no color, no checkboxes, only one level of sorting, too many confirmation prompts. But, it is fast!
+ - January 15, 2012&&&5.0 &&&&&& - Version 2.0.13&&&Better than tasks in touchdown&&&I use this with touchdown. Never a problem and it let's one use a due date and no start date unlike touchdown.
+ - December 10, 2011&&&5.0 &&& - LG Optimus One &&& 2.0.13&&&Beautiful, works better than expected!&&&Absolutely what I was looking for!
+ - August 16, 2011&&&4.0 &&& - Samsung Galaxy S2 &&& 2.0.13&&&Will give five stars if you give it an option 'REPEAT DAILY'&&&
+July 12, 2011&&&3.0 &&& - Motorola Defy &&& 2.0.13&&&Good app, but widget is too small. Lazy developer&&&
+ - September 21, 2011&&&5.0 &&& - HTC Evo 4G &&& 2.0.13&&&Hands down best app for syncing Outlook Tasks. Great support to boot.&&&
+ - February 25, 2011&&&4.0 &&& - Galaxy Tab 10.1 &&& 2.0.13&&&Sync's to Outlook 2010 without issues&&&Great app, good UI, only thing missing I really need is flagged emails as those are part of my tasks. That is on the list of future enhancements, and I look forward to having it.
+ - June 14, 2011&&&5.0 &&& - HTC Evo 4G &&& 2.0.13&&&Would like to see a larger widget. Works with BPOS!&&&
+ - November 2, 2011&&&1.0 &&& - Droid Bionic &&& 2.0.13&&&So far it doesnt connect 48 hours to response from support&&&Run hosted exchange via godaddy.  Another reviewer says this works it doesnt for me.
+ - August 23, 2011&&&1.0 &&& - HTC Evo 4G &&& 2.0.13&&&Couldn't connect to Exchange. The only app I have installed that couldn't.&&&
+ - May 4, 2011&&&5.0 &&& - Motorola XOOM &&& 2.0.13&&&Truly perfect. Synced and worked the first time on my EVO.&&&
+ - October 25, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 2.0.13&&&Simon 25 october&&&Syncs well. Grouping and ordering works well. Needs more sophistication.
+ - April 27, 2011&&&1.0 &&& - HTC Evo 4G &&& 2.0.13&&&Does not work with exchange 2007&&&
+ - July 14, 2011&&&1.0 &&& - Samsung Galaxy Mini &&& 2.0.13&&&It's not working with kerio connect&&&
+ - March 8, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 2.0.13&&&Love It&&&Awesome with exchange 2010 and Samsung Galaxy Nexus
+ - May 17, 2011&&&4.0 &&&&&& - Version 2.0.13&&&Works great. I found work around for flagged emails in outlook 2007. Drag those ...&&&Works great. I found work around for flagged emails in outlook 2007. Drag those emails to the task bar instead of flagging. Still needs flag option
+ - February 15, 2012&&&1.0 &&& - HTC Desire &&& 2.0.13&&&Doesn't work&&&Not sync with the exchange
+ - January 29, 2012&&&4.0 &&& - Samsung Galaxy Tab &&& 2.0.13&&&I like simple apps&&&Why can't everyone write apps like this?
+ - April 28, 2011&&&2.0 &&& - Samsung Galaxy S &&& 2.0.13&&&Does not let you see completed tasks or unmarked a task that you marked ...&&&Does not let you see completed tasks or unmarked a task that you marked as completed.
+ - June 28, 2011&&&1.0 &&& - HTC Desire HD &&& 2.0.13&&&Doesn't really do anything....widget is a joke&&&
+ - July 3, 2011&&&1.0 &&& - HTC EVO 3D &&& 2.0.13&&&Doesn't work&&&
+ - September 12, 2011&&&3.0 &&& - HTC Thunderbolt &&& 2.0.13&&&Bleh&&&Not connecting, no help on why...
+ - April 2, 2011&&&4.0 &&& - HTC Thunderbolt &&& 2.0.12&&&Perfect app, except I have Exchange server 2003...customer support was great. I ...&&&Perfect app, except I have Exchange server 2003...customer support was great. I look forward to reinstalling when my company upgrades Exchange
+ - April 8, 2011&&&4.0 &&& - HTC Desire &&& 2.0.12&&&Works well on my HTC Desire. Repeating tasks would be nice to have.&&&
+ - April 2, 2011&&&4.0 &&&&&& - Version 2.0.12&&&Really works well - glad I downlosded and keeps my android and notebook in ...&&&Really works well - glad I downlosded and keeps my android and notebook in sync.
+ - April 5, 2011&&&1.0 &&&&&& - Version 2.0.12&&&Doesn't work on HTC Desire&&&
+ - March 26, 2011&&&5.0 &&& - HTC Evo 4G &&& 2.0.10&&&I've been using this app for a few weeks now. Love it.&&&
+ - March 24, 2011&&&5.0 &&& - HTC Evo 4G &&& 2.0.10&&&Syncs very well, & the developer is quick to respond to support requests.&&&
+ - March 24, 2011&&&5.0 &&&&&& - Version 2.0.9&&&Syncs and works great&&&
+ - March 22, 2011&&&4.0 &&& - Motorola Droid X &&& 2.0.8&&&Great app. A few bugs but improving all the time.&&&
+ - March 20, 2011&&&4.0 &&&&&& - Version 2.0.7&&&Shows promise. V helpful developer who fixes bugs but needs repeat task ...&&&Shows promise. V helpful developer who fixes bugs but needs repeat task support,and additional sorting options e.g.save fav sort
+ - March 8, 2011&&&4.0 &&& - HTC Evo 4G &&& 2.0.7&&&AWESOME! Only reason I didn't give it 5 stars is because there is no ...&&&AWESOME! Only reason I didn't give it 5 stars is because there is no repeat option.
+ - March 21, 2011&&&4.0 &&& - HTC Desire HD &&& 2.0.7&&&I will admit that I have had a couple bugs but Im sticking with ...&&&I will admit that I have had a couple bugs but Im sticking with this app/company because they have incredible customer service!!!
+ - March 6, 2011&&&5.0 &&& - HTC Evo 4G &&& 2.0.3&&&Flawlessly syncs with exchange. Awesome!&&&
+ - March 4, 2011&&&1.0 &&&&&& - Version 2.0.3&&&I purchased on Android Market online since it wouldn't take my US CC from ...&&&I purchased on Android Market online since it wouldn't take my US CC from handset. Once purchased, it wouldn't dl & install so I refunded.
+ - February 28, 2011&&&5.0 &&&&&& - Version 2.0.1&&&i said if you added reminders i would give 5 stars and you did ...&&&i said if you added reminders i would give 5 stars and you did it within days! Better than touch down imho
+ - March 2, 2011&&&1.0 &&& - HTC Droid Incredible &&& 2.0.1&&&Would not download to my Android&&&
+ - February 24, 2011&&&5.0 &&&&&& - Version 2.0&&&This app is great and the developer is responsive. The widget is nice and ...&&&This app is great and the developer is responsive. The widget is nice and the ability to search is a wonderful addition.
+ - February 8, 2011&&&3.0 &&& - Motorola Droid X &&& 1.7&&&Worked great and then crashed! Help!&&&
+ - February 15, 2011&&&4.0 &&& - HTC Droid Incredible &&& 1.7&&&Not bad, very basic. But it really needs a widget.&&&
+ - February 20, 2011&&&3.0 &&& - Samsung Galaxy S &&& 1.7&&&Too slow if you have a lot of tasks. Needs ability to collapse categories. ...&&&Too slow if you have a lot of tasks. Needs ability to collapse categories. Could also do with a good search facility. Exchange sync works well.
+ - February 21, 2011&&&5.0 &&& - Motorola XOOM &&& 1.7&&&Very nicely done. Syncs tasks like it says it does. Love it! Droid X&&&
+ - February 8, 2011&&&4.0 &&&&&& - Version 1.7&&&Would rate at 5 if it had a 'widget', please as in a future ...&&&Would rate at 5 if it had a 'widget', please as in a future update.
+ - February 8, 2011&&&4.0 &&& - Motorola XOOM &&& 1.7&&&Does what it says. It just needs a widget.&&&
+ - February 1, 2011&&&4.0 &&& - HTC Desire &&& 1.6&&&Works fine on HTC Desire. Does what I require. Just what I need.&&&
+ - February 1, 2011&&&5.0 &&&&&& - Version 1.6&&&Works great. It's nice to have a task app that works with exchange. Support ...&&&Works great. It's nice to have a task app that works with exchange. Support is very helpful.
+ - January 31, 2011&&&4.0 &&& - Motorola Droid &&& 1.5&&&Ive been digging for a task app that works with exchange. Feature set is ...&&&Ive been digging for a task app that works with exchange. Feature set is pretty slim, but it works. Heres hoping updates keep coming.
+ - January 24, 2011&&&4.0 &&& - Motorola Droid &&& 1.4&&&Actually it does work. Been in contact with support working a few issues out. ...&&&Actually it does work. Been in contact with support working a few issues out. Actually try using the built in support feature.
+ - January 22, 2011&&&1.0 &&&&&& - Version 1.0&&&It does not work. Support site does not exist.&&&
+ - May 31, 2012&&&1.0 &&&&&& - HTC G2&&&Crap. Does not synchronize with Exchange 2010. The sys administrator has opened ...&&&Crap. Does not synchronize with Exchange 2010. The sys administrator has opened the EWS for all and still could not communicate with it.
+ - December 13, 2011&&&2.0 &&&&&& - Samsung Galaxy Nexus&&&No server 2003 support??? why???&&&You get in the trouble to make this awsome software and forget that the majority of people use server 2003 ??? why??
+ - February 25, 2012&&&4.0 &&&&&& - Samsung Galaxy Nexus&&&Great, and syncs with Exchange!&&&

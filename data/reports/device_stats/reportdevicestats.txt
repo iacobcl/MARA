@@ -1,0 +1,1846 @@
+ - Acer Liquid 
+----------------------------------------
+ - Acer Picasso 
+positive feedback  overall	2	16.666666666666668	0.0
+positive feedback  functionality	1	8.333333333333334	0.0
+negative feedback  device	1	8.333333333333334	0.0
+comparative feedback  negative	1	8.333333333333334	0.0
+comparative feedback  positive	1	8.333333333333334	0.0
+requirements  missing gui feat	3	25.0	0.0
+reporting  medium bug	1	8.333333333333334	0.0
+reporting  minor bug	1	8.333333333333334	0.0
+customer support  pf on support	1	8.333333333333334	0.0
+----------------------------------------
+ - Asus Eee Pad 
+----------------------------------------
+ - Casio GzOne Commando 
+----------------------------------------
+ - Dell Blaze 
+positive feedback  overall	2	33.333333333333336	0.0
+positive feedback  gui	1	16.666666666666668	0.0
+positive feedback  functionality	1	16.666666666666668	0.0
+positive feedback  customization	1	16.666666666666668	0.0
+reporting  fix	1	16.666666666666668	0.0
+----------------------------------------
+ - Dell Streak 
+positive feedback  overall	3	20.0	0.0
+positive feedback  device	1	6.666666666666667	0.0
+positive feedback  updates	1	6.666666666666667	0.0
+money feedback  ask for refund	1	6.666666666666667	0.0
+requirements  missing logic feat	3	20.0	0.0
+reporting  major bug	1	6.666666666666667	0.0
+reporting  medium bug	1	6.666666666666667	0.0
+reporting  app incomp with device	1	6.666666666666667	0.0
+usability  uncertain about the right functionality	1	6.666666666666667	0.0
+usability  recommend it	1	6.666666666666667	0.0
+versioning  app improve with updates	1	6.666666666666667	0.0
+----------------------------------------
+ - Dell Streak 7 
+----------------------------------------
+ - Droid Bionic 
+positive feedback  overall	26	38.23529411764706	0.0
+positive feedback  speed	2	2.9411764705882355	0.0
+positive feedback  gui	4	5.882352941176471	0.0
+positive feedback  functionality	3	4.411764705882353	0.0
+positive feedback  customization	1	1.4705882352941178	0.0
+positive feedback  device	2	2.9411764705882355	0.0
+positive feedback  smoothness	1	1.4705882352941178	0.0
+positive feedback  must have	1	1.4705882352941178	0.0
+negative feedback  overall	1	1.4705882352941178	0.0
+negative feedback  device	1	1.4705882352941178	0.0
+comparative feedback  negative	1	1.4705882352941178	0.0
+comparative feedback  positive	2	2.9411764705882355	0.0
+money feedback  uninstall	1	1.4705882352941178	0.0
+money feedback  worth the money	2	2.9411764705882355	0.0
+money feedback  willing to buy other apps	1	1.4705882352941178	0.0
+requirements  more options	1	1.4705882352941178	0.0
+requirements  missing logic feat	4	5.882352941176471	0.0
+requirements  more updates	1	1.4705882352941178	0.0
+requirements  diff preference for existing gui feat	1	1.4705882352941178	0.0
+reporting  major bug	1	1.4705882352941178	0.0
+reporting  medium bug	1	1.4705882352941178	0.0
+reporting  minor bug	2	2.9411764705882355	0.0
+usability  easy to use	2	2.9411764705882355	0.0
+usability  recommend it	2	2.9411764705882355	0.0
+customer support  pf on support	1	1.4705882352941178	0.0
+versioning  app improve with updates	1	1.4705882352941178	0.0
+versioning  update messed it up	1	1.4705882352941178	0.0
+versioning  update messep up specific feat	1	1.4705882352941178	0.0
+----------------------------------------
+ - EeePad Slider SL101 
+positive feedback  overall	1	14.285714285714286	0.0
+positive feedback  functionality	1	14.285714285714286	0.0
+negative feedback  speed	1	14.285714285714286	0.0
+comparative feedback  positive	1	14.285714285714286	0.0
+requirements  missing logic feat	2	28.571428571428573	0.0
+reporting  medium bug	1	14.285714285714286	0.0
+----------------------------------------
+ - EeePad Transformer TF101 
+positive feedback  overall	26	20.634920634920636	0.0
+positive feedback  speed	1	0.7936507936507936	0.0
+positive feedback  gui	3	2.380952380952381	0.0
+positive feedback  functionality	21	16.666666666666668	0.0
+positive feedback  customization	1	0.7936507936507936	0.0
+positive feedback  device	3	2.380952380952381	0.0
+positive feedback  updates	1	0.7936507936507936	0.0
+positive feedback  must have	2	1.5873015873015872	0.0
+positive feedback  options	1	0.7936507936507936	0.0
+negative feedback  speed	2	1.5873015873015872	0.0
+negative feedback  gui	1	0.7936507936507936	0.0
+negative feedback  functionality	2	1.5873015873015872	0.0
+comparative feedback  positive	6	4.761904761904762	0.0
+money feedback  worth the money	4	3.1746031746031744	0.0
+money feedback  not worth the money	1	0.7936507936507936	0.0
+money feedback  switch from free to paid	3	2.380952380952381	0.0
+money feedback  buy to support	2	1.5873015873015872	0.0
+requirements  more options	1	0.7936507936507936	0.0
+requirements  missing gui feat	4	3.1746031746031744	0.0
+requirements  missing logic feat	10	7.936507936507937	0.0
+requirements  more updates	2	1.5873015873015872	0.0
+requirements  more features	1	0.7936507936507936	0.0
+requirements  diff preference for existing gui feat	2	1.5873015873015872	0.0
+requirements  diff preference for existing logic feat	2	1.5873015873015872	0.0
+reporting  major bug	3	2.380952380952381	0.0
+reporting  medium bug	3	2.380952380952381	0.0
+reporting  minor bug	4	3.1746031746031744	0.0
+reporting  fix	1	0.7936507936507936	0.0
+usability  easy to use	3	2.380952380952381	0.0
+usability  difficult to understand	2	1.5873015873015872	0.0
+usability  recommend it	2	1.5873015873015872	0.0
+usability  lack of docs	1	0.7936507936507936	0.0
+customer support  no support	1	0.7936507936507936	0.0
+customer support  pf on support	2	1.5873015873015872	0.0
+customer support  no dev support	1	0.7936507936507936	0.0
+versioning  app improve with updates	1	0.7936507936507936	0.0
+----------------------------------------
+ - EeePad Transformer TF201 
+positive feedback  overall	7	21.21212121212121	0.0
+positive feedback  gui	3	9.090909090909092	0.0
+positive feedback  functionality	4	12.121212121212121	0.0
+negative feedback  overall	1	3.0303030303030303	0.0
+comparative feedback  positive	1	3.0303030303030303	0.0
+money feedback  not worth the money	1	3.0303030303030303	0.0
+requirements  more options	1	3.0303030303030303	0.0
+requirements  missing logic feat	1	3.0303030303030303	0.0
+requirements  more features	1	3.0303030303030303	0.0
+requirements  diff preference for existing logic feat	1	3.0303030303030303	0.0
+reporting  major bug	4	12.121212121212121	0.0
+reporting  medium bug	2	6.0606060606060606	0.0
+reporting  minor bug	2	6.0606060606060606	0.0
+usability  recommend it	2	6.0606060606060606	0.0
+customer support  pf on support	1	3.0303030303030303	0.0
+versioning  app improve with updates	1	3.0303030303030303	0.0
+----------------------------------------
+ - EeePad Transformer TF300 
+positive feedback  overall	1	25.0	0.0
+positive feedback  gui	1	25.0	0.0
+positive feedback  functionality	1	25.0	0.0
+requirements  more updates	1	25.0	0.0
+----------------------------------------
+ - Galaxy Player 
+positive feedback  overall	1	33.333333333333336	0.0
+reporting  medium bug	1	33.333333333333336	0.0
+usability  uncertain about the right functionality	1	33.333333333333336	0.0
+----------------------------------------
+ - Galaxy Precedent 
+positive feedback  overall	2	50.0	0.0
+positive feedback  gui	1	25.0	0.0
+usability  recommend it	1	25.0	0.0
+----------------------------------------
+ - Galaxy Prevail 
+positive feedback  overall	5	45.45454545454545	0.0
+positive feedback  functionality	1	9.090909090909092	0.0
+positive feedback  device	1	9.090909090909092	0.0
+money feedback  worth the money	1	9.090909090909092	0.0
+requirements  missing gui feat	2	18.181818181818183	0.0
+usability  hard to setup	1	9.090909090909092	0.0
+----------------------------------------
+ - Galaxy S Plus 
+positive feedback  overall	3	27.272727272727273	0.0
+positive feedback  functionality	1	9.090909090909092	0.0
+positive feedback  smoothness	1	9.090909090909092	0.0
+positive feedback  must have	1	9.090909090909092	0.0
+negative feedback  functionality	1	9.090909090909092	0.0
+requirements  missing logic feat	1	9.090909090909092	0.0
+requirements  diff preference for existing gui feat	1	9.090909090909092	0.0
+usability  recommend it	2	18.181818181818183	0.0
+----------------------------------------
+ - Galaxy S2 Skyrocket 
+positive feedback  overall	10	45.45454545454545	0.0
+positive feedback  gui	1	4.545454545454546	0.0
+positive feedback  device	1	4.545454545454546	0.0
+negative feedback  overall	2	9.090909090909092	0.0
+money feedback  worth the money	1	4.545454545454546	0.0
+money feedback  ask for refund	1	4.545454545454546	0.0
+money feedback  buy to support	1	4.545454545454546	0.0
+requirements  missing gui feat	2	9.090909090909092	0.0
+reporting  minor bug	1	4.545454545454546	0.0
+usability  recommend it	1	4.545454545454546	0.0
+customer support  pf on support	1	4.545454545454546	0.0
+----------------------------------------
+ - Galaxy Tab 10.1 
+positive feedback  overall	13	19.696969696969695	0.0
+positive feedback  speed	1	1.5151515151515151	0.0
+positive feedback  gui	3	4.545454545454546	0.0
+positive feedback  functionality	4	6.0606060606060606	0.0
+positive feedback  customization	1	1.5151515151515151	0.0
+positive feedback  device	4	6.0606060606060606	0.0
+negative feedback  overall	1	1.5151515151515151	0.0
+negative feedback  speed	1	1.5151515151515151	0.0
+negative feedback  gui	1	1.5151515151515151	0.0
+negative feedback  functionality	2	3.0303030303030303	0.0
+negative feedback  device	4	6.0606060606060606	0.0
+comparative feedback  positive	3	4.545454545454546	0.0
+money feedback  uninstall	1	1.5151515151515151	0.0
+money feedback  not worth the money	2	3.0303030303030303	0.0
+requirements  missing gui feat	1	1.5151515151515151	0.0
+requirements  missing logic feat	7	10.606060606060606	0.0
+requirements  more updates	1	1.5151515151515151	0.0
+requirements  more features	3	4.545454545454546	0.0
+requirements  diff preference for existing gui feat	1	1.5151515151515151	0.0
+reporting  major bug	4	6.0606060606060606	0.0
+reporting  medium bug	5	7.575757575757576	0.0
+reporting  minor bug	2	3.0303030303030303	0.0
+usability  different to use	1	1.5151515151515151	0.0
+----------------------------------------
+ - Galaxy Tab 7.0 Plus 
+negative feedback  overall	1	25.0	0.0
+negative feedback  gui	1	25.0	0.0
+money feedback  not worth the money	1	25.0	0.0
+money feedback  ask for refund	1	25.0	0.0
+----------------------------------------
+ - Garmin-Asus Nuvifone 
+positive feedback  overall	1	14.285714285714286	0.0
+negative feedback  overall	1	14.285714285714286	0.0
+comparative feedback  negative	1	14.285714285714286	0.0
+requirements  missing logic feat	3	42.857142857142854	0.0
+----------------------------------------
+ - Gravity Smart 
+positive feedback  overall	3	37.5	0.0
+positive feedback  gui	3	37.5	0.0
+money feedback  worth the money	2	25.0	0.0
+----------------------------------------
+ - HTC Aria 
+positive feedback  overall	7	26.923076923076923	0.0
+positive feedback  gui	1	3.8461538461538463	0.0
+positive feedback  functionality	1	3.8461538461538463	0.0
+positive feedback  device	1	3.8461538461538463	0.0
+positive feedback  updates	1	3.8461538461538463	0.0
+negative feedback  speed	1	3.8461538461538463	0.0
+negative feedback  device	1	3.8461538461538463	0.0
+comparative feedback  positive	1	3.8461538461538463	0.0
+money feedback  worth the money	1	3.8461538461538463	0.0
+requirements  missing gui feat	1	3.8461538461538463	0.0
+requirements  missing logic feat	1	3.8461538461538463	0.0
+reporting  major bug	1	3.8461538461538463	0.0
+reporting  medium bug	2	7.6923076923076925	0.0
+reporting  minor bug	1	3.8461538461538463	0.0
+reporting  app incomp with device	1	3.8461538461538463	0.0
+usability  different to use	1	3.8461538461538463	0.0
+usability  recommend it	1	3.8461538461538463	0.0
+customer support  pf on support	1	3.8461538461538463	0.0
+versioning  update messed it up	1	3.8461538461538463	0.0
+----------------------------------------
+ - HTC Chacha 
+comparative feedback  positive	1	33.333333333333336	0.0
+requirements  more updates	1	33.333333333333336	0.0
+requirements  more features	1	33.333333333333336	0.0
+----------------------------------------
+ - HTC Desire 
+positive feedback  overall	51	31.875	0.0
+positive feedback  speed	1	0.625	0.0
+positive feedback  gui	6	3.75	0.0
+positive feedback  functionality	9	5.625	0.0
+positive feedback  customization	2	1.25	0.0
+positive feedback  device	4	2.5	0.0
+positive feedback  smoothness	1	0.625	0.0
+positive feedback  must have	1	0.625	0.0
+negative feedback  overall	3	1.875	0.0
+negative feedback  size	2	1.25	0.0
+negative feedback  gui	1	0.625	0.0
+negative feedback  functionality	4	2.5	0.0
+negative feedback  device	1	0.625	0.0
+negative feedback  updates	1	0.625	0.0
+comparative feedback  positive	2	1.25	0.0
+money feedback  uninstall	1	0.625	0.0
+money feedback  worth the money	3	1.875	0.0
+money feedback  not worth the money	3	1.875	0.0
+money feedback  ask for refund	1	0.625	0.0
+money feedback  switch from free to paid	1	0.625	0.0
+money feedback  buy to support	1	0.625	0.0
+requirements  more options	1	0.625	0.0
+requirements  missing gui feat	5	3.125	0.0
+requirements  missing logic feat	12	7.5	0.0
+requirements  more updates	2	1.25	0.0
+requirements  more features	2	1.25	0.0
+requirements  diff preference for existing logic feat	2	1.25	0.0
+reporting  major bug	7	4.375	0.0
+reporting  medium bug	7	4.375	0.0
+reporting  minor bug	4	2.5	0.0
+reporting  app incomp with os	1	0.625	0.0
+reporting  battery loss	1	0.625	0.0
+usability  easy to use	3	1.875	0.0
+usability  used over more devices	1	0.625	0.0
+usability  recommend it	2	1.25	0.0
+usability  user friendly	1	0.625	0.0
+customer support  pf on support	3	1.875	0.0
+customer support  misleading app descr	1	0.625	0.0
+versioning  app improve with updates	3	1.875	0.0
+versioning  update messed it up	2	1.25	0.0
+versioning  downgrade to older version	1	0.625	0.0
+----------------------------------------
+ - HTC Desire HD 
+positive feedback  overall	53	30.113636363636363	0.0
+positive feedback  speed	1	0.5681818181818182	0.0
+positive feedback  gui	3	1.7045454545454546	0.0
+positive feedback  functionality	8	4.545454545454546	0.0
+positive feedback  device	4	2.272727272727273	0.0
+positive feedback  smoothness	1	0.5681818181818182	0.0
+positive feedback  must have	1	0.5681818181818182	0.0
+negative feedback  overall	6	3.409090909090909	0.0
+negative feedback  speed	2	1.1363636363636365	0.0
+negative feedback  device	3	1.7045454545454546	0.0
+comparative feedback  negative	1	0.5681818181818182	0.0
+comparative feedback  positive	3	1.7045454545454546	0.0
+money feedback  worth the money	6	3.409090909090909	0.0
+money feedback  not worth the money	8	4.545454545454546	0.0
+money feedback  ask for refund	3	1.7045454545454546	0.0
+money feedback  willing to buy other apps	1	0.5681818181818182	0.0
+requirements  more options	1	0.5681818181818182	0.0
+requirements  missing gui feat	4	2.272727272727273	0.0
+requirements  missing logic feat	6	3.409090909090909	0.0
+requirements  more updates	1	0.5681818181818182	0.0
+requirements  more features	2	1.1363636363636365	0.0
+requirements  diff preference for existing gui feat	4	2.272727272727273	0.0
+requirements  diff preference for existing logic feat	2	1.1363636363636365	0.0
+reporting  major bug	10	5.681818181818182	0.0
+reporting  medium bug	7	3.977272727272727	0.0
+reporting  minor bug	9	5.113636363636363	0.0
+reporting  app incomp with os	1	0.5681818181818182	0.0
+reporting  fix	1	0.5681818181818182	0.0
+usability  easy to use	1	0.5681818181818182	0.0
+usability  different to use	1	0.5681818181818182	0.0
+usability  hard to setup	2	1.1363636363636365	0.0
+usability  easy to understand	2	1.1363636363636365	0.0
+usability  recommend it	1	0.5681818181818182	0.0
+usability  user friendly	1	0.5681818181818182	0.0
+usability  intuitive	1	0.5681818181818182	0.0
+customer support  poor support	1	0.5681818181818182	0.0
+customer support  no support	1	0.5681818181818182	0.0
+customer support  pf on support	2	1.1363636363636365	0.0
+customer support  misleading app descr	1	0.5681818181818182	0.0
+customer support  no dev support	1	0.5681818181818182	0.0
+versioning  app improve with updates	3	1.7045454545454546	0.0
+versioning  update messed it up	1	0.5681818181818182	0.0
+versioning  update messep up specific feat	4	2.272727272727273	0.0
+----------------------------------------
+ - HTC Desire S 
+positive feedback  overall	7	31.818181818181817	0.0
+positive feedback  gui	1	4.545454545454546	0.0
+positive feedback  functionality	2	9.090909090909092	0.0
+comparative feedback  negative	1	4.545454545454546	0.0
+comparative feedback  positive	1	4.545454545454546	0.0
+money feedback  not worth the money	1	4.545454545454546	0.0
+money feedback  ask for refund	1	4.545454545454546	0.0
+requirements  missing logic feat	1	4.545454545454546	0.0
+requirements  more updates	1	4.545454545454546	0.0
+requirements  diff preference for existing gui feat	1	4.545454545454546	0.0
+reporting  major bug	2	9.090909090909092	0.0
+reporting  medium bug	2	9.090909090909092	0.0
+versioning  update messep up specific feat	1	4.545454545454546	0.0
+----------------------------------------
+ - HTC Droid Eris  
+positive feedback  overall	4	44.44444444444444	0.0
+positive feedback  functionality	1	11.11111111111111	0.0
+requirements  missing logic feat	3	33.333333333333336	0.0
+usability  uncertain about the right functionality	1	11.11111111111111	0.0
+----------------------------------------
+ - HTC Droid Incredible 
+positive feedback  overall	30	36.58536585365854	0.0
+positive feedback  speed	1	1.2195121951219512	0.0
+positive feedback  gui	8	9.75609756097561	0.0
+positive feedback  functionality	6	7.317073170731708	0.0
+positive feedback  device	1	1.2195121951219512	0.0
+positive feedback  options	1	1.2195121951219512	0.0
+negative feedback  overall	1	1.2195121951219512	0.0
+negative feedback  speed	1	1.2195121951219512	0.0
+negative feedback  functionality	1	1.2195121951219512	0.0
+negative feedback  device	2	2.4390243902439024	0.0
+comparative feedback  positive	2	2.4390243902439024	0.0
+money feedback  worth the money	4	4.878048780487805	0.0
+requirements  more options	2	2.4390243902439024	0.0
+requirements  missing logic feat	5	6.097560975609756	0.0
+requirements  diff preference for existing gui feat	1	1.2195121951219512	0.0
+requirements  diff preference for existing logic feat	1	1.2195121951219512	0.0
+reporting  major bug	3	3.658536585365854	0.0
+reporting  medium bug	1	1.2195121951219512	0.0
+reporting  minor bug	3	3.658536585365854	0.0
+usability  easy to use	2	2.4390243902439024	0.0
+usability  difficult to learn	1	1.2195121951219512	0.0
+usability  hard to setup	1	1.2195121951219512	0.0
+usability  unusable	1	1.2195121951219512	0.0
+versioning  app improve with updates	1	1.2195121951219512	0.0
+versioning  update messep up specific feat	2	2.4390243902439024	0.0
+----------------------------------------
+ - HTC EVO 3D 
+positive feedback  overall	18	30.508474576271187	0.0
+positive feedback  gui	5	8.474576271186441	0.0
+positive feedback  functionality	4	6.779661016949152	0.0
+positive feedback  customization	3	5.084745762711864	0.0
+positive feedback  device	1	1.694915254237288	0.0
+comparative feedback  positive	2	3.389830508474576	0.0
+money feedback  uninstall	1	1.694915254237288	0.0
+money feedback  worth the money	6	10.169491525423728	0.0
+money feedback  ask for refund	1	1.694915254237288	0.0
+requirements  version for new device	1	1.694915254237288	0.0
+requirements  missing logic feat	1	1.694915254237288	0.0
+requirements  diff preference for existing gui feat	1	1.694915254237288	0.0
+requirements  diff preference for existing logic feat	1	1.694915254237288	0.0
+reporting  major bug	3	5.084745762711864	0.0
+reporting  minor bug	1	1.694915254237288	0.0
+reporting  fix	1	1.694915254237288	0.0
+usability  easy to use	2	3.389830508474576	0.0
+usability  easy to understand	1	1.694915254237288	0.0
+usability  uncertain about the right functionality	1	1.694915254237288	0.0
+usability  recommend it	2	3.389830508474576	0.0
+customer support  pf on support	2	3.389830508474576	0.0
+----------------------------------------
+ - HTC Evo 4G 
+positive feedback  overall	97	40.416666666666664	0.0
+positive feedback  speed	3	1.25	0.0
+positive feedback  gui	7	2.9166666666666665	0.0
+positive feedback  functionality	9	3.75	0.0
+positive feedback  customization	2	0.8333333333333334	0.0
+positive feedback  portability	1	0.4166666666666667	0.0
+positive feedback  device	4	1.6666666666666667	0.0
+positive feedback  updates	2	0.8333333333333334	0.0
+positive feedback  smoothness	1	0.4166666666666667	0.0
+positive feedback  must have	2	0.8333333333333334	0.0
+positive feedback  options	1	0.4166666666666667	0.0
+negative feedback  overall	8	3.3333333333333335	0.0
+negative feedback  functionality	1	0.4166666666666667	0.0
+negative feedback  memory	1	0.4166666666666667	0.0
+comparative feedback  positive	3	1.25	0.0
+money feedback  uninstall	1	0.4166666666666667	0.0
+money feedback  worth the money	9	3.75	0.0
+money feedback  not worth the money	4	1.6666666666666667	0.0
+money feedback  ask for refund	3	1.25	0.0
+money feedback  switch from free to paid	1	0.4166666666666667	0.0
+requirements  more options	3	1.25	0.0
+requirements  missing gui feat	3	1.25	0.0
+requirements  missing logic feat	10	4.166666666666667	0.0
+requirements  more updates	2	0.8333333333333334	0.0
+requirements  more features	1	0.4166666666666667	0.0
+requirements  diff preference for existing gui feat	3	1.25	0.0
+requirements  diff preference for existing logic feat	2	0.8333333333333334	0.0
+reporting  major bug	14	5.833333333333333	0.0
+reporting  medium bug	6	2.5	0.0
+reporting  minor bug	3	1.25	0.0
+reporting  app incomp with device	2	0.8333333333333334	0.0
+reporting  fix	4	1.6666666666666667	0.0
+reporting  battery loss	1	0.4166666666666667	0.0
+usability  easy to use	7	2.9166666666666665	0.0
+usability  difficult to learn	1	0.4166666666666667	0.0
+usability  hard to setup	1	0.4166666666666667	0.0
+usability  easy to understand	1	0.4166666666666667	0.0
+usability  recommend it	6	2.5	0.0
+usability  user friendly	1	0.4166666666666667	0.0
+customer support  no support	1	0.4166666666666667	0.0
+versioning  app improve with updates	4	1.6666666666666667	0.0
+versioning  update messed it up	2	0.8333333333333334	0.0
+versioning  update messep up specific feat	1	0.4166666666666667	0.0
+versioning  long time user	1	0.4166666666666667	0.0
+----------------------------------------
+ - HTC EVO Shift 4G 
+positive feedback  overall	11	57.89473684210526	0.0
+negative feedback  overall	1	5.2631578947368425	0.0
+money feedback  worth the money	1	5.2631578947368425	0.0
+requirements  missing logic feat	1	5.2631578947368425	0.0
+requirements  more features	1	5.2631578947368425	0.0
+requirements  diff preference for existing gui feat	1	5.2631578947368425	0.0
+requirements  diff preference for existing logic feat	1	5.2631578947368425	0.0
+reporting  minor bug	1	5.2631578947368425	0.0
+customer support  misleading app descr	1	5.2631578947368425	0.0
+----------------------------------------
+ - HTC Flyer 
+positive feedback  overall	3	15.0	0.0
+positive feedback  gui	1	5.0	0.0
+positive feedback  functionality	3	15.0	0.0
+positive feedback  device	2	10.0	0.0
+comparative feedback  positive	4	20.0	0.0
+requirements  missing logic feat	2	10.0	0.0
+reporting  minor bug	1	5.0	0.0
+usability  recommend it	1	5.0	0.0
+customer support  pf on support	1	5.0	0.0
+versioning  app improve with updates	1	5.0	0.0
+versioning  long time user	1	5.0	0.0
+----------------------------------------
+ - HTC G1  
+positive feedback  overall	6	50.0	0.0
+negative feedback  functionality	1	8.333333333333334	0.0
+money feedback  worth the money	1	8.333333333333334	0.0
+requirements  missing logic feat	1	8.333333333333334	0.0
+requirements  diff preference for existing gui feat	2	16.666666666666668	0.0
+customer support  pf on support	1	8.333333333333334	0.0
+----------------------------------------
+ - HTC G2 
+positive feedback  overall	29	32.58426966292135	0.0
+positive feedback  speed	1	1.1235955056179776	0.0
+positive feedback  gui	5	5.617977528089888	0.0
+positive feedback  functionality	3	3.3707865168539324	0.0
+positive feedback  customization	2	2.247191011235955	0.0
+positive feedback  organization	1	1.1235955056179776	0.0
+positive feedback  updates	1	1.1235955056179776	0.0
+positive feedback  options	1	1.1235955056179776	0.0
+negative feedback  overall	4	4.49438202247191	0.0
+negative feedback  functionality	2	2.247191011235955	0.0
+negative feedback  customization	1	1.1235955056179776	0.0
+comparative feedback  positive	2	2.247191011235955	0.0
+money feedback  uninstall	1	1.1235955056179776	0.0
+money feedback  worth the money	2	2.247191011235955	0.0
+money feedback  ask for refund	1	1.1235955056179776	0.0
+money feedback  buy to support	1	1.1235955056179776	0.0
+requirements  version for new device	1	1.1235955056179776	0.0
+requirements  more options	1	1.1235955056179776	0.0
+requirements  missing logic feat	3	3.3707865168539324	0.0
+requirements  more features	1	1.1235955056179776	0.0
+requirements  diff preference for existing logic feat	2	2.247191011235955	0.0
+reporting  major bug	4	4.49438202247191	0.0
+reporting  medium bug	6	6.741573033707865	0.0
+reporting  minor bug	3	3.3707865168539324	0.0
+reporting  battery loss	2	2.247191011235955	0.0
+usability  hard to setup	1	1.1235955056179776	0.0
+usability  difficult to understand	1	1.1235955056179776	0.0
+usability  uncertain about the right functionality	1	1.1235955056179776	0.0
+usability  recommend it	3	3.3707865168539324	0.0
+customer support  pf on support	1	1.1235955056179776	0.0
+customer support  misleading app descr	1	1.1235955056179776	0.0
+versioning  app improve with updates	1	1.1235955056179776	0.0
+----------------------------------------
+ - HTC Hero 
+positive feedback  overall	14	41.1764705882353	0.0
+positive feedback  customization	1	2.9411764705882355	0.0
+positive feedback  device	1	2.9411764705882355	0.0
+negative feedback  overall	2	5.882352941176471	0.0
+negative feedback  size	1	2.9411764705882355	0.0
+negative feedback  speed	1	2.9411764705882355	0.0
+comparative feedback  positive	2	5.882352941176471	0.0
+money feedback  not worth the money	1	2.9411764705882355	0.0
+money feedback  ask for refund	1	2.9411764705882355	0.0
+money feedback  buy to support	1	2.9411764705882355	0.0
+requirements  more options	2	5.882352941176471	0.0
+requirements  missing logic feat	2	5.882352941176471	0.0
+requirements  more updates	1	2.9411764705882355	0.0
+reporting  major bug	1	2.9411764705882355	0.0
+reporting  medium bug	1	2.9411764705882355	0.0
+reporting  app incomp with device	1	2.9411764705882355	0.0
+versioning  update messed it up	1	2.9411764705882355	0.0
+----------------------------------------
+ - HTC Incredible 2 
+positive feedback  overall	16	47.05882352941177	0.0
+positive feedback  gui	2	5.882352941176471	0.0
+positive feedback  functionality	2	5.882352941176471	0.0
+positive feedback  updates	1	2.9411764705882355	0.0
+money feedback  worth the money	1	2.9411764705882355	0.0
+money feedback  buy to support	1	2.9411764705882355	0.0
+requirements  missing logic feat	2	5.882352941176471	0.0
+reporting  major bug	4	11.764705882352942	0.0
+reporting  medium bug	1	2.9411764705882355	0.0
+reporting  minor bug	1	2.9411764705882355	0.0
+customer support  misleading app descr	1	2.9411764705882355	0.0
+versioning  app improve with updates	2	5.882352941176471	0.0
+----------------------------------------
+ - HTC Incredible S 
+positive feedback  overall	2	22.22222222222222	0.0
+positive feedback  gui	1	11.11111111111111	0.0
+positive feedback  customization	1	11.11111111111111	0.0
+positive feedback  smoothness	1	11.11111111111111	0.0
+money feedback  switch from free to paid	1	11.11111111111111	0.0
+reporting  major bug	1	11.11111111111111	0.0
+reporting  minor bug	1	11.11111111111111	0.0
+customer support  pf on support	1	11.11111111111111	0.0
+----------------------------------------
+ - HTC Legend 
+positive feedback  overall	4	40.0	0.0
+positive feedback  functionality	1	10.0	0.0
+requirements  diff preference for existing gui feat	1	10.0	0.0
+requirements  diff preference for existing logic feat	1	10.0	0.0
+reporting  major bug	1	10.0	0.0
+reporting  minor bug	1	10.0	0.0
+customer support  pf on support	1	10.0	0.0
+----------------------------------------
+ - HTC myTouch 3G 
+positive feedback  overall	18	38.297872340425535	0.0
+positive feedback  size	1	2.127659574468085	0.0
+positive feedback  functionality	4	8.51063829787234	0.0
+positive feedback  device	1	2.127659574468085	0.0
+positive feedback  organization	1	2.127659574468085	0.0
+positive feedback  must have	1	2.127659574468085	0.0
+negative feedback  device	1	2.127659574468085	0.0
+comparative feedback  positive	1	2.127659574468085	0.0
+money feedback  worth the money	4	8.51063829787234	0.0
+requirements  missing logic feat	4	8.51063829787234	0.0
+requirements  diff preference for existing gui feat	1	2.127659574468085	0.0
+requirements  diff preference for existing logic feat	2	4.25531914893617	0.0
+reporting  major bug	3	6.382978723404255	0.0
+reporting  medium bug	1	2.127659574468085	0.0
+reporting  fix	1	2.127659574468085	0.0
+customer support  pf on support	3	6.382978723404255	0.0
+----------------------------------------
+ - HTC myTouch 3G Slide 
+positive feedback  overall	3	25.0	0.0
+positive feedback  gui	1	8.333333333333334	0.0
+money feedback  ask for refund	1	8.333333333333334	0.0
+requirements  missing gui feat	1	8.333333333333334	0.0
+requirements  missing logic feat	1	8.333333333333334	0.0
+requirements  diff preference for existing gui feat	1	8.333333333333334	0.0
+reporting  major bug	1	8.333333333333334	0.0
+reporting  minor bug	1	8.333333333333334	0.0
+usability  easy to use	1	8.333333333333334	0.0
+customer support  pf on support	1	8.333333333333334	0.0
+----------------------------------------
+ - HTC myTouch 4G 
+positive feedback  overall	23	44.23076923076923	0.0
+positive feedback  functionality	1	1.9230769230769231	0.0
+positive feedback  device	1	1.9230769230769231	0.0
+negative feedback  overall	1	1.9230769230769231	0.0
+negative feedback  device	1	1.9230769230769231	0.0
+money feedback  worth the money	4	7.6923076923076925	0.0
+money feedback  not worth the money	1	1.9230769230769231	0.0
+requirements  more options	2	3.8461538461538463	0.0
+requirements  missing gui feat	2	3.8461538461538463	0.0
+requirements  missing logic feat	5	9.615384615384615	0.0
+requirements  more updates	1	1.9230769230769231	0.0
+requirements  diff preference for existing logic feat	1	1.9230769230769231	0.0
+reporting  major bug	3	5.769230769230769	0.0
+reporting  medium bug	2	3.8461538461538463	0.0
+reporting  minor bug	2	3.8461538461538463	0.0
+usability  easy to use	1	1.9230769230769231	0.0
+usability  hard to setup	1	1.9230769230769231	0.0
+----------------------------------------
+ - HTC myTouch 4G Slide 
+positive feedback  overall	4	28.571428571428573	0.0
+negative feedback  overall	1	7.142857142857143	0.0
+money feedback  worth the money	1	7.142857142857143	0.0
+money feedback  not worth the money	4	28.571428571428573	0.0
+requirements  missing logic feat	2	14.285714285714286	0.0
+requirements  diff preference for existing gui feat	1	7.142857142857143	0.0
+usability  hard to setup	1	7.142857142857143	0.0
+----------------------------------------
+ - HTC Nexus One 
+positive feedback  overall	37	39.784946236559136	0.0
+positive feedback  gui	3	3.225806451612903	0.0
+positive feedback  functionality	7	7.526881720430108	0.0
+positive feedback  device	2	2.150537634408602	0.0
+positive feedback  must have	1	1.075268817204301	0.0
+negative feedback  overall	1	1.075268817204301	0.0
+negative feedback  device	2	2.150537634408602	0.0
+comparative feedback  positive	3	3.225806451612903	0.0
+money feedback  uninstall	1	1.075268817204301	0.0
+money feedback  worth the money	4	4.301075268817204	0.0
+money feedback  not worth the money	1	1.075268817204301	0.0
+money feedback  ask for refund	3	3.225806451612903	0.0
+requirements  more options	1	1.075268817204301	0.0
+requirements  missing gui feat	1	1.075268817204301	0.0
+requirements  missing logic feat	3	3.225806451612903	0.0
+requirements  more updates	1	1.075268817204301	0.0
+requirements  diff preference for existing gui feat	1	1.075268817204301	0.0
+requirements  diff preference for existing logic feat	2	2.150537634408602	0.0
+reporting  major bug	3	3.225806451612903	0.0
+reporting  medium bug	2	2.150537634408602	0.0
+reporting  minor bug	2	2.150537634408602	0.0
+reporting  fix	2	2.150537634408602	0.0
+reporting  battery loss	3	3.225806451612903	0.0
+usability  easy to use	1	1.075268817204301	0.0
+usability  used over more devices	1	1.075268817204301	0.0
+usability  recommend it	1	1.075268817204301	0.0
+customer support  pf on support	2	2.150537634408602	0.0
+versioning  app improve with updates	1	1.075268817204301	0.0
+versioning  update messep up specific feat	1	1.075268817204301	0.0
+----------------------------------------
+ - HTC One S 
+positive feedback  overall	2	33.333333333333336	0.0
+positive feedback  updates	1	16.666666666666668	0.0
+money feedback  not worth the money	1	16.666666666666668	0.0
+reporting  major bug	1	16.666666666666668	0.0
+customer support  pf on support	1	16.666666666666668	0.0
+----------------------------------------
+ - HTC One X 
+positive feedback  overall	10	25.641025641025642	0.0
+positive feedback  gui	2	5.128205128205129	0.0
+positive feedback  functionality	3	7.6923076923076925	0.0
+positive feedback  customization	1	2.5641025641025643	0.0
+positive feedback  device	3	7.6923076923076925	0.0
+positive feedback  must have	1	2.5641025641025643	0.0
+comparative feedback  positive	1	2.5641025641025643	0.0
+money feedback  worth the money	1	2.5641025641025643	0.0
+requirements  version for new device	1	2.5641025641025643	0.0
+requirements  more options	1	2.5641025641025643	0.0
+requirements  missing logic feat	1	2.5641025641025643	0.0
+requirements  diff preference for existing logic feat	1	2.5641025641025643	0.0
+reporting  major bug	1	2.5641025641025643	0.0
+reporting  medium bug	1	2.5641025641025643	0.0
+reporting  minor bug	2	5.128205128205129	0.0
+reporting  app incomp with device	1	2.5641025641025643	0.0
+reporting  fix	2	5.128205128205129	0.0
+usability  easy to use	1	2.5641025641025643	0.0
+usability  recommend it	1	2.5641025641025643	0.0
+customer support  pf on support	2	5.128205128205129	0.0
+versioning  app improve with updates	1	2.5641025641025643	0.0
+versioning  update messep up specific feat	1	2.5641025641025643	0.0
+----------------------------------------
+ - HTC Sensation 4G 
+positive feedback  overall	35	24.305555555555557	0.0
+positive feedback  gui	4	2.7777777777777777	0.0
+positive feedback  functionality	10	6.944444444444445	0.0
+positive feedback  customization	2	1.3888888888888888	0.0
+positive feedback  device	3	2.0833333333333335	0.0
+positive feedback  smoothness	1	0.6944444444444444	0.0
+positive feedback  must have	2	1.3888888888888888	0.0
+negative feedback  overall	9	6.25	0.0
+negative feedback  size	1	0.6944444444444444	0.0
+negative feedback  speed	1	0.6944444444444444	0.0
+negative feedback  gui	2	1.3888888888888888	0.0
+negative feedback  functionality	2	1.3888888888888888	0.0
+negative feedback  device	1	0.6944444444444444	0.0
+comparative feedback  negative	2	1.3888888888888888	0.0
+comparative feedback  positive	4	2.7777777777777777	0.0
+money feedback  uninstall	1	0.6944444444444444	0.0
+money feedback  worth the money	7	4.861111111111111	0.0
+money feedback  not worth the money	2	1.3888888888888888	0.0
+money feedback  ask for refund	2	1.3888888888888888	0.0
+requirements  version for new device	1	0.6944444444444444	0.0
+requirements  more options	1	0.6944444444444444	0.0
+requirements  missing gui feat	2	1.3888888888888888	0.0
+requirements  missing logic feat	7	4.861111111111111	0.0
+requirements  more updates	3	2.0833333333333335	0.0
+requirements  more features	2	1.3888888888888888	0.0
+requirements  diff preference for existing gui feat	1	0.6944444444444444	0.0
+requirements  diff preference for existing logic feat	2	1.3888888888888888	0.0
+reporting  major bug	3	2.0833333333333335	0.0
+reporting  medium bug	12	8.333333333333334	0.0
+reporting  minor bug	2	1.3888888888888888	0.0
+usability  easy to use	2	1.3888888888888888	0.0
+usability  hard to setup	1	0.6944444444444444	0.0
+usability  easy to understand	1	0.6944444444444444	0.0
+usability  uncertain about the right functionality	1	0.6944444444444444	0.0
+usability  recommend it	1	0.6944444444444444	0.0
+usability  user friendly	1	0.6944444444444444	0.0
+customer support  pf on support	1	0.6944444444444444	0.0
+customer support  misleading app descr	1	0.6944444444444444	0.0
+versioning  app improve with updates	4	2.7777777777777777	0.0
+versioning  update messed it up	1	0.6944444444444444	0.0
+versioning  update messep up specific feat	2	1.3888888888888888	0.0
+----------------------------------------
+ - HTC Sensation XL 
+positive feedback  overall	3	42.857142857142854	0.0
+positive feedback  gui	1	14.285714285714286	0.0
+negative feedback  overall	1	14.285714285714286	0.0
+negative feedback  speed	1	14.285714285714286	0.0
+money feedback  switch from free to paid	1	14.285714285714286	0.0
+----------------------------------------
+ - HTC Shooter 
+positive feedback  overall	3	33.333333333333336	0.0
+negative feedback  gui	1	11.11111111111111	0.0
+requirements  missing logic feat	1	11.11111111111111	0.0
+reporting  medium bug	1	11.11111111111111	0.0
+reporting  minor bug	2	22.22222222222222	0.0
+customer support  no support	1	11.11111111111111	0.0
+----------------------------------------
+ - HTC Thunderbolt 
+positive feedback  overall	30	27.77777777777778	0.0
+positive feedback  speed	1	0.9259259259259259	0.0
+positive feedback  gui	4	3.7037037037037037	0.0
+positive feedback  functionality	10	9.25925925925926	0.0
+positive feedback  device	1	0.9259259259259259	0.0
+positive feedback  updates	1	0.9259259259259259	0.0
+positive feedback  smoothness	1	0.9259259259259259	0.0
+negative feedback  overall	2	1.8518518518518519	0.0
+negative feedback  gui	4	3.7037037037037037	0.0
+negative feedback  functionality	2	1.8518518518518519	0.0
+negative feedback  device	1	0.9259259259259259	0.0
+negative feedback  memory	1	0.9259259259259259	0.0
+comparative feedback  negative	2	1.8518518518518519	0.0
+comparative feedback  positive	7	6.481481481481482	0.0
+money feedback  worth the money	6	5.555555555555555	0.0
+money feedback  not worth the money	1	0.9259259259259259	0.0
+money feedback  ask for refund	1	0.9259259259259259	0.0
+money feedback  switch from free to paid	1	0.9259259259259259	0.0
+requirements  missing gui feat	4	3.7037037037037037	0.0
+requirements  missing logic feat	5	4.62962962962963	0.0
+requirements  diff preference for existing logic feat	3	2.7777777777777777	0.0
+reporting  major bug	2	1.8518518518518519	0.0
+reporting  medium bug	1	0.9259259259259259	0.0
+reporting  minor bug	2	1.8518518518518519	0.0
+reporting  fix	1	0.9259259259259259	0.0
+reporting  battery loss	1	0.9259259259259259	0.0
+usability  easy to use	1	0.9259259259259259	0.0
+usability  different to use	1	0.9259259259259259	0.0
+usability  difficult to learn	1	0.9259259259259259	0.0
+usability  difficult to understand	1	0.9259259259259259	0.0
+usability  recommend it	2	1.8518518518518519	0.0
+usability  user friendly	1	0.9259259259259259	0.0
+customer support  pf on support	2	1.8518518518518519	0.0
+customer support  misleading app descr	1	0.9259259259259259	0.0
+versioning  app improve with updates	2	1.8518518518518519	0.0
+versioning  update messep up specific feat	1	0.9259259259259259	0.0
+----------------------------------------
+ - HTC Wildfire 
+positive feedback  overall	8	25.806451612903224	0.0
+positive feedback  size	1	3.225806451612903	0.0
+positive feedback  functionality	2	6.451612903225806	0.0
+positive feedback  customization	2	6.451612903225806	0.0
+positive feedback  device	1	3.225806451612903	0.0
+positive feedback  options	1	3.225806451612903	0.0
+negative feedback  overall	1	3.225806451612903	0.0
+comparative feedback  positive	1	3.225806451612903	0.0
+money feedback  worth the money	3	9.67741935483871	0.0
+money feedback  ask for refund	1	3.225806451612903	0.0
+money feedback  switch from free to paid	1	3.225806451612903	0.0
+requirements  missing logic feat	1	3.225806451612903	0.0
+requirements  diff preference for existing logic feat	1	3.225806451612903	0.0
+reporting  major bug	3	9.67741935483871	0.0
+reporting  minor bug	2	6.451612903225806	0.0
+usability  easy to use	1	3.225806451612903	0.0
+usability  intuitive	1	3.225806451612903	0.0
+----------------------------------------
+ - HTC Wildfire CDMA 
+positive feedback  overall	1	50.0	0.0
+money feedback  switch from free to paid	1	50.0	0.0
+----------------------------------------
+ - HTC Wildfire S 
+positive feedback  overall	5	35.714285714285715	0.0
+positive feedback  gui	2	14.285714285714286	0.0
+positive feedback  functionality	3	21.428571428571427	0.0
+positive feedback  organization	1	7.142857142857143	0.0
+money feedback  worth the money	1	7.142857142857143	0.0
+requirements  missing logic feat	1	7.142857142857143	0.0
+usability  easy to use	1	7.142857142857143	0.0
+----------------------------------------
+ - Huawei IDEOS 
+positive feedback  overall	2	66.66666666666667	0.0
+money feedback  worth the money	1	33.333333333333336	0.0
+----------------------------------------
+ - Huawei M835 
+positive feedback  overall	2	100.0	0.0
+----------------------------------------
+ - Huawei M860 
+positive feedback  overall	3	60.0	0.0
+requirements  missing gui feat	1	20.0	0.0
+requirements  missing logic feat	1	20.0	0.0
+----------------------------------------
+ - Huawei M865 
+positive feedback  overall	2	100.0	0.0
+----------------------------------------
+ - Huawei U8180 
+----------------------------------------
+ - Huawei V858 
+negative feedback  device	1	50.0	0.0
+reporting  major bug	1	50.0	0.0
+----------------------------------------
+ - Iconia Tab A100 (VanGogh) 
+positive feedback  gui	1	33.333333333333336	0.0
+positive feedback  device	1	33.333333333333336	0.0
+reporting  fix	1	33.333333333333336	0.0
+----------------------------------------
+ - Identity Tab E201 
+positive feedback  overall	1	50.0	0.0
+positive feedback  device	1	50.0	0.0
+----------------------------------------
+ - Kyocera Echo 
+positive feedback  functionality	1	50.0	0.0
+requirements  missing logic feat	1	50.0	0.0
+----------------------------------------
+ - Lenovo Indigo 
+positive feedback  overall	7	16.666666666666668	0.0
+positive feedback  functionality	14	33.333333333333336	0.0
+positive feedback  customization	1	2.380952380952381	0.0
+positive feedback  device	4	9.523809523809524	0.0
+positive feedback  must have	1	2.380952380952381	0.0
+comparative feedback  positive	3	7.142857142857143	0.0
+requirements  missing gui feat	1	2.380952380952381	0.0
+requirements  missing logic feat	6	14.285714285714286	0.0
+requirements  diff preference for existing gui feat	1	2.380952380952381	0.0
+reporting  minor bug	1	2.380952380952381	0.0
+usability  easy to use	1	2.380952380952381	0.0
+usability  recommend it	1	2.380952380952381	0.0
+customer support  pf on support	1	2.380952380952381	0.0
+----------------------------------------
+ - LG Ally 
+positive feedback  overall	3	27.272727272727273	0.0
+positive feedback  functionality	1	9.090909090909092	0.0
+negative feedback  overall	1	9.090909090909092	0.0
+money feedback  uninstall	1	9.090909090909092	0.0
+money feedback  not worth the money	1	9.090909090909092	0.0
+requirements  missing logic feat	1	9.090909090909092	0.0
+requirements  more updates	1	9.090909090909092	0.0
+reporting  major bug	1	9.090909090909092	0.0
+usability  easy to use	1	9.090909090909092	0.0
+----------------------------------------
+ - LG Cayman 
+positive feedback  overall	3	50.0	0.0
+positive feedback  gui	1	16.666666666666668	0.0
+positive feedback  functionality	1	16.666666666666668	0.0
+requirements  missing logic feat	1	16.666666666666668	0.0
+----------------------------------------
+ - LG Gelato 
+----------------------------------------
+ - LG myTouch E739 
+positive feedback  overall	5	38.46153846153846	0.0
+positive feedback  gui	1	7.6923076923076925	0.0
+positive feedback  functionality	1	7.6923076923076925	0.0
+negative feedback  overall	1	7.6923076923076925	0.0
+money feedback  ask for refund	1	7.6923076923076925	0.0
+requirements  missing gui feat	1	7.6923076923076925	0.0
+reporting  major bug	1	7.6923076923076925	0.0
+reporting  minor bug	1	7.6923076923076925	0.0
+usability  easy to use	1	7.6923076923076925	0.0
+----------------------------------------
+ - LG myTouch Q 
+requirements  missing logic feat	1	50.0	0.0
+versioning  app improve with updates	1	50.0	0.0
+----------------------------------------
+ - LG Optimus 2X 
+positive feedback  overall	17	34.0	0.0
+positive feedback  gui	1	2.0	0.0
+positive feedback  functionality	3	6.0	0.0
+positive feedback  device	1	2.0	0.0
+positive feedback  updates	1	2.0	0.0
+negative feedback  overall	2	4.0	0.0
+negative feedback  device	1	2.0	0.0
+comparative feedback  positive	2	4.0	0.0
+money feedback  worth the money	5	10.0	0.0
+requirements  missing gui feat	3	6.0	0.0
+requirements  missing logic feat	5	10.0	0.0
+requirements  diff preference for existing gui feat	2	4.0	0.0
+reporting  major bug	1	2.0	0.0
+reporting  medium bug	2	4.0	0.0
+usability  recommend it	2	4.0	0.0
+usability  user friendly	1	2.0	0.0
+customer support  pf on support	1	2.0	0.0
+----------------------------------------
+ - LG Optimus One 
+positive feedback  overall	35	40.69767441860465	0.0
+positive feedback  gui	4	4.651162790697675	0.0
+positive feedback  functionality	3	3.488372093023256	0.0
+positive feedback  customization	2	2.3255813953488373	0.0
+negative feedback  overall	2	2.3255813953488373	0.0
+negative feedback  speed	1	1.1627906976744187	0.0
+comparative feedback  negative	1	1.1627906976744187	0.0
+comparative feedback  positive	2	2.3255813953488373	0.0
+money feedback  uninstall	1	1.1627906976744187	0.0
+money feedback  worth the money	2	2.3255813953488373	0.0
+money feedback  not worth the money	2	2.3255813953488373	0.0
+money feedback  ask for refund	1	1.1627906976744187	0.0
+money feedback  switch from free to paid	2	2.3255813953488373	0.0
+requirements  more options	1	1.1627906976744187	0.0
+requirements  missing gui feat	1	1.1627906976744187	0.0
+requirements  missing logic feat	4	4.651162790697675	0.0
+requirements  more updates	1	1.1627906976744187	0.0
+requirements  more features	1	1.1627906976744187	0.0
+requirements  diff preference for existing logic feat	1	1.1627906976744187	0.0
+reporting  major bug	6	6.976744186046512	0.0
+reporting  medium bug	1	1.1627906976744187	0.0
+reporting  minor bug	5	5.813953488372093	0.0
+reporting  battery loss	1	1.1627906976744187	0.0
+usability  different to use	2	2.3255813953488373	0.0
+usability  difficult to understand	1	1.1627906976744187	0.0
+usability  invasive	1	1.1627906976744187	0.0
+usability  user friendly	1	1.1627906976744187	0.0
+customer support  pf on support	1	1.1627906976744187	0.0
+----------------------------------------
+ - LG Optimus Pad 
+positive feedback  overall	1	100.0	0.0
+----------------------------------------
+ - LG P2 
+positive feedback  overall	1	50.0	0.0
+money feedback  worth the money	1	50.0	0.0
+----------------------------------------
+ - LG Pecan 
+positive feedback  speed	1	50.0	0.0
+negative feedback  device	1	50.0	0.0
+----------------------------------------
+ - LG Swift 
+----------------------------------------
+ - LGE Bryce 
+positive feedback  overall	4	28.571428571428573	0.0
+negative feedback  speed	1	7.142857142857143	0.0
+negative feedback  functionality	1	7.142857142857143	0.0
+money feedback  worth the money	1	7.142857142857143	0.0
+requirements  missing gui feat	1	7.142857142857143	0.0
+requirements  missing logic feat	2	14.285714285714286	0.0
+reporting  medium bug	3	21.428571428571427	0.0
+usability  used because no other option is available	1	7.142857142857143	0.0
+----------------------------------------
+ - Motorola Atrix 
+positive feedback  overall	24	32.432432432432435	0.0
+positive feedback  gui	4	5.405405405405405	0.0
+positive feedback  functionality	5	6.756756756756757	0.0
+positive feedback  customization	1	1.3513513513513513	0.0
+positive feedback  options	1	1.3513513513513513	0.0
+negative feedback  overall	4	5.405405405405405	0.0
+negative feedback  functionality	1	1.3513513513513513	0.0
+negative feedback  updates	1	1.3513513513513513	0.0
+comparative feedback  negative	1	1.3513513513513513	0.0
+comparative feedback  positive	1	1.3513513513513513	0.0
+money feedback  worth the money	1	1.3513513513513513	0.0
+money feedback  not worth the money	2	2.7027027027027026	0.0
+requirements  more options	1	1.3513513513513513	0.0
+requirements  missing gui feat	2	2.7027027027027026	0.0
+requirements  missing logic feat	10	13.513513513513514	0.0
+requirements  more updates	1	1.3513513513513513	0.0
+requirements  diff preference for existing logic feat	1	1.3513513513513513	0.0
+reporting  major bug	2	2.7027027027027026	0.0
+reporting  medium bug	2	2.7027027027027026	0.0
+usability  easy to use	2	2.7027027027027026	0.0
+customer support  pf on support	2	2.7027027027027026	0.0
+versioning  app improve with updates	3	4.054054054054054	0.0
+versioning  update messed it up	1	1.3513513513513513	0.0
+versioning  long time user	1	1.3513513513513513	0.0
+----------------------------------------
+ - Motorola Backflip 
+----------------------------------------
+ - Motorola Citrus 
+----------------------------------------
+ - Motorola CLIQ  
+positive feedback  overall	4	33.333333333333336	0.0
+positive feedback  functionality	1	8.333333333333334	0.0
+positive feedback  updates	1	8.333333333333334	0.0
+negative feedback  device	1	8.333333333333334	0.0
+comparative feedback  positive	1	8.333333333333334	0.0
+money feedback  worth the money	1	8.333333333333334	0.0
+requirements  missing logic feat	1	8.333333333333334	0.0
+requirements  more features	1	8.333333333333334	0.0
+reporting  medium bug	1	8.333333333333334	0.0
+----------------------------------------
+ - Motorola Cliq-XT 
+reporting  major bug	1	100.0	0.0
+----------------------------------------
+ - Motorola Defy 
+positive feedback  functionality	3	25.0	0.0
+positive feedback  device	1	8.333333333333334	0.0
+comparative feedback  positive	1	8.333333333333334	0.0
+reporting  major bug	1	8.333333333333334	0.0
+reporting  app incomp with os	1	8.333333333333334	0.0
+usability  hard to setup	1	8.333333333333334	0.0
+usability  recommend it	1	8.333333333333334	0.0
+customer support  pf on support	1	8.333333333333334	0.0
+customer support  misleading app descr	1	8.333333333333334	0.0
+versioning  update messep up specific feat	1	8.333333333333334	0.0
+----------------------------------------
+ - Motorola Devour 
+positive feedback  overall	1	50.0	0.0
+positive feedback  functionality	1	50.0	0.0
+----------------------------------------
+ - Motorola Droid 
+positive feedback  overall	55	49.107142857142854	0.0
+positive feedback  gui	1	0.8928571428571429	0.0
+positive feedback  functionality	14	12.5	0.0
+positive feedback  device	1	0.8928571428571429	0.0
+positive feedback  organization	2	1.7857142857142858	0.0
+positive feedback  updates	1	0.8928571428571429	0.0
+positive feedback  must have	2	1.7857142857142858	0.0
+negative feedback  overall	1	0.8928571428571429	0.0
+negative feedback  device	1	0.8928571428571429	0.0
+comparative feedback  positive	1	0.8928571428571429	0.0
+money feedback  worth the money	6	5.357142857142857	0.0
+money feedback  switch from free to paid	1	0.8928571428571429	0.0
+money feedback  buy to support	1	0.8928571428571429	0.0
+requirements  missing gui feat	2	1.7857142857142858	0.0
+requirements  missing logic feat	6	5.357142857142857	0.0
+requirements  more features	2	1.7857142857142858	0.0
+requirements  diff preference for existing gui feat	2	1.7857142857142858	0.0
+reporting  major bug	3	2.6785714285714284	0.0
+reporting  medium bug	4	3.5714285714285716	0.0
+usability  easy to understand	1	0.8928571428571429	0.0
+usability  user friendly	2	1.7857142857142858	0.0
+customer support  pf on support	1	0.8928571428571429	0.0
+customer support  misleading app descr	1	0.8928571428571429	0.0
+versioning  update messep up specific feat	1	0.8928571428571429	0.0
+----------------------------------------
+ - Motorola Droid 3 
+positive feedback  overall	7	31.818181818181817	0.0
+positive feedback  gui	2	9.090909090909092	0.0
+positive feedback  functionality	1	4.545454545454546	0.0
+positive feedback  customization	1	4.545454545454546	0.0
+positive feedback  must have	1	4.545454545454546	0.0
+positive feedback  options	1	4.545454545454546	0.0
+comparative feedback  positive	1	4.545454545454546	0.0
+money feedback  worth the money	1	4.545454545454546	0.0
+money feedback  not worth the money	1	4.545454545454546	0.0
+requirements  missing logic feat	3	13.636363636363637	0.0
+reporting  minor bug	1	4.545454545454546	0.0
+reporting  fix	1	4.545454545454546	0.0
+usability  recommend it	1	4.545454545454546	0.0
+----------------------------------------
+ - Motorola Droid II 
+positive feedback  overall	17	38.63636363636363	0.0
+positive feedback  gui	4	9.090909090909092	0.0
+positive feedback  functionality	6	13.636363636363637	0.0
+positive feedback  customization	1	2.272727272727273	0.0
+positive feedback  device	1	2.272727272727273	0.0
+comparative feedback  positive	1	2.272727272727273	0.0
+money feedback  worth the money	2	4.545454545454546	0.0
+money feedback  not worth the money	3	6.818181818181818	0.0
+money feedback  ask for refund	1	2.272727272727273	0.0
+requirements  more options	1	2.272727272727273	0.0
+requirements  more updates	1	2.272727272727273	0.0
+reporting  major bug	1	2.272727272727273	0.0
+reporting  minor bug	1	2.272727272727273	0.0
+reporting  fix	1	2.272727272727273	0.0
+usability  recommend it	2	4.545454545454546	0.0
+customer support  no dev support	1	2.272727272727273	0.0
+----------------------------------------
+ - Motorola Droid Pro 
+negative feedback  overall	1	9.090909090909092	0.0
+negative feedback  gui	2	18.181818181818183	0.0
+negative feedback  functionality	1	9.090909090909092	0.0
+money feedback  switch from free to paid	1	9.090909090909092	0.0
+requirements  missing gui feat	1	9.090909090909092	0.0
+requirements  missing logic feat	2	18.181818181818183	0.0
+reporting  medium bug	1	9.090909090909092	0.0
+reporting  minor bug	1	9.090909090909092	0.0
+reporting  app incomp with device	1	9.090909090909092	0.0
+----------------------------------------
+ - Motorola Droid RAZR 
+positive feedback  overall	38	40.42553191489362	0.0
+positive feedback  speed	1	1.0638297872340425	0.0
+positive feedback  gui	5	5.319148936170213	0.0
+positive feedback  functionality	7	7.446808510638298	0.0
+positive feedback  customization	3	3.1914893617021276	0.0
+positive feedback  portability	1	1.0638297872340425	0.0
+negative feedback  overall	2	2.127659574468085	0.0
+negative feedback  speed	1	1.0638297872340425	0.0
+negative feedback  gui	1	1.0638297872340425	0.0
+negative feedback  functionality	1	1.0638297872340425	0.0
+negative feedback  device	1	1.0638297872340425	0.0
+comparative feedback  positive	2	2.127659574468085	0.0
+money feedback  worth the money	2	2.127659574468085	0.0
+money feedback  buy to support	2	2.127659574468085	0.0
+requirements  more options	1	1.0638297872340425	0.0
+requirements  missing gui feat	2	2.127659574468085	0.0
+requirements  missing logic feat	5	5.319148936170213	0.0
+requirements  diff preference for existing gui feat	2	2.127659574468085	0.0
+reporting  major bug	2	2.127659574468085	0.0
+reporting  medium bug	1	1.0638297872340425	0.0
+reporting  minor bug	2	2.127659574468085	0.0
+usability  easy to use	2	2.127659574468085	0.0
+usability  difficult to learn	1	1.0638297872340425	0.0
+usability  hard to setup	1	1.0638297872340425	0.0
+usability  used over more devices	1	1.0638297872340425	0.0
+usability  uncertain about the right functionality	1	1.0638297872340425	0.0
+usability  recommend it	1	1.0638297872340425	0.0
+customer support  pf on support	2	2.127659574468085	0.0
+customer support  misleading app descr	1	1.0638297872340425	0.0
+versioning  update messed it up	1	1.0638297872340425	0.0
+versioning  update messep up specific feat	1	1.0638297872340425	0.0
+----------------------------------------
+ - Motorola Droid X 
+positive feedback  overall	67	34.895833333333336	0.0
+positive feedback  gui	4	2.0833333333333335	0.0
+positive feedback  functionality	14	7.291666666666667	0.0
+positive feedback  customization	3	1.5625	0.0
+positive feedback  device	2	1.0416666666666667	0.0
+positive feedback  updates	1	0.5208333333333334	0.0
+positive feedback  smoothness	1	0.5208333333333334	0.0
+positive feedback  must have	1	0.5208333333333334	0.0
+positive feedback  options	2	1.0416666666666667	0.0
+negative feedback  overall	6	3.125	0.0
+negative feedback  speed	2	1.0416666666666667	0.0
+negative feedback  gui	1	0.5208333333333334	0.0
+negative feedback  functionality	2	1.0416666666666667	0.0
+negative feedback  device	4	2.0833333333333335	0.0
+comparative feedback  positive	6	3.125	0.0
+money feedback  uninstall	1	0.5208333333333334	0.0
+money feedback  worth the money	11	5.729166666666667	0.0
+money feedback  not worth the money	1	0.5208333333333334	0.0
+money feedback  ask for refund	1	0.5208333333333334	0.0
+money feedback  switch from free to paid	1	0.5208333333333334	0.0
+requirements  more options	1	0.5208333333333334	0.0
+requirements  missing gui feat	1	0.5208333333333334	0.0
+requirements  missing logic feat	5	2.6041666666666665	0.0
+requirements  more updates	2	1.0416666666666667	0.0
+requirements  diff preference for existing gui feat	3	1.5625	0.0
+requirements  diff preference for existing logic feat	3	1.5625	0.0
+reporting  major bug	10	5.208333333333333	0.0
+reporting  medium bug	12	6.25	0.0
+reporting  minor bug	4	2.0833333333333335	0.0
+reporting  fix	2	1.0416666666666667	0.0
+reporting  battery loss	1	0.5208333333333334	0.0
+usability  easy to use	3	1.5625	0.0
+usability  difficult to learn	1	0.5208333333333334	0.0
+usability  recommend it	1	0.5208333333333334	0.0
+usability  user friendly	1	0.5208333333333334	0.0
+usability  intuitive	1	0.5208333333333334	0.0
+customer support  pf on support	4	2.0833333333333335	0.0
+customer support  misleading app descr	1	0.5208333333333334	0.0
+versioning  app improve with updates	3	1.5625	0.0
+versioning  update messed it up	1	0.5208333333333334	0.0
+versioning  update messep up specific feat	1	0.5208333333333334	0.0
+----------------------------------------
+ - Motorola Droid X2 
+positive feedback  overall	18	41.86046511627907	0.0
+positive feedback  gui	4	9.30232558139535	0.0
+positive feedback  functionality	2	4.651162790697675	0.0
+positive feedback  customization	1	2.3255813953488373	0.0
+positive feedback  device	1	2.3255813953488373	0.0
+positive feedback  updates	1	2.3255813953488373	0.0
+comparative feedback  positive	2	4.651162790697675	0.0
+money feedback  worth the money	4	9.30232558139535	0.0
+requirements  more options	1	2.3255813953488373	0.0
+requirements  missing gui feat	1	2.3255813953488373	0.0
+requirements  missing logic feat	1	2.3255813953488373	0.0
+reporting  medium bug	1	2.3255813953488373	0.0
+usability  easy to learn	1	2.3255813953488373	0.0
+usability  difficult to learn	1	2.3255813953488373	0.0
+usability  recommend it	2	4.651162790697675	0.0
+customer support  pf on support	2	4.651162790697675	0.0
+----------------------------------------
+ - Motorola Flipout 
+----------------------------------------
+ - Motorola Milestone2 
+positive feedback  overall	2	66.66666666666667	0.0
+requirements  diff preference for existing logic feat	1	33.333333333333336	0.0
+----------------------------------------
+ - Motorola Motoroi 
+----------------------------------------
+ - Motorola Photon 4G 
+positive feedback  overall	14	40.0	0.0
+positive feedback  gui	1	2.857142857142857	0.0
+positive feedback  functionality	2	5.714285714285714	0.0
+positive feedback  organization	1	2.857142857142857	0.0
+negative feedback  overall	1	2.857142857142857	0.0
+money feedback  worth the money	1	2.857142857142857	0.0
+requirements  more options	2	5.714285714285714	0.0
+requirements  missing logic feat	4	11.428571428571429	0.0
+requirements  diff preference for existing logic feat	1	2.857142857142857	0.0
+reporting  major bug	3	8.571428571428571	0.0
+reporting  medium bug	2	5.714285714285714	0.0
+reporting  minor bug	1	2.857142857142857	0.0
+reporting  app incomp with device	1	2.857142857142857	0.0
+versioning  update messed it up	1	2.857142857142857	0.0
+----------------------------------------
+ - Motorola Various 
+----------------------------------------
+ - Motorola XOOM 
+positive feedback  overall	24	27.272727272727273	0.0
+positive feedback  gui	1	1.1363636363636365	0.0
+positive feedback  functionality	5	5.681818181818182	0.0
+positive feedback  customization	1	1.1363636363636365	0.0
+positive feedback  device	4	4.545454545454546	0.0
+positive feedback  options	1	1.1363636363636365	0.0
+negative feedback  overall	2	2.272727272727273	0.0
+negative feedback  speed	1	1.1363636363636365	0.0
+negative feedback  device	2	2.272727272727273	0.0
+comparative feedback  positive	3	3.409090909090909	0.0
+money feedback  uninstall	1	1.1363636363636365	0.0
+money feedback  worth the money	7	7.954545454545454	0.0
+money feedback  not worth the money	1	1.1363636363636365	0.0
+money feedback  ask for refund	1	1.1363636363636365	0.0
+requirements  version for new device	1	1.1363636363636365	0.0
+requirements  more options	2	2.272727272727273	0.0
+requirements  missing gui feat	2	2.272727272727273	0.0
+requirements  missing logic feat	9	10.227272727272727	0.0
+requirements  more updates	1	1.1363636363636365	0.0
+requirements  more features	1	1.1363636363636365	0.0
+requirements  diff preference for existing gui feat	1	1.1363636363636365	0.0
+requirements  diff preference for existing logic feat	1	1.1363636363636365	0.0
+reporting  major bug	3	3.409090909090909	0.0
+reporting  medium bug	5	5.681818181818182	0.0
+reporting  minor bug	2	2.272727272727273	0.0
+usability  easy to use	1	1.1363636363636365	0.0
+usability  different to use	1	1.1363636363636365	0.0
+usability  recommend it	2	2.272727272727273	0.0
+customer support  pf on support	1	1.1363636363636365	0.0
+versioning  update messed it up	1	1.1363636363636365	0.0
+----------------------------------------
+ - NEC MEDIAS N-04C 
+----------------------------------------
+ - Pantech Apache 
+positive feedback  overall	1	50.0	0.0
+positive feedback  gui	1	50.0	0.0
+----------------------------------------
+ - REGZA Phone T01C 
+----------------------------------------
+ - Samsung Admire 
+positive feedback  overall	4	50.0	0.0
+comparative feedback  negative	1	12.5	0.0
+requirements  more updates	1	12.5	0.0
+requirements  diff preference for existing gui feat	1	12.5	0.0
+reporting  minor bug	1	12.5	0.0
+----------------------------------------
+ - Samsung Behold2 
+----------------------------------------
+ - Samsung Dart 
+requirements  diff preference for existing logic feat	1	50.0	0.0
+----------------------------------------
+ - Samsung Droid Charge 
+positive feedback  overall	9	50.0	0.0
+positive feedback  gui	1	5.555555555555555	0.0
+negative feedback  overall	1	5.555555555555555	0.0
+requirements  missing logic feat	2	11.11111111111111	0.0
+requirements  diff preference for existing logic feat	1	5.555555555555555	0.0
+usability  easy to use	1	5.555555555555555	0.0
+usability  difficult to understand	1	5.555555555555555	0.0
+usability  recommend it	1	5.555555555555555	0.0
+usability  intuitive	1	5.555555555555555	0.0
+----------------------------------------
+ - Samsung Europa  
+positive feedback  functionality	1	25.0	0.0
+negative feedback  overall	1	25.0	0.0
+reporting  major bug	2	50.0	0.0
+----------------------------------------
+ - Samsung Exhibit 2 4G 
+positive feedback  overall	3	50.0	0.0
+positive feedback  functionality	1	16.666666666666668	0.0
+requirements  diff preference for existing gui feat	1	16.666666666666668	0.0
+reporting  major bug	1	16.666666666666668	0.0
+----------------------------------------
+ - Samsung Exhibit 4G 
+positive feedback  overall	1	50.0	0.0
+requirements  diff preference for existing logic feat	1	50.0	0.0
+----------------------------------------
+ - Samsung Galaxy 3 
+positive feedback  overall	1	33.333333333333336	0.0
+positive feedback  must have	1	33.333333333333336	0.0
+customer support  pf on support	1	33.333333333333336	0.0
+----------------------------------------
+ - Samsung Galaxy Ace 
+positive feedback  overall	7	36.8421052631579	0.0
+positive feedback  gui	1	5.2631578947368425	0.0
+positive feedback  functionality	1	5.2631578947368425	0.0
+positive feedback  device	2	10.526315789473685	0.0
+positive feedback  updates	1	5.2631578947368425	0.0
+comparative feedback  positive	2	10.526315789473685	0.0
+requirements  more features	1	5.2631578947368425	0.0
+reporting  medium bug	1	5.2631578947368425	0.0
+reporting  battery loss	1	5.2631578947368425	0.0
+usability  uncertain about the right functionality	1	5.2631578947368425	0.0
+----------------------------------------
+ - Samsung Galaxy Fit 
+----------------------------------------
+ - Samsung Galaxy Gio 
+----------------------------------------
+ - Samsung Galaxy Mini 
+positive feedback  overall	3	60.0	0.0
+positive feedback  functionality	1	20.0	0.0
+reporting  battery loss	1	20.0	0.0
+----------------------------------------
+ - Samsung Galaxy Nexus 
+positive feedback  overall	81	32.926829268292686	0.0
+positive feedback  speed	1	0.4065040650406504	0.0
+positive feedback  gui	10	4.065040650406504	0.0
+positive feedback  functionality	17	6.9105691056910565	0.0
+positive feedback  customization	2	0.8130081300813008	0.0
+positive feedback  portability	1	0.4065040650406504	0.0
+positive feedback  device	9	3.658536585365854	0.0
+positive feedback  updates	1	0.4065040650406504	0.0
+positive feedback  memory	1	0.4065040650406504	0.0
+positive feedback  must have	1	0.4065040650406504	0.0
+negative feedback  overall	6	2.4390243902439024	0.0
+negative feedback  speed	1	0.4065040650406504	0.0
+negative feedback  functionality	2	0.8130081300813008	0.0
+negative feedback  customization	1	0.4065040650406504	0.0
+negative feedback  device	4	1.6260162601626016	0.0
+negative feedback  options	1	0.4065040650406504	0.0
+comparative feedback  negative	2	0.8130081300813008	0.0
+comparative feedback  positive	6	2.4390243902439024	0.0
+money feedback  uninstall	3	1.2195121951219512	0.0
+money feedback  worth the money	9	3.658536585365854	0.0
+money feedback  not worth the money	3	1.2195121951219512	0.0
+money feedback  ask for refund	2	0.8130081300813008	0.0
+money feedback  buy to support	2	0.8130081300813008	0.0
+requirements  missing gui feat	5	2.032520325203252	0.0
+requirements  missing logic feat	10	4.065040650406504	0.0
+requirements  more updates	2	0.8130081300813008	0.0
+requirements  more features	1	0.4065040650406504	0.0
+requirements  diff preference for existing gui feat	4	1.6260162601626016	0.0
+requirements  diff preference for existing logic feat	2	0.8130081300813008	0.0
+reporting  major bug	10	4.065040650406504	0.0
+reporting  medium bug	8	3.252032520325203	0.0
+reporting  minor bug	5	2.032520325203252	0.0
+reporting  app incomp with device	4	1.6260162601626016	0.0
+reporting  app incomp with os	3	1.2195121951219512	0.0
+reporting  fix	2	0.8130081300813008	0.0
+reporting  battery loss	2	0.8130081300813008	0.0
+usability  easy to use	3	1.2195121951219512	0.0
+usability  hard to setup	2	0.8130081300813008	0.0
+usability  uncertain about the right functionality	3	1.2195121951219512	0.0
+usability  recommend it	2	0.8130081300813008	0.0
+customer support  pf on support	4	1.6260162601626016	0.0
+customer support  misleading app descr	1	0.4065040650406504	0.0
+versioning  app improve with updates	3	1.2195121951219512	0.0
+versioning  update messep up specific feat	3	1.2195121951219512	0.0
+----------------------------------------
+ - Samsung Galaxy Note 
+positive feedback  overall	38	29.23076923076923	0.0
+positive feedback  speed	2	1.5384615384615385	0.0
+positive feedback  gui	8	6.153846153846154	0.0
+positive feedback  functionality	4	3.076923076923077	0.0
+positive feedback  device	3	2.3076923076923075	0.0
+positive feedback  updates	1	0.7692307692307693	0.0
+positive feedback  smoothness	1	0.7692307692307693	0.0
+negative feedback  overall	3	2.3076923076923075	0.0
+negative feedback  speed	1	0.7692307692307693	0.0
+negative feedback  gui	3	2.3076923076923075	0.0
+negative feedback  functionality	1	0.7692307692307693	0.0
+negative feedback  device	6	4.615384615384615	0.0
+negative feedback  memory	1	0.7692307692307693	0.0
+comparative feedback  negative	2	1.5384615384615385	0.0
+comparative feedback  positive	3	2.3076923076923075	0.0
+money feedback  uninstall	1	0.7692307692307693	0.0
+money feedback  worth the money	2	1.5384615384615385	0.0
+money feedback  not worth the money	4	3.076923076923077	0.0
+money feedback  ask for refund	1	0.7692307692307693	0.0
+money feedback  switch from free to paid	1	0.7692307692307693	0.0
+requirements  more options	2	1.5384615384615385	0.0
+requirements  missing gui feat	1	0.7692307692307693	0.0
+requirements  missing logic feat	7	5.384615384615385	0.0
+requirements  more updates	1	0.7692307692307693	0.0
+requirements  diff preference for existing gui feat	3	2.3076923076923075	0.0
+requirements  diff preference for existing logic feat	2	1.5384615384615385	0.0
+reporting  major bug	5	3.8461538461538463	0.0
+reporting  medium bug	3	2.3076923076923075	0.0
+reporting  minor bug	5	3.8461538461538463	0.0
+reporting  battery loss	1	0.7692307692307693	0.0
+usability  easy to use	3	2.3076923076923075	0.0
+usability  uncertain about the right functionality	2	1.5384615384615385	0.0
+usability  unreliable	1	0.7692307692307693	0.0
+customer support  pf on support	3	2.3076923076923075	0.0
+customer support  poor dev support	1	0.7692307692307693	0.0
+versioning  app improve with updates	3	2.3076923076923075	0.0
+versioning  update messed it up	1	0.7692307692307693	0.0
+----------------------------------------
+ - Samsung Galaxy S 
+positive feedback  overall	155	37.530266343825666	0.0
+positive feedback  size	1	0.24213075060532688	0.0
+positive feedback  speed	1	0.24213075060532688	0.0
+positive feedback  gui	23	5.5690072639225185	0.0
+positive feedback  functionality	24	5.811138014527845	0.0
+positive feedback  customization	5	1.2106537530266344	0.0
+positive feedback  device	7	1.694915254237288	0.0
+positive feedback  updates	1	0.24213075060532688	0.0
+positive feedback  memory	1	0.24213075060532688	0.0
+positive feedback  must have	1	0.24213075060532688	0.0
+negative feedback  overall	13	3.1476997578692494	0.0
+negative feedback  speed	4	0.9685230024213075	0.0
+negative feedback  gui	4	0.9685230024213075	0.0
+negative feedback  functionality	5	1.2106537530266344	0.0
+negative feedback  device	5	1.2106537530266344	0.0
+comparative feedback  negative	1	0.24213075060532688	0.0
+comparative feedback  positive	7	1.694915254237288	0.0
+money feedback  uninstall	3	0.7263922518159807	0.0
+money feedback  worth the money	20	4.842615012106537	0.0
+money feedback  not worth the money	5	1.2106537530266344	0.0
+money feedback  ask for refund	7	1.694915254237288	0.0
+money feedback  buy to support	3	0.7263922518159807	0.0
+requirements  more options	4	0.9685230024213075	0.0
+requirements  missing gui feat	9	2.179176755447942	0.0
+requirements  missing logic feat	14	3.389830508474576	0.0
+requirements  more updates	1	0.24213075060532688	0.0
+requirements  more features	2	0.48426150121065376	0.0
+requirements  diff preference for existing gui feat	5	1.2106537530266344	0.0
+requirements  diff preference for existing logic feat	5	1.2106537530266344	0.0
+reporting  major bug	19	4.600484261501211	0.0
+reporting  medium bug	13	3.1476997578692494	0.0
+reporting  minor bug	5	1.2106537530266344	0.0
+reporting  fix	2	0.48426150121065376	0.0
+reporting  battery loss	3	0.7263922518159807	0.0
+usability  easy to use	4	0.9685230024213075	0.0
+usability  hard to setup	1	0.24213075060532688	0.0
+usability  easy to understand	1	0.24213075060532688	0.0
+usability  difficult to understand	1	0.24213075060532688	0.0
+usability  used over more devices	1	0.24213075060532688	0.0
+usability  recommend it	3	0.7263922518159807	0.0
+usability  user friendly	3	0.7263922518159807	0.0
+usability  intuitive	1	0.24213075060532688	0.0
+customer support  pf on support	6	1.4527845036319613	0.0
+customer support  misleading app descr	2	0.48426150121065376	0.0
+versioning  app improve with updates	7	1.694915254237288	0.0
+versioning  update messed it up	4	0.9685230024213075	0.0
+versioning  update messep up specific feat	1	0.24213075060532688	0.0
+----------------------------------------
+ - Samsung Galaxy S2 
+positive feedback  overall	125	31.725888324873097	0.0
+positive feedback  speed	4	1.015228426395939	0.0
+positive feedback  gui	17	4.314720812182741	0.0
+positive feedback  functionality	27	6.852791878172589	0.0
+positive feedback  customization	7	1.7766497461928934	0.0
+positive feedback  portability	1	0.25380710659898476	0.0
+positive feedback  device	8	2.030456852791878	0.0
+positive feedback  organization	1	0.25380710659898476	0.0
+positive feedback  smoothness	1	0.25380710659898476	0.0
+positive feedback  must have	2	0.5076142131979695	0.0
+positive feedback  options	1	0.25380710659898476	0.0
+negative feedback  overall	11	2.7918781725888326	0.0
+negative feedback  speed	3	0.7614213197969543	0.0
+negative feedback  gui	2	0.5076142131979695	0.0
+negative feedback  functionality	2	0.5076142131979695	0.0
+negative feedback  device	3	0.7614213197969543	0.0
+negative feedback  smoothness	1	0.25380710659898476	0.0
+comparative feedback  negative	3	0.7614213197969543	0.0
+comparative feedback  positive	12	3.045685279187817	0.0
+money feedback  uninstall	5	1.2690355329949239	0.0
+money feedback  worth the money	15	3.8071065989847717	0.0
+money feedback  not worth the money	8	2.030456852791878	0.0
+money feedback  ask for refund	3	0.7614213197969543	0.0
+money feedback  buy to support	1	0.25380710659898476	0.0
+requirements  missing gui feat	7	1.7766497461928934	0.0
+requirements  missing logic feat	26	6.598984771573604	0.0
+requirements  more updates	3	0.7614213197969543	0.0
+requirements  diff preference for existing gui feat	10	2.5380710659898478	0.0
+requirements  diff preference for existing logic feat	3	0.7614213197969543	0.0
+reporting  major bug	11	2.7918781725888326	0.0
+reporting  medium bug	14	3.553299492385787	0.0
+reporting  minor bug	7	1.7766497461928934	0.0
+reporting  app incomp with device	1	0.25380710659898476	0.0
+reporting  app incomp with os	3	0.7614213197969543	0.0
+reporting  fix	2	0.5076142131979695	0.0
+reporting  battery loss	1	0.25380710659898476	0.0
+usability  easy to use	11	2.7918781725888326	0.0
+usability  different to use	3	0.7614213197969543	0.0
+usability  difficult to learn	1	0.25380710659898476	0.0
+usability  hard to setup	3	0.7614213197969543	0.0
+usability  easy to understand	1	0.25380710659898476	0.0
+usability  difficult to understand	1	0.25380710659898476	0.0
+usability  used over more devices	1	0.25380710659898476	0.0
+usability  uncertain about the right functionality	2	0.5076142131979695	0.0
+usability  recommend it	2	0.5076142131979695	0.0
+usability  intuitive	1	0.25380710659898476	0.0
+customer support  pf on support	4	1.015228426395939	0.0
+customer support  misleading app descr	1	0.25380710659898476	0.0
+customer support  poor dev support	2	0.5076142131979695	0.0
+customer support  no dev support	1	0.25380710659898476	0.0
+versioning  app improve with updates	4	1.015228426395939	0.0
+versioning  update messed it up	3	0.7614213197969543	0.0
+versioning  update messep up specific feat	2	0.5076142131979695	0.0
+----------------------------------------
+ - Samsung Galaxy S3 
+positive feedback  overall	16	38.095238095238095	0.0
+positive feedback  gui	1	2.380952380952381	0.0
+positive feedback  functionality	1	2.380952380952381	0.0
+positive feedback  customization	1	2.380952380952381	0.0
+positive feedback  device	3	7.142857142857143	0.0
+negative feedback  overall	3	7.142857142857143	0.0
+negative feedback  device	2	4.761904761904762	0.0
+money feedback  worth the money	1	2.380952380952381	0.0
+money feedback  not worth the money	1	2.380952380952381	0.0
+requirements  more options	1	2.380952380952381	0.0
+requirements  missing logic feat	1	2.380952380952381	0.0
+requirements  more updates	2	4.761904761904762	0.0
+reporting  major bug	5	11.904761904761905	0.0
+reporting  minor bug	3	7.142857142857143	0.0
+reporting  fix	1	2.380952380952381	0.0
+----------------------------------------
+ - Samsung Galaxy Spica 
+positive feedback  overall	1	25.0	0.0
+positive feedback  gui	1	25.0	0.0
+positive feedback  functionality	1	25.0	0.0
+requirements  missing logic feat	1	25.0	0.0
+----------------------------------------
+ - Samsung Galaxy Tab 
+positive feedback  overall	19	39.583333333333336	0.0
+positive feedback  functionality	3	6.25	0.0
+positive feedback  customization	1	2.0833333333333335	0.0
+negative feedback  overall	2	4.166666666666667	0.0
+negative feedback  functionality	1	2.0833333333333335	0.0
+comparative feedback  negative	2	4.166666666666667	0.0
+comparative feedback  positive	1	2.0833333333333335	0.0
+money feedback  uninstall	1	2.0833333333333335	0.0
+money feedback  worth the money	2	4.166666666666667	0.0
+requirements  more options	1	2.0833333333333335	0.0
+requirements  missing gui feat	1	2.0833333333333335	0.0
+requirements  missing logic feat	2	4.166666666666667	0.0
+requirements  more updates	1	2.0833333333333335	0.0
+requirements  diff preference for existing logic feat	1	2.0833333333333335	0.0
+reporting  major bug	1	2.0833333333333335	0.0
+reporting  medium bug	2	4.166666666666667	0.0
+usability  easy to use	1	2.0833333333333335	0.0
+usability  difficult to learn	1	2.0833333333333335	0.0
+usability  recommend it	1	2.0833333333333335	0.0
+usability  user friendly	1	2.0833333333333335	0.0
+customer support  pf on support	1	2.0833333333333335	0.0
+customer support  no dev support	2	4.166666666666667	0.0
+----------------------------------------
+ - Samsung Galaxy W 
+positive feedback  overall	1	50.0	0.0
+requirements  missing gui feat	1	50.0	0.0
+----------------------------------------
+ - Samsung Galaxy Y 
+positive feedback  overall	3	42.857142857142854	0.0
+positive feedback  gui	1	14.285714285714286	0.0
+positive feedback  functionality	2	28.571428571428573	0.0
+usability  uncertain about the right functionality	1	14.285714285714286	0.0
+----------------------------------------
+ - Samsung Gem 
+----------------------------------------
+ - Samsung Infuse 4G 
+positive feedback  overall	17	33.333333333333336	0.0
+positive feedback  gui	4	7.8431372549019605	0.0
+positive feedback  functionality	4	7.8431372549019605	0.0
+positive feedback  customization	1	1.9607843137254901	0.0
+positive feedback  smoothness	1	1.9607843137254901	0.0
+negative feedback  overall	1	1.9607843137254901	0.0
+negative feedback  device	1	1.9607843137254901	0.0
+comparative feedback  positive	2	3.9215686274509802	0.0
+money feedback  worth the money	3	5.882352941176471	0.0
+requirements  missing gui feat	2	3.9215686274509802	0.0
+requirements  missing logic feat	2	3.9215686274509802	0.0
+requirements  more updates	1	1.9607843137254901	0.0
+reporting  major bug	3	5.882352941176471	0.0
+reporting  medium bug	1	1.9607843137254901	0.0
+reporting  minor bug	2	3.9215686274509802	0.0
+usability  easy to use	2	3.9215686274509802	0.0
+usability  recommend it	1	1.9607843137254901	0.0
+customer support  pf on support	1	1.9607843137254901	0.0
+versioning  app improve with updates	1	1.9607843137254901	0.0
+versioning  update messed it up	1	1.9607843137254901	0.0
+----------------------------------------
+ - Samsung Moment 
+positive feedback  overall	2	25.0	0.0
+positive feedback  speed	1	12.5	0.0
+positive feedback  gui	1	12.5	0.0
+positive feedback  customization	1	12.5	0.0
+negative feedback  overall	1	12.5	0.0
+comparative feedback  positive	1	12.5	0.0
+reporting  fix	1	12.5	0.0
+----------------------------------------
+ - Samsung Nexus S 
+positive feedback  overall	31	24.603174603174605	0.0
+positive feedback  speed	2	1.5873015873015872	0.0
+positive feedback  gui	6	4.761904761904762	0.0
+positive feedback  functionality	11	8.73015873015873	0.0
+positive feedback  customization	1	0.7936507936507936	0.0
+positive feedback  device	2	1.5873015873015872	0.0
+positive feedback  organization	2	1.5873015873015872	0.0
+positive feedback  must have	1	0.7936507936507936	0.0
+negative feedback  overall	4	3.1746031746031744	0.0
+negative feedback  functionality	2	1.5873015873015872	0.0
+negative feedback  device	1	0.7936507936507936	0.0
+negative feedback  organization	1	0.7936507936507936	0.0
+negative feedback  updates	1	0.7936507936507936	0.0
+comparative feedback  negative	1	0.7936507936507936	0.0
+comparative feedback  positive	2	1.5873015873015872	0.0
+money feedback  uninstall	1	0.7936507936507936	0.0
+money feedback  worth the money	2	1.5873015873015872	0.0
+money feedback  not worth the money	2	1.5873015873015872	0.0
+money feedback  ask for refund	3	2.380952380952381	0.0
+money feedback  switch to other app	1	0.7936507936507936	0.0
+requirements  missing gui feat	1	0.7936507936507936	0.0
+requirements  missing logic feat	13	10.317460317460318	0.0
+requirements  more updates	1	0.7936507936507936	0.0
+requirements  diff preference for existing gui feat	5	3.9682539682539684	0.0
+reporting  major bug	8	6.349206349206349	0.0
+reporting  medium bug	3	2.380952380952381	0.0
+reporting  minor bug	4	3.1746031746031744	0.0
+reporting  app incomp with device	1	0.7936507936507936	0.0
+reporting  app incomp with os	1	0.7936507936507936	0.0
+usability  easy to use	2	1.5873015873015872	0.0
+usability  different to use	1	0.7936507936507936	0.0
+usability  recommend it	1	0.7936507936507936	0.0
+customer support  pf on support	1	0.7936507936507936	0.0
+customer support  misleading app descr	3	2.380952380952381	0.0
+versioning  app improve with updates	1	0.7936507936507936	0.0
+versioning  update messed it up	2	1.5873015873015872	0.0
+versioning  update messep up specific feat	1	0.7936507936507936	0.0
+----------------------------------------
+ - Samsung Replenish 
+----------------------------------------
+ - Samsung Sidekick 4G 
+positive feedback  overall	4	36.36363636363637	0.0
+positive feedback  gui	2	18.181818181818183	0.0
+positive feedback  options	1	9.090909090909092	0.0
+requirements  more options	2	18.181818181818183	0.0
+reporting  app incomp with device	1	9.090909090909092	0.0
+versioning  app improve with updates	1	9.090909090909092	0.0
+----------------------------------------
+ - Samsung Stratosphere 
+positive feedback  overall	4	66.66666666666667	0.0
+requirements  missing logic feat	1	16.666666666666668	0.0
+requirements  diff preference for existing logic feat	1	16.666666666666668	0.0
+----------------------------------------
+ - Samsung VinsQ(M910) 
+positive feedback  overall	1	50.0	0.0
+negative feedback  overall	1	50.0	0.0
+----------------------------------------
+ - SEMC Experia Acro 
+positive feedback  overall	1	50.0	0.0
+requirements  missing logic feat	1	50.0	0.0
+----------------------------------------
+ - SEMC Xperia Arc 
+positive feedback  overall	8	40.0	0.0
+positive feedback  customization	1	5.0	0.0
+positive feedback  portability	1	5.0	0.0
+negative feedback  overall	1	5.0	0.0
+negative feedback  gui	1	5.0	0.0
+comparative feedback  positive	1	5.0	0.0
+money feedback  worth the money	2	10.0	0.0
+requirements  more options	1	5.0	0.0
+requirements  more features	1	5.0	0.0
+requirements  diff preference for existing gui feat	1	5.0	0.0
+reporting  medium bug	1	5.0	0.0
+versioning  update messed it up	1	5.0	0.0
+----------------------------------------
+ - SEMC Xperia Arc S 
+positive feedback  overall	5	29.41176470588235	0.0
+positive feedback  gui	1	5.882352941176471	0.0
+positive feedback  smoothness	1	5.882352941176471	0.0
+negative feedback  overall	1	5.882352941176471	0.0
+negative feedback  memory	1	5.882352941176471	0.0
+money feedback  not worth the money	1	5.882352941176471	0.0
+money feedback  ask for refund	1	5.882352941176471	0.0
+requirements  more updates	1	5.882352941176471	0.0
+reporting  major bug	1	5.882352941176471	0.0
+reporting  minor bug	1	5.882352941176471	0.0
+reporting  fix	1	5.882352941176471	0.0
+customer support  misleading app descr	1	5.882352941176471	0.0
+versioning  app improve with updates	1	5.882352941176471	0.0
+----------------------------------------
+ - SEMC Xperia Live 
+positive feedback  overall	1	100.0	0.0
+----------------------------------------
+ - SEMC Xperia Mini 
+positive feedback  overall	1	33.333333333333336	0.0
+positive feedback  functionality	1	33.333333333333336	0.0
+customer support  misleading app descr	1	33.333333333333336	0.0
+----------------------------------------
+ - SEMC Xperia Mini Pro 
+positive feedback  overall	4	66.66666666666667	0.0
+comparative feedback  positive	1	16.666666666666668	0.0
+money feedback  worth the money	1	16.666666666666668	0.0
+----------------------------------------
+ - SEMC Xperia Neo 
+positive feedback  overall	3	27.272727272727273	0.0
+negative feedback  size	1	9.090909090909092	0.0
+negative feedback  speed	1	9.090909090909092	0.0
+money feedback  switch from free to paid	1	9.090909090909092	0.0
+requirements  missing gui feat	2	18.181818181818183	0.0
+usability  user friendly	1	9.090909090909092	0.0
+versioning  app improve with updates	2	18.181818181818183	0.0
+----------------------------------------
+ - SEMC Xperia Neo V 
+negative feedback  overall	1	50.0	0.0
+requirements  missing logic feat	1	50.0	0.0
+----------------------------------------
+ - SEMC Xperia Play 
+positive feedback  functionality	1	33.333333333333336	0.0
+money feedback  not worth the money	1	33.333333333333336	0.0
+reporting  medium bug	1	33.333333333333336	0.0
+----------------------------------------
+ - SEMC Xperia S 
+positive feedback  overall	1	100.0	0.0
+----------------------------------------
+ - SEMC Xperia X10 
+positive feedback  overall	10	35.714285714285715	0.0
+positive feedback  gui	1	3.5714285714285716	0.0
+positive feedback  device	1	3.5714285714285716	0.0
+negative feedback  overall	1	3.5714285714285716	0.0
+negative feedback  speed	1	3.5714285714285716	0.0
+comparative feedback  negative	1	3.5714285714285716	0.0
+money feedback  worth the money	1	3.5714285714285716	0.0
+money feedback  switch from free to paid	1	3.5714285714285716	0.0
+requirements  version for new device	1	3.5714285714285716	0.0
+requirements  missing logic feat	2	7.142857142857143	0.0
+requirements  more updates	1	3.5714285714285716	0.0
+reporting  major bug	3	10.714285714285714	0.0
+reporting  medium bug	1	3.5714285714285716	0.0
+usability  different to use	1	3.5714285714285716	0.0
+usability  hard to setup	2	7.142857142857143	0.0
+----------------------------------------
+ - SEMC Xperia X10 Mini 
+positive feedback  overall	2	33.333333333333336	0.0
+requirements  missing gui feat	1	16.666666666666668	0.0
+requirements  missing logic feat	2	33.333333333333336	0.0
+requirements  more features	1	16.666666666666668	0.0
+----------------------------------------
+ - SEMC Xperia X8 
+positive feedback  overall	2	25.0	0.0
+positive feedback  speed	1	12.5	0.0
+positive feedback  customization	1	12.5	0.0
+requirements  more options	1	12.5	0.0
+requirements  missing logic feat	1	12.5	0.0
+requirements  diff preference for existing gui feat	1	12.5	0.0
+usability  recommend it	1	12.5	0.0
+----------------------------------------
+ - Sharp Aquos 
+----------------------------------------
+ - Sharp IS01 
+----------------------------------------
+ - Sharp IS03 
+----------------------------------------
+ - Sharp Lynx 3D SH-03C 
+positive feedback  overall	1	33.333333333333336	0.0
+positive feedback  organization	1	33.333333333333336	0.0
+reporting  minor bug	1	33.333333333333336	0.0
+----------------------------------------
+ - Sony Tablet S 
+positive feedback  overall	5	38.46153846153846	0.0
+positive feedback  gui	2	15.384615384615385	0.0
+comparative feedback  positive	1	7.6923076923076925	0.0
+money feedback  worth the money	1	7.6923076923076925	0.0
+requirements  version for new device	1	7.6923076923076925	0.0
+reporting  minor bug	1	7.6923076923076925	0.0
+usability  used over more devices	1	7.6923076923076925	0.0
+usability  user friendly	1	7.6923076923076925	0.0
+----------------------------------------
+ - Toshiba AT100 
+positive feedback  overall	7	20.0	0.0
+positive feedback  gui	2	5.714285714285714	0.0
+positive feedback  functionality	5	14.285714285714286	0.0
+negative feedback  functionality	3	8.571428571428571	0.0
+negative feedback  device	3	8.571428571428571	0.0
+comparative feedback  positive	1	2.857142857142857	0.0
+money feedback  worth the money	1	2.857142857142857	0.0
+money feedback  not worth the money	1	2.857142857142857	0.0
+requirements  version for new device	1	2.857142857142857	0.0
+reporting  major bug	3	8.571428571428571	0.0
+reporting  medium bug	2	5.714285714285714	0.0
+reporting  app incomp with device	1	2.857142857142857	0.0
+usability  easy to use	1	2.857142857142857	0.0
+usability  uncertain about the right functionality	1	2.857142857142857	0.0
+usability  recommend it	1	2.857142857142857	0.0
+usability  user friendly	1	2.857142857142857	0.0
+versioning  app improve with updates	1	2.857142857142857	0.0
+----------------------------------------
+ - Transform(M920) 
+positive feedback  overall	1	12.5	0.0
+positive feedback  functionality	1	12.5	0.0
+requirements  more options	1	12.5	0.0
+requirements  missing logic feat	1	12.5	0.0
+reporting  major bug	1	12.5	0.0
+reporting  minor bug	1	12.5	0.0
+usability  unusable	1	12.5	0.0
+customer support  misleading app descr	1	12.5	0.0
+----------------------------------------
+ - Vizio VTAB1008 
+positive feedback  overall	1	16.666666666666668	0.0
+positive feedback  device	1	16.666666666666668	0.0
+requirements  diff preference for existing gui feat	2	33.333333333333336	0.0
+reporting  major bug	1	16.666666666666668	0.0
+reporting  medium bug	1	16.666666666666668	0.0
+----------------------------------------
+ - Xperia X10 Mini Pro 
+positive feedback  overall	1	50.0	0.0
+requirements  diff preference for existing logic feat	1	50.0	0.0
+----------------------------------------
+ - ZTE Blade 
+positive feedback  overall	1	25.0	0.0
+money feedback  worth the money	1	25.0	0.0
+money feedback  not worth the money	1	25.0	0.0
+reporting  minor bug	1	25.0	0.0
+----------------------------------------
+ - ZTE Racer 
+positive feedback  overall	1	50.0	0.0
+requirements  diff preference for existing gui feat	1	50.0	0.0
+----------------------------------------
+ - ZTE V9 
+positive feedback  overall	1	50.0	0.0
+requirements  diff preference for existing logic feat	1	50.0	0.0
+----------------------------------------
+ - ZTE X500 
+positive feedback  overall	3	42.857142857142854	0.0
+positive feedback  customization	1	14.285714285714286	0.0
+money feedback  switch from free to paid	1	14.285714285714286	0.0
+requirements  missing logic feat	1	14.285714285714286	0.0
+customer support  pf on support	1	14.285714285714286	0.0
+----------------------------------------

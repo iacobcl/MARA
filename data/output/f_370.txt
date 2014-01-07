@@ -1,0 +1,46 @@
+ - June 3, 2012&&&5.0 &&& - EeePad Transformer TF201 &&& 2.0.3&&&Works great and top notch support&&&I needed a reliable FTP client to use on my tablet to send backup copies of pics from my DSLR's SD card to a home based FTP server so that I always have backups even if a card is lost or stolen. This worked perfectly for updating daily. A recent update initially took away the ability to select all during my upload process but I got in touch with support and they responded with a fix quickly. I am extremely pleased with this and recommend it over other FTP clients because I tested quite a few before buying this!
+ - May 5, 2012&&&4.0 &&& - Motorola Droid X2 &&& 1.7.3&&&Amazing app some exceptions&&&null error upon completion of files seems only files 100mb+ have this error. Have to double check file size to make sure the transfer really finished. 90% of the time no probs, the rest i have to try the transfer again. Otherwise this would get 5 stars
+ - April 28, 2012&&&5.0 &&& - Samsung Galaxy Note &&& 1.7.3&&&Fantastic FTP App&&&Very easy to use with a great user interface, this FTP app allows me to connect to all the servers I need access to for maintaining various websites. Also have a FileZilla FTP server running on my home PC, and can now easily access all my files from my Android device no matter where I am. Be your own cloud! Highly recommended!
+ - June 9, 2012&&&5.0 &&& - Samsung Galaxy Note &&& 1.7.3&&&Loving this app so far!&&&Unlike the first ftp client I tried (AndFTP), this one was easy to set up with my server and it works perfectly! Just went in and deleted a bunch of eBay pix from my server, no need to wait until I get home! Next I suppose I might consider using a little of my server space for a small personal cloud.  Well worth paying for, and thanks to the developers for a paid no-ads version!
+ - May 12, 2012&&&5.0 &&&&&& - Version 1.7.3&&&Perfect&&&Nice nice
+ - April 3, 2012&&&5.0 &&& - EeePad Transformer TF201 &&& 1.7.2&&&Works well!&&&Works as advertised! (Asus Transformer Prime)
+ - March 5, 2012&&&5.0 &&&&&& - Version 1.7.1&&&This is good!&&&Simply wow... And worth the money. Never expected this capability on a mobile device. Wish it would remember my last local directory.
+ - March 12, 2012&&&4.0 &&&&&& - Version 1.7.1&&&Good App With One Issue I Cannot Fix&&&Works great for FTP and SFTP with password authentication but cannot get it to work with the private key that I do use in ConnectBot to SSH to my home servers. The public and private keys work fine in ConnectBot but if I past the private key from Connectbot into a text file and then point FTPcafe Pro to use it authentication always fails.  Have emailed developer who said he would investigate when he gets back from vacation, as soon as he or anyone else can give me a fix, then will revise this review to 5 stars.
+ - February 26, 2012&&&5.0 &&& - Samsung Galaxy S &&& 1.7.1&&&Impressed&&&Free app worked so well that I have upgraded to pro! (SGS)
+ - February 29, 2012&&&5.0 &&& - HTC Droid Incredible &&& 1.7.1&&&Perfect app.&&&Would love an fxp addon for extra charge.
+ - January 27, 2012&&&5.0 &&& - Motorola Droid X &&& 1.7.0&&&I'm Impressed!&&&It could be only be improved with a "Save Current Directory For Future Sessions" button; otherwise, PERFECT!!!
+ - November 23, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.6.5&&&Brilliant! Thank you!&&&Just what the doc ordered!
+ - November 13, 2011&&&4.0 &&& - Motorola Atrix &&& 1.6.5&&&Easy to use. Works as stated.&&&
+ - October 29, 2011&&&5.0 &&& - HTC Desire HD &&& 1.6.2&&&Couldn't ask for anything better&&&
+ - October 15, 2011&&&4.0 &&& - HTC Desire HD &&& 1.5.5&&&Clear & simple user interface and no crashes. Sometimes uploads 'empty' file which ...&&&Clear & simple user interface and no crashes. Sometimes uploads 'empty' file which second attempt always fixes. Maybe a bug?
+ - August 18, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.5.3&&&A Perfect App....&&&I have been using this for a year and half now transferring files back and forth to my website....Fantastic, fast and reliable...thanks
+ - October 27, 2011&&&5.0 &&& - HTC Evo 4G &&& 1.5.3&&&This is about pro and intuitive to use as if it were a desktop ...&&&This is about pro and intuitive to use as if it were a desktop app. As a web developer and designer, this has come in handy to upload to my server.
+ - June 29, 2011&&&5.0 &&& - HTC Nexus One &&& 1.5.3&&&Faster transfers than the other clients. Nice GUI too.&&&
+ - September 24, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 1.5.3&&&Love it!&&&Great app, simple to use, flawless operation, SSH support a huge plus. Wouldn't be without this app.
+ - August 21, 2011&&&5.0 &&&&&& - Version 1.5.3&&&Quite&&&Good. The interface could be better, but the features are mostly there. Does not support threaded downloads.
+ - September 21, 2011&&&5.0 &&& - Samsung Galaxy S &&& 1.5.3&&&Absolute Best FTP, must have!&&&I have tried many many ftp clients and by far this is the easiest, most clean, and fastest one. Gladly paying for the pro version.
+ - September 23, 2011&&&5.0 &&& - HTC myTouch 4G &&& 1.5.3&&&Love it&&&
+ - May 11, 2011&&&5.0 &&& - Galaxy Tab 10.1 &&& 1.4.3&&&This really is a full featured ftp app for me. I can do everything ...&&&This really is a full featured ftp app for me. I can do everything I need to do on my website without needing to be near my pc :)
+ - May 5, 2011&&&5.0 &&& - Samsung Galaxy Tab &&& 1.4.3&&&Works perfect. sgt2.2&&&
+ - May 13, 2011&&&5.0 &&& - Samsung Sidekick 4G &&& 1.4.3&&&Please disable the back button or make it go up one directory. I always ...&&&Please disable the back button or make it go up one directory. I always hit it expecting to go back one directory.
+ - March 27, 2011&&&1.0 &&& - HTC Desire HD &&& 1.4.3&&&Uploading Issue!&&&After I have uploaded a file to a server I was unable to view that file. Download working fine.
+ - January 29, 2011&&&5.0 &&& - Motorola XOOM &&& 1.4.2&&&Really brings my Droid to a while new level of functionality. At a cost ...&&&Really brings my Droid to a while new level of functionality. At a cost of only 3 bucks, the developer is being very generous!
+ - January 27, 2011&&&5.0 &&&&&& - Version 1.4.2&&&I use it every day, works flawlessly, great UI options, well worth buying.&&&
+ - February 1, 2011&&&5.0 &&& - HTC Desire HD &&& 1.4.2&&&Great on my htc desire&&&
+ - February 24, 2011&&&5.0 &&&&&& - Version 1.4.2&&&Perfect!!&&&
+ - December 23, 2010&&&5.0 &&&&&& - Version 1.4.1&&&Well worth the 3 bucks. Quick, great interface, all the features I would expect ...&&&Well worth the 3 bucks. Quick, great interface, all the features I would expect from an FTP client.
+ - January 6, 2011&&&4.0 &&& - EeePad Transformer TF101 &&& 1.4.1&&&Works a treat! Well worth the money.&&&
+ - December 16, 2010&&&5.0 &&& - Motorola Droid X &&& 1.4.1&&&Works Great&&&
+ - December 7, 2010&&&5.0 &&& - Motorola Droid X &&& 1.4.0&&&Outstanding! Works as advertised with no problems, Droid X.&&&
+ - December 1, 2010&&&5.0 &&& - HTC Evo 4G &&& 1.2.8&&&Handles sftp flawlessly, amazing interface, also nicely compliments my uncapped ...&&&Handles sftp flawlessly, amazing interface, also nicely compliments my uncapped Sprint data plan!
+ - December 4, 2010&&&5.0 &&& - Droid Bionic &&& 1.2.8&&&Only app that worked properly with sftp, awesome! Update: author updated app in ...&&&Only app that worked properly with sftp, awesome! Update: author updated app in response to comment request, 5 stars now, thanks!
+ - December 2, 2010&&&4.0 &&&&&& - Version 1.2.8&&&Good app. Should come with an option to move files to different directories and ...&&&Good app. Should come with an option to move files to different directories and a directory/file search function.
+ - December 9, 2010&&&5.0 &&& - Samsung Galaxy S &&& 1.2.8&&&Amazing&&&
+ - November 13, 2010&&&5.0 &&& - HTC Droid Incredible &&& 1.2.5&&&The only app I've used where 2048 RSA keys work properly. Other devs should ...&&&The only app I've used where 2048 RSA keys work properly. Other devs should ask this one how he does it.
+ - November 14, 2010&&&5.0 &&& - Samsung Galaxy S &&& 1.2.5&&&Awesome FTP client for the Android platform! Easy setup, easy to use, and fast! ...&&&Awesome FTP client for the Android platform! Easy setup, easy to use, and fast! Slick interface, too! Bravo, and thank you for writing app! :)
+ - November 18, 2010&&&4.0 &&& - Motorola Droid X &&& 1.2.5&&&Great app! Problem connecting with active mode FTP on Droid X.&&&
+ - November 12, 2010&&&5.0 &&& - HTC Nexus One &&& 1.2.4&&&The best FTP app out and only FTPS app that actually works.&&&
+ - October 2, 2010&&&5.0 &&&&&& - Version 1.2.4&&&This is a great ftp client. Well worth the money.&&&
+ - November 1, 2010&&&5.0 &&& - Motorola Droid X &&& 1.2.4&&&Great FTP client, well worth the money!&&&
+ - November 12, 2010&&&5.0 &&& - Motorola XOOM &&& 1.2.4&&&The best FTP software in the market.&&&
+ - September 10, 2010&&&5.0 &&&&&& - Version 1.2.2&&&Best ftp app I have found. Very clean and fluid UI. Works more quickly ...&&&Best ftp app I have found. Very clean and fluid UI. Works more quickly than others too. Perfect for uploading to my NAS.

@@ -1,0 +1,120 @@
+ - July 5, 2012&&&1.0 &&& - Samsung Galaxy Nexus &&& 8.8&&&New update broken&&&After installing new busy box version 1.202 with this app successfully as soon as i close this app an reopen it I'm back to outdated 1.18.1 busy box version an that's even without rebooting, this only happens with the lastest update with smart and normal install tried both an failed on my gnex with jellybean 4.1.
+ - July 5, 2012&&&4.0 &&& - Samsung Galaxy Note &&& 8.6&&&Galaxy note&&&Good package but Its time you arrange a way of busybox not have to be installed again everytime phone reboots.  Reason: CWM installation with its own busybox  After reboot busybox reverts to CWM version
+ - July 2, 2012&&&5.0 &&& - LG Optimus One &&& 8.6&&&Not&&&Can't work at this my phone :(
+ - July 1, 2012&&&5.0 &&&&&& - Version 8.6&&&Excellent busybox&&&Run fast & works
+ - July 1, 2012&&&3.0 &&& - Samsung Galaxy S2 &&& 8.6&&&Knight&&&GalaxyS2 app won't install after latest update. Updated Su  binaries and it still won't. Tried different location with same result.
+ - July 2, 2012&&&5.0 &&& - Motorola Defy &&& 8.6&&&Excellent&&&A clear and precise app for root device.
+ - July 3, 2012&&&5.0 &&& - LG Cayman &&& 8.6&&&Nice&&&I bought this version to support you.
+ - June 13, 2012&&&1.0 &&& - Samsung Galaxy S2 &&& 8.4&&&Still won't update&&&Sill will not update or install  to any location. Even after the latest update. Fix this and I will give it 5 stars. Pro version....please fix.
+ - June 13, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 8.4&&&Samsung s2E4gtouch&&&Reflash phone then try worked for me it a tricky application since the update but it works
+ - July 1, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 8.4&&&Responsive Developer&&&Since this app is basically an installer for the publicly-available BusyBox applets, this review is about the developer and the installer. Application was not installing latest version of the BusyBox applets correctly on my device.  I emailed the developer, and got an immediate response, and a workaround in less than an hour.  New version correcting the issue was released within 12 hours. Exceptionally responsive, I am impressed!
+ - June 12, 2012&&&5.0 &&& - HTC Evo 4G &&& 8.4&&&Essential !!&&&Transitioned to Pro - to support development. STOCK 2.3.5 EVO 4G / S-OFF.
+ - June 15, 2012&&&5.0 &&& - Samsung Admire &&& 8.4&&&Awesome&&&It works great. Just make sure there is root access.
+ - June 21, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 8.4&&&Busy Box&&&Works Great.  Thanks!!!
+ - June 23, 2012&&&5.0 &&& - Samsung Galaxy S3 &&& 8.4&&&Great&&&Easy to use
+ - June 8, 2012&&&5.0 &&& - Toshiba AT100 &&& 8.3&&&Must Have!&&&If you're Rooted, you need BusyBox and THIS is the app you need to install and configure it. Dev gives Terrific support if you encounter issues or have questions.
+ - June 3, 2012&&&5.0 &&&&&& - Version 8.2&&&Nice...&&&Application was able to cleanup multiple BusyBox installs on my OS and lay down a single version in /system/xbin. The uninstall process comes with warnings, but worked well on my stock ROM (2.2). Fast response from developer on an v.8.0 glitch.
+ - June 4, 2012&&&5.0 &&&&&& - Version 8.2&&&Awesome!! App Awesome Dev!&&&Peter thinks that he doesn't know what he did without the pro version!  Thanks Dev!
+ - June 3, 2012&&&5.0 &&&&&& - Version 8.0&&&SEXY   &   HA?T&&&don't need Pro but bought to support dev.                                                                 *
+ - June 3, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 8.0&&&Instal failed&&&Just bought this app, first time it has failed for me, on either my S1 or S2.  I9100  Slim ICS 3.9
+ - May 18, 2012&&&5.0 &&& - Motorola Droid 3 &&& 7.9.2&&&DROID 3&&&This is a must have.  When we use the correct apps (Thanks Boss!) rooting is made the correct way.
+ - May 20, 2012&&&5.0 &&& - HTC Thunderbolt &&& 7.9.2&&&Awesome&&&Great, easy to use, and user friendly for power users.
+ - May 14, 2012&&&5.0 &&& - EeePad Transformer TF201 &&& 7.9.2&&&great&&&bought it to support the dev.
+ - May 25, 2012&&&5.0 &&&&&& - Version 7.9.2&&&Awesome.&&&Only way to make this better is to somehow incorporate SSH into it.
+ - May 13, 2012&&&5.0 &&& - SEMC Xperia Arc S &&& 7.9.2&&&Gr8!&&&Updated my busybox now :-P luv it ?
+ - May 27, 2012&&&5.0 &&&&&& - Version 7.9.2&&&Great&&&Sweet
+ - May 19, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 7.9.2&&&Good one&&&
+ - May 22, 2012&&&5.0 &&& - Pantech Apache &&& 7.9.2&&&drob box&&&h
+ - April 26, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 7.9.1&&&Very cool.&&&Found out I'm using an older version, just installed the latest one thanks to this app.
+ - May 2, 2012&&&5.0 &&&&&& - Version 7.9.1&&&A Must Have!&&&Anyone who has a rooted device must have this app. Excellent control of BusyBox.
+ - April 29, 2012&&&5.0 &&& - HTC Evo 4G &&& 7.9.1&&&I bought the pro version without hesitation. I needed some of my Unix commands ...&&&I bought the pro version without hesitation. I needed some of my Unix commands and this installer installed busybox painlessly.
+ - April 29, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 7.9.1&&&Great.&&&I love the addition of being able to install applets selectively.
+ - April 27, 2012&&&5.0 &&& - Samsung Admire &&& 7.9.1&&&Excellent!!&&&
+ - May 2, 2012&&&5.0 &&&&&& - Version 7.9.1&&&Great&&&Works as advertised.
+ - May 2, 2012&&&5.0 &&& - LG Optimus One &&& 7.9.1&&&...&&&Works great.
+ - April 25, 2012&&&5.0 &&& - Motorola Photon 4G &&& 7.9.1&&&Need it&&&Hmm
+ - April 25, 2012&&&5.0 &&& - HTC Evo 4G &&& 7.9&&&You just know......&&&Any app that does so much, controls so many things, and all without you ever noticing it's even there, well you just know it's got to be awesome. Amazing job Dev!!!
+ - April 24, 2012&&&5.0 &&& - Motorola Photon 4G &&& 7.9&&&Photon&&&Works great Run smoother than any other busybox program and I like being the first Photon to comment on this Because devs like to know about each phone:)
+ - March 23, 2012&&&5.0 &&& - LG Optimus 2X &&& 7.8.3&&&This update crashes NO MORE!!!&&&Thanks for the quick update, dev =)
+ - March 23, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 7.8.3&&&Hooray!&&&Latest update made the app working again!
+ - March 23, 2012&&&5.0 &&& - HTC Desire HD &&& 7.8.3&&&Working great after latest update&&&On my DHD android 2.3.5
+ - March 24, 2012&&&5.0 &&& - Motorola Droid RAZR &&& 7.8.3&&&Amazing&&&Prefect app, best support ever
+ - March 24, 2012&&&5.0 &&& - Galaxy Tab 10.1 &&& 7.8.3&&&amazing&&&the best
+ - April 3, 2012&&&3.0 &&& - SEMC Xperia Play &&& 7.8.3&&&Dunno how use it&&&Installed but it does nothing and tweaks wtf is overwrite things mean is that bad
+ - April 9, 2012&&&5.0 &&& - Samsung VinsQ(M910) &&& 7.8.3&&&Love busybox&&&Yes sir I do
+ - March 23, 2012&&&5.0 &&& - Samsung Nexus S &&& 7.8.3&&&Version 7.8.3&&&Works fine now!
+ - March 23, 2012&&&5.0 &&& - Droid Bionic &&& 7.8.2&&&Do not update&&&Latest update needs to be fixed. It will not work.
+ - March 14, 2012&&&5.0 &&& - Huawei M865 &&& 7.8.1&&&Capn Josh&&&What would we do w/o it! Thanks
+ - March 21, 2012&&&5.0 &&& - Samsung Galaxy Note &&& 7.8.1&&&Very nice&&&
+ - March 23, 2012&&&5.0 &&&&&& - Version 7.8&&&Must have for rooted devices&&&Installed on my SGSII. ICS CM9 and Iconia A501 Alexandra III 1.1
+ - March 11, 2012&&&5.0 &&& - Droid Bionic &&& 7.8&&&Croc&&&Super! A must have.
+ - March 15, 2012&&&5.0 &&& - SEMC Xperia Mini Pro &&& 7.8&&&love it&&&5 star
+ - March 5, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 7.7&&&Awesome!&&&Great app!
+ - February 27, 2012&&&5.0 &&& - Samsung Galaxy S2 &&& 7.7&&&5 Stars&&&5 star developer, 5 star app
+ - February 27, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 7.7&&&Must have app&&&
+ - February 23, 2012&&&5.0 &&& - HTC EVO 3D &&& 7.6.1&&&Support&&&Great support.  Email the dev if you have problems.  Responsive dev. What else matters?
+ - February 27, 2012&&&3.0 &&& - HTC Evo 4G &&& 7.6.1&&&Too many updates.&&&This app updates way too frequently; and, the majority of the updates are for issues that should've been caught in QA testing -- which, apparently, the developer doesn't do much.
+ - March 23, 2012&&&5.0 &&& - Samsung Galaxy Gio &&& 7.5.5&&&Wow&&&Simple.
+ - February 18, 2012&&&5.0 &&& - Samsung Galaxy Tab &&& 7.5.1&&&Great support. Thanks&&&
+ - January 21, 2012&&&5.0 &&& - Motorola Droid &&& 7.2&&&I'M LOST&&&According to the changelog, the past few updates have just been the same version reinstalling itself, Haven't checked versions yet. Am I missing something?
+ - February 29, 2012&&&5.0 &&& - Samsung Galaxy Nexus &&& 7.2&&&Perfect&&&
+ - January 6, 2012&&&3.0 &&& - Samsung Galaxy Nexus &&& 7.0&&&Galaxy Nexus&&&After the last update it says that busybox isn't installed although it  and working.
+ - January 1, 2012&&&5.0 &&& - Samsung Galaxy S &&& 6.9&&&does what it says&&&love root apps that work well and are virtually bug free.
+ - January 4, 2012&&&4.0 &&& - HTC myTouch 4G Slide &&& 6.9&&&For some reason tar doesn't support the -z flag in latest version?&&&
+ - December 31, 2011&&&5.0 &&& - Samsung Droid Charge &&& 6.8&&&Mike&&&works great!
+ - December 28, 2011&&&5.0 &&& - Samsung Galaxy Nexus &&& 6.6&&&Great, fast, & sleek&&&
+ - December 23, 2011&&&5.0 &&& - Motorola Droid RAZR &&& 6.6&&&Excellent!!&&&A must have app!
+ - December 17, 2011&&&3.0 &&& - HTC Desire &&& 6.6&&&OMG what is with all the updates?&&&
+ - December 16, 2011&&&5.0 &&& - Dell Streak &&& 6.4&&&Great work!!!&&&
+ - December 9, 2011&&&1.0 &&& - HTC Flyer &&& 6.3&&&Needs update for tablets.....&&&Does not work on Rooted HTC Flyer......
+ - December 9, 2011&&&1.0 &&& - HTC Desire HD &&& 6.3&&&Invalid Package Version&&&The latest version package spits out an error: Package version is invalid. (Inspire 4G rooted - non CM7)
+ - December 4, 2011&&&1.0 &&&&&& - Version 5.8&&&latest update broke everithing&&&Looks like something went wrong on latest update. Cannot install/update. Only uninstall works, but cannot install afterwards. Any clue? 5 stars otherwise.
+ - December 1, 2011&&&3.0 &&& - HTC Droid Incredible &&& 5.5&&&Was good....&&&Haven't gotten a successful install of busybox on my phone for several revisions. Moving on to a different installer.
+November 29, 2011&&&5.0 &&& - Samsung Europa  &&& 5.3&&&Great App&&&Well worth paying for to support talented devs.
+ - November 24, 2011&&&5.0 &&& - Samsung Europa  &&& 5.2&&&Good&&&It's flawless.
+ - November 20, 2011&&&4.0 &&& - SEMC Xperia X10 Mini &&& 5.1&&&Good. Xperia x10 mini&&&
+ - March 22, 2011&&&5.0 &&& - Motorola XOOM &&& 5.0&&&Fixed for Xoom!&&&Happy now, thanks!
+ - December 14, 2010&&&0.0 &&& - Motorola Droid X &&& 5.0&&&Wondering when this will pull the latest Busybox version. DroidX user&&&
+ - November 10, 2011&&&5.0 &&& - HTC Thunderbolt &&& 4.5&&&Outstanding&&&.. Thank you for all of your hard work.
+ - October 20, 2010&&&5.0 &&&&&& - Version 4.5&&&Thanks and keep up the good work!&&&
+ - November 6, 2011&&&5.0 &&&&&& - Version 4.4.6&&&Great app.! Worth the price.&&&
+ - November 2, 2011&&&5.0 &&&&&& - Version 4.4&&&I like it..(",)&&&
+ - November 10, 2011&&&5.0 &&& - LG Optimus 2X &&& 4.1&&&You rock dude best developer, could you give option in settings for old ui?&&&
+ - September 3, 2011&&&5.0 &&& - HTC Droid Incredible &&& 3.7.4&&&Beautiful&&&Wonderful new look! I love it. And function is pretty seamless for my uses, so far. Well done. Thanks for the exceptional work.
+ - September 3, 2011&&&5.0 &&& - HTC Desire HD &&& 3.7.2&&&Root wouldn't be as useful without it!&&&Root wouldn't be as useful without it!
+ - September 2, 2011&&&1.0 &&& - Motorola Droid X &&& 3.7.2&&&WTF&&&Hate the new UI. Sucks. Go back and I'll rate 5 star again.
+ - March 26, 2011&&&1.0 &&&&&& - Version 3.4.6&&&Why in the world are Apps offered to captivate phone users that cannot install ...&&&Why in the world are Apps offered to captivate phone users that cannot install on the at&t system. Do others feel defrauded as well.
+ - November 16, 2011&&&5.0 &&& - SEMC Xperia X10 &&& 5.0&&&Works great Xperia x10a 2.3.3 stock  thanks&&&Thank you for all of your hard work. all ways happy to donate to good Developers
+ - April 26, 2011&&&5.0 &&& - Samsung Galaxy S &&& 3.4.6&&&Also happy to donate. Big ups dev.&&&
+ - March 31, 2011&&&5.0 &&&&&& - Version 3.4.6&&&Its a great app, does exactly what its meant to do :-) Never experienced ...&&&Its a great app, does exactly what its meant to do :-) Never experienced any problems with my Xperia X10. Would recommend it to anyone.
+ - April 24, 2011&&&5.0 &&& - Samsung Galaxy S2 &&& 3.4.6&&&Happy to donate.&&&
+ - July 13, 2011&&&1.0 &&& - Samsung Galaxy S &&& 3.4.6&&&No support a****** wont reply sgs super user 2.2&&&
+ - April 5, 2011&&&5.0 &&& - Samsung Nexus S &&& 3.4.6&&&Rocks my socks off&&&
+ - March 21, 2011&&&5.0 &&& - Motorola Various &&& 3.4.2&&&Works great on the milestone.&&&
+ - March 19, 2011&&&5.0 &&&&&& - Version 3.4&&&Hello, Where is 1.18.4 stable? (from BusyBox website). 1.18.3 is not working ok for ...&&&Hello, Where is 1.18.4 stable? (from BusyBox website). 1.18.3 is not working ok for AdFree but 1.17.1 is ok. Thanks
+ - March 17, 2011&&&5.0 &&& - HTC Nexus One &&& 3.3.7&&&Developer is awesome!&&&
+ - February 24, 2011&&&4.0 &&& - HTC Nexus One &&& 3.3.5&&&NexusOne, CM-6.1.1&&&
+ - January 8, 2011&&&5.0 &&& - HTC Evo 4G &&& 3.2.3&&&Necessary for Supersonic root. Makes rooted life and rom use so much easier.&&&
+ - November 7, 2010&&&1.0 &&&&&& - Version 3.2.3&&&Tried 6 times to install... Failed every time. Same issue with 1.18&&&
+ - November 20, 2010&&&5.0 &&&&&& - Version 3.2.3&&&Great app & tool for root users. X10a 2.1 generic & rooted.&&&
+ - December 7, 2010&&&5.0 &&& - HTC Evo 4G &&& 3.2.3&&&Works great on my Evo ...&&&
+ - September 30, 2010&&&5.0 &&& - Motorola Droid X &&& 3.2.3&&&Thxs. Droid X&&&
+ - December 14, 2010&&&0.0 &&&&&& - Version 3.2.3&&&its ok.&&&
+ - September 24, 2010&&&5.0 &&& - HTC Nexus One &&& 3.2.2&&&Update is great.&&&
+ - June 28, 2010&&&1.0 &&& - Motorola Droid &&& 1.4&&&Ripoff wont allow refund&&&
+ - June 17, 2010&&&5.0 &&& - HTC Nexus One &&& 1.2&&&My cat almost died In a box of boredom! But no! He instead got ...&&&My cat almost died In a box of boredom! But no! He instead got BUSY!
+ - June 3, 2012&&&1.0 &&&&&& - Lenovo Indigo&&&All is not well with Version 8.0&&&After running, it indicated the previous version was installed in /system/xbin yet prompted to be installed in /system/bin. All hell broke loose after changing this to /system/xbin and selecting install.     Long story short....The installation failed, could not su to root anymore and no apps requiring root would work thereafter even though the SuperUser app said it was granting root permissions. Also, lost WiFi and ADB stopped working via the USB cable. Had to restore a CWM backup of /system but did another backup before restoring so as to be able to see what went wrong.    Sure enough, there is the V8.0 busybox file in /system/bin after extracting the /system archive from the latest CWM backup. In other words, it tried to install itself in /system/bin anyway and in doing so prevented access to /system/bin thereafter for some strange reason.
+ - March 23, 2012&&&5.0 &&&&&&&&&Don't leave home without it!&&&Busybox: the key to open the gates to Android! And with great support! I've installed this on my Rezound, both of my roommates phones (RAZR MAXX and D2G), my buddy's Thunderbolt, and my other buddy's Bionic, and it works like a charm. Don't leave home without it.  And if you have issues, email the dev before making terrible comments. He will help!
+ - December 15, 2011&&&5.0 &&&&&& - HTC EVO 3D&&&Please rate&&&this app if you liked it and it worked well!  Helps others know how great it is as well.
+ - May 12, 2012&&&5.0 &&&&&& - Samsung Galaxy S2&&&Works&&&Does it's job, and does it well.
+ - May 28, 2012&&&5.0 &&&&&& - Motorola Droid X2&&&Still awesome sauce&&&No question. Spent the little money and love the epic app sauce. Dev very helpful and prompt with replys. Love it.
+ - May 30, 2012&&&5.0 &&&&&& - Samsung Galaxy S2&&&Works perfectly!&&&I have tried other installers, but have found this one to work no matter if it's gingerbread out ICS. It even allows you to customize which applets you would like if you choose, otherwise it is still only1 clink install basically fit newest builds. A must have app!
+ - April 11, 2012&&&1.0 &&&&&& - SEMC Xperia X10 Mini&&&Horrible!&&&
+ - March 23, 2012&&&1.0 &&&&&& - Motorola Defy&&&FC After Last Update&&&Fix it plz.
+ - June 5, 2012&&&5.0 &&&&&& - HTC Sensation 4G&&&Good stuff&&&Yes
+ - June 3, 2012&&&5.0 &&&&&& - Samsung Galaxy S2&&&App&&&A+ + + +
+ - May 30, 2012&&&5.0 &&&&&& - Samsung Galaxy S2&&&Works perfectly!&&&I have tried other installers, but have found this one to work no matter if it's gingerbread out ICS. It even allows you to customize which applets you would like if you choose, otherwise it is still only1 clink install basically fit newest builds. A must have app!
+ - April 11, 2012&&&1.0 &&&&&& - SEMC Xperia X10 Mini&&&Horrible!&&&
+ - March 23, 2012&&&1.0 &&&&&& - Motorola Defy&&&FC After Last Update&&&Fix it plz.
+ - June 5, 2012&&&5.0 &&&&&& - HTC Sensation 4G&&&Good stuff&&&Yes
+ - June 3, 2012&&&5.0 &&&&&& - Samsung Galaxy S2&&&App&&&A+ + + +
