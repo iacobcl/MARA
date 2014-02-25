@@ -1,0 +1,79 @@
+false&&&force closes&&&none
+false&&&crashes&&&none
+false&&&keeps on crashing&&&none
+false&&&DO work&&&DO
+false&&&DO work since the update&&&DO
+false&&&stopped working&&&none
+false&&&not working&&&none
+false&&&stop STRING from working&&&STRING
+false&&&will not ACTION&&&ACTION
+false&&&won't ACTION&&&ACTION
+false&&&will not even ACTION&&&ACTION
+false&&&won't even ACTION&&&ACTION
+false&&&fails&&&none
+false&&&freezes&&&none
+false&&&lag&&&none
+false&&&lags&&&none
+false&&&error&&&none
+false&&&cannot ACTION&&&ACTION
+false&&&can't ACTION&&&ACTION
+false&&&wouldn't ACTION&&&ACTION
+false&&&causes to NEGACTION&&&NEGACTION
+false&&&couldn't get it to run&&&none
+false&&&couldn't start&&&none
+false&&&didn't ACTION&&&ACTION
+false&&&didn't even ACTION&&&ACTION
+false&&&stopped downloading&&&none
+false&&&stopped syncing&&&none
+false&&&doesn't ACTION&&&ACTION
+false&&&doesn't even ACTION&&&ACTION
+false&&&takes a long time to ACTION&&&ACTION
+false&&&does no syncing&&&none
+false&&&not able to ACTION&&&ACTION
+false&&&unable to ACTION&&&ACTION
+false&&&impossible to ACTION&&&ACTION
+false&&&glitches&&&none
+false&&&screen dim&&&none
+false&&&screen completely dim&&&none
+false&&&you get a white screen&&&none
+false&&&locks my phone&&&none
+false&&&locks up on the first screen&&&none
+false&&&hangs in loading mode&&&none
+false&&&sets at the loading screen&&&none
+false&&&erased all my data&&&none
+false&&&erased data&&&none
+false&&&not licensed&&&none
+false&&&eliminated&&&none
+false&&&it was stuck at that point&&&none
+false&&&download stalls and cancels&&&none
+false&&&completely reboot&&&none
+false&&&black screen&&&none
+false&&&noticing flaws&&&none
+false&&&ADV annoying&&&ADV
+false&&&won't show at all&&&none
+false&&&after the last updateI don't&&&none
+false&&&problems with&&&none
+false&&&more bugs than&&&none
+false&&&lost&&&none
+false&&&lost my&&&none
+false&&&constant restarting&&&none
+false&&&makes a lot of reloads or restarts&&&none
+false&&&works horrible when&&&none
+false&&&can't ever install it&&&none
+false&&&keeps freezing&&&none
+true&&&look horrible&&&none
+false&&&failed to&&&none
+false&&&isn't realistic at all&&&none
+false&&&locks up my home screen&&&none
+false&&&goes timeout after 5 seconds&&&none
+false&&&it won't let me&&&none
+false&&&dark screen&&&none
+false&&&freeze-ups&&&none
+false&&&just stops and never works&&&none
+false&&&malfunction&&&none
+false&&&not displaying correctly&&&none
+
+
+
+
+
