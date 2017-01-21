@@ -77,7 +77,7 @@ public class AppChooser extends JFrame implements ActionListener
 	
 
 	public void actionPerformed(ActionEvent e) 
-	{
+	{//test comments
 		
 		if (e.getActionCommand().equals("goButton"))
 		{
