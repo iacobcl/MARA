@@ -15,46 +15,52 @@
 #  KIND, either express or implied.  See the License for the
 #  specific language governing permissions and limitations
 #  under the License.
-*/
 
+/**
+@author Claudia Iacob
+**/
 package objs;
 
-public class Device 
-{
-	private String device;
-	private int count;
-	private double perc;
-	
-	public Device(String device, int count, double perc) {
-		super();
-		this.device = device;
-		this.count = count;
-		this.perc = perc;
-	}
-	public String getDevice() {
-		return device;
-	}
-	public void setDevice(String device) {
-		this.device = device;
-	}
-	public int getCount() {
-		return count;
-	}
-	public void setCount(int count) {
-		this.count = count;
-	}
-	
-	public Device()
-	{
-		device = new String();
-		count = 0;
-		perc = 0;
-	}
-	public double getPerc() {
-		return perc;
-	}
-	public void setPerc(double perc) {
-		this.perc = perc;
-	}
+public class Device {
+//This constructor creates a Device object with three attributes. 
+    private String device;
+    private int count;
+    private double perc;
 
-}
+    /**
+     * Creates a new Device object with given parameters.
+     *
+     * @param device a String input naming a device.
+     * @param count an Integer input
+     * @param perc
+     */
+    public Device(String device, int count, double perc) {
+        super();
+        this.device = device;
+        this.count = count;
+        this.perc = perc;
+    }
+
+    /**
+     * Returns device as a String.
+     *
+     * @return device
+     */
+
+    public String getDevice() {
+        return device;
+    }
+
+    /**
+     * Sets the current Device objects name to the entered parameter.
+     *
+     * @param device the String name of the new Device object.
+     */
+    public void setDevice(String device) {
+        this.device = device;
+    }
+
+    
+    public int getCount() {
+        return count;
+    }
