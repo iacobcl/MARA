@@ -19,40 +19,70 @@
 
 package objs;
 
-public class Device 
+public class Device
 {
 	private String device;
 	private int count;
 	private double perc;
-	
+
 	public Device(String device, int count, double perc) {
 		super();
 		this.device = device;
 		this.count = count;
 		this.perc = perc;
 	}
-	public String getDevice() {
-		return device;
-	}
-	public void setDevice(String device) {
-		this.device = device;
-	}
-	public int getCount() {
-		return count;
-	}
-	public void setCount(int count) {
-		this.count = count;
-	}
-	
+
 	public Device()
 	{
 		device = new String();
 		count = 0;
 		perc = 0;
 	}
+
+	/**
+	*@return device variable
+	*
+	**/
+	public String getDevice() {
+		return device;
+	}
+
+	/**
+	*@param device Sets a new device
+	*
+	**/
+	public void setDevice(String device) {
+		this.device = device;
+	}
+
+	/**
+	*@return count variable
+	*
+	**/
+	public int getCount() {
+		return count;
+	}
+
+	/**
+	*@param count sets a new count value
+	*
+	**/
+	public void setCount(int count) {
+		this.count = count;
+	}
+
+	/**
+	*@return perc variable
+	*
+	**/
 	public double getPerc() {
 		return perc;
 	}
+
+	/**
+	*@param perc sets a new perc value
+	*
+	**/
 	public void setPerc(double perc) {
 		this.perc = perc;
 	}
