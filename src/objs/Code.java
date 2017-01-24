@@ -18,7 +18,10 @@
 */
 
 package objs;
-
+/**
+ * 
+ * @author Claudia Iacob
+ */
 
 public class Code 
 {
@@ -27,40 +30,67 @@ public class Code
 	private String refinedCode;
 	private String rawCode;
 	
+	/**
+	 * Constructor method
+	 */
 	public Code() 
 	{
 		this.classCode = new String();
 		this.refinedCode = new String();
 		this.rawCode = new String();
 	}
-
+	
+    	/**
+    	 * A get method which returns the class code
+    	 * 
+    	 * @return a string consisting of the class's code
+    	 */
 	public String getClassCode() {
 		return classCode;
 	}
-
+	
+	/**
+	 * A set method to assign a string to the instance variable of "classCode"
+	 * 
+	 * @param classCode stores the string of code into the instance variable "classCode"
+	 */
 	public void setClassCode(String classCode) {
 		this.classCode = classCode;
 	}
 
+	/**
+	 * A get method which returns the refined code
+	 * 
+	 * @return  a string consisting of refined code
+	 */
 	public String getRefinedCode() {
 		return refinedCode;
 	}
 
+	/**
+	 * A set method which assigns a string to the instance variable of "refinedCode"
+	 * 
+	 * @param refinedCode stores the parameter input into the instance variable "classCode"
+	 */
 	public void setRefinedCode(String refinedCode) {
 		this.refinedCode = refinedCode;
 	}
 
+	/**
+	 * A get method to return the instance variable "rawCode"
+	 * 
+	 * @return the instance variable string "rawCode"
+	 */
 	public String getRawCode() {
 		return rawCode;
 	}
 
+	/**
+	 * A set method which assigns the parameter input string to the instance variable "rawCode"
+	 * 
+	 * @param rawCode stores the parameter input into the instance variable "rawCode"
+	 */
 	public void setRawCode(String rawCode) {
 		this.rawCode = rawCode;
-	}
-	
-	
-	
-	
-	
-	
+	}	
 }
