@@ -57,6 +57,11 @@ public class Range
 		this.perc = perc;
 	}
 	
+	/*
+	Initially the value of min and max is set to 0
+	Count and percentage is set to 0 
+	*/
+	
 	public Range()
 	{
 		min = 0;
