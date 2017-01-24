@@ -226,6 +226,7 @@ public class Retrieving
 	
 	public static ArrayList<Review> retrieveReviewsMSR(String fileName)
 	{
+		//Creates new ArrayList revs of type <Review>
 		ArrayList<Review> revs = new ArrayList<Review>();	
 		
 		try 
