@@ -25,26 +25,26 @@ public class Range
 	private double max;
 	private int count;
 	private double perc;
-	public Range(double min, double max, int count, double perc) {
+	public Range(double min, double max, int count, double perc) { /*  This is the constructor which sets all the variable a dataype and a name" */
 		super();
-		this.min = min;
+		this.min = min; 
 		this.max = max;
 		this.count = count;
 		this.perc = perc;
 	}
 	public double getMin() {
-		return min;
+		return min; /* returns the minimum of the range */
 	}
-	public void setMin(double min) {
+	public void setMin(double min) { /* sets the minimum and makes sure that the minimum is set to 0*/
 		this.min = min;
 	}
 	public double getMax() {
-		return max;
+		return max; /* returns the maximum of the range */
 	}
 	public void setMax(double max) {
 		this.max = max;
 	}
-	public int getCount() {
+	public int getCount() { /* returns the count*/
 		return count;
 	}
 	public void setCount(int count) {
@@ -56,7 +56,7 @@ public class Range
 	public void setPerc(double perc) {
 		this.perc = perc;
 	}
-	
+	/* The code below shows the range of all the variables it also shows that the variables are set to 0 */
 	public Range()
 	{
 		min = 0;
