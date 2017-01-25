@@ -77,7 +77,7 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 	JTextField raw;
 
 	/**
-	 * Creates required buttons and items on the screen
+	 * Creates panel with buttons (Title, Review, Summary, Code Class, Refined Code, and Raw Code)
 	 *
 	 * @param fileName name of the file
 	 * @param status status of the file
@@ -191,9 +191,10 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 	}
 
 	/**
-	 * If button is pressed gets next review, addCodeButton, next app or pause
+	 * If button is pressed this method gets the title area
+	 * and stores it in the database.
 	 *
-	 * @param e instance of action event
+	 * @param e instance of action event for the button
 	 */
 	public void actionPerformed(ActionEvent e) 
 	{
@@ -241,7 +242,8 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 
 	/**
 	 *
-	 * Updates the item state in the codes array
+	 * Indicates if an item is selected.
+	 * The item state in the codes array
 	 *
 	 * @param evt instance of ItemEvent
 	 */
