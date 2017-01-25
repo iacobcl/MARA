@@ -19,40 +19,76 @@
 
 package objs;
 
-public class Device 
+/**
+* This class creates a device containing three attributes; device (String), count (integer) and perc (double).
+*/
+
+public class Device
 {
 	private String device;
 	private int count;
 	private double perc;
-	
+
+
+/**
+ * Constructor for class Device.
+ * @param  String device
+ * @param  int    count
+ * @param  double perc
+ */
 	public Device(String device, int count, double perc) {
 		super();
 		this.device = device;
 		this.count = count;
 		this.perc = perc;
 	}
+	/**
+	 * Get method for device, returns device as String.
+	 * @return device
+	 */
 	public String getDevice() {
 		return device;
 	}
+	/**
+	 * Set method for device, assigns the parsed parameter to variable device.
+	 * @param String device
+	 */
 	public void setDevice(String device) {
 		this.device = device;
 	}
+	/**
+	 * Get method for count, returns count as integer
+	 * @return count
+	 */
 	public int getCount() {
 		return count;
 	}
+	/**
+	 * Set method for count, assigns the parsed parameter to variable count.
+	 * @param String count
+	 */
 	public void setCount(int count) {
 		this.count = count;
 	}
-	
+	/**
+	 */
 	public Device()
 	{
 		device = new String();
 		count = 0;
 		perc = 0;
 	}
+	/**
+	 * Get method for perc, returns perc as double.
+	 * @return perc
+	 */
 	public double getPerc() {
 		return perc;
 	}
+	/**
+	 * Set method for perc, assigns the parsed parameter to variable perc.
+	 * @param double perc
+	 */
 	public void setPerc(double perc) {
 		this.perc = perc;
 	}
