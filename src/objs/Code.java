@@ -20,47 +20,48 @@
 package objs;
 
 
-public class Code 
+public class Code
 {
-
+//create private variables for section of application
 	private String classCode;
 	private String refinedCode;
 	private String rawCode;
-	
-	public Code() 
+
+	public Code()
 	{
+//set all of the variables to empty strings
 		this.classCode = new String();
 		this.refinedCode = new String();
 		this.rawCode = new String();
 	}
-
+//return the value of classCode variable
 	public String getClassCode() {
 		return classCode;
 	}
-
+//set the value of the classCode variable
 	public void setClassCode(String classCode) {
 		this.classCode = classCode;
 	}
-
+//return the variable of the refinedCode variable
 	public String getRefinedCode() {
 		return refinedCode;
 	}
-
+//set the value of the refinedCode variable
 	public void setRefinedCode(String refinedCode) {
 		this.refinedCode = refinedCode;
 	}
-
+//return the value of the rawCode variable
 	public String getRawCode() {
 		return rawCode;
 	}
-
+//set the value of the rawCode variable
 	public void setRawCode(String rawCode) {
 		this.rawCode = rawCode;
 	}
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
 }

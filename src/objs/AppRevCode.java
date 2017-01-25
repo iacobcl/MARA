@@ -19,13 +19,14 @@
 
 package objs;
 
-public class AppRevCode 
+public class AppRevCode
 {
+//create private variables for section of application
 	private String appid;
 	private String revid;
 	private String classcode;
 	private String refcode;
-	
+//set the value of variables as strings.
 	public AppRevCode()
 	{
 		appid = new String();
@@ -33,7 +34,7 @@ public class AppRevCode
 		classcode = new String();
 		refcode = new String();
 	}
-
+//parse in strings for each variable and set the parsed data as the value of variables.
 	public AppRevCode(String appid, String revid, String classcode,
 			String refcode) {
 		super();
@@ -42,39 +43,39 @@ public class AppRevCode
 		this.classcode = classcode;
 		this.refcode = refcode;
 	}
-
+//return value of appid.
 	public String getAppid() {
 		return appid;
 	}
-
+//set value of appid via parsed in string.
 	public void setAppid(String appid) {
 		this.appid = appid;
 	}
-
+//return value of revid.
 	public String getRevid() {
 		return revid;
 	}
-
+//set value of rev id via parsed in string.
 	public void setRevid(String revid) {
 		this.revid = revid;
 	}
-
+//return value of classcode.
 	public String getClasscode() {
 		return classcode;
 	}
-
+//set value of classcode via parsed in string.
 	public void setClasscode(String classcode) {
 		this.classcode = classcode;
 	}
-
+//return value of refcode.
 	public String getRefcode() {
 		return refcode;
 	}
-
+//set value of refcode via parsed in string.
 	public void setRefcode(String refcode) {
 		this.refcode = refcode;
 	}
-	
-	
+
+
 
 }
