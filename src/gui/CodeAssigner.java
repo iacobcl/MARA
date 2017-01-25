@@ -17,6 +17,7 @@
 #  under the License.
 */
 
+/*Import all packages needed to allow this section of the program to work*/
 package gui;
 
 import java.awt.BorderLayout;
@@ -56,71 +57,76 @@ import storage.FileStoring;
 
 public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 {
-	public String fileName; 
-	
+	/*Create public variables available from all parts of program
+	as well as private variables available only from this class*/
+
+	public String fileName;
+
 	public FileStoring fs = new FileStoring();
-	
+
 	private ArrayList<Review> revs = new ArrayList<Review>();
 	private String[] codeClasses = new String[100];
 	private String[] refinedCodes = new String[100];
 	private int index = 0;
-	
-	
+
+
 	JTextArea titleArea;
 	JTextArea textArea;
 	JTextArea summaryArea;
-	
+
 	JComboBox classes;
 	JComboBox refined;
 	JTextField raw;
-	
+
 	public CodeAssigner (String fileName, int status)
 	{
-
+/*Load a file and then set its filname and status*/
 		loadReviews(fileName);
 		this.fileName = fileName;
 		this.index = status;
-	
+/*Set the title as the filename, set the size and then add a border*/
 		setTitle("App id: " + fileName);
 		setSize(1000, 400);
 		Border line = BorderFactory.createMatteBorder(10, 10, 10, 10, Color.WHITE);
 		this.setLayout(new BorderLayout());
-	
+/*Create a new panel according to a grid layout and then add a border*/
 		JPanel reviewPanel = new JPanel(new GridLayout(1, 2));
 		reviewPanel.setBorder(line);
-		
+/*Create a new GridLayout variable and apply a GridLayout to it.
+	Set the gap between the GridLayout.
+	Apply a border to the layout just created.*/
 		GridLayout descPanelLayout = new GridLayout(6, 1);
 		descPanelLayout.setVgap(5);
 		JPanel descPanel = new JPanel(descPanelLayout);
 		descPanel.setBorder(line);
-		
+/*Add a label for the title, set permissions and styling*/
 		descPanel.add(new JLabel("Title"));
 		titleArea = new JTextArea(5, 100);
-		JScrollPane scrollPane = new JScrollPane(titleArea); 
+		JScrollPane scrollPane = new JScrollPane(titleArea);
 		titleArea.setEditable(false);
 		titleArea.setLineWrap(true);
 		titleArea.setText(revs.get(index).getTitle());
 		descPanel.add(titleArea);
-		
+/*Add a label for the review, set permissions and styling*/
 		descPanel.add(new JLabel("Review"));
 		textArea = new JTextArea(5, 100);
-		JScrollPane scrollPane1 = new JScrollPane(textArea); 
+		JScrollPane scrollPane1 = new JScrollPane(textArea);
 		textArea.setEditable(false);
 		textArea.setLineWrap(true);
 		textArea.setText(revs.get(index).getText());
 		descPanel.add(textArea);
-		
+/*Add a label for summary and define the text area.*/
 		descPanel.add(new JLabel("Summary"));
 		summaryArea = new JTextArea(2, 100);
 		descPanel.add(summaryArea);
-		
+
 		//coding panel
 		JPanel codingPanel = new JPanel(new BorderLayout());
-		
+
 		GridLayout codingLayout = new GridLayout(3,1);
 		codingLayout.setVgap(10);
 		JPanel coding = new JPanel(codingLayout);
-		
+
 		JPanel classesPanel = new JPanel(new GridLayout(2,1));
 		classesPanel.add(new JLabel("Code class"));
 		classes = new JComboBox(fs.loadCodes("class"));
@@ -128,63 +134,63 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 		classes.addItemListener(this);
 		classesPanel.add(classes);
 		coding.add(classesPanel);
-		
+
 		JPanel refinedPanel = new JPanel(new GridLayout(2,1));
 		refinedPanel.add(new JLabel("Refined code"));
 		refined = new JComboBox(fs.loadCodes("positive feedback"));
 		refinedPanel.add(refined);
 		coding.add(refinedPanel);
-		
+
 		JPanel rawPanel = new JPanel(new GridLayout(2,1));
 		rawPanel.add(new JLabel("Raw code:"));
 		raw = new JTextField();
 		rawPanel.add(raw);
 		coding.add(rawPanel);
-		
+
 		codingPanel.add(coding, BorderLayout.CENTER);
-		
+
 		JPanel addPanel = new JPanel();
 		JButton addButton = new JButton("Next review");
 		addButton.setActionCommand("nextReview");
 		addButton.addActionListener(this);
 		addPanel.add(addButton);
-		
-		
+
+
 		JButton addCodeButton = new JButton("Add code");
 		addCodeButton.setActionCommand("addCodeButton");
 		addCodeButton.addActionListener(this);
 		addPanel.add(addCodeButton);
-		
-		
+
+
 		codingPanel.add(addPanel, BorderLayout.SOUTH);
-		
-		
-		
+
+
+
 		reviewPanel.add(descPanel); reviewPanel.add(codingPanel);
-		
-		
+
+
 		JPanel nextPanel = new JPanel();
 		JButton nextButton = new JButton("Next App");
 		nextButton.setActionCommand("nextApp");
 		nextButton.addActionListener(this);
 		nextPanel.add(nextButton);
-		
+
 		JButton pauseButton = new JButton("Pause");
 		pauseButton.setActionCommand("pause");
 		pauseButton.addActionListener(this);
 		nextPanel.add(pauseButton);
-		
-		
+
+
 		this.add(reviewPanel, BorderLayout.CENTER);
 		this.add(nextPanel, BorderLayout.SOUTH);
 
 		setLocationRelativeTo(null);
 	    setDefaultCloseOperation(EXIT_ON_CLOSE);
 	}
-	
-	public void actionPerformed(ActionEvent e) 
+
+	public void actionPerformed(ActionEvent e)
 	{
-		
+
 		if (e.getActionCommand().equals("nextReview"))
 		{
 			if (index + 1 < revs.size())
@@ -197,10 +203,10 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 			{
 				titleArea.setText(" ");
 				textArea.setText(" ");
-				
+
 				JOptionPane.showMessageDialog(this, "Reviews finished for this application.");
 			}
-			
+
 		}
 		else
 		if (e.getActionCommand().equals("addCodeButton"))
@@ -212,41 +218,41 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 		else
 		if (e.getActionCommand().equals("nextApp"))
 		{
-			//store status complete in db for file 
+			//store status complete in db for file
 			DBStoring.setFileStatus(fileName, -1);
 			new AppChooser().setVisible(true);
-		}	
+		}
 		else
 		if (e.getActionCommand().equals("pause"))
 		{
-			//store status complete in db for file 
+			//store status complete in db for file
 			DBStoring.setFileStatus(fileName, index);
 			this.setVisible(false);
-		}	
-		
-	}	
-	
+		}
+
+	}
+
 	public void itemStateChanged(ItemEvent evt)
 	{
 		JComboBox classes = (JComboBox)evt.getSource();
-		
-		if (evt.getStateChange() == ItemEvent.SELECTED) 
+
+		if (evt.getStateChange() == ItemEvent.SELECTED)
 		{
 			refined.removeAllItems();
 			String [] codes = fs.loadCodes(classes.getSelectedItem().toString());
 			for (String s: codes)
 				refined.addItem(s);
         }
-	
+
 	}
-	
-	
-	
-//////////////////////////////////////////////////////////////	
-	
+
+
+
+//////////////////////////////////////////////////////////////
+
 	public void loadReviews(String fileName)
 	{
-		
+
 			try
 			{
 			  FileInputStream fstream = new FileInputStream("output/f_" + fileName + ".txt");
@@ -268,7 +274,7 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 					  r.setText("");
 				  revs.add(r);
 			  }
-				
+
 			  in.close();
 			}
 			catch (Exception e)
@@ -276,6 +282,6 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 				  System.err.println("Error: " + e.toString());
 			}
 	}
-	
-	
+
+
 }

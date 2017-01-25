@@ -19,57 +19,58 @@
 
 package objs;
 
-public class Application 
+public class Application
 {
+//create private variables for section of application.
 	private String id;
 	private String no;
 	private double rating;
 	private double price;
 	private double norates;
-	
 
+//return value of rating variable
 	public double getRating() {
 		return rating;
 	}
-
+//set the value of the rating variable
 	public void setRating(double rating) {
 		this.rating = rating;
 	}
-
+//return the value of the price variable
 	public double getPrice() {
 		return price;
 	}
-
+//set the value of the price variable
 	public void setPrice(double price) {
 		this.price = price;
 	}
-
+//return value of the norates variable
 	public double getNorates() {
 		return norates;
 	}
-
+//set value of the norates variable
 	public void setNorates(double norates) {
 		this.norates = norates;
 	}
-
+//create 2 new variables and set them as strings.
 	public Application()
 	{
 		id = new String();
 		no = new String();
 	}
-
+//return value of id variable.
 	public String getId() {
 		return id;
 	}
-
+//set value of id variable.
 	public void setId(String id) {
 		this.id = id;
 	}
-
+//return value of no variable.
 	public String getNo() {
 		return no;
 	}
-
+//set value of no variable.
 	public void setNo(String no) {
 		this.no = no;
 	}
