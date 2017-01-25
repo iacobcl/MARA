@@ -18,7 +18,9 @@
 */
 
 package objs;
-
+/**
+*This Class creates a device with three attributes of type String, integer and double.
+*/
 public class Device 
 {
 	private String device;
@@ -31,6 +33,11 @@ public class Device
 		this.count = count;
 		this.perc = perc;
 	}
+	
+	/**
+	*This method returns the device as a String.
+	*@return device
+	*/
 	public String getDevice() {
 		return device;
 	}
@@ -40,16 +47,23 @@ public class Device
 	public int getCount() {
 		return count;
 	}
+	/**
+	*This method sets the count attribute to the count paramater.
+	*@param count This is an integer value.
+	*/
 	public void setCount(int count) {
 		this.count = count;
 	}
-	
 	public Device()
 	{
 		device = new String();
 		count = 0;
 		perc = 0;
 	}
+	/**
+	*This method returns the perc value of the device.
+	*@return perc
+	*/
 	public double getPerc() {
 		return perc;
 	}
