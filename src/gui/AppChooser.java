@@ -41,13 +41,17 @@ import storage.DBStoring;
 import logic.Retrieving;
 
 
-
-
+/**
+ * App Chooser class GUI class extends from ActionListener which creates a new file name window. Selects the mobile application.
+ */
 public class AppChooser extends JFrame implements ActionListener
 {
 	Retrieving boss = new Retrieving();
 	public JComboBox files;
 
+	/**
+	 * Makes GUI window with panels and buttons
+	 */
 	public AppChooser()
 	{
 		setTitle("File name");
@@ -74,8 +78,12 @@ public class AppChooser extends JFrame implements ActionListener
 		setLocationRelativeTo(null);
 	    setDefaultCloseOperation(EXIT_ON_CLOSE);
 	}
-	
 
+	/**
+	 * Action event for when go button is pressed, it creates a code assigner object with selected values
+	 *
+	 * @param e instance of action event
+	 */
 	public void actionPerformed(ActionEvent e) 
 	{
 		
@@ -85,9 +93,12 @@ public class AppChooser extends JFrame implements ActionListener
 			this.setVisible(false);
 		}
 		
-	}	
+	}
 
-	
+	/**
+	 * Main function used to create and set the AppChooser visible
+	 * @param args
+	 */
 	public static void main(String[] args)
 	{
 		SwingUtilities.invokeLater(new Runnable() {
@@ -97,10 +108,14 @@ public class AppChooser extends JFrame implements ActionListener
             }
         });
 	}
-	
-	
+
+	/**
+	 * Gets all the files names which are not completely coded
+	 *
+	 * @return incomplete file names
+	 */
 	public String[] getFiles()
-	{//loads all files which are not completely coded
+	{
 		String[] fileNames = new String[30000];
 		int j = -1;
 		
