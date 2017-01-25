@@ -53,7 +53,9 @@ import storage.DBStoring;
 import storage.FileStoring;
 
 
-
+/**
+ * GUI Class for assigning code
+ */
 public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 {
 	public String fileName; 
@@ -73,7 +75,13 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 	JComboBox classes;
 	JComboBox refined;
 	JTextField raw;
-	
+
+	/**
+	 * Creates required buttons and items on the screen
+	 *
+	 * @param fileName name of the file
+	 * @param status status of the file
+	 */
 	public CodeAssigner (String fileName, int status)
 	{
 
@@ -181,7 +189,12 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 		setLocationRelativeTo(null);
 	    setDefaultCloseOperation(EXIT_ON_CLOSE);
 	}
-	
+
+	/**
+	 * If button is pressed gets next review, addCodeButton, next app or pause
+	 *
+	 * @param e instance of action event
+	 */
 	public void actionPerformed(ActionEvent e) 
 	{
 		
@@ -224,8 +237,14 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 			this.setVisible(false);
 		}	
 		
-	}	
-	
+	}
+
+	/**
+	 *
+	 * Updates the item state in the codes array
+	 *
+	 * @param evt instance of ItemEvent
+	 */
 	public void itemStateChanged(ItemEvent evt)
 	{
 		JComboBox classes = (JComboBox)evt.getSource();
@@ -234,16 +253,18 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 		{
 			refined.removeAllItems();
 			String [] codes = fs.loadCodes(classes.getSelectedItem().toString());
+			//loops through the array codes updating items
 			for (String s: codes)
 				refined.addItem(s);
         }
 	
 	}
-	
-	
-	
-//////////////////////////////////////////////////////////////	
-	
+
+
+	/**
+	 * Loads the reviews of the application
+	 * @param fileName name of the file to get reviews
+	 */
 	public void loadReviews(String fileName)
 	{
 		
