@@ -17,6 +17,8 @@
 #  under the License.
 */
 
+@author iacobcl
+
 package gui;
 
 import java.awt.BorderLayout;
@@ -73,7 +75,15 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 	JComboBox classes;
 	JComboBox refined;
 	JTextField raw;
-	
+
+	/**
+	 * This method creates a pannel with the following buttons on it: Title, Review,
+	 * Summary, Code Class, Refined Code, Raw Code. These butons are set properties
+	 * such as size.
+	 * @param fileName given name to the file
+	 * @param status the index number is assigned to index
+	 */
+
 	public CodeAssigner (String fileName, int status)
 	{
 
@@ -181,7 +191,13 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 		setLocationRelativeTo(null);
 	    setDefaultCloseOperation(EXIT_ON_CLOSE);
 	}
-	
+
+	/**
+	 * This method is retriving the title of the title area.
+	 * This method then stores the status complete in a database.
+	 * @param e This uses the ation command from the buttons.
+	 */
+
 	public void actionPerformed(ActionEvent e) 
 	{
 		
@@ -224,7 +240,11 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 			this.setVisible(false);
 		}	
 		
-	}	
+	}
+
+	/**
+	 * @param evt Indicates if an item was selected or deselected
+	 */
 	
 	public void itemStateChanged(ItemEvent evt)
 	{
