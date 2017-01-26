@@ -25,24 +25,43 @@ public class Device
 	private int count;
 	private double perc;
 	
+
 	public Device(String device, int count, double perc) {
 		super();
 		this.device = device;
 		this.count = count;
 		this.perc = perc;
 	}
+	/*
+	* returns device as string
+	*/
 	public String getDevice() {
 		return device;
 	}
+	/*
+	* sets new device 
+	*/
 	public void setDevice(String device) {
 		this.device = device;
 	}
+	/*
+	* returns count as int
+	*/
 	public int getCount() {
 		return count;
 	}
+	/*
+	* sets new count value
+	*/
 	public void setCount(int count) {
 		this.count = count;
 	}
+	
+	/*
+	* sets device as String
+	* count is set initially to 0
+	* perc is set initially to 0
+	*/
 	
 	public Device()
 	{
@@ -50,9 +69,18 @@ public class Device
 		count = 0;
 		perc = 0;
 	}
+	/*
+	* returns percentage as double
+	*/
+	
 	public double getPerc() {
 		return perc;
 	}
+	
+	/*
+	* sets new percentage value
+	*/
+	
 	public void setPerc(double perc) {
 		this.perc = perc;
 	}
