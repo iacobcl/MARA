@@ -37,7 +37,9 @@ public class PriceRangeWorthAnalysis
 	public static double[] prices = new double[]{0.50, 0.60, 1.20, 2.25, 3.5, 5, 20};
 	//public static double[] prices = new double[]{0.50, 0.63, 0.75, 1, 1.25, 1.75, 3, 20};
 
-
+        /**
+         * @return Return Report showing money feedback
+         */
 	public static ReportPriceRangeWorthStats createReportPriceRangeWorthStats()
 	{
 		ReportPriceRangeWorthStats rep = new ReportPriceRangeWorthStats();
@@ -84,7 +86,9 @@ public class PriceRangeWorthAnalysis
 		return rep;
 	}
 	
-	
+	/**
+         * @param args Array of string arguments
+         */
 	public static void main(String[] args)
 	{
 		PriceRangeWorthAnalysis.createReportPriceRangeWorthStats().print();
