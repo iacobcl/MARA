@@ -26,6 +26,9 @@ import storage.DBQuerying;
 
 public class GeneralStats 
 {
+        /**
+         * @param args Array of string arguments
+         */
 	public static void main(String[] args)
 	{
 		double rating = 0;
