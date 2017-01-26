@@ -21,23 +21,23 @@ package objs;
 
 public class Device 
 {
-	private String device;
+	private String device; /* these are the  variables set as int and double  */
 	private int count;
 	private double perc;
 	
-	public Device(String device, int count, double perc) {
+	public Device(String device, int count, double perc) {  /* parameters of the device is  string meaning it does not allow integers and floats, count allow integer(whole numbers) and perc allow double( decimal) */
 		super();
 		this.device = device;
 		this.count = count;
 		this.perc = perc;
 	}
-	public String getDevice() {
+	public String getDevice() { /* returns the value of  the device */
 		return device;
 	}
 	public void setDevice(String device) {
 		this.device = device;
 	}
-	public int getCount() {
+	public int getCount() {  /* returns the value of  the count */
 		return count;
 	}
 	public void setCount(int count) {
@@ -46,11 +46,11 @@ public class Device
 	
 	public Device()
 	{
-		device = new String();
+		device = new String();  /* sets the initial values for the  variables of the device */
 		count = 0;
 		perc = 0;
 	}
-	public double getPerc() {
+	public double getPerc() {  /* returns the value of  perc */
 		return perc;
 	}
 	public void setPerc(double perc) {
