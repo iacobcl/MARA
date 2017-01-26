@@ -34,10 +34,25 @@ import objs.CodeDistr;
 import objs.File;
 import objs.Review;
 
-
+/**
+ * Class DBStoring - used for inserting data into database
+ * 
+ * @author iacobcl
+ */
 public class DBStoring 
 {
-
+    
+	/**
+     * inserts data of application review code in database
+     * 
+     * @param appid application ID
+     * @param revid review ID
+     * @param title
+     * @param review review of application
+     * @param codeclass code
+     * @param refcode
+     * @param rawcode 
+     */
 	public static void insertCode (String appid, String revid, String title, String review, String codeclass, String refcode, String rawcode)
 	{
 		
@@ -56,6 +71,13 @@ public class DBStoring
         }
 	}
 
+    /**
+     * changes device in code table for application review
+     * 
+     * @param appid application ID
+     * @param revid review ID
+     * @param device
+     */
 	public static void updateReview(String appid, String revid, String device)
 	{
 		try 
@@ -73,6 +95,15 @@ public class DBStoring
         }
 	}
 	
+    /**
+     * insert review record to database
+     * 
+     * @param appid application ID
+     * @param title
+     * @param device
+     * @param version
+     * @param date 
+     */
 	public static void insertRev (String appid, String title, String device, String version, String date)
 	{
 		
@@ -91,7 +122,11 @@ public class DBStoring
         }
 	}
 
-	
+    /**
+     * gets all Files in file table
+     * 
+     * @return files from File table
+     */
 	public static ArrayList<File> getFiles()
 	{
 		
@@ -118,7 +153,12 @@ public class DBStoring
 		return files;
 	}
 	
-	
+	/**
+     * changes file status
+     * 
+     * @param filename name of file to change status
+     * @param status updated status for file
+     */
 	public static void setFileStatus(String filename, int status)
 	{
 		try 
@@ -136,6 +176,11 @@ public class DBStoring
         }
 	}
 
+    /**
+     * searches for file and gets status
+     * @param filename - name of file to search for
+     * @return status of file
+     */
 	public static int getFileStatus(String filename)
 	{
 		int status = -2;
@@ -161,6 +206,9 @@ public class DBStoring
 		return status;
 	}
 	
+    /**
+     * insert all application names from apps.txt to Files and give them all 0 status
+     */
 	public static void initialLoadFilestoDB()
 	{
 		try
@@ -189,7 +237,9 @@ public class DBStoring
 	}
 	
 	
-	
+	/**
+     * For each application create review and outputs review to conf/revs.txt
+     */
 	public static void getAllReview()
 	{
 		ArrayList<String> files = new ArrayList<String>();
@@ -270,7 +320,11 @@ public class DBStoring
 		
 	}
 	
-	
+	/**
+     * For every application in conf/apps.txt, update review on database
+     * 
+     * @param args 
+     */
 	public static void main(String[] args)
 	{
 		ArrayList<String> files = new ArrayList<String>();

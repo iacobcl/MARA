@@ -41,13 +41,22 @@ import storage.DBStoring;
 import logic.Retrieving;
 
 
-
+/**
+ * Class AppChooser - a JFrame that implements the ActionListerner interface
+ * 
+ * The main GUI and setup
+ * 
+ * @author iacobcl
+ */
 
 public class AppChooser extends JFrame implements ActionListener
 {
 	Retrieving boss = new Retrieving();
 	public JComboBox files;
 
+	/**
+	 * AppChooser constructor - setup and display the GUI.
+	 */
 	public AppChooser()
 	{
 		setTitle("File name");
@@ -75,7 +84,15 @@ public class AppChooser extends JFrame implements ActionListener
 	    setDefaultCloseOperation(EXIT_ON_CLOSE);
 	}
 	
-
+	/**
+    *
+    * Overridden method from this (ActionListener)
+    * 
+    * Runs when action is performed and checks if "goButton" action is performed.
+    * If "goButton" is clicked a new CodeAsigner is created and set visible and the JFrame disappears
+    *
+    * @param e action performed
+    */
 	public void actionPerformed(ActionEvent e) 
 	{
 		
@@ -87,7 +104,13 @@ public class AppChooser extends JFrame implements ActionListener
 		
 	}	
 
-	
+    /**
+     * Indicates main class - first method ran
+     * 
+     * Creates Runnable to run as thread and create a new AppChooser and display it
+     * 
+     * @param args for main
+     */
 	public static void main(String[] args)
 	{
 		SwingUtilities.invokeLater(new Runnable() {
@@ -98,7 +121,9 @@ public class AppChooser extends JFrame implements ActionListener
         });
 	}
 	
-	
+    /**
+     * @return string array of the name of files from database
+     */
 	public String[] getFiles()
 	{//loads all files which are not completely coded
 		String[] fileNames = new String[30000];
@@ -106,6 +131,7 @@ public class AppChooser extends JFrame implements ActionListener
 		
 		ArrayList<File> files = DBStoring.getFiles();
 		
+		//For the size of the retrieved files store the names of the files in array
 		for (int i = 0; i < files.size(); i++)
 		{
 			if (files.get(i).getStatus() != -1)

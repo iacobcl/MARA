@@ -19,6 +19,11 @@
 
 package objs;
 
+/**
+ * Stores information about Application
+ * 
+ * @author iacobcl
+ */
 public class Application 
 {
 	private String id;
@@ -27,49 +32,91 @@ public class Application
 	private double price;
 	private double norates;
 	
-
+    /**
+     * Get applications rating
+     * @return applications rating
+     */
 	public double getRating() {
 		return rating;
 	}
 
+    /**
+     * sets the rating of the application
+     * @param rating of the application
+     */
 	public void setRating(double rating) {
 		this.rating = rating;
 	}
 
+    /**
+     * Get applications price
+     * @return applications price
+     */
 	public double getPrice() {
 		return price;
 	}
 
+    /**
+     * Sets the price of the Application
+     * @param price 
+     */
 	public void setPrice(double price) {
 		this.price = price;
 	}
 
+    /**Get applications norates
+     * 
+     * @return norates
+     */
 	public double getNorates() {
 		return norates;
 	}
 
+    /**
+     * Sets norates
+     * @param norates 
+     */	
 	public void setNorates(double norates) {
 		this.norates = norates;
 	}
 
+    /**
+     * Constructor - sets id and no
+     */
 	public Application()
 	{
 		id = new String();
 		no = new String();
 	}
 
+    /**
+     * Gets ID of application
+     * @return id
+     */
 	public String getId() {
 		return id;
 	}
 
+    /**
+     * Sets id of application
+     * @param id 
+     */
 	public void setId(String id) {
 		this.id = id;
 	}
 
+    /**
+     * gets no of application
+     * @return no
+     */
 	public String getNo() {
 		return no;
 	}
 
+    /**
+     * sets no of application
+     * @param no 
+     */
 	public void setNo(String no) {
 		this.no = no;
 	}

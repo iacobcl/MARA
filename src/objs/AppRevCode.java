@@ -19,6 +19,11 @@
 
 package objs;
 
+/**
+ * Stores information about application and review
+ * 
+ * @author iacobcl
+ */
 public class AppRevCode 
 {
 	private String appid;
@@ -26,6 +31,9 @@ public class AppRevCode
 	private String classcode;
 	private String refcode;
 	
+    /**
+     * Constructor - Sets fields to new String
+     */
 	public AppRevCode()
 	{
 		appid = new String();
@@ -34,6 +42,13 @@ public class AppRevCode
 		refcode = new String();
 	}
 
+    /**
+     * Constructor - sets fields to parameters
+     * @param appid ID of the application
+     * @param revid ID of the review
+     * @param classcode
+     * @param refcode 
+     */
 	public AppRevCode(String appid, String revid, String classcode,
 			String refcode) {
 		super();
@@ -43,34 +58,66 @@ public class AppRevCode
 		this.refcode = refcode;
 	}
 
+    /**
+     * gets applications ID
+     * @return applications ID
+     */
 	public String getAppid() {
 		return appid;
 	}
 
+    /**
+     * set applications ID
+     * @param appid applications id
+     */
 	public void setAppid(String appid) {
 		this.appid = appid;
 	}
 
+    /**
+     * gets reviews ID
+     * @return reviews ID
+     */
 	public String getRevid() {
 		return revid;
 	}
 
+    /**
+    * sets reviews ID
+    * @param revid reviews id
+    */
 	public void setRevid(String revid) {
 		this.revid = revid;
 	}
 
+    /**
+     * gets classcode
+     * @return classcode
+     */
 	public String getClasscode() {
 		return classcode;
 	}
 
+    /**
+     * sets classcode
+     * @param classcode 
+     */
 	public void setClasscode(String classcode) {
 		this.classcode = classcode;
 	}
 
+	/**
+	 * gets refcode
+	 * @return refcode
+	 */
 	public String getRefcode() {
 		return refcode;
 	}
 
+	/**
+	 * sets refcode
+	 * @param refcode
+	 */
 	public void setRefcode(String refcode) {
 		this.refcode = refcode;
 	}
