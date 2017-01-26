@@ -19,87 +19,49 @@
 
 package objs;
 
-public class Application
+public class Application 
 {
 	private String id;
 	private String no;
 	private double rating;
 	private double price;
 	private double norates;
-
-
-	/**
-	* Returns the rating
-	* @return the rating
-	*/
+	
 
 	public double getRating() {
 		return rating;
 	}
 
-	/**
-	* Sets the rating
-	* @param rating a rating
-	*/
 	public void setRating(double rating) {
 		this.rating = rating;
 	}
 
-	/**
-	* Returns the price
-	* @return the price
-	*/
 	public double getPrice() {
 		return price;
 	}
 
-	/**
-	* sets the price
-	* @param price - a price
-	*/
 	public void setPrice(double price) {
 		this.price = price;
 	}
 
-	/**
-	* Returns the no rates value
-	* @return norates
-	*/
 	public double getNorates() {
 		return norates;
 	}
 
-	/**
-	* sets the norates value
-	* @param norates - a value
-	*/
 	public void setNorates(double norates) {
 		this.norates = norates;
 	}
 
-	/**
-	* Creates new id and no variavles
-	* @param id - null
-	* @param no - null
-	*/
 	public Application()
 	{
 		id = new String();
 		no = new String();
 	}
 
-	/**
-	* Returns the id
-	* @return - a value
-	*/
 	public String getId() {
 		return id;
 	}
 
-	/**
-	* Sets the id
-	* @param id - a value
-	*/
 	public void setId(String id) {
 		this.id = id;
 	}

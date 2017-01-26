@@ -23,44 +23,31 @@ import java.util.ArrayList;
 
 import objs.CodeDistr;
 
-public class CodesPerCatStats
+public class CodesPerCatStats 
 {
 	private String cat;
 	private ArrayList<CodeDistr> distr;
-
-
+	
+	
 	public CodesPerCatStats()
 	{
 		cat = new String();
 		distr = new ArrayList<CodeDistr>();
 	}
-	/**
-	* Returns the string value of cat variable
-	* @return cat - a value
-	*/
+	
 	public String getCat() {
 		return cat;
 	}
-
-	/**
-	* Sets the string value of cat variable
-	* @param cat - a string value
-	*/
 	public void setCat(String cat) {
 		this.cat = cat;
 	}
-
-	/**
-	* Returns the stored arraylist value for distr
-	* @return distr - a value
-	*/
 	public ArrayList<CodeDistr> getDistr() {
 		return distr;
 	}
 	public void setDistr(ArrayList<CodeDistr> distr) {
 		this.distr = distr;
 	}
-
-
+	
+	
 
 }
