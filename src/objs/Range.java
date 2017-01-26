@@ -25,6 +25,13 @@ public class Range
 	private double max;
 	private int count;
 	private double perc;
+        
+        /**
+         * @param min double min value
+         * @param max double max value
+         * @param count int count value
+         * @param perc double perc
+         */
 	public Range(double min, double max, int count, double perc) {
 		super();
 		this.min = min;
@@ -32,27 +39,59 @@ public class Range
 		this.count = count;
 		this.perc = perc;
 	}
+        
+        /**
+         * @return Return min value
+         */
 	public double getMin() {
 		return min;
 	}
+        
+        /**
+         * @param min double min value
+         */
 	public void setMin(double min) {
 		this.min = min;
 	}
+        
+        /**
+         * @return Return max value
+         */
 	public double getMax() {
 		return max;
 	}
+        
+        /**
+         * @param max double max value
+         */
 	public void setMax(double max) {
 		this.max = max;
 	}
+        
+        /**
+         * @return Return count value
+         */
 	public int getCount() {
 		return count;
 	}
+        
+        /**
+         * @param count int count value
+         */
 	public void setCount(int count) {
 		this.count = count;
 	}
+        
+        /**
+         * @return Return perc
+         */
 	public double getPerc() {
 		return perc;
 	}
+        
+        /**
+         * @param perc double perc
+         */
 	public void setPerc(double perc) {
 		this.perc = perc;
 	}
