@@ -37,7 +37,15 @@ import objs.Review;
 
 public class DBStoring 
 {
-
+        /**
+         * @param appid ID of app
+         * @param revid ID of rev
+         * @param title title name
+         * @param review review name
+         * @param codeclass code of class
+         * @param refcode code of ref
+         * @param rawcode code of raw
+         */
 	public static void insertCode (String appid, String revid, String title, String review, String codeclass, String refcode, String rawcode)
 	{
 		
@@ -55,7 +63,12 @@ public class DBStoring
             e.printStackTrace();
         }
 	}
-
+        
+        /**
+         * @param appid ID of app
+         * @param revid ID of rev
+         * @param device device name
+         */
 	public static void updateReview(String appid, String revid, String device)
 	{
 		try 
@@ -73,6 +86,13 @@ public class DBStoring
         }
 	}
 	
+        /**
+         * @param appid ID of app
+         * @param title name of title
+         * @param device name of device
+         * @param version version identifier
+         * @param date date identifier
+         */
 	public static void insertRev (String appid, String title, String device, String version, String date)
 	{
 		
@@ -91,7 +111,9 @@ public class DBStoring
         }
 	}
 
-	
+	/**
+         * @return Returns array list of files
+         */
 	public static ArrayList<File> getFiles()
 	{
 		
@@ -118,7 +140,10 @@ public class DBStoring
 		return files;
 	}
 	
-	
+	/**
+         * @param filename name of file
+         * @param status int display of status
+         */
 	public static void setFileStatus(String filename, int status)
 	{
 		try 
@@ -135,7 +160,11 @@ public class DBStoring
             e.printStackTrace();
         }
 	}
-
+        
+        /**
+         * @param filename name of file
+         * @return Return status of file
+         */
 	public static int getFileStatus(String filename)
 	{
 		int status = -2;
@@ -161,6 +190,7 @@ public class DBStoring
 		return status;
 	}
 	
+        
 	public static void initialLoadFilestoDB()
 	{
 		try
@@ -270,7 +300,9 @@ public class DBStoring
 		
 	}
 	
-	
+	/**
+         * @param args Array of string arguments
+         */
 	public static void main(String[] args)
 	{
 		ArrayList<String> files = new ArrayList<String>();
