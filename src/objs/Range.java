@@ -21,10 +21,14 @@ package objs;
 
 public class Range 
 {
+    
+        //instance variables
 	private double min;
 	private double max;
 	private int count;
 	private double perc;
+        
+        //contructors with arguments
 	public Range(double min, double max, int count, double perc) {
 		super();
 		this.min = min;
@@ -32,6 +36,8 @@ public class Range
 		this.count = count;
 		this.perc = perc;
 	}
+        
+        //getters and setters
 	public double getMin() {
 		return min;
 	}
@@ -57,6 +63,7 @@ public class Range
 		this.perc = perc;
 	}
 	
+        //default constructor with no arguments
 	public Range()
 	{
 		min = 0;

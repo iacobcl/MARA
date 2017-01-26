@@ -21,16 +21,20 @@ package objs;
 
 public class Device 
 {
+        //instance variables
 	private String device;
 	private int count;
 	private double perc;
 	
+        //constructor with arguments
 	public Device(String device, int count, double perc) {
 		super();
 		this.device = device;
 		this.count = count;
 		this.perc = perc;
 	}
+        
+        //getters and setters
 	public String getDevice() {
 		return device;
 	}
@@ -44,6 +48,7 @@ public class Device
 		this.count = count;
 	}
 	
+        //default constructor with no arguments
 	public Device()
 	{
 		device = new String();

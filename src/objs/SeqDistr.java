@@ -21,6 +21,7 @@ package objs;
 
 public class SeqDistr 
 {
+        //instance variables
 	private String codeA1; //class code for code 1
 	private String codeA2; //refined code for code 1
 	private String codeB1; //class code for code 2
@@ -28,6 +29,7 @@ public class SeqDistr
 	private int total;
 	private double perc;
 	
+        //default constructor with no arguments
 	public SeqDistr()
 	{
 		codeA1 = new String();
@@ -38,6 +40,7 @@ public class SeqDistr
 		perc = 0;
 	}
 	
+        //contructors with arguments
 	public SeqDistr(String codeA1, String codeA2, String codeB1, String codeB2, int total, double perc) 
 	{
 		super();
@@ -49,6 +52,7 @@ public class SeqDistr
 		this.perc = perc;
 	}
 	
+        //getters and setters
 	public String getCodeA2() {
 		return codeA2;
 	}

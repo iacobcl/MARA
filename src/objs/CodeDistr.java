@@ -23,12 +23,14 @@ package objs;
 public class CodeDistr 
 {
 
+        //instance variables
 	private String code;
 	private int total;
 	private double perc;
 	private int totalrel;
 	private double percrel;
 	
+        //default constructor with no arguments
 	public CodeDistr()
 	{
 		code = new String();
@@ -38,6 +40,7 @@ public class CodeDistr
 		percrel = 0;
 	}
 	
+        //constructor with arguments
 	public CodeDistr(String c, int t, double p, int totalr, double perrel)
 	{
 		code = c;
@@ -47,7 +50,7 @@ public class CodeDistr
 		percrel = perrel;
 	}
 
-
+        //getters and setters
 	public String getCode() {
 		return code;
 	}

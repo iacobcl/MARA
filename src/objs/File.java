@@ -21,22 +21,26 @@ package objs;
 
 public class File 
 {
-
+        
+        //instance variables
 	private String fileName = new String();
 	private int status;
 	
+        //default constructor with no arguments
 	public File()
 	{
 		fileName = new String();
 		status = 0;
 	}
-
+        
+        //constructor with arguments
 	public File(String f, int s)
 	{
 		fileName = f;
 		status = s;
 	}
 	
+        //getters and setter
 	public String getFileName() {
 		return fileName;
 	}
