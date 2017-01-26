@@ -41,7 +41,7 @@ import storage.DBStoring;
 import logic.Retrieving;
 
 
-
+/*this method displays the layout of the program */
 
 public class AppChooser extends JFrame implements ActionListener
 {
@@ -61,13 +61,14 @@ public class AppChooser extends JFrame implements ActionListener
 		combo.add(files, BorderLayout.CENTER);
 		combo.setBorder(line);
 		
+		/*this method displays the border, buttons and structure on how each feature should be layed out */
 		JPanel go = new JPanel(new BorderLayout());
 		JButton goButton = new JButton("Go!"); 
 		go.add(goButton, BorderLayout.CENTER);
 		goButton.addActionListener(this);
 		goButton.setActionCommand("goButton");
 		go.setBorder(line);
-	
+	/*the code below shows layout of the combo box */
 		this.add(combo, BorderLayout.CENTER);
 		this.add(go, BorderLayout.SOUTH);
 
