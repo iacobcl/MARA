@@ -27,6 +27,12 @@ public class Device
 	private int count;
 	private double perc;
 	
+	/**
+	*This method sets the device attributes to the device paramaters.
+	*@param device This is a string value.
+	*@param count  This is an integer value.
+	*@param perc  This is a double value.
+	*/
 	public Device(String device, int count, double perc) {
 		super();
 		this.device = device;
@@ -41,9 +47,17 @@ public class Device
 	public String getDevice() {
 		return device;
 	}
+	/**
+	*This method sets the device attribute to the device paramater.
+	*@param device This is a string value.
+	*/
 	public void setDevice(String device) {
 		this.device = device;
 	}
+	/**
+	*This method returns the count as an integer.
+	*@return count
+	*/
 	public int getCount() {
 		return count;
 	}
@@ -54,6 +68,12 @@ public class Device
 	public void setCount(int count) {
 		this.count = count;
 	}
+	/**
+	*This method creates a new device. 
+	*@modifies device This is a string value.
+	*@modifies count  This is an integer value.
+	*@modifies perc  This is a double value.
+	*/
 	public Device()
 	{
 		device = new String();
@@ -67,6 +87,10 @@ public class Device
 	public double getPerc() {
 		return perc;
 	}
+	/**
+	*This method sets the perc attribute to the perc paramater.
+	*@param perc This is a double value.
+	*/
 	public void setPerc(double perc) {
 		this.perc = perc;
 	}
