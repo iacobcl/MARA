@@ -48,6 +48,9 @@ public class AppChooser extends JFrame implements ActionListener
 	Retrieving boss = new Retrieving();
 	public JComboBox files;
 
+	/* Setting up the GUI interface
+	Creating a new GUI with buttons borders and jPanel
+	*/
 	public AppChooser()
 	{
 		setTitle("File name");
@@ -76,6 +79,10 @@ public class AppChooser extends JFrame implements ActionListener
 	}
 	
 
+	/* Checks for any actionPerformed
+	This method checks if the go button as been pressed.
+	Once pressed, will retrieve the file status.
+	*/
 	public void actionPerformed(ActionEvent e) 
 	{
 		
@@ -87,7 +94,9 @@ public class AppChooser extends JFrame implements ActionListener
 		
 	}	
 
-	
+	/* 
+	Main method which runs on startup 
+	*/
 	public static void main(String[] args)
 	{
 		SwingUtilities.invokeLater(new Runnable() {
@@ -98,7 +107,9 @@ public class AppChooser extends JFrame implements ActionListener
         });
 	}
 	
-	
+	/* This method gets called upon by another method.
+	Retrieves file information E.G Size and FileName
+	*/
 	public String[] getFiles()
 	{//loads all files which are not completely coded
 		String[] fileNames = new String[30000];
