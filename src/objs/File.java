@@ -21,34 +21,51 @@ package objs;
 
 public class File 
 {
-
+        /**
+ 	* @param fileName name of the file
+ 	* @param status status of the file
+ 	*/
 	private String fileName = new String();
 	private int status;
 	
+        /**
+ 	* New File object with these parameters
+	* @param fileName empty string
+ 	* @param status set to 0
+ 	*/
 	public File()
 	{
 		fileName = new String();
 		status = 0;
 	}
 
+        /**
+ 	* New File object with these parameters
+	* @param fileName paramiter set to f
+ 	* @param status paramiter set to s
+ 	*/
 	public File(String f, int s)
 	{
 		fileName = f;
 		status = s;
 	}
 	
+        //Getter for getting File Name
 	public String getFileName() {
 		return fileName;
 	}
 
+        //Setter for setting File Name
 	public void setFileName(String fileName) {
 		this.fileName = fileName;
 	}
 
+        //Getter for getting Status
 	public int getStatus() {
 		return status;
 	}
 
+        //Setter for setting Status
 	public void setStatus(int status) {
 		this.status = status;
 	}
