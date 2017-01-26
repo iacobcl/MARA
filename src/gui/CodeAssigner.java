@@ -74,6 +74,11 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 	JComboBox refined;
 	JTextField raw;
 	
+	/*
+	*	Constructor
+	*	@param String filename
+	*	@param int status
+	*/ 
 	public CodeAssigner (String fileName, int status)
 	{
 
@@ -182,6 +187,10 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 	    setDefaultCloseOperation(EXIT_ON_CLOSE);
 	}
 	
+	/*
+	* When the GUI is interacted with this function is called
+	* @param ActionEvent the event that occured
+	*/
 	public void actionPerformed(ActionEvent e) 
 	{
 		
@@ -226,6 +235,10 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 		
 	}	
 	
+	/*
+	* When the Combobox is interacted with this function is called
+	* @param ActionEvent the event that occured
+	*/
 	public void itemStateChanged(ItemEvent evt)
 	{
 		JComboBox classes = (JComboBox)evt.getSource();
@@ -239,11 +252,12 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
         }
 	
 	}
-	
-	
-	
-//////////////////////////////////////////////////////////////	
-	
+
+
+	/*
+	*	Loads app reviews from a file
+	*   @param String filename
+	*/
 	public void loadReviews(String fileName)
 	{
 		

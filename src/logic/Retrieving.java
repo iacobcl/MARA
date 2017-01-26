@@ -224,6 +224,11 @@ public class Retrieving
 		}
 	}
 	
+    /*
+    *   Loads reviews in from a file and generates Review Objects
+    *   @param String filename
+    *   @return ArrayList<Review>
+    */
 	public static ArrayList<Review> retrieveReviewsMSR(String fileName)
 	{
 		ArrayList<Review> revs = new ArrayList<Review>();	

@@ -37,7 +37,10 @@ import objs.Review;
 public class DBQuerying 
 {
 	
-	
+	/*
+	*	Query the data base for all the codes
+	*	@return totalCodes
+	*/
 	public static int getTotalCodes()
 	{
 		{
@@ -62,6 +65,11 @@ public class DBQuerying
 		}
 	}
 
+	/*
+	*	Query the data base for codes from a specific app
+	*	@param appid
+	*	@return appTotalCodes
+	*/
 	public static int getTotalCodesForApp(String appid)
 	{
 		{
@@ -86,6 +94,11 @@ public class DBQuerying
 		}
 	}
 	
+	/*
+	*	Query the data base for codes from a specific class
+	*	@param classCode
+	*	@return totalCodes
+	*/
 	public static int getTotalClassCode(String classcode)
 	{
 		int total = 0;
@@ -109,6 +122,11 @@ public class DBQuerying
 	}
 	
 
+	/*
+	*	Query the data base for codes from a specific class
+	*	@param classCode
+	*	@return totalCodes
+	*/
 	public static int getTotalRefCode(String classcode, String refcode)
 	{
 		int total = 0;
@@ -132,7 +150,11 @@ public class DBQuerying
 		return total;
 	}
 	
-	
+	/*
+	*	Query the data base for codes from a specific class
+	*	@param String cat
+	*	@return ResultSet
+	*/
 	public static ResultSet getAppsForCat(String cat)
 	{//returns all apps from a category cat
 		try
@@ -151,12 +173,17 @@ public class DBQuerying
 		}
 	}
 	
-	
+	/*
+	*	Query the data base for Apps with no rates between a certain range
+	*	@param int i
+	*	@param int j
+	*	@return ArrayList<String>
+	*/
 	public static ArrayList<String> getAppsForNoRatesRange(int i, int j)
 	{//returns all apps which have the no of rates assigned to them between i anf j
 		
 		ArrayList<String> apps = new ArrayList<String>();
-System.out.println(i + "  " + j);		
+		System.out.println(i + "  " + j);		
 		try
 		{
 			 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
@@ -187,6 +214,12 @@ System.out.println(i + "  " + j);
 		}
 	}
 	
+	/*
+	*	Query the data base for Apps with prices between a certain range
+	*	@param double i
+	*	@param double j
+	*	@return ArrayList<String>
+	*/
 	public static ArrayList<String> getAppsForPriceRange(double i, double j)
 	{//returns all apps which cost more than i, but less than j !!!! optimize
 		
