@@ -19,40 +19,78 @@
 
 package objs;
 
-public class Device 
+public class Device
 {
 	private String device;
 	private int count;
 	private double perc;
-	
-	public Device(String device, int count, double perc) {
-		super();
-		this.device = device;
-		this.count = count;
-		this.perc = perc;
-	}
-	public String getDevice() {
-		return device;
-	}
-	public void setDevice(String device) {
-		this.device = device;
-	}
-	public int getCount() {
-		return count;
-	}
-	public void setCount(int count) {
-		this.count = count;
-	}
-	
+
+	/**
+	*Constructor for <b>Device</b>
+	*default
+	*/
 	public Device()
 	{
 		device = new String();
 		count = 0;
 		perc = 0;
 	}
+
+	/**
+	*Constructor for <b>Device</b>
+	*@param device,count,perc
+	*/
+	public Device(String device, int count, double perc) {
+		super();
+		this.device = device;
+		this.count = count;
+		this.perc = perc;
+	}
+
+	/**
+	*etGter for <b>Device</b>
+	*@ Dreturnevice
+	*/
+	public String getDevice() {
+		return device;
+	}
+
+	/**
+	*Setter for <b>Device</b>
+	*@param Device
+	*/
+	public void setDevice(String device) {
+		this.device = device;
+	}
+
+	/**
+	*eGtter for <b>Count</b>
+	*@ returnCount
+	*/
+	public int getCount() {
+		return count;
+	}
+
+	/**
+	*Setter for <b>Count</b>
+	*@param Count
+	*/
+	public void setCount(int count) {
+		this.count = count;
+	}
+
+	/**
+	*Getter for <b>Perc</b>
+	*@return Perc
+	*/
 	public double getPerc() {
 		return perc;
 	}
+
+	/**
+	*Setter for <b>Perc</b>
+	*@param Perc
+	*/
 	public void setPerc(double perc) {
 		this.perc = perc;
 	}

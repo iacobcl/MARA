@@ -20,47 +20,69 @@
 package objs;
 
 
-public class Code 
+public class Code
 {
 
 	private String classCode;
 	private String refinedCode;
 	private String rawCode;
-	
-	public Code() 
+
+	/**
+	*Constructor for <b>Code</b>
+	*Set all attributes to new string
+	*/
+	public Code()
 	{
 		this.classCode = new String();
 		this.refinedCode = new String();
 		this.rawCode = new String();
 	}
 
+	/**
+	*Getter for <b>ClassCode</b>
+	*@return classCode
+	*/
 	public String getClassCode() {
 		return classCode;
 	}
 
+	/**
+	*Setter for <b>ClassCode</b>
+	*@param classCode
+	*/
 	public void setClassCode(String classCode) {
 		this.classCode = classCode;
 	}
 
+	/**
+	*Getter for <b>RefinedCode</b>
+	*@return refinedCode
+	*/
 	public String getRefinedCode() {
 		return refinedCode;
 	}
 
+	/**
+	*Setter for <b>RefinedCode</b>
+	*@param refinedCode
+	*/
 	public void setRefinedCode(String refinedCode) {
 		this.refinedCode = refinedCode;
 	}
 
+	/**
+	*Getter for <b>RawCode</b>
+	*@return rawCode
+	*/
 	public String getRawCode() {
 		return rawCode;
 	}
 
+	/**
+	*Setter for <b>RawCode</b>
+	*@param rawCode
+	*/
 	public void setRawCode(String rawCode) {
 		this.rawCode = rawCode;
 	}
-	
-	
-	
-	
-	
-	
 }
