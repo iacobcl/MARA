@@ -19,58 +19,85 @@
 
 package objs.stats;
 
-public class AvgDistrPriceStats 
+public class AvgDistrPriceStats
 {
 
 	private double min;
 	private double max;
 	private double avg;
-	
+
+
+	/**
+	* Initialises variabe values to 0
+	*/
 	public AvgDistrPriceStats()
 	{
 		min = 0;
 		max = 0;
 		avg = 0;
 	}
-	
-	
-	public AvgDistrPriceStats(double min, double max, double avg) 
+
+	/**
+	* Assigns passed parameter values to variables
+	* @param min - a value
+	* @param max - a value
+	* @param avg - a value
+	*/
+	public AvgDistrPriceStats(double min, double max, double avg)
 	{
 		this.min = min;
 		this.max = max;
 		this.avg = avg;
 	}
 
-
+	/**
+	* Returns the minimum value
+	* @return min - a value
+	*/
 	public double getMin() {
 		return min;
 	}
 
-
+	/**
+	* Sets the value of min  variable
+	* @param min - a value
+	*/
 	public void setMin(double min) {
 		this.min = min;
 	}
 
-
+	/**
+	* Returns the maximum value
+	* @return max - a value
+	*/
 	public double getMax() {
 		return max;
 	}
 
-
+	/**
+	* Sets the value of max variable
+	* @param max - a value
+	*/
 	public void setMax(double max) {
 		this.max = max;
 	}
 
-
+	/**
+	* Returns the average value
+	* @return avg - a value
+	*/
 	public double getAvg() {
 		return avg;
 	}
 
-
+	/**
+	* Sets the value of avg variable
+	* @param avg - a value
+	*/
 	public void setAvg(double avg) {
 		this.avg = avg;
 	}
-	
-	
-	
+
+
+
 }

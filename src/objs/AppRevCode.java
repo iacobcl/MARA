@@ -19,13 +19,16 @@
 
 package objs;
 
-public class AppRevCode 
+public class AppRevCode
 {
 	private String appid;
 	private String revid;
 	private String classcode;
 	private String refcode;
-	
+
+	/**
+	* Initialises variabes
+	*/
 	public AppRevCode()
 	{
 		appid = new String();
@@ -34,6 +37,13 @@ public class AppRevCode
 		refcode = new String();
 	}
 
+	/**
+	* Assigns values to variables
+	* @param appid - a value
+	* @param revid - a value
+	* @param classcode - a value
+	* @param string - a value
+	*/
 	public AppRevCode(String appid, String revid, String classcode,
 			String refcode) {
 		super();
@@ -43,38 +53,70 @@ public class AppRevCode
 		this.refcode = refcode;
 	}
 
+	/**
+	* Returns the applicated id
+	* @return appid - a value
+	*/
 	public String getAppid() {
 		return appid;
 	}
 
+	/**
+	* Sets the value of application id variable
+	* @param appid - a value
+	*/
 	public void setAppid(String appid) {
 		this.appid = appid;
 	}
 
+	/**
+	* Returns the review id
+	* @return revid - a value
+	*/
 	public String getRevid() {
 		return revid;
 	}
 
+	/**
+	* Sets the value of review id variable
+	* @param revid - a value
+	*/
 	public void setRevid(String revid) {
 		this.revid = revid;
 	}
 
+	/**
+	* Returns the classcode
+	* @return classcode - a value
+	*/
 	public String getClasscode() {
 		return classcode;
 	}
 
+	/**
+	* Sets the value of classcode variable
+	* @param classcode - a value
+	*/
 	public void setClasscode(String classcode) {
 		this.classcode = classcode;
 	}
 
+	/**
+	* Returns the refcode
+	* @return refcode - a value
+	*/
 	public String getRefcode() {
 		return refcode;
 	}
 
+	/**
+	* Sets the value of refcode variable
+	* @param refcode - a value
+	*/
 	public void setRefcode(String refcode) {
 		this.refcode = refcode;
 	}
-	
-	
+
+
 
 }
