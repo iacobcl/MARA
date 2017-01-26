@@ -33,7 +33,8 @@ public class AppRevCode
 		classcode = new String();
 		refcode = new String();
 	}
-
+/* this is the constructor below 
+# the parameters are all the strings meaning that the output will also be strings*/
 	public AppRevCode(String appid, String revid, String classcode,
 			String refcode) {
 		super();
@@ -43,23 +44,23 @@ public class AppRevCode
 		this.refcode = refcode;
 	}
 
-	public String getAppid() {
+	public String getAppid() { /* this returns the appid */
 		return appid;
 	}
 
-	public void setAppid(String appid) {
+	public void setAppid(String appid) { /* sets the string variable appid to appid */
 		this.appid = appid;
 	}
 
-	public String getRevid() {
+	public String getRevid() { /* this returns the revid */
 		return revid;
 	}
 
-	public void setRevid(String revid) {
+	public void setRevid(String revid) { /* sets the string variable revid to revid */
 		this.revid = revid;
 	}
 
-	public String getClasscode() {
+	public String getClasscode() { /* returns the classcode */
 		return classcode;
 	}
 
