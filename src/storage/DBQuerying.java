@@ -37,7 +37,9 @@ import objs.Review;
 public class DBQuerying 
 {
 	
-	
+	/**
+         * @return Return Total number of codes
+         */
 	public static int getTotalCodes()
 	{
 		{
@@ -61,7 +63,11 @@ public class DBQuerying
 			return total;
 		}
 	}
-
+        
+        /**
+         * @param appid ID of app
+         * @return Return Total number of codes for app
+         */
 	public static int getTotalCodesForApp(String appid)
 	{
 		{
@@ -86,6 +92,10 @@ public class DBQuerying
 		}
 	}
 	
+        /**
+         * @param classcode Code of class
+         * @return Return Total number of class codes
+         */
 	public static int getTotalClassCode(String classcode)
 	{
 		int total = 0;
@@ -108,7 +118,11 @@ public class DBQuerying
 		return total;
 	}
 	
-
+        /**
+         * @param classcode Code of class
+         * @param refcode Code of ref
+         * @return Return Total number of ref codes
+         */
 	public static int getTotalRefCode(String classcode, String refcode)
 	{
 		int total = 0;
@@ -132,9 +146,12 @@ public class DBQuerying
 		return total;
 	}
 	
-	
+	/**
+         * @param cat Chosen Category
+         * @return Returns all apps from a category cat
+         */
 	public static ResultSet getAppsForCat(String cat)
-	{//returns all apps from a category cat
+	{
 		try
 		{
 			 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
@@ -151,9 +168,13 @@ public class DBQuerying
 		}
 	}
 	
-	
+	/**
+         * @param i int for lowest range
+         * @param j int for highest range
+         * @return Returns all apps which have the no of rates assigned to them between i anf j
+         */
 	public static ArrayList<String> getAppsForNoRatesRange(int i, int j)
-	{//returns all apps which have the no of rates assigned to them between i anf j
+	{
 		
 		ArrayList<String> apps = new ArrayList<String>();
 System.out.println(i + "  " + j);		
@@ -186,9 +207,14 @@ System.out.println(i + "  " + j);
 			return null;
 		}
 	}
-	
+        
+        /**
+         * @param i int for lowest range
+         * @param j int for highest range
+         * @return Returns all apps which cost more than i, but less than j
+         */
 	public static ArrayList<String> getAppsForPriceRange(double i, double j)
-	{//returns all apps which cost more than i, but less than j !!!! optimize
+	{//!!!! optimize
 		
 		ArrayList<String> apps = new ArrayList<String>();
 		
@@ -222,8 +248,13 @@ System.out.println(i + "  " + j);
 		}
 	}
 	
+        /**
+         * @param i int for lowest range
+         * @param j int for highest range
+         * @return Returns all apps which cost more than i, but less than j
+         */
 	public static int getTotalAppsForPriceRange(double i, double j)
-	{//returns all apps which cost more than i, but less than j !!!! optimize
+	{//!!!! optimize
 		
 		ArrayList<String> apps = new ArrayList<String>();
 		
@@ -257,8 +288,13 @@ System.out.println(i + "  " + j);
 		}
 	}
 	
+        /**
+         * @param i int for lowest range
+         * @param j int for highest range
+         * @return Returns all apps which cost more than i, but less than j
+         */
 	public static ArrayList<String> getAppsForRateRange(int i, int j)
-	{//returns all apps which cost more than i, but less than j !!!! optimize
+	{//!!!! optimize
 		
 		ArrayList<String> apps = new ArrayList<String>();
 		
@@ -292,8 +328,13 @@ System.out.println(i + "  " + j);
 		}
 	}
 	
+        /**
+         * @param i int for lowest range
+         * @param j int for highest range
+         * @return Returns all apps which cost more than i, but less than j
+         */
 	public static int getTotalAppsForRateRange(int i, int j)
-	{//returns all apps which cost more than i, but less than j !!!! optimize
+	{//!!!! optimize
 		
 		ArrayList<String> apps = new ArrayList<String>();
 		
@@ -327,8 +368,13 @@ System.out.println(i + "  " + j);
 		}
 	}
 	
+        /**
+         * @param codeType Type of code
+         * @param code Current code
+         * @return Returns the no of reviews coded with class code codetype and refined code code
+         */
 	public static int getTotalCodesOverallFeedback(String codeType, String code)
-	{//for appid, returns the no of reviews coded with class code codetype and refined code code
+	{
 		int total = 0;
 		
 		try
@@ -352,8 +398,14 @@ System.out.println(i + "  " + j);
 		return total;
 	}
 	
+        /**
+         * @param codeType Type of code
+         * @param code Current code
+         * @param appid ID of app
+         * @return Returns the no of reviews coded with class code codetype and refined code code
+         */
 	public static int getTotalCodesPerApp(String codeType, String code, String appid)
-	{//for appid, returns the no of reviews coded with class code codetype and refined code code
+	{
 		int total = 0;
 		
 		try
@@ -378,8 +430,13 @@ System.out.println(i + "  " + j);
 		return total;
 	}
 	
+        /**
+         * @param codeType Type of code
+         * @param appid ID of app
+         * @return Returns the no of reviews coded with class code codetype and refined code code
+         */
 	public static int getTotalClassCodesPerApp(String codeType, String appid)
-	{//for appid, returns the no of reviews coded with class code codetype and refined code code
+	{
 		int total = 0;
 		
 		try
@@ -403,7 +460,11 @@ System.out.println(i + "  " + j);
 		
 		return total;
 	}
-
+        
+        /**
+         * @param list String list
+         * @return Return list of codes
+         */
 	public static ArrayList<String> getArrayList(String[] list)
 	{
 		ArrayList<String> codes = new ArrayList<String>();
@@ -415,7 +476,11 @@ System.out.println(i + "  " + j);
 		}
 		return codes;
 	}
-		
+	
+        /**
+         * @param appid ID of app
+         * @return return Total revs for app
+         */
 	public static int getTotalRevsForApp(String appid)
 	{
 		int total = 0;
@@ -440,6 +505,9 @@ System.out.println(i + "  " + j);
 		return total;
 	}
 	
+        /**
+         * @return Return Array List of apps
+         */
 	public static ArrayList<String> getAppsCoded()
 	{
 		ArrayList<String> apps = new ArrayList<String>();
@@ -464,6 +532,10 @@ System.out.println(i + "  " + j);
 		return apps;
 	}
 	
+        /**
+         * @param appid ID of app
+         * @return Return boolean answer to the query 'app is coded'
+         */
 	public static boolean isCoded(String appid)
 	{
 		ArrayList<String> apps = getAppsCoded();
@@ -474,6 +546,9 @@ System.out.println(i + "  " + j);
 		return false;
 	}
 	
+        /**
+         * @return Return Total revs
+         */
 	public static int getTotalRevs()
 	{
 		int total = 0;
@@ -506,8 +581,15 @@ System.out.println(i + "  " + j);
 	
 	}
 	
+        /**
+         * @param a1 String a1 class code
+         * @param a2 String a2 class code
+         * @param b1 String b1 class code
+         * @param b2 String b2 ref code
+         * @return Return the number of revs encoded with both codes (a1, a2) and (b1, b2), where a1, b1 and a2 are the class code, code ref b2
+         */
 	public static int getNoCodeSeqs(String a1, String a2, String b1, String b2)
-	{//ret numarul de revs codate cu ambele coduri (a1, a2) si (b1, b2), unde a1, b1 sunt class code si a2, b2 ref code
+	{
 		ArrayList<AppRevCode> revs = new ArrayList<AppRevCode>();
         int total = 0;
 		
@@ -547,8 +629,12 @@ System.out.println(i + "  " + j);
 		
 	}
 	
+        /**
+         * @param dev dev name
+         * @return Returns all reviews which have the device dev
+         */
 	public static int getTotalCodesForDevice(String dev)
-	{//returns all reviews which have the device dev
+	{
 		ArrayList<Review> ret = new ArrayList<Review>();
 		int total = 0;
 		try
@@ -571,9 +657,15 @@ System.out.println(i + "  " + j);
 		}
 		return total;
 	}
-
+        
+        /**
+         * @param dev dev name
+         * @param cc cc name
+         * @param refcode code of ref
+         * @return Returns all reviews which have the device dev
+         */
 	public static int getAllRevsForDeviceWithCodes(String dev, String cc, String refcode)
-	{//returns all reviews which have the device dev
+	{
 		ArrayList<Review> ret = new ArrayList<Review>();
 		int total = 0;
 		try
@@ -597,7 +689,10 @@ System.out.println(i + "  " + j);
 		return total;
 	}
 
-	
+	/**
+         * @param appid ID of app
+         * @return Returns all revs for an app
+         */
 	public static ArrayList<Review> getAllRevsForApp(String appid)
 	{
 		ArrayList<Review> revs = new ArrayList<Review>();
@@ -629,7 +724,9 @@ System.out.println(i + "  " + j);
 		return revs;
 	}
 	
-	
+	/**
+         * @return Returns apps in array list
+         */
 	public static ArrayList<Application> getApps()
 	{
 		ArrayList<Application> apps = new ArrayList<Application>();
