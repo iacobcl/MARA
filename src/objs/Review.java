@@ -51,102 +51,142 @@ public class Review
 		revid = new String();
 	}
 
-
+        /**
+         * @return Return ID of rev
+         */
 	public String getRevid() {
 		return revid;
 	}
 
-
+        /**
+         * @param revid ID of rev
+         */
 	public void setRevid(String revid) {
 		this.revid = revid;
 	}
 
-
+        /**
+         * @return Return ID of app
+         */
 	public String getAppid() {
 		return appid;
 	}
 
-
+        /**
+         * @param appid ID of app
+         */
 	public void setAppid(String appid) {
 		this.appid = appid;
 	}
 
-
+        /**
+         * @return Return array list of codes
+         */
 	public ArrayList<Code> getCodes() {
 		return codes;
 	}
 
-
+        /**
+         * @param codes array list of codes
+         */
 	public void setCodes(ArrayList<Code> codes) {
 		this.codes = codes;
 	}
 
-
+        /**
+         * @return Return name of user
+         */
 	public String getUser() {
 		return user;
 	}
 
-
+        /**
+         * @param user name of user
+         */
 	public void setUser(String user) {
 		this.user = user;
 	}
 
-
+        /**
+         * @return Return string date
+         */
 	public String getDate() {
 		return date;
 	}
 
-
+        /**
+         * @param date String date
+         */
 	public void setDate(String date) {
 		this.date = date;
 	}
 
-
+        /**
+         * @return Return name of device
+         */
 	public String getDevice() {
 		return device;
 	}
 
-
+        /**
+         * @param device name of device
+         */
 	public void setDevice(String device) {
 		this.device = device;
 	}
 
-
+        /**
+         * @return Return name of version
+         */
 	public String getVersion() {
 		return version;
 	}
 
-
+        /**
+         * @param version name of version
+         */
 	public void setVersion(String version) {
 		this.version = version;
 	}
 
-
+        /**
+         * @return Return name of title
+         */
 	public String getTitle() {
 		return title;
 	}
 
-
+        /**
+         * @param title name of title
+         */
 	public void setTitle(String title) {
 		this.title = title;
 	}
 
-
+        /**
+         * @return Return string rate
+         */
 	public String getRate() {
 		return rate;
 	}
 
-
+        /**
+         * @param rate string rate
+         */
 	public void setRate(String rate) {
 		this.rate = rate;
 	}
 
-
+        /**
+         * @return Return string text
+         */
 	public String getText() {
 		return text;
 	}
 
-
+        /**
+         * @param text string text
+         */
 	public void setText(String text) {
 		this.text = text;
 	}
