@@ -19,40 +19,87 @@
 
 package objs;
 
-public class Device 
+public class Device
 {
+	/**
+	* @param device name of the device
+	* @param count number of the device
+	* @param perc percentage in double
+	*/
 	private String device;
 	private int count;
 	private double perc;
-	
+
+	/**
+	* Construstor that sets field value to corresponding parameter
+	* @param device name of the device
+	* @param count number of the device
+	* @param perc percentage in double
+	*/
 	public Device(String device, int count, double perc) {
 		super();
 		this.device = device;
 		this.count = count;
 		this.perc = perc;
 	}
+
+	/**
+	* returns the device name
+	* @return device name
+	*/
 	public String getDevice() {
 		return device;
 	}
+
+	/**
+	* sets the device name
+	* @param device new device name
+	*/
 	public void setDevice(String device) {
 		this.device = device;
 	}
+
+	/**
+	* get number of devices
+	*@param count count the device
+	*/
 	public int getCount() {
 		return count;
 	}
+
+	/**
+	* sets new count value
+	*@param count new count
+	*/
 	public void setCount(int count) {
 		this.count = count;
 	}
-	
+
+	/**
+	* Construstor that sets field value to corresponding parameter
+	*@param device to String
+	*@param count to 0
+	*@param perc to 0
+	*/
 	public Device()
 	{
 		device = new String();
 		count = 0;
 		perc = 0;
 	}
+
+	/**
+	* Retunn percentage
+	* @return percentage
+	*/
 	public double getPerc() {
 		return perc;
 	}
+
+	/**
+	* sets the new percentage
+	*@param perc new percentage
+	*/
 	public void setPerc(double perc) {
 		this.perc = perc;
 	}
