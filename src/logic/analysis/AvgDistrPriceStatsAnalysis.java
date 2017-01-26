@@ -30,6 +30,9 @@ public class AvgDistrPriceStatsAnalysis
 {
 	public static double[] prices = new double[]{0.50, 0.60, 1.20, 2.25, 3.5, 5, 20};
 	
+        /**
+         * @return Return Report of average number of codes/review for each price range
+         */
 	public static ReportAvgDistrStats createReportAvgDistrPriceStats()
 	{//the average number of codes/review for each price range
 		ReportAvgDistrStats rep = new ReportAvgDistrStats();
@@ -76,6 +79,12 @@ public class AvgDistrPriceStatsAnalysis
 		return rep;
 	}
 	
+        /**
+         * @param revs Array list of Reviews
+         * @param appid String representing AppID
+         * @param revid String representing ReviewID
+         * @return Return count of codes per review
+         */
 	public static int countCodesPerReview(ArrayList<Review> revs, String appid, String revid)
 	{
 		int total = 0;
