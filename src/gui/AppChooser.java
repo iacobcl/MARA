@@ -48,6 +48,9 @@ public class AppChooser extends JFrame implements ActionListener
 	Retrieving boss = new Retrieving();
 	public JComboBox files;
 
+	/*
+	*	Empty Class Constructor
+	*/
 	public AppChooser()
 	{
 		setTitle("File name");
@@ -76,6 +79,10 @@ public class AppChooser extends JFrame implements ActionListener
 	}
 	
 
+	/*
+	* When the GUI is interacted with this function is called
+	* @param ActionEvent the event that occured
+	*/
 	public void actionPerformed(ActionEvent e) 
 	{
 		
@@ -98,7 +105,9 @@ public class AppChooser extends JFrame implements ActionListener
         });
 	}
 	
-	
+	/*
+	*	@return Returns all filenames in the database
+	*/
 	public String[] getFiles()
 	{//loads all files which are not completely coded
 		String[] fileNames = new String[30000];
