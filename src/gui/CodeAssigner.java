@@ -73,7 +73,10 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 	JComboBox classes;
 	JComboBox refined;
 	JTextField raw;
-	
+	/**
+	*	Constructor CodeAssigner
+	*	@Param String fileName, int status
+	*/
 	public CodeAssigner (String fileName, int status)
 	{
 

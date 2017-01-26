@@ -30,75 +30,77 @@ import objs.stats.reports.ReportRateStats;
 import storage.DBQuerying;
 import storage.FileStoring;
 
-public class NoRatesDistrStatsAnalysis 
+public class NoRatesDistrStatsAnalysis
 {
 	public static int[] rates = new int[]{0, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 2000};
 	public static String[] classes = new String[]{"positive feedback", "negative feedback", "comparative feedback", "money feedback", "requirements", "reporting", "usability", "customer support", "versioning"};
 
-	
+	/*
+	* computes the distribution of codes for each range of number of toal reviews
+	* @return ReportNoRatesDistrStats rep
+	*/
 	public static ReportNoRatesDistrStats createReportNoRatesDistrStats()
-	{//computes the distribution of codes for each range of number of toal reviews
+	{
 		ReportNoRatesDistrStats rep = new ReportNoRatesDistrStats();
-		
+
 
 		for (int index = 0; index < rates.length - 1; index++)
 		{
-		
+
 			NoRatesDistrStats ratest = new NoRatesDistrStats();
 			ratest.setMin(rates[index]);
 			ratest.setMax(rates[index + 1]);
 			ArrayList<CodeDistr> distst = new ArrayList<CodeDistr>();
 			int totalCodes = 0;
-			
-			ArrayList<String> apps = DBQuerying.getAppsForNoRatesRange(rates[index], rates[index + 1]); //all apps with rate between star and star + 1
-			
+			//all apps with rate between star and star + 1
+			ArrayList<String> apps = DBQuerying.getAppsForNoRatesRange(rates[index], rates[index + 1]);
 			
 			for (String app : apps)
 				//totalrevs += DBQuerying.getTotalRevsForApp(app);
 				totalCodes += DBQuerying.getTotalCodesForApp(app);
-			
-			
+
+
 			try
 			{
 				for (String cc : classes)
 				{
 					String[] refcodes = FileStoring.loadCodes(cc);
-					
+
 					for (String refcode : refcodes)
 					{
-						
+
 						if (refcode != null)
 						{
 							int totalcode = 0;
 
 							for (String app : apps)
 								totalcode += DBQuerying.getTotalCodesPerApp(cc, refcode, app);
-							
+
 							double perc = (double)100*totalcode/totalCodes;
 							CodeDistr calfa = new CodeDistr(cc + "  " + refcode, totalcode, perc, 0, 0);
-							
-System.out.println(Integer.toString(rates[index]) + "  " + Integer.toString(rates[index + 1]) + "  " + refcode + "  " + totalcode + "   " + perc + "   " + totalCodes);						
-							
+
+System.out.println(Integer.toString(rates[index]) + "  " + Integer.toString(rates[index + 1]) + "  " + refcode + "  " + totalcode + "   " + perc + "   " + totalCodes);
+
 							distst.add(calfa);
 						}
 					}
 				}
-				
+
 				ratest.setDist(distst);
 				rep.report.add(ratest);
-				
-					
+
+
 			}
 			catch (Exception ex)
 			{
 				ex.printStackTrace();
 			}
-			
+
 		}
 		return rep;
 	}
-	
-	
+
+
 	public static void main(String[] args)
 	{
 		NoRatesDistrStatsAnalysis.createReportNoRatesDistrStats().print();

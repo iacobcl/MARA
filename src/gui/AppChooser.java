@@ -47,7 +47,10 @@ public class AppChooser extends JFrame implements ActionListener
 {
 	Retrieving boss = new Retrieving();
 	public JComboBox files;
-
+	/**
+	*	Creates a JPanel names "File Name" with 1 x combo box, 1 x Button (Action Listener)
+	*	On exit program stopped
+	*/
 	public AppChooser()
 	{
 		setTitle("File name");
@@ -75,7 +78,10 @@ public class AppChooser extends JFrame implements ActionListener
 	    setDefaultCloseOperation(EXIT_ON_CLOSE);
 	}
 	
-
+	/**
+	*	Preforms an action on the event "Go Button"
+	*	Then creates Code Assigner with param(String itemSelected, String fileStatus)
+	*/
 	public void actionPerformed(ActionEvent e) 
 	{
 		
@@ -87,18 +93,24 @@ public class AppChooser extends JFrame implements ActionListener
 		
 	}	
 
-	
+/**
+*	Main method is ran when file opened
+*	@Param String[] args
+*/	
 	public static void main(String[] args)
 	{
 		SwingUtilities.invokeLater(new Runnable() {
             public void run() {
-                AppChooser ex = new AppChooser();
+                AppChooser ex = new AppChooser(); // Creates new object "AppChooser"
                 ex.setVisible(true);
             }
         });
 	}
 	
-	
+	/**
+	* 	loads files that are not completely coded, gets status of files
+	*	@return String array FileNames
+	*/
 	public String[] getFiles()
 	{//loads all files which are not completely coded
 		String[] fileNames = new String[30000];

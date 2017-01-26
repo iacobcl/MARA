@@ -20,47 +20,35 @@
 package objs;
 
 
-public class Code 
+public class Code
 {
 
 	private String classCode;
 	private String refinedCode;
 	private String rawCode;
-	
-	public Code() 
+
+	public Code()
 	{
 		this.classCode = new String();
 		this.refinedCode = new String();
 		this.rawCode = new String();
 	}
-
 	public String getClassCode() {
 		return classCode;
 	}
-
 	public void setClassCode(String classCode) {
 		this.classCode = classCode;
 	}
-
 	public String getRefinedCode() {
 		return refinedCode;
 	}
-
 	public void setRefinedCode(String refinedCode) {
 		this.refinedCode = refinedCode;
 	}
-
 	public String getRawCode() {
 		return rawCode;
 	}
-
 	public void setRawCode(String rawCode) {
 		this.rawCode = rawCode;
 	}
-	
-	
-	
-	
-	
-	
 }
