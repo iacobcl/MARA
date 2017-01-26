@@ -21,11 +21,13 @@ package objs;
 
 public class AppRevCode 
 {
+        //instance variables
 	private String appid;
 	private String revid;
 	private String classcode;
 	private String refcode;
 	
+        //default constructor with no arguments
 	public AppRevCode()
 	{
 		appid = new String();
@@ -33,7 +35,8 @@ public class AppRevCode
 		classcode = new String();
 		refcode = new String();
 	}
-
+        
+        //constructor with arguments
 	public AppRevCode(String appid, String revid, String classcode,
 			String refcode) {
 		super();
@@ -42,7 +45,8 @@ public class AppRevCode
 		this.classcode = classcode;
 		this.refcode = refcode;
 	}
-
+        
+        //getters and setters
 	public String getAppid() {
 		return appid;
 	}

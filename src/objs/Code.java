@@ -22,18 +22,21 @@ package objs;
 
 public class Code 
 {
-
+        
+        //instance variables
 	private String classCode;
 	private String refinedCode;
 	private String rawCode;
 	
+        //default constructor with no arguments
 	public Code() 
 	{
 		this.classCode = new String();
 		this.refinedCode = new String();
 		this.rawCode = new String();
 	}
-
+        
+        //getters and setters
 	public String getClassCode() {
 		return classCode;
 	}

@@ -25,6 +25,7 @@ import java.util.ArrayList;
 public class Review 
 {
 
+        //instance variables
 	private String appid;
 	private String user;
 	private String date;
@@ -36,7 +37,7 @@ public class Review
 	private ArrayList<Code> codes;
 	private String revid;
 	
-	
+	//default constructor with no arguments
 	public Review()
 	{
 		appid = new String();
@@ -51,7 +52,7 @@ public class Review
 		revid = new String();
 	}
 
-
+        //getters and setters
 	public String getRevid() {
 		return revid;
 	}
@@ -151,6 +152,7 @@ public class Review
 		this.text = text;
 	}
 	
+        //display informations
 	public void print()
 	{
 		System.out.println("date:" + date);

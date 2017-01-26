@@ -21,13 +21,15 @@ package objs;
 
 public class Application 
 {
+    
+        //instance variables
 	private String id;
 	private String no;
 	private double rating;
 	private double price;
 	private double norates;
 	
-
+        //getters and setters
 	public double getRating() {
 		return rating;
 	}
@@ -52,12 +54,14 @@ public class Application
 		this.norates = norates;
 	}
 
+        //default constructor with no arguments
 	public Application()
 	{
 		id = new String();
 		no = new String();
 	}
 
+        //getters and setters
 	public String getId() {
 		return id;
 	}
