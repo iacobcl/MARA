@@ -52,7 +52,12 @@ import objs.Review;
 import storage.DBStoring;
 import storage.FileStoring;
 
-
+/**
+ * Class CodeAssigner - a JFrame that implements the ActionListerner and ItemListener interface for 
+ * adding code and viewing reviews
+ * 
+ * @author iacobcl
+ */
 
 public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 {
@@ -74,6 +79,12 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 	JComboBox refined;
 	JTextField raw;
 	
+    /**
+     * CodeAssigner Constructor - sets fields, adds panels and buttons to GUI
+     * 
+     * @param fileName name of file from database
+     * @param status files status from database
+     */
 	public CodeAssigner (String fileName, int status)
 	{
 
@@ -182,11 +193,16 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 	    setDefaultCloseOperation(EXIT_ON_CLOSE);
 	}
 	
+    /**
+     * When buttons with ActionListener (this) is pressed 
+     * @param e action performed
+     */
 	public void actionPerformed(ActionEvent e) 
 	{
-		
+		//if next review is clicked
 		if (e.getActionCommand().equals("nextReview"))
 		{
+			//goes through reviews until index is finished (greater or equal to revs.size()
 			if (index + 1 < revs.size())
 			{
 				index++;
@@ -226,6 +242,10 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 		
 	}	
 	
+    /**
+     * checks if items changed
+     * @param evt item event
+     */
 	public void itemStateChanged(ItemEvent evt)
 	{
 		JComboBox classes = (JComboBox)evt.getSource();
@@ -244,6 +264,10 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 	
 //////////////////////////////////////////////////////////////	
 	
+	/**
+     * Reads file and setups new review based on file per line and adds to revs field
+     * @param fileName name of Application
+     */
 	public void loadReviews(String fileName)
 	{
 		

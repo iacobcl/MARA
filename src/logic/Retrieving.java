@@ -39,6 +39,11 @@ import storage.FileQuerying;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.DocumentBuilder;
 
+/**
+ * Class Retrieving - used for retrieving and processing all reviews
+ * 
+ * @author iacobcl
+ */
 public class Retrieving 
 {
 	public static ArrayList<Application> apps = new ArrayList<Application>();
@@ -203,7 +208,9 @@ public class Retrieving
 	}
 	
 	
-	
+	/**
+     * reads from conf/app.txt and line by line add string to id
+     */
 	public static void createAppsMap()
 	{
 		try
@@ -224,6 +231,11 @@ public class Retrieving
 		}
 	}
 	
+	/**
+     * Places all reviews into arrayList
+     * @param fileName Name of Application
+     * @return all reviews as arrayList
+     */
 	public static ArrayList<Review> retrieveReviewsMSR(String fileName)
 	{
 		ArrayList<Review> revs = new ArrayList<Review>();	
@@ -326,6 +338,11 @@ public class Retrieving
 	        }
 	       
 	}
+	
+    /**
+     * On create Arraylist as retrieveReviewsMSR("f_73-f_241") and processReviewsMSR("f_73-f_241") 
+     * @param args 
+     */
 	public static void main(String[] args)
 	{
 		for (int i = 73; i < 241; i++)
