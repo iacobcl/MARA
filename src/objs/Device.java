@@ -25,21 +25,42 @@ public class Device
 	private int count;
 	private double perc;
 	
+        /**
+         * @param device device name
+         * @param count int count
+         * @param perc double perc
+         */
 	public Device(String device, int count, double perc) {
 		super();
 		this.device = device;
 		this.count = count;
 		this.perc = perc;
 	}
+        
+        /**
+         * @return Return device name
+         */
 	public String getDevice() {
 		return device;
 	}
+        
+        /**
+         * @param device Device name
+         */
 	public void setDevice(String device) {
 		this.device = device;
 	}
+        
+        /**
+         * @return Return int count
+         */
 	public int getCount() {
 		return count;
 	}
+        
+        /**
+         * @param count int count
+         */
 	public void setCount(int count) {
 		this.count = count;
 	}
@@ -50,9 +71,17 @@ public class Device
 		count = 0;
 		perc = 0;
 	}
+        
+        /**
+         * @return Return double perc
+         */
 	public double getPerc() {
 		return perc;
 	}
+        
+        /**
+         * @param perc double perc
+         */
 	public void setPerc(double perc) {
 		this.perc = perc;
 	}

@@ -172,6 +172,10 @@ public class Retrieving
 	       
 	}*/
 	
+        /**
+         * @param revs ArrayList of reviews
+         * @param fileName Name of file
+         */
 	//the method writes the processed reviews of an application in a tab delimited file
 	public static void storeReviews(ArrayList<Review> revs, String fileName)
 	{
@@ -194,6 +198,10 @@ public class Retrieving
 		}
 	}
 	
+        
+        /**
+         * @param file String representing a file
+         */
 	//the method retrieves the reviews of an application and stores them in a tab delimited file
 	public static void processReviewMSR(String file)
 	{
@@ -224,6 +232,10 @@ public class Retrieving
 		}
 	}
 	
+        /**
+         * @param fileName Name of file
+         * @return Return Reviews
+         */
 	public static ArrayList<Review> retrieveReviewsMSR(String fileName)
 	{
 		ArrayList<Review> revs = new ArrayList<Review>();	
@@ -326,6 +338,10 @@ public class Retrieving
 	        }
 	       
 	}
+        
+        /**
+         * @param args String array of arguments
+         */
 	public static void main(String[] args)
 	{
 		for (int i = 73; i < 241; i++)

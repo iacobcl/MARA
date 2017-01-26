@@ -76,7 +76,13 @@ public class AvgDistrRateStatsAnalysis
 		}
 		return rep;
 	}
-	
+        
+	/**
+         * @param revs Array list of Reviews
+         * @param appid String representing AppID
+         * @param revid String representing ReviewID
+         * @return Return count of codes per review
+         */
 	public static int countCodesPerReview(ArrayList<Review> revs, String appid, String revid)
 	{
 		int total = 0;
@@ -88,6 +94,9 @@ public class AvgDistrRateStatsAnalysis
 		return total;
 	}
 	
+        /**
+         * @param args Array of string arguments
+         */
 	public static void main(String[] args)
 	{
 		AvgDistrRateStatsAnalysis.createReportAvgDistrRateStats().print();

@@ -40,7 +40,9 @@ public class PriceStatsAnalysis
 
 	public static String[] classes = new String[]{"positive feedback", "negative feedback", "comparative feedback", "money feedback", "requirements", "reporting", "usability", "customer support", "versioning"};
 
-	
+	/**
+         * @return Return Device Distribution
+         */
 	public static ArrayList<Range> createPriceDistr()
 	{
 		ArrayList<Range> devDistr = new ArrayList<Range>();
@@ -64,6 +66,7 @@ public class PriceStatsAnalysis
 		return devDistr;
 	}
 	
+        
 	public static void printPriceDistr()
 	{
 		 ArrayList<Range> devDistr = PriceStatsAnalysis.createPriceDistr();
@@ -90,7 +93,9 @@ public class PriceStatsAnalysis
 	
 //////////////////////////////////////////////////////////////////////////////////////
 	
-	
+	/**
+         * @return Return Report of price stats
+         */
 	public static ReportPriceStats createReportPriceStats()
 	{
 		ReportPriceStats rep = new ReportPriceStats();
@@ -153,7 +158,9 @@ System.out.println(Double.toString(prices[index]) + "  " + Double.toString(price
 		return rep;
 	}
 	
-	
+	/**
+         * @param args Array of string arguments
+         */
 	public static void main(String[] args)
 	{
 		//printPriceDistr();

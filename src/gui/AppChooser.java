@@ -47,7 +47,10 @@ public class AppChooser extends JFrame implements ActionListener
 {
 	Retrieving boss = new Retrieving();
 	public JComboBox files;
-
+        
+        /**
+         * Constructor to set UI style
+         */
 	public AppChooser()
 	{
 		setTitle("File name");
@@ -75,7 +78,9 @@ public class AppChooser extends JFrame implements ActionListener
 	    setDefaultCloseOperation(EXIT_ON_CLOSE);
 	}
 	
-
+        /**
+         * @param e Representing current event
+         */
 	public void actionPerformed(ActionEvent e) 
 	{
 		
@@ -87,7 +92,9 @@ public class AppChooser extends JFrame implements ActionListener
 		
 	}	
 
-	
+	/**
+         * @param args String Array of arguments
+         */
 	public static void main(String[] args)
 	{
 		SwingUtilities.invokeLater(new Runnable() {
@@ -98,7 +105,9 @@ public class AppChooser extends JFrame implements ActionListener
         });
 	}
 	
-	
+	/**
+         * @return Return file names
+         */
 	public String[] getFiles()
 	{//loads all files which are not completely coded
 		String[] fileNames = new String[30000];

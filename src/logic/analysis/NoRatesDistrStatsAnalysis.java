@@ -35,9 +35,11 @@ public class NoRatesDistrStatsAnalysis
 	public static int[] rates = new int[]{0, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 2000};
 	public static String[] classes = new String[]{"positive feedback", "negative feedback", "comparative feedback", "money feedback", "requirements", "reporting", "usability", "customer support", "versioning"};
 
-	
+	/**
+         * @return Return Report for the distribution of codes for each range of number of total reviews
+         */
 	public static ReportNoRatesDistrStats createReportNoRatesDistrStats()
-	{//computes the distribution of codes for each range of number of toal reviews
+	{//computes the distribution of codes for each range of number of total reviews
 		ReportNoRatesDistrStats rep = new ReportNoRatesDistrStats();
 		
 
@@ -98,7 +100,9 @@ System.out.println(Integer.toString(rates[index]) + "  " + Integer.toString(rate
 		return rep;
 	}
 	
-	
+	/**
+         * @param args Array of string arguments
+         */
 	public static void main(String[] args)
 	{
 		NoRatesDistrStatsAnalysis.createReportNoRatesDistrStats().print();

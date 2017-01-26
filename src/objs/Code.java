@@ -33,27 +33,45 @@ public class Code
 		this.refinedCode = new String();
 		this.rawCode = new String();
 	}
-
+        
+        /**
+         * @return Return code of class
+         */
 	public String getClassCode() {
 		return classCode;
 	}
 
+        /**
+         * @param classCode Code of class
+         */
 	public void setClassCode(String classCode) {
 		this.classCode = classCode;
 	}
 
+        /**
+         * @return Return code of refined
+         */
 	public String getRefinedCode() {
 		return refinedCode;
 	}
 
+        /**
+         * @param refinedCode Code of refined
+         */
 	public void setRefinedCode(String refinedCode) {
 		this.refinedCode = refinedCode;
 	}
 
+        /**
+         * @return Return code of raw
+         */
 	public String getRawCode() {
 		return rawCode;
 	}
 
+        /**
+         * @param rawCode Code of raw
+         */
 	public void setRawCode(String rawCode) {
 		this.rawCode = rawCode;
 	}

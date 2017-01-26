@@ -53,7 +53,6 @@ import storage.DBStoring;
 import storage.FileStoring;
 
 
-
 public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 {
 	public String fileName; 
@@ -74,6 +73,10 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 	JComboBox refined;
 	JTextField raw;
 	
+        /**
+         * @param fileName Name of the file
+         * @param status Numerical situation of status
+         */
 	public CodeAssigner (String fileName, int status)
 	{
 
@@ -182,6 +185,9 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 	    setDefaultCloseOperation(EXIT_ON_CLOSE);
 	}
 	
+        /**
+         * @param e Representing current event
+         */
 	public void actionPerformed(ActionEvent e) 
 	{
 		
@@ -226,6 +232,9 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 		
 	}	
 	
+        /**
+         * @param evt Representing current event
+         */
 	public void itemStateChanged(ItemEvent evt)
 	{
 		JComboBox classes = (JComboBox)evt.getSource();
@@ -243,7 +252,9 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 	
 	
 //////////////////////////////////////////////////////////////	
-	
+	/**
+         * @param fileName Name of file
+         */
 	public void loadReviews(String fileName)
 	{
 		

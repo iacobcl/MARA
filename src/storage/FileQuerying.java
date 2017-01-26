@@ -31,7 +31,10 @@ import java.util.ArrayList;
 
 public class FileQuerying 
 {
-
+        
+        /**
+         * @return Returns array list of devices
+         */
 	public static ArrayList<String> getDevices()
 	{
 		ArrayList<String> devs = new ArrayList<String>();

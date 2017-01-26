@@ -31,24 +31,40 @@ public class File
 		status = 0;
 	}
 
+        /**
+         * @param f String initial file name
+         * @param s int initial status
+         */
 	public File(String f, int s)
 	{
 		fileName = f;
 		status = s;
 	}
 	
+        /**
+         * @return Return name of file
+         */
 	public String getFileName() {
 		return fileName;
 	}
 
+        /**
+         * @param fileName Name of file
+         */
 	public void setFileName(String fileName) {
 		this.fileName = fileName;
 	}
 
+        /**
+         * @return Return numerical status
+         */
 	public int getStatus() {
 		return status;
 	}
 
+        /**
+         * @param status Numerical status
+         */
 	public void setStatus(int status) {
 		this.status = status;
 	}

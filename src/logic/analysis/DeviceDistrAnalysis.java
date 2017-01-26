@@ -39,6 +39,9 @@ public class DeviceDistrAnalysis
 
 ///////////////////////////////////////////////////////////////////////	
 	
+        /**
+         * @return Return Device Distribution
+         */
 	public static ArrayList<Device> createDeviceDistr()
 	{
 		ArrayList<String> devs = FileQuerying.getDevices();
@@ -59,6 +62,7 @@ public class DeviceDistrAnalysis
 		return devDistr;
 	}
 	
+        
 	public static void printDeviceDistr()
 	{
 		 ArrayList<Device> devDistr = DeviceDistrAnalysis.createDeviceDistr();
@@ -84,6 +88,9 @@ public class DeviceDistrAnalysis
 	
 ///////////////////////////////////////////////////////////////////////	
 	
+        /**
+         * @return Return Report of Device Stats
+         */
 	public static ReportDeviceStats createReportDeviceStats()
 	{
 		ReportDeviceStats rep = new ReportDeviceStats();
@@ -134,7 +141,9 @@ System.out.println(dev + "	" + cc + "	" + refcode + "	" + totalcode + "	" + perc
 		return rep;
 	}
 
-	
+	/**
+         * @param args Array of string arguments
+         */
 	public static void main(String[] args)
 	{
 		//createReportDeviceStats().printCode("reporting  major bug");

@@ -27,27 +27,44 @@ public class Application
 	private double price;
 	private double norates;
 	
-
+        /**
+         * @return Return numerical rating
+         */
 	public double getRating() {
 		return rating;
 	}
-
+           
+        /**
+         * @param rating Numerical rating
+         */
 	public void setRating(double rating) {
 		this.rating = rating;
 	}
 
+        /**
+         * @return Return price value
+         */
 	public double getPrice() {
 		return price;
 	}
 
+        /**
+         * @param price Price value
+         */
 	public void setPrice(double price) {
 		this.price = price;
 	}
-
+        
+        /**
+         * @return Return number of rates
+         */
 	public double getNorates() {
 		return norates;
 	}
 
+        /**
+         * @param norates number of rates
+         */
 	public void setNorates(double norates) {
 		this.norates = norates;
 	}
@@ -58,18 +75,30 @@ public class Application
 		no = new String();
 	}
 
+        /**
+         * @return Return ID
+         */
 	public String getId() {
 		return id;
 	}
 
+        /**
+         * @param id Identification number
+         */
 	public void setId(String id) {
 		this.id = id;
 	}
-
+        
+        /**
+         * @return Return string number
+         */
 	public String getNo() {
 		return no;
 	}
 
+        /**
+         * @param no String number
+         */
 	public void setNo(String no) {
 		this.no = no;
 	}

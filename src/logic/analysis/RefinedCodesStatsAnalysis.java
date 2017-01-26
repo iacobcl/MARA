@@ -31,6 +31,9 @@ public class RefinedCodesStatsAnalysis
 {
 	public static String[] classes = new String[]{"positive feedback", "negative feedback", "comparative feedback", "money feedback", "requirements", "reporting", "usability", "customer support", "versioning"};
 	
+        /**
+         * @return Return Report of overall stats
+         */
 	public static ReportClassCodeStats createReportRefinedCodesOverallStats()
 	{
 		ReportClassCodeStats rep = new ReportClassCodeStats();
@@ -84,6 +87,9 @@ public class RefinedCodesStatsAnalysis
 		return rep;
 	}
 	
+        /**
+         * @param args Array of string arguments
+         */
 	public static void main(String[] args)
 	{
 		RefinedCodesStatsAnalysis.createReportRefinedCodesOverallStats().print();

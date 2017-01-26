@@ -32,7 +32,9 @@ public class PosNegCatStatsAnalysis
 	
 	public static String[] cats = new String[]{"Health", "Personalization", "Tools", "Books", "Education", "Productivity"};
 	
-	
+	/**
+         * @return Return Report of positive or negative feedback
+         */
 	public static ReportPosNegCatStats createReportPosNegCatStats()
 	{
 		ReportPosNegCatStats rep = new ReportPosNegCatStats();
@@ -87,7 +89,9 @@ public class PosNegCatStatsAnalysis
 		return rep;
 	}
 	
-	
+	/**
+         * @param args Array of string arguments
+         */
 	public static void main(String[] args)
 	{
 		//PosNegCatStatsAnalysis.createReportPosNegCatStats().print();
