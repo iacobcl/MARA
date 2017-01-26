@@ -36,7 +36,10 @@ import storage.FileStoring;
 public class SeqDistrAnalysis 
 {
 
-	
+	/**
+         * @param file String representing a file
+         * @return Return codes
+         */
 	public static ArrayList<String> getCodes(String file)
 	{
 		ArrayList<String> ret = new ArrayList<String>();
@@ -59,7 +62,11 @@ public class SeqDistrAnalysis
 		return ret;
 	}
 	
-	
+	/**
+         * @param classcode Code of class
+         * @param refcode Code of ref
+         * @return Return boolean result for 'in class' query
+         */
 	public static boolean isInClass(String classcode, String refcode)
 	{
 		String[] ret = FileStoring.loadCodes(classcode);
@@ -71,7 +78,9 @@ public class SeqDistrAnalysis
 		return false;
 	}
 	
-	
+	/**
+         * @return Return Report of Distribution
+         */
 	public static ReportSeqDistr createReportSeqDistr()
 	{
 		 ReportSeqDistr rep = new ReportSeqDistr();
@@ -100,7 +109,9 @@ public class SeqDistrAnalysis
 		return rep;
 	}
 	
-	
+	/**
+         * @param args Array of string arguments
+         */
 	public static void main(String[] args)
 	{
 		SeqDistrAnalysis.createReportSeqDistr().print();
