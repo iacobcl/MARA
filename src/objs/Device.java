@@ -19,42 +19,81 @@
 
 package objs;
 
+/**
+ * @author Iacob
+ * A class representing a device
+ */
 public class Device 
 {
 	private String device;
 	private int count;
 	private double perc;
 	
+        /**
+         * Constructor
+         * @param device the device name
+         * @param count the device number
+         * @param perc the percentage
+         */
 	public Device(String device, int count, double perc) {
 		super();
 		this.device = device;
 		this.count = count;
 		this.perc = perc;
 	}
+        
+        /**
+         * @return the device name 
+         */
 	public String getDevice() {
 		return device;
 	}
+        /**
+         * set the device name
+         * @param device the device name 
+         */
 	public void setDevice(String device) {
 		this.device = device;
 	}
-	public int getCount() {
+        /**
+         * @return the device number
+         */
+	public int getCount(){
 		return count;
 	}
+        
+        /**
+         * set the device number
+         * @param count the device number
+         */
 	public void setCount(int count) {
 		this.count = count;
 	}
 	
+        /**
+         * Constructor
+         */
 	public Device()
 	{
 		device = new String();
 		count = 0;
 		perc = 0;
 	}
+        
+        /**
+         * @return the percentage 
+         */
 	public double getPerc() {
 		return perc;
 	}
+        
+        /**
+         * set the percentage
+         * @param perc the percentage 
+         */
 	public void setPerc(double perc) {
 		this.perc = perc;
 	}
 
 }
+
