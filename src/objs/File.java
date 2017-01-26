@@ -25,30 +25,57 @@ public class File
 	private String fileName = new String();
 	private int status;
 	
+        /**
+         * Default Constructor method
+         */
 	public File()
 	{
 		fileName = new String();
 		status = 0;
 	}
-
+        /**
+         * Constructor method
+         * @param f the name of the file
+         * @param s the status of the file
+         */
 	public File(String f, int s)
 	{
 		fileName = f;
 		status = s;
 	}
 	
+        /**
+         * Returns the name of a file
+         * 
+         * @return filename the name of the file
+         */
 	public String getFileName() {
 		return fileName;
 	}
 
+        /**
+         * Assigns a the instance variable of "fileName" to a string
+         * 
+         * @param fileName the name of the file
+         */
 	public void setFileName(String fileName) {
 		this.fileName = fileName;
 	}
 
+        /**
+         * Returns the state of a file
+         * 
+         * @return status the status of the file
+         */
 	public int getStatus() {
 		return status;
 	}
 
+        /**
+         * Assigns a the instance variable of "status" to a integer
+         * 
+         * @param status the status of the file
+         */
 	public void setStatus(int status) {
 		this.status = status;
 	}
