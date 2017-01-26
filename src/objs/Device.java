@@ -38,7 +38,9 @@ public class Device
 
 	/**
 	*Constructor for <b>Device</b>
-	*@param device,count,perc
+	*@param device
+	*@param count
+	*@param perc
 	*/
 	public Device(String device, int count, double perc) {
 		super();
@@ -49,7 +51,7 @@ public class Device
 
 	/**
 	*etGter for <b>Device</b>
-	*@ Dreturnevice
+	*@return Device
 	*/
 	public String getDevice() {
 		return device;
@@ -65,7 +67,7 @@ public class Device
 
 	/**
 	*eGtter for <b>Count</b>
-	*@ returnCount
+	*@return Count
 	*/
 	public int getCount() {
 		return count;

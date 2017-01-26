@@ -44,7 +44,11 @@ public class CodeDistr
 
 	/**
 	*Constructor for <b>CodeDistributer(codeDistr)</b>
-	*@param c,t,p,totalr,parrel
+	*@param c
+	*@param t
+	*@param p
+	*@param totalr
+	*@param parrel
 	*/
 	public CodeDistr(String c, int t, double p, int totalr, double perrel)
 	{

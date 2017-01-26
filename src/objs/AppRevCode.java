@@ -41,7 +41,10 @@ public class AppRevCode
 
 	/**
 	*Constructor for <b>AppRecCode</b>
-	*@param appid,revid,classcode,refcode
+	*@param appid
+	*@param revid
+	*@param classcode
+	*@param refcode
 	*/
 	public AppRevCode(String appid, String revid, String classcode,
 			String refcode) {

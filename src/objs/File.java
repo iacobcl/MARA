@@ -37,7 +37,8 @@ public class File
 
 	/**
 	*Constructor for <b>File</b>
-	*@param f(fileName),s(status)
+	*@param f(fileName)
+	*@param s(status)
 	*/
 	public File(String f, int s)
 	{

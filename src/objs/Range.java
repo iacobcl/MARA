@@ -40,7 +40,10 @@ public class Range
 	}
 	/**
 	*Constructor for <b>Range</b>
-	*@param min,max,count,perc
+	*@param min
+	*@param max
+	*@param count
+	*@param perc
 	*/
 	public Range(double min, double max, int count, double perc) {
 		super();

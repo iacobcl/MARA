@@ -44,7 +44,12 @@ public class SeqDistr
 
 	/**
 	*Constructor for <b>SeqDistr</b>
-	*@param codeA1,codeA2,codeB1,codeB2,total,perc
+	*@param codeA1
+	*@param codeA2
+	*@param codeB1
+	*@param codeB2
+	*@param total
+	*@param perc
 	*/
 	public SeqDistr(String codeA1, String codeA2, String codeB1, String codeB2, int total, double perc)
 	{
