@@ -28,22 +28,22 @@ public class AppRevCode
 	
 	public AppRevCode()
 	{
-		appid = new String();
+		appid = new String(); /* this is the variables with the  data types */
 		revid = new String();
 		classcode = new String();
 		refcode = new String();
 	}
 
-	public AppRevCode(String appid, String revid, String classcode,
+	public AppRevCode(String appid, String revid, String classcode, /* this is the constructor */
 			String refcode) {
 		super();
-		this.appid = appid;
+		this.appid = appid;  /* sets the variable name in the constructor so it can be used */
 		this.revid = revid;
 		this.classcode = classcode;
 		this.refcode = refcode;
 	}
 
-	public String getAppid() {
+	public String getAppid() {  /* returns the  string of appid */
 		return appid;
 	}
 
@@ -59,7 +59,7 @@ public class AppRevCode
 		this.revid = revid;
 	}
 
-	public String getClasscode() {
+	public String getClasscode() { /* returns the  string of classcode */
 		return classcode;
 	}
 
@@ -67,7 +67,7 @@ public class AppRevCode
 		this.classcode = classcode;
 	}
 
-	public String getRefcode() {
+	public String getRefcode() { /* returns the  string of refcode */
 		return refcode;
 	}
 
