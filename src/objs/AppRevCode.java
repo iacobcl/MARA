@@ -19,13 +19,15 @@
 
 package objs;
 
-public class AppRevCode 
+public class AppRevCode
 {
 	private String appid;
 	private String revid;
 	private String classcode;
 	private String refcode;
-	
+	/**
+	* Blank constructor, creates 4 String varriables called appid, revid, classcode, refcode
+	*/
 	public AppRevCode()
 	{
 		appid = new String();
@@ -33,7 +35,13 @@ public class AppRevCode
 		classcode = new String();
 		refcode = new String();
 	}
-
+	/**
+	* constructor
+	* @param appid
+	* @param revid
+	* @param classcode
+	* @param refcode
+	*/
 	public AppRevCode(String appid, String revid, String classcode,
 			String refcode) {
 		super();
@@ -42,39 +50,55 @@ public class AppRevCode
 		this.classcode = classcode;
 		this.refcode = refcode;
 	}
-
+	/**
+	* Returns the rating as a double
+	* @return rating double -
+	*/
 	public String getAppid() {
 		return appid;
 	}
-
+	/**
+	* Returns sets appid to the String parameter
+	*/
 	public void setAppid(String appid) {
 		this.appid = appid;
 	}
-
+	/**
+	* Returns the revid as a double
+	* @return revid double -
+	*/
 	public String getRevid() {
 		return revid;
 	}
-
+	/**
+	* Returns sets revid to the String parameter
+	*/
 	public void setRevid(String revid) {
 		this.revid = revid;
 	}
-
+	/**
+	* Returns the classcode as a double
+	* @return classcode double -
+	*/
 	public String getClasscode() {
 		return classcode;
 	}
-
+	/**
+	* Returns sets classcode to the String parameter
+	*/
 	public void setClasscode(String classcode) {
 		this.classcode = classcode;
 	}
-
+	/**
+	* Returns the refcode as a double
+	* @return refcode double -
+	*/
 	public String getRefcode() {
 		return refcode;
 	}
-
+		/**
+		* Returns sets setRefcode to the String parameter
+		*/
 	public void setRefcode(String refcode) {
 		this.refcode = refcode;
 	}
-	
-	
-
-}

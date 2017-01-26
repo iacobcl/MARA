@@ -26,36 +26,36 @@ import objs.stats.AvgDistrPriceStats;
 import objs.stats.reports.ReportAvgDistrStats;
 import storage.DBQuerying;
 
-public class AvgDistrRateStatsAnalysis 
+public class AvgDistrRateStatsAnalysis
 {
 	public static int[] stars = new int[]{0, 1, 2, 3, 4, 5};
 
-	
+
 	public static ReportAvgDistrStats createReportAvgDistrRateStats()
 	{//the average number of codes/review for each price range
 		ReportAvgDistrStats rep = new ReportAvgDistrStats();
-		
+
 		for (int i = 0; i < stars.length - 1; i++)
 		{
 			AvgDistrPriceStats avg = new AvgDistrPriceStats();
 			avg.setMin(stars[i]);
 			avg.setMax(stars[i + 1]);
-			
+
 			int totalrevs = 0;
-			
+
 			ArrayList<String> apps = DBQuerying.getAppsForRateRange(stars[i], stars[i + 1]);
 			ArrayList<Review> revs = new ArrayList<Review>();
 			ArrayList<Integer> totalCodes = new ArrayList<Integer>();
-			
-			
+
+
 			for (String appid : apps)
 			{//create revs - list of all reviews of the apps in the price range
 				ArrayList<Review> revsapp = DBQuerying.getAllRevsForApp(appid);
 				for (Review r : revsapp)
 					revs.add(r);
 			}
-			
-			
+
+
 			for (String appid : apps)
 			{
 				int T = DBQuerying.getTotalRevsForApp(appid);
@@ -66,17 +66,23 @@ public class AvgDistrRateStatsAnalysis
 					System.out.println("Appid:" + appid + " rev index: " + index + " total codes: " + trel);
 				}
 			}
-			
+
 			int sum = 0;
 			for (int k = 0; k < totalCodes.size(); k++)
 				sum += totalCodes.get(k);
 			avg.setAvg((double)sum/totalCodes.size());
-			
+
 			rep.report.add(avg);
 		}
 		return rep;
 	}
-	
+	/**
+	* This method counts the amount of cose per review
+	* @param revs ArrayList
+	* @param appid String - this is the stored id of a given app
+	* @param revid String
+	* @return total int - total of appid and revid
+	*/
 	public static int countCodesPerReview(ArrayList<Review> revs, String appid, String revid)
 	{
 		int total = 0;
@@ -87,7 +93,7 @@ public class AvgDistrRateStatsAnalysis
 		}
 		return total;
 	}
-	
+
 	public static void main(String[] args)
 	{
 		AvgDistrRateStatsAnalysis.createReportAvgDistrRateStats().print();
