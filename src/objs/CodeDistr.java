@@ -20,7 +20,7 @@
 
 package objs;
 
-public class CodeDistr 
+public class CodeDistr
 {
 
 	private String code;
@@ -28,7 +28,11 @@ public class CodeDistr
 	private double perc;
 	private int totalrel;
 	private double percrel;
-	
+
+	/**
+	*Constructor for <b>CodeDistributer(codeDistr)</b>
+	*default
+	*/
 	public CodeDistr()
 	{
 		code = new String();
@@ -37,7 +41,15 @@ public class CodeDistr
 		totalrel = 0;
 		percrel = 0;
 	}
-	
+
+	/**
+	*Constructor for <b>CodeDistributer(codeDistr)</b>
+	*@param c
+	*@param t
+	*@param p
+	*@param totalr
+	*@param parrel
+	*/
 	public CodeDistr(String c, int t, double p, int totalr, double perrel)
 	{
 		code = c;
@@ -47,51 +59,85 @@ public class CodeDistr
 		percrel = perrel;
 	}
 
-
+	/**
+	*Getter for <b>Code</b>
+	*@return Code
+	*/
 	public String getCode() {
 		return code;
 	}
 
-
+	/**
+	*Setter for <b>Code</b>
+	*@param Code
+	*/
 	public void setCode(String code) {
 		this.code = code;
 	}
 
-
+	/**
+	*Getter for <b>Total</b>
+	*@return Total
+	*/
 	public int getTotal() {
 		return total;
 	}
 
-
+	/**
+	*Setter for <b>Total</b>
+	*@param Total
+	*/
 	public void setTotal(int total) {
 		this.total = total;
 	}
 
-
+	/**
+	*Getter for <b>Perc</b>
+	*@return Perc
+	*/
 	public double getPerc() {
 		return perc;
 	}
 
-
+	/**
+	*Setter for <b>Perc</b>
+	*@param Perc
+	*/
 	public void setPerc(double perc) {
 		this.perc = perc;
 	}
 
+	/**
+	*Getter for <b>Totalrel</b>
+	*@return Totalrel
+	*/
 	public int getTotalrel() {
 		return totalrel;
 	}
 
+	/**
+	*Setter for <b>Totalrel</b>
+	*@param Totalrel
+	*/
 	public void setTotalrel(int totalrel) {
 		this.totalrel = totalrel;
 	}
 
+	/**
+	*Getter for <b>Percrel</b>
+	*@return Percrel
+	*/
 	public double getPercrel() {
 		return percrel;
 	}
 
+	/**
+	*Setter for <b>Percrel</b>
+	*@param Percrel
+	*/
 	public void setPercrel(double percrel) {
 		this.percrel = percrel;
 	}
-	
-	
+
+
 }

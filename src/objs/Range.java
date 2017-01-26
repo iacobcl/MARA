@@ -19,44 +19,18 @@
 
 package objs;
 
-public class Range 
+public class Range
 {
 	private double min;
 	private double max;
 	private int count;
 	private double perc;
-	public Range(double min, double max, int count, double perc) {
-		super();
-		this.min = min;
-		this.max = max;
-		this.count = count;
-		this.perc = perc;
-	}
-	public double getMin() {
-		return min;
-	}
-	public void setMin(double min) {
-		this.min = min;
-	}
-	public double getMax() {
-		return max;
-	}
-	public void setMax(double max) {
-		this.max = max;
-	}
-	public int getCount() {
-		return count;
-	}
-	public void setCount(int count) {
-		this.count = count;
-	}
-	public double getPerc() {
-		return perc;
-	}
-	public void setPerc(double perc) {
-		this.perc = perc;
-	}
-	
+
+	/**
+	*Constructor for <b>Range</b>
+	*Default
+	*Set all attributes to 0
+	*/
 	public Range()
 	{
 		min = 0;
@@ -64,5 +38,84 @@ public class Range
 		count = 0;
 		perc = 0;
 	}
+	/**
+	*Constructor for <b>Range</b>
+	*@param min
+	*@param max
+	*@param count
+	*@param perc
+	*/
+	public Range(double min, double max, int count, double perc) {
+		super();
+		this.min = min;
+		this.max = max;
+		this.count = count;
+		this.perc = perc;
+	}
+
+	/**
+	*Getter for <b>Min</b>
+	*@return Min
+	*/
+	public double getMin() {
+		return min;
+	}
+
+	/**
+	*Setter for <b>Min</b>
+	*@param Min
+	*/
+	public void setMin(double min) {
+		this.min = min;
+	}
+
+	/**
+	*Getter for <b>Max</b>
+	*@return Max
+	*/
+	public double getMax() {
+		return max;
+	}
+
+	/**
+	*Setter for <b>Max</b>
+	*@param Max
+	*/
+	public void setMax(double max) {
+		this.max = max;
+	}
+
+	/**
+	*Getter for <b>Count</b>
+	*@return Count
+	*/
+	public int getCount() {
+		return count;
+	}
+
+	/**
+	*Setter for <b>Count</b>
+	*@param Count
+	*/
+	public void setCount(int count) {
+		this.count = count;
+	}
+
+	/**
+	*Getter for <b>Perc</b>
+	*@return Perc
+	*/
+	public double getPerc() {
+		return perc;
+	}
+
+	/**
+	*Setter for <b>Perc</b>
+	*@param Perc
+	*/
+	public void setPerc(double perc) {
+		this.perc = perc;
+	}
+
 
 }

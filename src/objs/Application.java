@@ -19,57 +19,100 @@
 
 package objs;
 
-public class Application 
+public class Application
 {
 	private String id;
 	private String no;
 	private double rating;
 	private double price;
 	private double norates;
-	
 
-	public double getRating() {
-		return rating;
-	}
-
-	public void setRating(double rating) {
-		this.rating = rating;
-	}
-
-	public double getPrice() {
-		return price;
-	}
-
-	public void setPrice(double price) {
-		this.price = price;
-	}
-
-	public double getNorates() {
-		return norates;
-	}
-
-	public void setNorates(double norates) {
-		this.norates = norates;
-	}
-
+	/**
+	*Consructor for <b>Application</b>
+	*Set all attributes to new string
+	*/
 	public Application()
 	{
 		id = new String();
 		no = new String();
 	}
 
+	/**
+	*Getter for <b>Rating</b>
+	*@return Rating
+	*/
+	public double getRating() {
+		return rating;
+	}
+
+	/**
+	*Setter for <b>Rating</b>
+	*@param Rating
+	*/
+	public void setRating(double rating) {
+		this.rating = rating;
+	}
+
+	/**
+	*Getter for <b>Price</b>
+	*@return Price
+	*/
+	public double getPrice() {
+		return price;
+	}
+
+	/**
+	*Setter for <b>Price</b>
+	*@param Price
+	*/
+	public void setPrice(double price) {
+		this.price = price;
+	}
+
+	/**
+	*Getter for <b>Norates</b>
+	*@return Norates
+	*/
+	public double getNorates() {
+		return norates;
+	}
+
+	/**
+	*Setter for <b>Norates</b>
+	*@param Norates
+	*/
+	public void setNorates(double norates) {
+		this.norates = norates;
+	}
+
+	/**
+	*Getter for <b>Id</b>
+	*@return Id
+	*/
 	public String getId() {
 		return id;
 	}
 
+	/**
+	*Setter for <b>Id</b>
+	*@param Id
+	*/
 	public void setId(String id) {
 		this.id = id;
 	}
 
+	/**
+	*Getter for <b>No</b>
+	*@return No
+	*/
 	public String getNo() {
 		return no;
 	}
 
+	/**
+	*Setter for <b>No</b>
+	*@param No
+	*/
 	public void setNo(String no) {
 		this.no = no;
 	}

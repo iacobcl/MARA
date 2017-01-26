@@ -19,36 +19,61 @@
 
 package objs;
 
-public class File 
+public class File
 {
 
 	private String fileName = new String();
 	private int status;
-	
+
+	/**
+	*Constructor for <b>File<b>
+	*Default
+	*/
 	public File()
 	{
 		fileName = new String();
 		status = 0;
 	}
 
+	/**
+	*Constructor for <b>File</b>
+	*@param f(fileName)
+	*@param s(status)
+	*/
 	public File(String f, int s)
 	{
 		fileName = f;
 		status = s;
 	}
-	
+
+	/**
+	*Getter for <b>FileName</b>
+	*@return FileName
+	*/
 	public String getFileName() {
 		return fileName;
 	}
 
+	/**
+	*Setter for <b>FileName</b>
+	*@param FileName
+	*/
 	public void setFileName(String fileName) {
 		this.fileName = fileName;
 	}
 
+	/**
+	*Getter for <b>Status</b>
+	*@return Status
+	*/
 	public int getStatus() {
 		return status;
 	}
 
+	/**
+	*Setter for <b>Status</b>
+	*@param Status
+	*/
 	public void setStatus(int status) {
 		this.status = status;
 	}
