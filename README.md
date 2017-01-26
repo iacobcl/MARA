@@ -1,4 +1,1 @@
-MARA
-====
-
-Mobile Apps Review Analysis
+# MARA - Mobile Apps Review Analysis

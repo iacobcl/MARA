@@ -34,34 +34,56 @@ import objs.Review;
 
 
 
-public class DBQuerying 
+public class DBQuerying
 {
-	
-	
+
+	/**
+	 * returns the total amount of codes.
+	 * it does this by:
+	 * 	firstly loading the correct driver
+	 * 	then query the database for everything in the codes table
+	 * 	It then goes through the list returned, incrementing the counter every time
+	 * 	It then returns the count, the size of the linked list returned.
+	 * @return the size of the Codes table
+	 */
 	public static int getTotalCodes()
 	{
 		{
+			// set total to 0
 			int total = 0;
+			//attempt to load driver
 			try
 			{
+				 //load driver
 				 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
+				     //connect to database
 		         Connection c = DriverManager.getConnection("jdbc:odbc:mobbs", "mobbs", "mobbs");
+						 //prepare a query for searching the database
 		         Statement s = c.createStatement();
+						 // executes the query and stores it in a ResultSet type
 		         ResultSet r = s.executeQuery("SELECT * FROM Codes");;
-		         
+		         //loop through the result set, incrementing the counter every time
 		         while (r.next())
 		        	 total++;
 		         c.close();
 			}
 			catch (Exception e)
 			{
+				//if we can't load the driver, show the error
 				e.printStackTrace();
 			}
-			
+
 			return total;
 		}
 	}
 
+	/**
+	 * gets the total number of codes for an app from the database
+	 * attmempts to load the driver, runs the query with the app id parameter interpolated
+	 * then it loops through the result set and increments a counter
+	 * @param  String appid         the app to search for
+	 * @return        the number of codes for a given app id
+	 */
 	public static int getTotalCodesForApp(String appid)
 	{
 		{
@@ -72,7 +94,7 @@ public class DBQuerying
 		         Connection c = DriverManager.getConnection("jdbc:odbc:mobbs", "mobbs", "mobbs");
 		         Statement s = c.createStatement();
 		         ResultSet r = s.executeQuery("SELECT * FROM Codes WHERE appid='" + appid + "'");;
-		         
+
 		         while (r.next())
 		        	 total++;
 		         c.close();
@@ -81,11 +103,11 @@ public class DBQuerying
 			{
 				e.printStackTrace();
 			}
-			
+
 			return total;
 		}
 	}
-	
+
 	public static int getTotalClassCode(String classcode)
 	{
 		int total = 0;
@@ -96,7 +118,7 @@ public class DBQuerying
 	         Statement s = c.createStatement();
 	         ResultSet r = s.executeQuery("SELECT * FROM Codes WHERE codeclass='" + classcode + "'");;
 	         //c.close();
-	         
+
 	         while (r.next())
 	        	 total++;
 		}
@@ -104,10 +126,10 @@ public class DBQuerying
 		{
 			e.printStackTrace();
 		}
-		
+
 		return total;
 	}
-	
+
 
 	public static int getTotalRefCode(String classcode, String refcode)
 	{
@@ -119,7 +141,7 @@ public class DBQuerying
 	         Statement s = c.createStatement();
 	         ResultSet r = s.executeQuery("SELECT * FROM Codes WHERE codeclass='" + classcode + "' AND refinedcode='" + refcode + "'");;
 	         //c.close();
-	         
+
 	         while (r.next())
 	        	 total++;
 	         c.close();
@@ -128,11 +150,11 @@ public class DBQuerying
 		{
 			e.printStackTrace();
 		}
-		
+
 		return total;
 	}
-	
-	
+
+
 	public static ResultSet getAppsForCat(String cat)
 	{//returns all apps from a category cat
 		try
@@ -150,21 +172,21 @@ public class DBQuerying
 			return null;
 		}
 	}
-	
-	
+
+
 	public static ArrayList<String> getAppsForNoRatesRange(int i, int j)
 	{//returns all apps which have the no of rates assigned to them between i anf j
-		
+
 		ArrayList<String> apps = new ArrayList<String>();
-System.out.println(i + "  " + j);		
+System.out.println(i + "  " + j);
 		try
 		{
 			 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
 	         Connection c = DriverManager.getConnection("jdbc:odbc:mobbs", "mobbs", "mobbs");
 	         Statement s = c.createStatement();
-	         
+
 	         ResultSet r = s.executeQuery("SELECT * FROM Apps");
-	         
+
 	         while (r.next())
 	         {
 	        	 int norates = r.getInt("Norates");
@@ -175,8 +197,8 @@ System.out.println(i + "  " + j);
 	        			 apps.add(appid);
 	        	 }
 	         }
-	         
-	         
+
+
 	         //c.close();
 	         return apps;
 		}
@@ -186,20 +208,20 @@ System.out.println(i + "  " + j);
 			return null;
 		}
 	}
-	
+
 	public static ArrayList<String> getAppsForPriceRange(double i, double j)
 	{//returns all apps which cost more than i, but less than j !!!! optimize
-		
+
 		ArrayList<String> apps = new ArrayList<String>();
-		
+
 		try
 		{
 			 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
 	         Connection c = DriverManager.getConnection("jdbc:odbc:mobbs", "mobbs", "mobbs");
 	         Statement s = c.createStatement();
-	         
+
 	         ResultSet r = s.executeQuery("SELECT * FROM Apps");
-	         
+
 	         while (r.next())
 	         {
 	        	 double price = r.getDouble("Price");
@@ -210,8 +232,8 @@ System.out.println(i + "  " + j);
 	        			 apps.add(appid);
 	        	 }
 	         }
-	         
-	         
+
+
 	         //c.close();
 	         return apps;
 		}
@@ -221,20 +243,20 @@ System.out.println(i + "  " + j);
 			return null;
 		}
 	}
-	
+
 	public static int getTotalAppsForPriceRange(double i, double j)
 	{//returns all apps which cost more than i, but less than j !!!! optimize
-		
+
 		ArrayList<String> apps = new ArrayList<String>();
-		
+
 		try
 		{
 			 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
 	         Connection c = DriverManager.getConnection("jdbc:odbc:mobbs", "mobbs", "mobbs");
 	         Statement s = c.createStatement();
-	         
+
 	         ResultSet r = s.executeQuery("SELECT * FROM Apps");
-	         
+
 	         while (r.next())
 	         {
 	        	 double price = r.getDouble("Price");
@@ -245,8 +267,8 @@ System.out.println(i + "  " + j);
 	        			 apps.add(appid);
 	        	 }
 	         }
-	         
-	         
+
+
 	         //c.close();
 	         return apps.size();
 		}
@@ -256,20 +278,20 @@ System.out.println(i + "  " + j);
 			return 0;
 		}
 	}
-	
+
 	public static ArrayList<String> getAppsForRateRange(int i, int j)
 	{//returns all apps which cost more than i, but less than j !!!! optimize
-		
+
 		ArrayList<String> apps = new ArrayList<String>();
-		
+
 		try
 		{
 			 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
 	         Connection c = DriverManager.getConnection("jdbc:odbc:mobbs", "mobbs", "mobbs");
 	         Statement s = c.createStatement();
-	         
+
 	         ResultSet r = s.executeQuery("SELECT * FROM Apps");
-	         
+
 	         while (r.next())
 	         {
 	        	 double rate = r.getDouble("Rate");
@@ -280,8 +302,8 @@ System.out.println(i + "  " + j);
 	        			 apps.add(appid);
 	        	 }
 	         }
-	         
-	         
+
+
 	         //c.close();
 	         return apps;
 		}
@@ -291,20 +313,20 @@ System.out.println(i + "  " + j);
 			return null;
 		}
 	}
-	
+
 	public static int getTotalAppsForRateRange(int i, int j)
 	{//returns all apps which cost more than i, but less than j !!!! optimize
-		
+
 		ArrayList<String> apps = new ArrayList<String>();
-		
+
 		try
 		{
 			 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
 	         Connection c = DriverManager.getConnection("jdbc:odbc:mobbs", "mobbs", "mobbs");
 	         Statement s = c.createStatement();
-	         
+
 	         ResultSet r = s.executeQuery("SELECT * FROM Apps");
-	         
+
 	         while (r.next())
 	         {
 	        	 double rate = r.getDouble("Rate");
@@ -315,8 +337,8 @@ System.out.println(i + "  " + j);
 	        			 apps.add(appid);
 	        	 }
 	         }
-	         
-	         
+
+
 	         //c.close();
 	         return apps.size();
 		}
@@ -326,81 +348,81 @@ System.out.println(i + "  " + j);
 			return 0;
 		}
 	}
-	
+
 	public static int getTotalCodesOverallFeedback(String codeType, String code)
 	{//for appid, returns the no of reviews coded with class code codetype and refined code code
 		int total = 0;
-		
+
 		try
 		{
 			 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
 	         Connection c = DriverManager.getConnection("jdbc:odbc:mobbs", "mobbs", "mobbs");
 	         Statement s = c.createStatement();
-	         
+
 	         ResultSet r = s.executeQuery("SELECT * FROM Codes WHERE codeclass='" + codeType + "' AND refinedcode='" + code + "'" );
 
-	         while (r.next())  
+	         while (r.next())
        			 total++;
-	         
+
 	         c.close();
 		}
 		catch (Exception e)
 		{
 			e.printStackTrace();
 		}
-		
+
 		return total;
 	}
-	
+
 	public static int getTotalCodesPerApp(String codeType, String code, String appid)
 	{//for appid, returns the no of reviews coded with class code codetype and refined code code
 		int total = 0;
-		
+
 		try
 		{
 			 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
 	         Connection c = DriverManager.getConnection("jdbc:odbc:mobbs", "mobbs", "mobbs");
 	         Statement s = c.createStatement();
-	         
+
 	         ResultSet r = s.executeQuery("SELECT * FROM Codes WHERE appid='" + appid + "' AND codeclass='" + codeType + "' AND refinedcode='" + code + "'" );
 
-	         while (r.next())  
+	         while (r.next())
         		 total++;
-	        	 
-	         
+
+
 	         c.close();
 		}
 		catch (Exception e)
 		{
 			e.printStackTrace();
 		}
-		
+
 		return total;
 	}
-	
+
 	public static int getTotalClassCodesPerApp(String codeType, String appid)
 	{//for appid, returns the no of reviews coded with class code codetype and refined code code
 		int total = 0;
-		
+
 		try
 		{
 			 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
 	         Connection c = DriverManager.getConnection("jdbc:odbc:mobbs", "mobbs", "mobbs");
 	         Statement s = c.createStatement();
-	         
+
 	         ResultSet r = s.executeQuery("SELECT * FROM Codes WHERE appid='" + appid + "' AND codeclass='" + codeType + "'" );
 
-	         while (r.next())  
+	         while (r.next())
         		 total++;
-	        	 
-	         
+
+
 	         c.close();
 		}
 		catch (Exception e)
 		{
 			e.printStackTrace();
 		}
-		
+
 		return total;
 	}
 
@@ -415,7 +437,7 @@ System.out.println(i + "  " + j);
 		}
 		return codes;
 	}
-		
+
 	public static int getTotalRevsForApp(String appid)
 	{
 		int total = 0;
@@ -425,13 +447,13 @@ System.out.println(i + "  " + j);
 	         Connection c = DriverManager.getConnection("jdbc:odbc:mobbs", "mobbs", "mobbs");
 	         Statement s = c.createStatement();
 	         ResultSet r = s.executeQuery("SELECT * FROM Norevs WHERE appid='" + appid + "'");;
-	         
+
 	         while (r.next())
 	        	 if (isCoded(r.getString("appid")))
 	        			 total = r.getInt("norevs");
-	         
+
 	         c.close();
-	        
+
 		}
 		catch (Exception e)
 		{
@@ -439,7 +461,7 @@ System.out.println(i + "  " + j);
 		}
 		return total;
 	}
-	
+
 	public static ArrayList<String> getAppsCoded()
 	{
 		ArrayList<String> apps = new ArrayList<String>();
@@ -448,14 +470,14 @@ System.out.println(i + "  " + j);
 			 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
 	         Connection c = DriverManager.getConnection("jdbc:odbc:mobbs", "mobbs", "mobbs");
 	         Statement s = c.createStatement();
-	         
+
 	         ResultSet r = s.executeQuery("SELECT * FROM Files WHERE status <> 0");;
-	         
+
 	         while (r.next())
 	        	 apps.add(r.getString("fileid"));
-	         
+
 	         c.close();
-	        
+
 		}
 		catch (Exception e)
 		{
@@ -463,17 +485,17 @@ System.out.println(i + "  " + j);
 		}
 		return apps;
 	}
-	
+
 	public static boolean isCoded(String appid)
 	{
 		ArrayList<String> apps = getAppsCoded();
-		
+
 		for (int i = 0; i < apps.size(); i++)
 			if (apps.get(i).equals(appid))
 				return true;
 		return false;
 	}
-	
+
 	public static int getTotalRevs()
 	{
 		int total = 0;
@@ -482,9 +504,9 @@ System.out.println(i + "  " + j);
 			 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
 	         Connection c = DriverManager.getConnection("jdbc:odbc:mobbs", "mobbs", "mobbs");
 	         Statement s = c.createStatement();
-	         
+
 	         ResultSet r = s.executeQuery("SELECT * FROM Norevs");;
-	         
+
 	         while (r.next())
 	         {
 	        	 String appid = r.getString("appid");
@@ -494,59 +516,59 @@ System.out.println(i + "  " + j);
 	        		 total += totalc;
 	        	 }
 	         }
-	         
+
 	         c.close();
-	        
+
 		}
 		catch (Exception e)
 		{
 			e.printStackTrace();
 		}
 		return total;
-	
+
 	}
-	
+
 	public static int getNoCodeSeqs(String a1, String a2, String b1, String b2)
 	{//ret numarul de revs codate cu ambele coduri (a1, a2) si (b1, b2), unde a1, b1 sunt class code si a2, b2 ref code
 		ArrayList<AppRevCode> revs = new ArrayList<AppRevCode>();
         int total = 0;
-		
+
 		try
 		{
 			 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
 	         Connection c = DriverManager.getConnection("jdbc:odbc:mobbs", "mobbs", "mobbs");
 	         Statement s = c.createStatement();
-	         
-      
+
+
 	         ResultSet r = s.executeQuery("SELECT * FROM Codes WHERE (codeclass='" + a1 + "' AND refinedcode='" + a2 + "') OR (codeclass = '" + b1 + "' AND refinedcode='" + b2 + "')");
-	         
+
 	         while (r.next())
 	        	 revs.add(new AppRevCode(r.getString("appid"), r.getString("revid"), r.getString("codeclass"), r.getString("refinedcode")));
-	         
-	         
-	         
+
+
+
 	         for (int i = 0; i < revs.size() - 1; i++)
 		         for (int j = i + 1; j < revs.size(); j++)
 		        	 if ((revs.get(i).getAppid() != null) && (revs.get(j).getAppid() != null))
-		        	 if ( (revs.get(i).getAppid().equals(revs.get(j).getAppid()) ) && ( 
+		        	 if ( (revs.get(i).getAppid().equals(revs.get(j).getAppid()) ) && (
 		        		  (revs.get(i).getRevid().equals(revs.get(j).getRevid()))))
-		        		 if ((      (revs.get(i).getClasscode().equals(a1))  && (revs.get(i).getRefcode().equals(a2)) 
+		        		 if ((      (revs.get(i).getClasscode().equals(a1))  && (revs.get(i).getRefcode().equals(a2))
 		        		 		&& (revs.get(j).getClasscode().equals(b1))  && (revs.get(j).getRefcode().equals(b2))) ||
-		        		 		(          (revs.get(i).getClasscode().equals(b1))  && (revs.get(i).getRefcode().equals(b2)) 
+		        		 		(          (revs.get(i).getClasscode().equals(b1))  && (revs.get(i).getRefcode().equals(b2))
 				        		 		&& (revs.get(j).getClasscode().equals(a1))  && (revs.get(j).getRefcode().equals(a2))   ))
 		        		 			total++;
 	         c.close();
 
-		 	        
+
 		}
 		catch (Exception e)
 		{
 			e.printStackTrace();
 		}
 		return total;
-		
+
 	}
-	
+
 	public static int getTotalCodesForDevice(String dev)
 	{//returns all reviews which have the device dev
 		ArrayList<Review> ret = new ArrayList<Review>();
@@ -556,14 +578,14 @@ System.out.println(i + "  " + j);
 			 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
 	         Connection c = DriverManager.getConnection("jdbc:odbc:mobbs", "mobbs", "mobbs");
 	         Statement s = c.createStatement();
-	         
+
 	         ResultSet r = s.executeQuery("SELECT * FROM Codes WHERE device= '" + dev + "'");;
-	         
+
 	         while (r.next())
 	        	 total++;
-	         
+
 	         c.close();
-	        
+
 		}
 		catch (Exception e)
 		{
@@ -581,14 +603,14 @@ System.out.println(i + "  " + j);
 			 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
 	         Connection c = DriverManager.getConnection("jdbc:odbc:mobbs", "mobbs", "mobbs");
 	         Statement s = c.createStatement();
-	         
+
 	         ResultSet r = s.executeQuery("SELECT * FROM Codes WHERE device= '" + dev + "' AND codeclass='" + cc + "' AND refinedcode='" + refcode + "'");;
-	         
+
 	         while (r.next())
 	        	 total++;
-	         
+
 	         c.close();
-	        
+
 		}
 		catch (Exception e)
 		{
@@ -597,19 +619,19 @@ System.out.println(i + "  " + j);
 		return total;
 	}
 
-	
+
 	public static ArrayList<Review> getAllRevsForApp(String appid)
 	{
 		ArrayList<Review> revs = new ArrayList<Review>();
-		
+
 		try
 		{
 			 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
 	         Connection c = DriverManager.getConnection("jdbc:odbc:mobbs", "mobbs", "mobbs");
 	         Statement s = c.createStatement();
-	         
+
 	         ResultSet r = s.executeQuery("SELECT * FROM Codes WHERE appid= '" + appid + "'");;
-	         
+
 	         while (r.next())
 	         {
 	        	 Review rv = new Review();
@@ -618,18 +640,18 @@ System.out.println(i + "  " + j);
 	        	 revs.add(rv);
 	         }
 	         c.close();
-	        
+
 		}
 		catch (Exception e)
 		{
 			e.printStackTrace();
 		}
-		
-				
+
+
 		return revs;
 	}
-	
-	
+
+
 	public static ArrayList<Application> getApps()
 	{
 		ArrayList<Application> apps = new ArrayList<Application>();
@@ -638,9 +660,9 @@ System.out.println(i + "  " + j);
 			 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
 	         Connection c = DriverManager.getConnection("jdbc:odbc:mobbs", "mobbs", "mobbs");
 	         Statement s = c.createStatement();
-	         
+
 	         ResultSet r = s.executeQuery("SELECT * FROM Apps");;
-	         
+
 	         while (r.next())
 	         {
 	        	 String appid = r.getString("ID");
@@ -655,42 +677,14 @@ System.out.println(i + "  " + j);
 	        	 }
 	         }
 	         c.close();
-	        
+
 		}
 		catch (Exception e)
 		{
 			e.printStackTrace();
 		}
-		
+
 		return apps;
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

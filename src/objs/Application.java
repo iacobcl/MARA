@@ -19,6 +19,11 @@
 
 package objs;
 
+/**
+ * 
+ * @author Claudia
+ *
+ */
 public class Application 
 {
 	private String id;
@@ -27,49 +32,91 @@ public class Application
 	private double price;
 	private double norates;
 	
-
-	public double getRating() {
-		return rating;
-	}
-
-	public void setRating(double rating) {
-		this.rating = rating;
-	}
-
-	public double getPrice() {
-		return price;
-	}
-
-	public void setPrice(double price) {
-		this.price = price;
-	}
-
-	public double getNorates() {
-		return norates;
-	}
-
-	public void setNorates(double norates) {
-		this.norates = norates;
-	}
-
-	public Application()
-	{
+	/**
+	 * Constructor for Application
+	 * Sets id and no to empty strings
+	 */
+	public Application() {
 		id = new String();
 		no = new String();
 	}
 
+	/**
+	 * accessor for private variable 'rating'
+	 * @return value stored in rating
+	 */
+	public double getRating() {
+		return rating;
+	}
+
+	/**
+	 * mutator for rating - changes the value of rating
+	 * @param rating - the new value for rating
+	 */
+	public void setRating(double rating) {
+		this.rating = rating;
+	}
+	
+	/**
+	 * accessor for private variable 'price'
+	 * @return the value of price
+	 */
+	public double getPrice() {
+		return price;
+	}
+
+	/**
+	 * mutator for private variable price
+	 * @param price new value for price
+	 */
+	public void setPrice(double price) {
+		this.price = price;
+	}
+
+	/**
+	 * accessor for norates
+	 * @return value stored in norates (type double)
+	 */
+	public double getNorates() {
+		return norates;
+	}
+	
+	/**
+	 * mutator for norates
+	 * @param norates new value for norates
+	 */
+	public void setNorates(double norates) {
+		this.norates = norates;
+	}
+
+	/**
+	 * accessor for id
+	 * @return value stored in private variable id
+	 */
 	public String getId() {
 		return id;
 	}
 
+	/**
+	 * mutator for id
+	 * @param id new value for id
+	 */
 	public void setId(String id) {
 		this.id = id;
 	}
 
+	/**
+	 * accessor for no
+	 * @return new value for no
+	 */
 	public String getNo() {
 		return no;
 	}
 
+	/**
+	 * mutator for private variable no
+	 * @param no the new value for no
+	 */
 	public void setNo(String no) {
 		this.no = no;
 	}
