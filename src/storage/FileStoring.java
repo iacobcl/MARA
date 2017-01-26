@@ -26,7 +26,11 @@ import java.io.InputStreamReader;
 
 public class FileStoring 
 {
-
+        
+        /**
+         * @param type name of type
+         * @return Returns code classes
+         */
 	public static String[] loadCodes(String type)
 	{
 		String[] codeClasses = new String[100];
@@ -56,7 +60,10 @@ public class FileStoring
 		return codeClasses;
 	}
 	
-	
+	/**
+         * @param type name of type
+         * @return Returns file codes
+         */
 	public static String getFileCodes(String type)
 	{
 		if (type.equals("class")) return "codeClasses";
