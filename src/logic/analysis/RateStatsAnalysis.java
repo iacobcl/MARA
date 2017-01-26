@@ -40,7 +40,9 @@ public class RateStatsAnalysis
 	public static int[] stars = new int[]{0, 1, 2, 3, 4, 5};
 	public static String[] classes = new String[]{"positive feedback", "negative feedback", "comparative feedback", "money feedback", "requirements", "reporting", "usability", "customer support", "versioning"};
 
-	
+	/**
+         * @return Return Device Distribution
+         */
 	public static ArrayList<Range> createRateDistr()
 	{
 		ArrayList<Range> devDistr = new ArrayList<Range>();
@@ -89,6 +91,9 @@ public class RateStatsAnalysis
 
 ///////////////////////////////////////////////////////////////////////////
 	
+        /**
+         * @return Return Report of rate stats
+         */
 	public static ReportRateStats createReportRateStats()
 	{
 		ReportRateStats rep = new ReportRateStats();
@@ -152,7 +157,9 @@ System.out.println(Integer.toString(star) + "  " + Integer.toString(star + 1) + 
 		return rep;
 	}
 	
-	
+	/**
+         * @param args Array of string arguments
+         */
 	public static void main(String[] args)
 	{
 		RateStatsAnalysis.createReportRateStats();
