@@ -18,19 +18,21 @@
 */
 
 package objs;
+//the name of the class is device //
 
 public class Device 
 {
 	private String device;
 	private int count;
 	private double perc;
-	
+	//below are the parameters for device which needs to be a string, count needs to be number, persc decimal//
 	public Device(String device, int count, double perc) {
 		super();
 		this.device = device;
 		this.count = count;
 		this.perc = perc;
 	}
+	//get methods which return the requested values//
 	public String getDevice() {
 		return device;
 	}
