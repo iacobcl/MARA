@@ -25,18 +25,26 @@ import objs.stats.RefCodeStats;
 import objs.stats.reports.ReportClassCodeStats;
 import storage.DBQuerying;
 
-
+/**
+ * Deals with analysing the code class statistics
+ */
 public class CodeClassesStatsAnalysis 
 {
-	
+
+	//List of the classes
 	public static String[] classes = new String[]{"positive feedback", "negative feedback", "comparative feedback", "money feedback", "requirements", "reporting", "usability", "customer support", "versioning"};
-	
-		
+
+	/**
+	 * Analyses and returns a report for the code classes
+	 * @return a ReportClassCodeStats with analysis
+     */
 	public static ReportClassCodeStats createReportClassCodeStats()
 	{
+		//Create the report
 		ReportClassCodeStats rep = new ReportClassCodeStats();
 		int totalcode;
-		
+
+		//Loop through all the classes
 		for (String cc : classes)
 		{
 			//if (cc.equals("positive feedback"))
@@ -51,16 +59,17 @@ public class CodeClassesStatsAnalysis
 			int totalCodes = DBQuerying.getTotalCodes();
 			double perc = (double)totalcode*100/totalCodes;
 			
-System.out.println(totalCodes);			
-				
-				
+			System.out.println(totalCodes);
+
 			ArrayList<CodeDistr> dist = new ArrayList<CodeDistr>();
 			dist.add(new CodeDistr(cc, totalcode, perc, 0, 0));
 						
 			RefCodeStats stats = new RefCodeStats(cc, dist);
-				
+
+			//Add the stats the the report
 			rep.report.add(stats);
 		}
+		//Return the analysed report
 		return rep;
 	}
 	

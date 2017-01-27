@@ -27,31 +27,47 @@ import objs.CodeDistr;
 import objs.stats.PriceStats;
 import objs.stats.RateStats;
 
+/**
+ * Creates and manages a report on price statistics
+ */
 public class ReportPriceStats
 {
 	public static ArrayList<PriceStats> report;
-	
+
+	/**
+	 * Create the report with an array
+	 */
 	public ReportPriceStats()
 	{
 		report = new ArrayList<PriceStats>();
 	}
 
-
+	/**
+	 * Return the classes report
+	 * @return The report to return
+	 */
 	public ArrayList<PriceStats> getReport() 
 	{
 		return report;
 	}
 
-
+	/**
+	 * Set this classes report
+	 * @param report the new report
+	 */
 	public void setReport(ArrayList<PriceStats> report) 
 	{
 		this.report = report;
 	}
-	
+
+	/**
+	 * Write the report to a file
+	 */
 	public static void print()
 	{
 		 try
 		 {
+			  //Try to access the file the stats are going to be written to
 			  FileWriter fstream = new FileWriter("reports/price_range_stats/reportpricestats.txt");
 	    	  BufferedWriter out = new BufferedWriter(fstream);
 	    	  for (int i = 0; i < report.size(); i++)

@@ -27,24 +27,33 @@ import objs.stats.reports.ReportClassCodeStats;
 import storage.DBQuerying;
 import storage.FileStoring;
 
+/**
+ * Deals with the analyses of the refined codes statistics
+ */
 public class RefinedCodesStatsAnalysis 
 {
+	//Create the classes list
 	public static String[] classes = new String[]{"positive feedback", "negative feedback", "comparative feedback", "money feedback", "requirements", "reporting", "usability", "customer support", "versioning"};
-	
+
+	/**
+	 * Creates and analyses a report on the class codes
+	 * @return The analysed pricing report
+     */
 	public static ReportClassCodeStats createReportRefinedCodesOverallStats()
 	{
+		//Setup the report
 		ReportClassCodeStats rep = new ReportClassCodeStats();
 	
 		int totalcode;
 		//int totalrevs = DBQuerying.getTotalRevs();
 		int totalCodes = DBQuerying.getTotalCodes();
 
-		
+		//Loop through the classes
 		for (String cc : classes)
 		{
+			//Get the total number class codes
 			totalcode = DBQuerying.getTotalClassCode(cc);
-			
-			
+			//Get the refined codes
 			RefCodeStats refcodestats = new RefCodeStats();
 			ArrayList<CodeDistr> distcc = new ArrayList<CodeDistr>();
 				
@@ -54,12 +63,15 @@ public class RefinedCodesStatsAnalysis
 			distcc.add(new CodeDistr(cc, totalcode, perc, 0, 0)); //add the class code
 			
 			String[] refcodes = FileStoring.loadCodes(cc);
-				
+
+			//Loop through all the refined code
 			for (String refc : refcodes)
 			{
 				//if ( (cc.equals("positive feedback")) || (cc.equals("negative feedback")))
-					if (refc != null) 
+				//Ensure that the refined code exists
+				if (refc != null)
 					{
+						//Calcuate the averages and statistics
 						int totalref = DBQuerying.getTotalRefCode(cc, refc);
 						double perct = (double)totalref*100/totalCodes;
 						double percr = (double)totalref*100/totalcode;
@@ -77,10 +89,11 @@ public class RefinedCodesStatsAnalysis
 					}*/
 					
 			}
-			
+			//Add the stats to the report
 			refcodestats.setDist(distcc);
 			rep.report.add(refcodestats);
 		}
+		//Return the analysed report
 		return rep;
 	}
 	

@@ -27,33 +27,48 @@ import objs.CodeDistr;
 import objs.stats.DeviceStats;
 import objs.stats.PosNegCatStats;
 
+/**
+ * Creates and manages a report on the positive and negative category stats
+ */
 public class ReportPosNegCatStats 
 {
 	
 	public ArrayList<PosNegCatStats> report = new ArrayList<PosNegCatStats>();
-	
-	
+
+	/**
+	 * Create the report with an array
+	 */
 	public ReportPosNegCatStats()
 	{
 		report = new ArrayList<PosNegCatStats>();
 	}
 
-
+	/**
+	 * Return the classes report
+	 * @return The report to return
+	 */
 	public ArrayList<PosNegCatStats> getReport() 
 	{
 		return report;
 	}
 
-
+	/**
+	 * Set this classes report
+	 * @param report the new report
+	 */
 	public void setReport(ArrayList<PosNegCatStats> report) 
 	{
 		this.report = report;
 	}
-	
+
+	/**
+	 * Write the report to a file
+	 */
 	public void print()
 	{
 		 try
 		 {
+			 //Try to access the file the stats are going to be written to
 			  FileWriter fstream = new FileWriter("reports/pos_neg_feedback/reportposnegcatstats.txt");
 	    	  BufferedWriter out = new BufferedWriter(fstream);
 	    	  for (int i = 0; i < report.size(); i++)

@@ -23,24 +23,35 @@ import java.util.ArrayList;
 
 import objs.stats.CodesPerCatStats;
 
+/**
+ * Creates a report on the code per category stats
+ */
 public class ReportCodesPerCatStats 
 {
 	
 	public ArrayList<CodesPerCatStats> report;
-	
-	
+
+	/**
+	 * Create the report with an array
+	 */
 	public ReportCodesPerCatStats()
 	{
 		report = new ArrayList<CodesPerCatStats>();
 	}
 
-
+	/**
+	 * Return the classes report
+	 * @return The report to return
+	 */
 	public ArrayList<CodesPerCatStats> getReport() 
 	{
 		return report;
 	}
 
-
+	/**
+	 * Set this classes report
+	 * @param report the new report
+	 */
 	public void setReport(ArrayList<CodesPerCatStats> report) 
 	{
 		this.report = report;

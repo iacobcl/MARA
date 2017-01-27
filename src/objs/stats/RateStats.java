@@ -23,27 +23,51 @@ import java.util.ArrayList;
 
 import objs.CodeDistr;
 
+/**
+ *  Deals with the rate statistics
+ */
 public class RateStats 
 {
 	private int stars;
 	private ArrayList<CodeDistr> dist;
-	
+
+	/**
+	 * Setup the class variables with deafult values of 0 and and empty CodeDistr ArrayList
+	 */
 	public RateStats()
 	{
 		stars = 0;
 		dist = new ArrayList<CodeDistr>();
 	}
-	
-	
+
+	/**
+	 * Returns the number of stars
+	 * @return The number of stars
+     */
 	public int getStars() {
 		return stars;
 	}
+
+	/**
+	 * Set the stars variable to a new integer
+	 * @param stars The new integer
+     */
 	public void setStars(int stars) {
 		this.stars = stars;
 	}
+
+	/**
+	 * Returns the ArrayList for Distributions
+	 * @return the ArrayList for Distributions
+     */
 	public ArrayList<CodeDistr> getDist() {
 		return dist;
 	}
+
+	/**
+	 * Repalces the current dist with a new ArrayList of CodeDistr objects
+	 * @param dist the new ArrayList of CodeDistr objects
+     */
 	public void setDist(ArrayList<CodeDistr> dist) {
 		this.dist = dist;
 	}

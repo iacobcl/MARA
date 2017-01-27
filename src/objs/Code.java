@@ -19,14 +19,19 @@
 
 package objs;
 
-
+/**
+ * The code object/class used to store information on the application code
+ */
 public class Code 
 {
 
 	private String classCode;
 	private String refinedCode;
 	private String rawCode;
-	
+
+	/**
+	 * Setup the class with empty Strings
+	 */
 	public Code() 
 	{
 		this.classCode = new String();
@@ -34,26 +39,50 @@ public class Code
 		this.rawCode = new String();
 	}
 
+	/**
+	 * Gets the current classcode
+	 * @return String, the class code
+     */
 	public String getClassCode() {
 		return classCode;
 	}
 
+	/**
+	 * Replaces the current class code with a new String
+	 * @param classCode The new String to replace ClassCode
+     */
 	public void setClassCode(String classCode) {
 		this.classCode = classCode;
 	}
 
+	/**
+	 * Gets the current refined code
+	 * @return String, The refined code
+     */
 	public String getRefinedCode() {
 		return refinedCode;
 	}
 
+	/**
+	 * Replaces the current refined code with a new String
+	 * @param refinedCode The new String to replace refinedCode
+     */
 	public void setRefinedCode(String refinedCode) {
 		this.refinedCode = refinedCode;
 	}
 
+	/**
+	 * Gets the current raw code
+	 * @return String, The raw code
+	 */
 	public String getRawCode() {
 		return rawCode;
 	}
 
+	/**
+	 * Replaces the current rawCode with a new String
+	 * @param rawCode The new String to replace rawCode
+	 */
 	public void setRawCode(String rawCode) {
 		this.rawCode = rawCode;
 	}

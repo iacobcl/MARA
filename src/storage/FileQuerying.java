@@ -29,23 +29,34 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.ArrayList;
 
+/**
+ * Query data inside files
+ */
 public class FileQuerying 
 {
-
+	/**
+	 * Get a list of all devices
+	 * @return an Arraylist containing all devices
+     */
 	public static ArrayList<String> getDevices()
 	{
+		//setup arraylist to return
 		ArrayList<String> devs = new ArrayList<String>();
 		try
 		{
+			//Open the file
 		  FileInputStream fstream = new FileInputStream("conf/devices.txt");
+			//setup reader
 		  DataInputStream in = new DataInputStream(fstream);
 		  BufferedReader br = new BufferedReader(new InputStreamReader(in));
 		  String strLine;
 		  //Read File Line By Line
 		  while ((strLine = br.readLine()) != null)
 		  {
+			  //Add device to the arraylist
 			  devs.add(strLine);
 		  }
+			//close the file
 		  in.close();
 		  
 		}
@@ -53,6 +64,7 @@ public class FileQuerying
 		{//Catch exception if any
 			  //System.err.println("Error: " + e.toString());
 		}
+		//return the arraylist of devices
 		return devs;
 	}
 	

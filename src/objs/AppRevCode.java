@@ -19,13 +19,19 @@
 
 package objs;
 
+/**
+ * Reviewed application code object
+ */
 public class AppRevCode 
 {
 	private String appid;
 	private String revid;
 	private String classcode;
 	private String refcode;
-	
+
+	/**
+	 * Setup the class with empty variables
+	 */
 	public AppRevCode()
 	{
 		appid = new String();
@@ -34,6 +40,13 @@ public class AppRevCode
 		refcode = new String();
 	}
 
+	/**
+	 * Ssetup the class with defined variables
+	 * @param appid String, the appID
+	 * @param revid String the review ID
+	 * @param classcode String, the class code thats reviewed
+     * @param refcode String, the refined code to compare with the classcode
+     */
 	public AppRevCode(String appid, String revid, String classcode,
 			String refcode) {
 		super();
@@ -43,38 +56,67 @@ public class AppRevCode
 		this.refcode = refcode;
 	}
 
+	/**
+	 * Get the application ID
+	 * @return String, the current appID
+     */
 	public String getAppid() {
 		return appid;
 	}
 
+	/**
+	 * Replaces the current appID with a new String
+	 * @param appid The new string to replace appId
+     */
 	public void setAppid(String appid) {
 		this.appid = appid;
 	}
 
+	/**
+	 * Get the current reviewID
+	 * @return String, the review ID
+     */
 	public String getRevid() {
 		return revid;
 	}
 
+	/**
+	 * replace the current revID with a new string
+	 * @param revid the new string to replace revID with
+     */
 	public void setRevid(String revid) {
 		this.revid = revid;
 	}
 
+	/**
+	 * Get the current ClassCode
+	 * @return String, the current class code
+     */
 	public String getClasscode() {
 		return classcode;
 	}
 
+	/**
+	 * Replace the current ClassCode with a new String
+	 * @param classcode the new String to replace ClassCode
+     */
 	public void setClasscode(String classcode) {
 		this.classcode = classcode;
 	}
 
+	/**
+	 * Get the current refined code
+	 * @return String, the refined code
+     */
 	public String getRefcode() {
 		return refcode;
 	}
 
+	/**
+	 * Replace the current refined code with a new String
+	 * @param refcode the new String to replace Refined code.
+     */
 	public void setRefcode(String refcode) {
 		this.refcode = refcode;
 	}
-	
-	
-
 }

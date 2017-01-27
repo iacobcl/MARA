@@ -24,23 +24,34 @@ import java.util.ArrayList;
 import objs.stats.DeviceStats;
 import objs.stats.UpdateStats;
 
+/**
+ * Will create and manage a report for the update statistics
+ */
 public class ReportUpdateStats 
 {
 	public ArrayList<UpdateStats> report;
-	
-	
+
+	/**
+	 * Create the report with an array
+	 */
 	public ReportUpdateStats()
 	{
 		report = new ArrayList<UpdateStats>();
 	}
 
-
+	/**
+	 * Return the classes report
+	 * @return The report to return
+	 */
 	public ArrayList<UpdateStats> getReport() 
 	{
 		return report;
 	}
 
-
+	/**
+	 * Set this classes report
+	 * @param report the new report
+	 */
 	public void setReport(ArrayList<UpdateStats> report) 
 	{
 		this.report = report;
