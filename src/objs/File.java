@@ -36,15 +36,18 @@ public class File
 		fileName = f;
 		status = s;
 	}
+	// Sets the fileName F, Status S
 	
 	public String getFileName() {
 		return fileName;
 	}
+	
+	//Returns the fileName
 
 	public void setFileName(String fileName) {
 		this.fileName = fileName;
 	}
-
+	
 	public int getStatus() {
 		return status;
 	}
@@ -52,4 +55,6 @@ public class File
 	public void setStatus(int status) {
 		this.status = status;
 	}
+	
+	// Sets new value 
 }
