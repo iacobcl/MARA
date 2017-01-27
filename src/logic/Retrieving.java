@@ -80,7 +80,7 @@ public class Retrieving
         						{
         							for (int j = 0; j < kids.getLength(); j++)
         		            		{
-//System.out.println(kids.item(j).getTextContent());        								
+										//System.out.println(kids.item(j).getTextContent());
         		            		
         								//set the device and version
         		            			if ( (kids.item(j).getNodeName().equals("#text")) && (kids.item(j).getTextContent() != null) )
@@ -171,39 +171,50 @@ public class Retrieving
 	        }
 	       
 	}*/
-	
-	//the method writes the processed reviews of an application in a tab delimited file
+
+	/**
+	 * The method writes the processed reviews of an application in a tab delimited file
+	 * @param revs The list of items to review
+	 * @param fileName The name of the file being reviewed
+     */
 	public static void storeReviews(ArrayList<Review> revs, String fileName)
 	{
 		
 		try
 		{
-			  FileWriter fstream = new FileWriter("outputMSRAna/" + fileName + ".txt");
-			  BufferedWriter out = new BufferedWriter(fstream);
+			//Try to get the file we want to review
+			FileWriter fstream = new FileWriter("outputMSRAna/" + fileName + ".txt");
+		  	BufferedWriter out = new BufferedWriter(fstream);
 
-			  for (int i = 0; i < revs.size(); i++)
-			  {
-				  out.write(revs.get(i).getDate() + "&&&" + revs.get(i).getRate() + "&&&" + revs.get(i).getDevice() + "&&&" + revs.get(i).getVersion() + "&&&" + revs.get(i).getTitle() + "&&&" + revs.get(i).getText());
-				  out.newLine();
-			  }
-			  out.close();
+			//Write all the reviews to the file
+		  	for (int i = 0; i < revs.size(); i++)
+		  	{
+			  	out.write(revs.get(i).getDate() + "&&&" + revs.get(i).getRate() + "&&&" + revs.get(i).getDevice() + "&&&" + revs.get(i).getVersion() + "&&&" + revs.get(i).getTitle() + "&&&" + revs.get(i).getText());
+			  	out.newLine();
+		  	}
+		  	out.close(); //End out "connection" to the file
 		}
 		catch (Exception e)
 		{//Catch exception if any
-			  System.err.println("Error: " + e.getMessage());
+			System.err.println("Error: " + e.getMessage());
 		}
 	}
-	
-	//the method retrieves the reviews of an application and stores them in a tab delimited file
+
+	/**
+	 * the method retrieves the reviews of an application and stores them in a tab delimited file
+	 * @param file the file that is being used
+     */
 	public static void processReviewMSR(String file)
 	{
 		ArrayList<Review> revs = new ArrayList<Review>();	
 		revs = retrieveReviewsMSR(file);
 		storeReviews(revs, file);
 	}
-	
-	
-	
+
+
+	/**
+	 * Reads the apps file and creates a list from the file
+	 */
 	public static void createAppsMap()
 	{
 		try
@@ -223,7 +234,13 @@ public class Retrieving
 				  System.err.println("Error: " + e.getMessage());
 		}
 	}
-	
+
+
+	/**
+	 *
+	 * @param fileName The file we are reviewing
+	 * @return the list of reviews from the file
+     */
 	public static ArrayList<Review> retrieveReviewsMSR(String fileName)
 	{
 		ArrayList<Review> revs = new ArrayList<Review>();	
@@ -290,9 +307,7 @@ public class Retrieving
         								
         								r.setText(kids.item(1).getChildNodes().item(5).getTextContent());
         								//System.out.println(kids.item(1).getChildNodes().item(5).getTextContent());
-        								
-        								
-        								
+
         								System.out.println("---");
 
         								//String content = kids.item(j).getTextContent();
@@ -301,11 +316,8 @@ public class Retrieving
         								//for (int ic = 0; ic < sContent.length; ic++)
         									//System.out.println(sContent[ic]);
         								//System.out.println("---");
-        								
         								//r.setUser(sContent[0]);
         								//r.setDate(sContent[1]);
-        		            		
-
         		            		}
         						}
         						//r.print();
@@ -326,6 +338,11 @@ public class Retrieving
 	        }
 	       
 	}
+
+	/**
+	 * Initialize the program.
+	 * @param args Arguments given by the user
+     */
 	public static void main(String[] args)
 	{
 		for (int i = 73; i < 241; i++)

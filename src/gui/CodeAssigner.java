@@ -73,7 +73,12 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 	JComboBox classes;
 	JComboBox refined;
 	JTextField raw;
-	
+
+	/**
+	 * Create, setup and draw the GUI
+	 * @param fileName The file used
+	 * @param status The status of the file
+     */
 	public CodeAssigner (String fileName, int status)
 	{
 
@@ -181,20 +186,27 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 		setLocationRelativeTo(null);
 	    setDefaultCloseOperation(EXIT_ON_CLOSE);
 	}
-	
+
+	/**
+	 * calls whenever an action is performed on the GUI
+	 * @param e The action that the user performed
+     */
 	public void actionPerformed(ActionEvent e) 
 	{
-		
+
+		//The button for next Review was clicked
 		if (e.getActionCommand().equals("nextReview"))
 		{
 			if (index + 1 < revs.size())
 			{
+				//Get the text for the next part of this application
 				index++;
 				titleArea.setText(revs.get(index).getTitle());
 				textArea.setText(revs.get(index).getText());
 			}
 			else
 			{
+				//Clear the text boxes to allow for the next application
 				titleArea.setText(" ");
 				textArea.setText(" ");
 				
@@ -203,13 +215,19 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 			
 		}
 		else
+
+		//Add code button pressed
 		if (e.getActionCommand().equals("addCodeButton"))
 		{
+			//Insert the code to be examined into the text box.
+			//Replace and ' with spaces.
 			DBStoring.insertCode(fileName, String.valueOf(index), titleArea.getText().replace("'", " "), "aaa"
 					, classes.getSelectedItem().toString(), refined.getSelectedItem().toString(), raw.getText().replace("'", " "));
 			raw.setText(" ");
 		}
 		else
+
+		//Next app button is pressed
 		if (e.getActionCommand().equals("nextApp"))
 		{
 			//store status complete in db for file 
@@ -217,6 +235,7 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 			new AppChooser().setVisible(true);
 		}	
 		else
+		//The pause button was pressed
 		if (e.getActionCommand().equals("pause"))
 		{
 			//store status complete in db for file 
@@ -224,14 +243,20 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
 			this.setVisible(false);
 		}	
 		
-	}	
-	
+	}
+
+	/**
+	 * Calls when an item state is changed
+	 * @param evt The item change event
+     */
 	public void itemStateChanged(ItemEvent evt)
 	{
 		JComboBox classes = (JComboBox)evt.getSource();
-		
+
+		//If the event was that an item was selected
 		if (evt.getStateChange() == ItemEvent.SELECTED) 
 		{
+			//Remove all items and load in selected ones
 			refined.removeAllItems();
 			String [] codes = fs.loadCodes(classes.getSelectedItem().toString());
 			for (String s: codes)
@@ -239,42 +264,43 @@ public class CodeAssigner extends JFrame implements ActionListener, ItemListener
         }
 	
 	}
-	
-	
-	
-//////////////////////////////////////////////////////////////	
-	
+
+	/**
+	 * Load the data to be reviewed from the file
+	 * @param fileName The name of the file to ve reviewed
+     */
 	public void loadReviews(String fileName)
 	{
-		
-			try
-			{
-			  FileInputStream fstream = new FileInputStream("output/f_" + fileName + ".txt");
-			  DataInputStream in = new DataInputStream(fstream);
-			  BufferedReader br = new BufferedReader(new InputStreamReader(in));
-			  String strLine;
-			  //Read File Line By Line
-			  while ((strLine = br.readLine()) != null)
-			  {
-				  Review r = new Review();
-				  r.setDate(strLine.split("&&&")[0]);
-				  r.setRate(strLine.split("&&&")[1]);
-				  r.setDevice(strLine.split("&&&")[2]);
-				  r.setVersion(strLine.split("&&&")[3]);
-				  r.setTitle(strLine.split("&&&")[4]);
-				  if (strLine.split("&&&").length == 6)
-					  r.setText(strLine.split("&&&")[5]);
-				  else
-					  r.setText("");
-				  revs.add(r);
-			  }
-				
-			  in.close();
-			}
-			catch (Exception e)
-			{//Catch exception if any
-				  System.err.println("Error: " + e.toString());
-			}
+
+		try
+		{//try to load in the file and get the data
+		  FileInputStream fstream = new FileInputStream("output/f_" + fileName + ".txt");
+		  DataInputStream in = new DataInputStream(fstream);
+		  BufferedReader br = new BufferedReader(new InputStreamReader(in));
+		  String strLine;
+		  //Read File Line By Line
+		  while ((strLine = br.readLine()) != null)
+		  {
+			  //get data from the file
+			  Review r = new Review();
+			  r.setDate(strLine.split("&&&")[0]);
+			  r.setRate(strLine.split("&&&")[1]);
+			  r.setDevice(strLine.split("&&&")[2]);
+			  r.setVersion(strLine.split("&&&")[3]);
+			  r.setTitle(strLine.split("&&&")[4]);
+			  if (strLine.split("&&&").length == 6)
+				  r.setText(strLine.split("&&&")[5]);
+			  else
+				  r.setText("");
+			  revs.add(r);
+		  }
+
+		  in.close();
+		}
+		catch (Exception e)
+		{//Catch exception if any
+			  System.err.println("Error: " + e.toString());
+		}
 	}
 	
 	

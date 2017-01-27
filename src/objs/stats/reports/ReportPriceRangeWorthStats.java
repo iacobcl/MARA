@@ -25,34 +25,48 @@ import java.util.ArrayList;
 
 import objs.stats.PriceWorthStats;
 
+/**
+ * Creates and manages a report on the price range of worth statistics
+ */
 public class ReportPriceRangeWorthStats 
 {
 
 	public ArrayList<PriceWorthStats> report;
-	
-	
+
+	/**
+	 * Create the report with an array
+	 */
 	public ReportPriceRangeWorthStats()
 	{
 		report = new ArrayList<PriceWorthStats>();
 	}
 
-
+	/**
+	 * Return the classes report
+	 * @return The report to return
+	 */
 	public ArrayList<PriceWorthStats> getReport() 
 	{
 		return report;
 	}
 
-
+	/**
+	 * Set this classes report
+	 * @param report the new report
+	 */
 	public void setReport(ArrayList<PriceWorthStats> report) 
 	{
 		this.report = report;
 	}
-	
-	
+
+	/**
+	 * Write the report to a file
+	 */
 	public void print()
 	{
 		 try
 		 {
+			  //Try to access the file the stats are going to be written to
 			  FileWriter fstream = new FileWriter("reports/price_range_stats/reportpricerangeworthstats.txt");
 	    	  BufferedWriter out = new BufferedWriter(fstream);
 	  		  for (int i = 0; i < report.size(); i++)

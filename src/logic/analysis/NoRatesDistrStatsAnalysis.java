@@ -30,29 +30,37 @@ import objs.stats.reports.ReportRateStats;
 import storage.DBQuerying;
 import storage.FileStoring;
 
+/**
+ * Deals with analysing the no. of rates Distribution statistics
+ */
 public class NoRatesDistrStatsAnalysis 
 {
+	//Create lists for the rates and classes
 	public static int[] rates = new int[]{0, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 2000};
 	public static String[] classes = new String[]{"positive feedback", "negative feedback", "comparative feedback", "money feedback", "requirements", "reporting", "usability", "customer support", "versioning"};
 
-	
+	/**
+	 * Creates, analyses and returns a report for the no. of rates
+	 * @return the report on the no. of rates
+     */
 	public static ReportNoRatesDistrStats createReportNoRatesDistrStats()
 	{//computes the distribution of codes for each range of number of toal reviews
 		ReportNoRatesDistrStats rep = new ReportNoRatesDistrStats();
 		
-
+		//Loop through all the rates
 		for (int index = 0; index < rates.length - 1; index++)
 		{
-		
+			//setup variables needed
 			NoRatesDistrStats ratest = new NoRatesDistrStats();
 			ratest.setMin(rates[index]);
 			ratest.setMax(rates[index + 1]);
 			ArrayList<CodeDistr> distst = new ArrayList<CodeDistr>();
 			int totalCodes = 0;
+
+			//all apps with rate between star and star + 1
+			ArrayList<String> apps = DBQuerying.getAppsForNoRatesRange(rates[index], rates[index + 1]);
 			
-			ArrayList<String> apps = DBQuerying.getAppsForNoRatesRange(rates[index], rates[index + 1]); //all apps with rate between star and star + 1
-			
-			
+			//Loop through
 			for (String app : apps)
 				//totalrevs += DBQuerying.getTotalRevsForApp(app);
 				totalCodes += DBQuerying.getTotalCodesForApp(app);
@@ -60,17 +68,20 @@ public class NoRatesDistrStatsAnalysis
 			
 			try
 			{
+				//Loop through all classes
 				for (String cc : classes)
 				{
 					String[] refcodes = FileStoring.loadCodes(cc);
-					
+
+					//Loop through all code references
 					for (String refcode : refcodes)
 					{
-						
+						//Make sure the refrence isn't null
 						if (refcode != null)
 						{
 							int totalcode = 0;
 
+							//Loop through all the apps
 							for (String app : apps)
 								totalcode += DBQuerying.getTotalCodesPerApp(cc, refcode, app);
 							
@@ -78,12 +89,14 @@ public class NoRatesDistrStatsAnalysis
 							CodeDistr calfa = new CodeDistr(cc + "  " + refcode, totalcode, perc, 0, 0);
 							
 System.out.println(Integer.toString(rates[index]) + "  " + Integer.toString(rates[index + 1]) + "  " + refcode + "  " + totalcode + "   " + perc + "   " + totalCodes);						
-							
+
+							//Add to the report
 							distst.add(calfa);
 						}
 					}
 				}
-				
+
+				//Add everything else to the report
 				ratest.setDist(distst);
 				rep.report.add(ratest);
 				
@@ -95,6 +108,7 @@ System.out.println(Integer.toString(rates[index]) + "  " + Integer.toString(rate
 			}
 			
 		}
+		//Return the completed analysed report
 		return rep;
 	}
 	

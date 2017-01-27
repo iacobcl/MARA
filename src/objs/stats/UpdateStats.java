@@ -29,29 +29,61 @@ public class UpdateStats
 	private float min;
 	private float max;
 	private ArrayList<CodeDistr> dist;
-	
+
+	/**
+	 * Setup the class with defaults all set to 0 and dist to a CodeDistr ArrayList
+	 */
 	public UpdateStats()
 	{
 		min = 0;
 		max = 0;
 		dist = new ArrayList<CodeDistr>();
 	}
-	
+
+	/**
+	 * Returns the minimum value
+	 * @return the minimum value
+	 */
 	public float getMin() {
 		return min;
 	}
+
+	/**
+	 * Sets the minumum value
+	 * @param min The new minimum value
+	 */
 	public void setMin(float min) {
 		this.min = min;
 	}
+
+	/**
+	 * Gets the maximum value
+	 * @return The maximum value
+	 */
 	public float getMax() {
 		return max;
 	}
+
+	/**
+	 * Sets the maximum value
+	 * @param max The new maximum value
+	 */
 	public void setMax(float max) {
 		this.max = max;
 	}
+
+	/**
+	 * Gets the current distribution used
+	 * @return The arrayList of distributions
+	 */
 	public ArrayList<CodeDistr> getDist() {
 		return dist;
 	}
+
+	/**
+	 * Set the ArrayList of distributions to a new list
+	 * @param dist The new Arraylist of Distributions
+	 */
 	public void setDist(ArrayList<CodeDistr> dist) {
 		this.dist = dist;
 	}

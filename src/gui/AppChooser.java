@@ -41,13 +41,17 @@ import storage.DBStoring;
 import logic.Retrieving;
 
 
-
-
+/**
+ * GUI frame to select the wanted app
+ */
 public class AppChooser extends JFrame implements ActionListener
 {
 	Retrieving boss = new Retrieving();
 	public JComboBox files;
 
+	/**
+	 * Create, setup and display the GUI
+	 */
 	public AppChooser()
 	{
 		setTitle("File name");
@@ -74,20 +78,26 @@ public class AppChooser extends JFrame implements ActionListener
 		setLocationRelativeTo(null);
 	    setDefaultCloseOperation(EXIT_ON_CLOSE);
 	}
-	
 
+	/**
+	 * Called whenever an action is performed on the Fram.
+	 * @param e The action performed
+     */
 	public void actionPerformed(ActionEvent e) 
 	{
-		
+		//The go button was pressed
 		if (e.getActionCommand().equals("goButton"))
 		{
 			new CodeAssigner(files.getSelectedItem().toString(), DBStoring.getFileStatus(files.getSelectedItem().toString())).setVisible(true);
 			this.setVisible(false);
 		}
 		
-	}	
+	}
 
-	
+	/**
+	 * Run the application
+	 * @param args arguments given by the user
+     */
 	public static void main(String[] args)
 	{
 		SwingUtilities.invokeLater(new Runnable() {
@@ -97,8 +107,11 @@ public class AppChooser extends JFrame implements ActionListener
             }
         });
 	}
-	
-	
+
+	/**
+	 * Gets the list of files and converts it to a list of strings
+	 * @return Returns the list of filese
+     */
 	public String[] getFiles()
 	{//loads all files which are not completely coded
 		String[] fileNames = new String[30000];
@@ -117,7 +130,8 @@ public class AppChooser extends JFrame implements ActionListener
 		
 		return fileNames;
 	}
-		
+
+	//Old unused getFiles() method
 /*	public String[] getFiles()
 	{
 		boss.createAppsMap();

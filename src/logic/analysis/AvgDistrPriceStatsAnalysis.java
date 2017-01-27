@@ -26,16 +26,26 @@ import objs.stats.AvgDistrPriceStats;
 import objs.stats.reports.ReportAvgDistrStats;
 import storage.DBQuerying;
 
+
+/**
+ * Deals with analysing the average Distribution price statistics
+ */
 public class AvgDistrPriceStatsAnalysis 
 {
 	public static double[] prices = new double[]{0.50, 0.60, 1.20, 2.25, 3.5, 5, 20};
-	
+
+	/**
+	 * analyses and returns a report for the average DistrStats
+	 * @return a ReportAvgDistrStat object
+     */
 	public static ReportAvgDistrStats createReportAvgDistrPriceStats()
 	{//the average number of codes/review for each price range
 		ReportAvgDistrStats rep = new ReportAvgDistrStats();
-		
+
+		//Loop through all the prices
 		for (int i = 0; i < prices.length - 1; i++)
 		{
+			//Create a new stats object
 			AvgDistrPriceStats avg = new AvgDistrPriceStats();
 			avg.setMin(prices[i]);
 			avg.setMax(prices[i + 1]);
@@ -54,7 +64,7 @@ public class AvgDistrPriceStatsAnalysis
 					revs.add(r);
 			}
 			
-			
+			//Loop through all the apps
 			for (String appid : apps)
 			{
 				int T = DBQuerying.getTotalRevsForApp(appid);
@@ -65,17 +75,29 @@ public class AvgDistrPriceStatsAnalysis
 					System.out.println("Appid:" + appid + " rev index: " + index + " total codes: " + trel);
 				}
 			}
-			
+
+			//Looping through all the codes
 			int sum = 0;
 			for (int k = 0; k < totalCodes.size(); k++)
+				//Add the codes to the sum of codes
 				sum += totalCodes.get(k);
+			//Get the average of the codes
 			avg.setAvg((double)sum/totalCodes.size());
-			
+
+			//Add the average to the report
 			rep.report.add(avg);
 		}
+		//Return our analysed report
 		return rep;
 	}
-	
+
+	/**
+	 * Return the total number of reviews in an app
+	 * @param revs the list of reviews
+	 * @param appid the app we are looking at
+	 * @param revid the id of the reviews
+     * @return The total number of reviews in an app
+     */
 	public static int countCodesPerReview(ArrayList<Review> revs, String appid, String revid)
 	{
 		int total = 0;

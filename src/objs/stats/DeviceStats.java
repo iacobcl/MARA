@@ -28,44 +28,67 @@ import logic.analysis.DeviceDistrAnalysis;
 import objs.CodeDistr;
 import objs.Device;
 
+/**
+ * Deals with the device statistics
+ */
 public class DeviceStats 
 {
 	private String device;
 	private ArrayList<CodeDistr> dist;
 
+	/**
+	 * Gets the current device
+	 * @return The device
+     */
 	public String getDevice() 
 	{
 		return device;
 	}
-	
+
+	/**
+	 * Set the current device of this specific class
+	 * @param device The new device
+     */
 	public void setDevice(String device) 
 	{
 		this.device = device;
 	}
-	
+
+	/**
+	 * Gets the current distribution used
+	 * @return The arrayList of distributions
+     */
 	public ArrayList<CodeDistr> getDist() 
 	{
 		return dist;
 	}
-	
+
+	/**
+	 * Set the ArrayList of distributions to a new list
+	 * @param dist The new Arraylist of Distributions
+     */
 	public void setDist(ArrayList<CodeDistr> dist) 
 	{
 		this.dist = dist;
 	}
-	
+
+	/**
+	 * Setup the class with specific values
+	 * @param device A device String
+	 * @param dist An arrayList of Distributions
+     */
 	public DeviceStats(String device, ArrayList<CodeDistr> dist) 
 	{
 		this.device = device;
 		this.dist = dist;
 	}
-	
+
+	/**
+	 * Setup the class without any specific values and as empty variables
+	 */
 	public DeviceStats() 
 	{
 		device = new String();
 		dist = new ArrayList<CodeDistr>();
 	}
-	
-	
-
-
 }

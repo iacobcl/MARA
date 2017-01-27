@@ -27,39 +27,56 @@ import objs.CodeDistr;
 import objs.stats.AvgDistrPriceStats;
 import objs.stats.RefCodeStats;
 
+/**
+ * A report for the average distr stats
+ */
 public class ReportAvgDistrStats 
 {
 	public static ArrayList<AvgDistrPriceStats> report;
-	
-	
+
+	/**
+	 * Create the report with an array
+	 */
 	public ReportAvgDistrStats()
 	{
 		report = new ArrayList<AvgDistrPriceStats>();
 	}
 
 
+	/**
+	 * Return the classes report
+	 * @return The report to return
+     */
 	public ArrayList<AvgDistrPriceStats> getReport() 
 	{
 		return report;
 	}
 
 
+	/**
+	 * Set this classes report
+	 * @param report the new report
+     */
 	public void setReport(ArrayList<AvgDistrPriceStats> report) 
 	{
 		this.report = report;
 	}
-	
-	
+
+	/**
+	 * Send the report to a file
+	 */
 	public static void print()
 	{
 		 try
 		 {
+			 //Try and open the file to write to
 			  FileWriter fstream = new FileWriter("reports/reportavgdistrstats.txt");
 	    	  BufferedWriter out = new BufferedWriter(fstream);
     		  for (int i = 0; i < report.size(); i++)
 			  {
-					out.write("[" + report.get(i).getMin() + ", " + report.get(i).getMax() + "]: " +  "	" + report.get(i).getAvg());
-					out.newLine();
+				//Write eash line to the file
+				out.write("[" + report.get(i).getMin() + ", " + report.get(i).getMax() + "]: " +  "	" + report.get(i).getAvg());
+				out.newLine();
 			  }
 			  			  
 			  out.close();

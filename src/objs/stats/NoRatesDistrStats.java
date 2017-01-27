@@ -23,12 +23,19 @@ import java.util.ArrayList;
 
 import objs.CodeDistr;
 
+/**
+ * Deals with the No rates distribution statistics
+ */
 public class NoRatesDistrStats 
 {
 	private int min;
 	private int max;
 	private ArrayList<CodeDistr> dist;
-	
+
+	/**
+	 * Setup the defcault values of the variables,
+	 * min and max to 0 and the ArrayList of distributions to an empty list
+	 */
 	public NoRatesDistrStats()
 	{
 		min = 0;
@@ -36,26 +43,50 @@ public class NoRatesDistrStats
 		dist = new ArrayList<CodeDistr>();
 	}
 
+	/**
+	 * Returns the minimum value
+	 * @return the minimum value
+	 */
 	public int getMin() {
 		return min;
 	}
 
+	/**
+	 * Sets the minumum value
+	 * @param min The new minimum value
+	 */
 	public void setMin(int min) {
 		this.min = min;
 	}
 
+	/**
+	 * Gets the maximum value
+	 * @return The maximum value
+	 */
 	public int getMax() {
 		return max;
 	}
 
+	/**
+	 * Sets the maximum value
+	 * @param max The new maximum value
+	 */
 	public void setMax(int max) {
 		this.max = max;
 	}
 
+	/**
+	 * Gets the arraylist of the Distr
+	 * @return The list of Distrs
+	 */
 	public ArrayList<CodeDistr> getDist() {
 		return dist;
 	}
 
+	/**
+	 * Sets the Distr array list to a new one
+	 * @param distr New arraylist of Distrs
+	 */
 	public void setDist(ArrayList<CodeDistr> dist) {
 		this.dist = dist;
 	}

@@ -27,28 +27,45 @@ import java.util.ArrayList;
 import objs.CodeDistr;
 import objs.SeqDistr;
 
+/**
+ * Creates and manages a report on sequence Distr
+ */
 public class ReportSeqDistr 
 {
 	public static ArrayList<SeqDistr> distr;
-	
+
+	/**
+	 * Create the report with an array
+	 */
 	public ReportSeqDistr()
 	{
 		distr = new ArrayList<SeqDistr>();
 	}
 
+	/**
+	 * Return the classes report
+	 * @return The report to return
+	 */
 	public ArrayList<SeqDistr> getDistr() {
 		return distr;
 	}
 
+	/**
+	 * Set this classes report
+	 * @param distr the new report
+	 */
 	public void setDistr(ArrayList<SeqDistr> distr) {
 		this.distr = distr;
 	}
-	
+
+	/**
+	 * Write the report to a file
+	 */
 	public static void print()
 	{
-	
 		 try
 		 {
+			 //Try to access the file the stats are going to be written to
 			  FileWriter fstream = new FileWriter("reports/seq_stats/reportseqdistr.txt");
 	    	  BufferedWriter out = new BufferedWriter(fstream);
 	    	  for (int i = 0; i < distr.size(); i++)

@@ -27,33 +27,47 @@ import objs.CodeDistr;
 import objs.stats.NoRatesDistrStats;
 import objs.stats.PriceWorthStats;
 
+/**
+ * Creates a report of the No rates Distr stats
+ */
 public class ReportNoRatesDistrStats 
 {
 	public ArrayList<NoRatesDistrStats> report;
-	
-	
+
+	/**
+	 * Create the report with an array
+	 */
 	public ReportNoRatesDistrStats()
 	{
 		report = new ArrayList<NoRatesDistrStats>();
 	}
 
-
+	/**
+	 * Return the classes report
+	 * @return The report to return
+	 */
 	public ArrayList<NoRatesDistrStats> getReport() 
 	{
 		return report;
 	}
 
-
+	/**
+	 * Set this classes report
+	 * @param report the new report
+	 */
 	public void setReport(ArrayList<NoRatesDistrStats> report) 
 	{
 		this.report = report;
 	}
-	
-	
+
+	/**
+	 * Write the report to a file
+	 */
 	public void print()
 	{
 		 try
 		 {
+			 //Try to access the file the stats are going to be written to
 			  FileWriter fstream = new FileWriter("reports/rate_range_stats/reportnoratesdistrstats.txt");
 	    	  BufferedWriter out = new BufferedWriter(fstream);
 	    	  for (int i = 0; i < report.size(); i++)

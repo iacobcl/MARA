@@ -26,31 +26,43 @@ import java.util.ArrayList;
 import objs.CodeDistr;
 import objs.stats.RefCodeStats;
 
-
+/**
+ * Creates a report on the class code stats
+ */
 public class ReportClassCodeStats 
 {
 
 	public static ArrayList<RefCodeStats> report;
-	
-	
+
+	/**
+	 * Create the report with an array
+	 */
 	public ReportClassCodeStats()
 	{
 		report = new ArrayList<RefCodeStats>();
 	}
 
-
+	/**
+	 * Return the classes report
+	 * @return The report to return
+	 */
 	public ArrayList<RefCodeStats> getReport() 
 	{
 		return report;
 	}
 
-
+	/**
+	 * Set this classes report
+	 * @param report the new report
+	 */
 	public void setReport(ArrayList<RefCodeStats> report) 
 	{
 		this.report = report;
 	}
-	
-	
+
+	/**
+	 * Write the report to a file
+	 */
 	public static void print()
 	{
 		 try

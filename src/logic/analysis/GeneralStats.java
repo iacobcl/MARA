@@ -24,15 +24,26 @@ import java.util.ArrayList;
 import objs.Application;
 import storage.DBQuerying;
 
+/**
+ * Analyses general statistics
+ * Avg - Rating, Price and no. of rates
+ */
 public class GeneralStats 
 {
+	/**
+	 * Prints general statistics
+	 * @param args user given arguments
+     */
 	public static void main(String[] args)
 	{
+		//initialize variables we need to use
 		double rating = 0;
 		double price = 0;
 		int norates = 0;
-		
+
+		//Get all apps
 		ArrayList<Application> apps = DBQuerying.getApps();
+		//Loop through the apps
 		for (Application app : apps)
 		{
 			rating += app.getRating();
@@ -40,7 +51,7 @@ public class GeneralStats
 			norates += app.getNorates();
 		}
 		
-		
+		//Print out the averages to the console
 		System.out.println("Average rating: " + (double)rating/apps.size());
 		System.out.println("Average price: " + (double)price/apps.size());
 		System.out.println("Average no of rates: " + (double)norates/apps.size());

@@ -30,18 +30,26 @@ import objs.stats.reports.ReportPriceRangeWorthStats;
 import storage.DBQuerying;
 import storage.FileQuerying;
 
+/**
+ * Deals with the analysing of the price worth range statistics
+ */
 public class PriceRangeWorthAnalysis 
 {
-
+	//Setup the lists
 	//public static double[] prices = new double[]{0, 1, 2, 3, 4, 5, 25};
 	public static double[] prices = new double[]{0.50, 0.60, 1.20, 2.25, 3.5, 5, 20};
 	//public static double[] prices = new double[]{0.50, 0.63, 0.75, 1, 1.25, 1.75, 3, 20};
 
-
+	/**
+	 * Creates and analyses a report on the price worth range statistics
+	 * @return The report on the analysis
+     */
 	public static ReportPriceRangeWorthStats createReportPriceRangeWorthStats()
 	{
+		//setup the report
 		ReportPriceRangeWorthStats rep = new ReportPriceRangeWorthStats();
-		
+
+		//Loop through all the prices
 		for (int index = 0; index < prices.length - 1; index++)
 		{
 			int totalworth = 0;
@@ -52,10 +60,12 @@ public class PriceRangeWorthAnalysis
 			
 			try
 			{
+				//Loop through the apps for each price
 				for (int i = 0; i < apps.size(); i++)
 				{
 					String appid = apps.get(i);
-					
+
+					//add the worth and net worths to their respective variables
 					totalworth += DBQuerying.getTotalCodesPerApp("money feedback", "worth the money", appid); 
 					totalnworth += DBQuerying.getTotalCodesPerApp("money feedback", "not worth the money", appid);
 					
@@ -71,7 +81,8 @@ public class PriceRangeWorthAnalysis
 				CodeDistr nworth = new CodeDistr("not worth the money", totalnworth, percneg, 0, 0);
 						
 				PriceWorthStats stats = new PriceWorthStats(prices[index], prices[index + 1], worth, nworth);
-				
+
+				//Add the stats to the report
 				rep.report.add(stats);
 							
 			}
@@ -81,6 +92,7 @@ public class PriceRangeWorthAnalysis
 			}
 			
 		}
+		//return the analysed report
 		return rep;
 	}
 	

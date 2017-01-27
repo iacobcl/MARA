@@ -19,21 +19,33 @@
 
 package objs.stats;
 
+
+/**
+ * Calculates the average Distr price statistics
+ */
 public class AvgDistrPriceStats 
 {
 
 	private double min;
 	private double max;
 	private double avg;
-	
+
+	/**
+	 * Setup the class with defaults all set to 0
+	 */
 	public AvgDistrPriceStats()
 	{
 		min = 0;
 		max = 0;
 		avg = 0;
 	}
-	
-	
+
+	/**
+	 * Set this specific classes values
+	 * @param min The minimum value
+	 * @param max The maximum value
+	 * @param avg The average value
+     */
 	public AvgDistrPriceStats(double min, double max, double avg) 
 	{
 		this.min = min;
@@ -42,31 +54,50 @@ public class AvgDistrPriceStats
 	}
 
 
+	/**
+	 * Returns the minimum value
+	 * @return the minimum value
+     */
 	public double getMin() {
 		return min;
 	}
 
-
+	/**
+	 * Sets the minumum value
+	 * @param min The new minimum value
+     */
 	public void setMin(double min) {
 		this.min = min;
 	}
 
-
+	/**
+	 * Gets the maximum value
+	 * @return The maximum value
+     */
 	public double getMax() {
 		return max;
 	}
 
-
+	/**
+	 * Sets the maximum value
+	 * @param max The new maximum value
+     */
 	public void setMax(double max) {
 		this.max = max;
 	}
 
-
+	/**
+	 * Gets the average value
+	 * @return The average value
+     */
 	public double getAvg() {
 		return avg;
 	}
 
-
+	/**
+	 * Sets the average value
+	 * @param avg The new average value
+     */
 	public void setAvg(double avg) {
 		this.avg = avg;
 	}

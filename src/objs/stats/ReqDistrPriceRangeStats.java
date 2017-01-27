@@ -21,13 +21,19 @@ package objs.stats;
 
 import objs.CodeDistr;
 
+/**
+ * Deals with the Required Distributions price range statistics
+ */
 public class ReqDistrPriceRangeStats 
 {
 	
 	private float min;
 	private float max;
 	private CodeDistr req;
-	
+
+	/**
+	 * Setup the class with default values, floats to 0 and req to a CodeDistr
+	 */
 	public ReqDistrPriceRangeStats()
 	{
 		min = 0;
@@ -35,26 +41,50 @@ public class ReqDistrPriceRangeStats
 		req = new CodeDistr();
 	}
 
+	/**
+	 * Returns the minimum value
+	 * @return the minimum value
+	 */
 	public float getMin() {
 		return min;
 	}
 
+	/**
+	 * Sets the minumum value
+	 * @param min The new minimum value
+	 */
 	public void setMin(float min) {
 		this.min = min;
 	}
 
+	/**
+	 * Gets the maximum value
+	 * @return The maximum value
+	 */
 	public float getMax() {
 		return max;
 	}
 
+	/**
+	 * Sets the maximum value
+	 * @param max The new maximum value
+	 */
 	public void setMax(float max) {
 		this.max = max;
 	}
 
+	/**
+	 * Returns a CodeDistr object for the req variable
+	 * @return The req CodeDistr object
+     */
 	public CodeDistr getReq() {
 		return req;
 	}
 
+	/**
+	 * Replace the current req variable with a new CodeDistr object
+	 * @param req The new CodeDistr object to give req
+     */
 	public void setReq(CodeDistr req) {
 		this.req = req;
 	}
