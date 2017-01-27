@@ -30,25 +30,25 @@ public class File
 		fileName = new String();
 		status = 0;
 	}
-
+	//This is the constructor for file 
 	public File(String f, int s)
 	{
 		fileName = f;
 		status = s;
 	}
-	
+	//returns file namme
 	public String getFileName() {
 		return fileName;
 	}
-
+	//Sets the file name
 	public void setFileName(String fileName) {
 		this.fileName = fileName;
 	}
-
+	//returns the value of status
 	public int getStatus() {
 		return status;
 	}
-
+	//sets the value of status
 	public void setStatus(int status) {
 		this.status = status;
 	}
