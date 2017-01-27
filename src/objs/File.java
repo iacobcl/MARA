@@ -24,6 +24,10 @@ public class File
 
 	private String fileName = new String();
 	private int status;
+	/*
+	set the file to string 
+	and sets the status to 0
+	*/ 
 	
 	public File()
 	{
