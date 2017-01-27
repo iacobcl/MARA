@@ -33,7 +33,7 @@ public class AvgDistrPriceStatsAnalysis
 	public static ReportAvgDistrStats createReportAvgDistrPriceStats()
 	{//the average number of codes/review for each price range
 		ReportAvgDistrStats rep = new ReportAvgDistrStats();
-		
+		//loop
 		for (int i = 0; i < prices.length - 1; i++)
 		{
 			AvgDistrPriceStats avg = new AvgDistrPriceStats();
