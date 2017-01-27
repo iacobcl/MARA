@@ -36,15 +36,16 @@ public class AppRevCode
 
 	public AppRevCode(String appid, String revid, String classcode,
 			String refcode) {
-		super();
-		this.appid = appid;
+		super();  // calling method in super class
+		this.appid = appid;	// points to current instance
 		this.revid = revid;
 		this.classcode = classcode;
 		this.refcode = refcode;
 	}
-
+	
+	// return appid
 	public String getAppid() {
-		return appid;
+		return appid;	
 	}
 
 	public void setAppid(String appid) {
@@ -54,7 +55,8 @@ public class AppRevCode
 	public String getRevid() {
 		return revid;
 	}
-
+	
+	// set new revid
 	public void setRevid(String revid) {
 		this.revid = revid;
 	}
