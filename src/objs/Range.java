@@ -57,6 +57,7 @@ public class Range
 		this.perc = perc;
 	}
 	
+	// Initialize all values to zero.
 	public Range()
 	{
 		min = 0;
