@@ -49,7 +49,9 @@ public class Code
 	public void setRefinedCode(String refinedCode) {
 		this.refinedCode = refinedCode;
 	}
-
+/**
+* returns rawCode
+*/
 	public String getRawCode() {
 		return rawCode;
 	}
