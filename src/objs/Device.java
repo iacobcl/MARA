@@ -31,14 +31,18 @@ public class Device
 		this.count = count;
 		this.perc = perc;
 	}
-	//get method which return the divce in string 
+	/*
+	get method which return the divce in string 
+	*/
 	public String getDevice() {
 		return device;
 	}
 	public void setDevice(String device) {
 		this.device = device;
 	}
-	//get count which returns the counting in intrger
+	/*
+	get count which returns the counting in intrger
+	*/
 	public int getCount() {
 		return count;
 	}
