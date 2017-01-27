@@ -38,6 +38,9 @@ public class CodeDistr
 		percrel = 0;
 	}
 	
+	/*
+	# Set local parameters to input parameter values
+	*/
 	public CodeDistr(String c, int t, double p, int totalr, double perrel)
 	{
 		code = c;
