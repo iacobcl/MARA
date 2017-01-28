@@ -26,6 +26,9 @@ import objs.stats.AvgDistrPriceStats;
 import objs.stats.reports.ReportAvgDistrStats;
 import storage.DBQuerying;
 
+/**
+*Analysis and Calculates the average distribution price
+*/
 public class AvgDistrPriceStatsAnalysis 
 {
 	public static double[] prices = new double[]{0.50, 0.60, 1.20, 2.25, 3.5, 5, 20};
@@ -76,6 +79,13 @@ public class AvgDistrPriceStatsAnalysis
 		return rep;
 	}
 	
+	/**
+	*counts number of codes per review
+	*@param revs
+	*@param string appid
+	*@param string revid
+	*@return total
+	*/
 	public static int countCodesPerReview(ArrayList<Review> revs, String appid, String revid)
 	{
 		int total = 0;

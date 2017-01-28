@@ -77,6 +77,13 @@ public class AvgDistrRateStatsAnalysis
 		return rep;
 	}
 	
+	/**
+	*Calculates number of code per review
+	*@param revs
+	*@param string appid
+	*@param string revid
+	*@return total
+	*/
 	public static int countCodesPerReview(ArrayList<Review> revs, String appid, String revid)
 	{
 		int total = 0;
