@@ -40,7 +40,7 @@ public class PriceStatsAnalysis
 
 	public static String[] classes = new String[]{"positive feedback", "negative feedback", "comparative feedback", "money feedback", "requirements", "reporting", "usability", "customer support", "versioning"};
 
-	
+	//creates an arraylist that holds the price distribution
 	public static ArrayList<Range> createPriceDistr()
 	{
 		ArrayList<Range> devDistr = new ArrayList<Range>();
