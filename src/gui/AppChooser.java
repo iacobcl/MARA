@@ -75,7 +75,10 @@ public class AppChooser extends JFrame implements ActionListener
 	    setDefaultCloseOperation(EXIT_ON_CLOSE);
 	}
 	
-
+	/**
+	*checks if an action has been performed 
+	*@param actionevent e
+	*/
 	public void actionPerformed(ActionEvent e) 
 	{
 		
