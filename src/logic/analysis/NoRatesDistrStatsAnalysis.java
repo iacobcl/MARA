@@ -19,8 +19,8 @@
 
 package logic.analysis;
 
+//import packages
 import java.util.ArrayList;
-
 import objs.CodeDistr;
 import objs.stats.NoRatesDistrStats;
 import objs.stats.PriceStats;
