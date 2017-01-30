@@ -47,7 +47,7 @@ public class AppChooser extends JFrame implements ActionListener
 {
 	Retrieving boss = new Retrieving();
 	public JComboBox files;
-
+//This is a random comment from 828957
 	public AppChooser()
 	{
 		setTitle("File name");
