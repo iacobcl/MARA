@@ -21,34 +21,65 @@ package objs;
 
 public class File 
 {
-
+        /**
+         * Holds filename.
+         */
 	private String fileName = new String();
+        
+        /**
+         * Holds status value
+         */
 	private int status;
 	
+        
+        /**
+         * Constructs empty File object
+         */
 	public File()
 	{
 		fileName = new String();
 		status = 0;
 	}
 
+        /**
+         * Constructs new File object based on parameters.
+         * @param f value for filename field
+         * @param s value for status field
+         */
 	public File(String f, int s)
 	{
 		fileName = f;
 		status = s;
 	}
 	
+        /**
+         * Returns value stored in filename field.
+         * @return value of filename field
+         */
 	public String getFileName() {
 		return fileName;
 	}
 
+        /**
+         * Changes value of filename field
+         * @param fileName new value for filename field
+         */
 	public void setFileName(String fileName) {
 		this.fileName = fileName;
 	}
 
+        /**
+         * Returns value stored in status field.
+         * @return value of status field.
+         */
 	public int getStatus() {
 		return status;
 	}
 
+        /**
+         * Changes value of status field.
+         * @param status new value for status field
+         */
 	public void setStatus(int status) {
 		this.status = status;
 	}

@@ -19,40 +19,95 @@
 
 package objs;
 
+/**
+ * Represents a device.
+ * @author abc
+ */
 public class Device 
-{
+{       
+        /**
+         * Holds device name
+         */
 	private String device;
+        
+        /**
+         * Holds count value
+         */
 	private int count;
+        
+        /**
+         * Holds perc value
+         */
 	private double perc;
 	
+        
+        /**
+         * Constructs Device object
+         * @param device String for device name
+         * @param count Integer for count
+         * @param perc Double for perc
+         */
 	public Device(String device, int count, double perc) {
 		super();
 		this.device = device;
 		this.count = count;
 		this.perc = perc;
 	}
+        
+        /**
+         * Returns value of device field
+         * @return String of device field
+         */
 	public String getDevice() {
 		return device;
 	}
+        
+        /**
+         * Changes value of device field to new value
+         * @param device New value for device field
+         */
 	public void setDevice(String device) {
 		this.device = device;
 	}
+        
+        /**
+         * Gets the integer stored in the count field.
+         * @return Value of count
+         */
 	public int getCount() {
 		return count;
 	}
+        
+        /**
+         * Changes value of count field to new integer.
+         * @param count New integer for count field
+         */
 	public void setCount(int count) {
 		this.count = count;
 	}
 	
+        /**
+         * Creates empty device object.
+         */
 	public Device()
 	{
 		device = new String();
 		count = 0;
 		perc = 0;
 	}
+        
+        /**
+         * Returns value of perc field
+         * @return Double value of perc field
+         */
 	public double getPerc() {
 		return perc;
 	}
+        
+        /**
+         * Changes value of perc field to new double.
+         * @param perc New double for perc field
+         */
 	public void setPerc(double perc) {
 		this.perc = perc;
 	}
