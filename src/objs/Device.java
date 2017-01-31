@@ -17,7 +17,7 @@
 #  under the License.
 */
 
-package objs;
+
 
 public class Device 
 {
@@ -25,34 +25,76 @@ public class Device
 	private int count;
 	private double perc;
 	
+	
+	/**
+	 * Constructor for creating a device object
+	 * @param device
+	 * @param count 
+	 * @param perc
+	 */
 	public Device(String device, int count, double perc) {
 		super();
 		this.device = device;
 		this.count = count;
 		this.perc = perc;
 	}
+	
+	
+	/**
+	 * method to return the name of the device
+	 * @return device name
+	 */
 	public String getDevice() {
 		return device;
 	}
+	
+	/**
+	 * method to set new device name
+	 * @param device set the new device name
+	 */
 	public void setDevice(String device) {
 		this.device = device;
 	}
+	
+	/**
+	 * method to return the count
+	 * @return count
+	 */
 	public int getCount() {
 		return count;
 	}
+	
+	/**
+	 * method to set the count
+	 * @param count
+	 */
 	public void setCount(int count) {
 		this.count = count;
 	}
 	
+	/**
+	 * Constructor for creating a device sets the count and perc to 0 and device name to empty string
+	 * 
+	 */
 	public Device()
 	{
 		device = new String();
 		count = 0;
 		perc = 0;
 	}
+	
+	/**
+	 * return the perc
+	 * @return perc
+	 */
 	public double getPerc() {
 		return perc;
 	}
+	
+	/**
+	 * sets the perc
+	 * @param perc
+	 */
 	public void setPerc(double perc) {
 		this.perc = perc;
 	}
