@@ -21,7 +21,9 @@ package objs;
 import java.util.ArrayList;
 
 
-
+/**
+ * Class for review.
+ */
 public class Review 
 {
 
@@ -36,7 +38,9 @@ public class Review
 	private ArrayList<Code> codes;
 	private String revid;
 	
-	
+	/**
+	 * Constructs the object.
+	 */
 	public Review()
 	{
 		appid = new String();
@@ -51,106 +55,189 @@ public class Review
 		revid = new String();
 	}
 
-
+	/**
+	 * Gets the revid.
+	 *
+	 * @return     The revid.
+	 */
 	public String getRevid() {
 		return revid;
 	}
 
-
+	/**
+	 * Sets the revid.
+	 *
+	 * @param      revid  The revid
+	 */
 	public void setRevid(String revid) {
 		this.revid = revid;
 	}
 
-
+	/**
+	 * Gets the appid.
+	 *
+	 * @return     The appid.
+	 */
 	public String getAppid() {
 		return appid;
 	}
 
-
+	/**
+	 * Sets the appid.
+	 *
+	 * @param      appid  The appid
+	 */
 	public void setAppid(String appid) {
 		this.appid = appid;
 	}
 
-
+	/**
+	 * Gets the codes.
+	 *
+	 * @return     The codes.
+	 */
 	public ArrayList<Code> getCodes() {
 		return codes;
 	}
 
-
+	/**
+	 * Sets the codes.
+	 *
+	 * @param      codes  The codes
+	 */
 	public void setCodes(ArrayList<Code> codes) {
 		this.codes = codes;
 	}
 
-
+	/**
+	 * Gets the user.
+	 *
+	 * @return     The user.
+	 */
 	public String getUser() {
 		return user;
 	}
 
-
+	/**
+	 * Sets the user.
+	 *
+	 * @param      user  The user
+	 */
 	public void setUser(String user) {
 		this.user = user;
 	}
 
-
+	/**
+	 * Gets the date.
+	 *
+	 * @return     The date.
+	 */
 	public String getDate() {
 		return date;
 	}
 
-
+	/**
+	 * Sets the date.
+	 *
+	 * @param      date  The date
+	 */
 	public void setDate(String date) {
 		this.date = date;
 	}
 
-
+	/**
+	 * Gets the device.
+	 *
+	 * @return     The device.
+	 */
 	public String getDevice() {
 		return device;
 	}
 
-
+	/**
+	 * Sets the device.
+	 *
+	 * @param      device  The device
+	 */
 	public void setDevice(String device) {
 		this.device = device;
 	}
 
-
+	/**
+	 * Gets the version.
+	 *
+	 * @return     The version.
+	 */
 	public String getVersion() {
 		return version;
 	}
 
-
+	/**
+	 * Sets the version.
+	 *
+	 * @param      version  The version
+	 */
 	public void setVersion(String version) {
 		this.version = version;
 	}
 
-
+	/**
+	 * Gets the title.
+	 *
+	 * @return     The title.
+	 */
 	public String getTitle() {
 		return title;
 	}
 
-
+	/**
+	 * Sets the title.
+	 *
+	 * @param      title  The title
+	 */
 	public void setTitle(String title) {
 		this.title = title;
 	}
 
-
+	/**
+	 * Gets the rate.
+	 *
+	 * @return     The rate.
+	 */
 	public String getRate() {
 		return rate;
 	}
 
-
+	/**
+	 * Sets the rate.
+	 *
+	 * @param      rate  The rate
+	 */
 	public void setRate(String rate) {
 		this.rate = rate;
 	}
 
-
+	/**
+	 * Gets the text.
+	 *
+	 * @return     The text.
+	 */
 	public String getText() {
 		return text;
 	}
 
-
+	/**
+	 * Sets the text.
+	 *
+	 * @param      text  The text
+	 */
 	public void setText(String text) {
 		this.text = text;
 	}
 	
+	/**
+	 * Prints out the review to the console
+	 */
 	public void print()
 	{
 		System.out.println("date:" + date);
