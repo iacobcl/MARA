@@ -39,37 +39,40 @@ import storage.FileQuerying;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.DocumentBuilder;
 
-public class Retrieving 
+public class Retrieving
 {
 	public static ArrayList<Application> apps = new ArrayList<Application>();
-	public static ArrayList<String> ids = new ArrayList<String>(); 
-	
+	public static ArrayList<String> ids = new ArrayList<String>();
+
 	public static int totalRevs = 0;
-	
-	//the method gets as input the file with the raw reviews of one application and returns an object with the processed list of reviews
-	//CHI paper version; June-July 2012
+
+    /**
+     * This method takes a file as a parameter and returns an object with the processed list of reviews.
+     * CHI paper version; June-July 2012
+     * @param fileName raw reviews of one application
+     */
 /*	public static ArrayList<Review> retrieveReviews(String fileName)
 	{
-		ArrayList<Review> revs = new ArrayList<Review>();	
-		
-		try 
+		ArrayList<Review> revs = new ArrayList<Review>();
+
+		try
 		{
 	            DocumentBuilderFactory docBuilderFactory = DocumentBuilderFactory.newInstance();
 	            DocumentBuilder docBuilder = docBuilderFactory.newDocumentBuilder();
 	            //Document doc = docBuilder.parse (new File("input/" + fileName + ".xml"));
 	            Document doc = docBuilder.parse (new File(fileName + ".xml"));
 
-	            
+
 	            // normalize text representation
 	            doc.getDocumentElement().normalize ();
 	            NodeList allrevs = doc.getElementsByTagName("div");
 
-	            
+
 	            for(int i = 0; i < allrevs.getLength(); i++)
 	            {
 	               	for (int k = 0; k < allrevs.item(i).getAttributes().getLength(); k++)
 	               	{
-	               	
+
         				if (allrevs.item(i).getAttributes().item(k).getNodeValue().equals("doc-review"))
         				{//allrevs.item(i) stores one review
         						Review r = new Review();
@@ -80,15 +83,15 @@ public class Retrieving
         						{
         							for (int j = 0; j < kids.getLength(); j++)
         		            		{
-//System.out.println(kids.item(j).getTextContent());        								
-        		            		
+//System.out.println(kids.item(j).getTextContent());
+
         								//set the device and version
         		            			if ( (kids.item(j).getNodeName().equals("#text")) && (kids.item(j).getTextContent() != null) )
         		            			{
         		            				String devver = kids.item(j).getTextContent();
-        		            				
+
         		            				//System.out.println(devver);
-        		            				
+
         		            				if (devver.contains("with version"))
         		            				{
         		            					r.setDevice( (kids.item(j).getTextContent().split("with version"))[0]);
@@ -98,41 +101,41 @@ public class Retrieving
         		            				{
         		            					r.setVersion(devver);
         		            				}
-        		            				        		            				
+
         		            			}
-        		            			
+
         		            			//set text
         		            			if (kids.item(j).getNodeName().equals("p") && (kids.item(j).getAttributes().item(0).getNodeValue().equals("review-text")))
         		            				r.setText(kids.item(j).getTextContent());
-        		            				
-        		            			
-        		            			if (kids.item(j).getAttributes() != null) 
+
+
+        		            			if (kids.item(j).getAttributes() != null)
         		            			{
-        		            					            				            				
+
         		            				for (int l = 0; l < kids.item(j).getAttributes().getLength(); l++)
         		            				{
-        		            				
+
         		            					//set the date of the review
-        		            					if ((kids.item(j).getAttributes().item(l).getNodeValue().equals("doc-review-date") && 
+        		            					if ((kids.item(j).getAttributes().item(l).getNodeValue().equals("doc-review-date") &&
         		            							(kids.item(j).getNodeName().equals("span"))))
         		            					{
         		            									r.setDate(kids.item(j).getTextContent());
         		            									System.out.println(kids.item(j).getTextContent());
         		            					}
-        		            					
+
 
         		            					if (kids.item(j).getAttributes().item(l).getNodeValue().equals("doc-review-ratings-line"))
         		            					{
 
         		            						NodeList ratings = kids.item(j).getChildNodes();
-        		            						
-        		            							
+
+
         		            						for (int t = 0; t < ratings.getLength(); t++)
         		            						{
         		            							//set the title
         		            							if (ratings.item(t).getNodeName().equals("h4"))
         		            								r.setTitle(ratings.item(t).getTextContent());
-        		            							
+
         		            							//set the rate
         		            							if (ratings.item(t).getNodeName().equals("div"))
         		            							{
@@ -142,40 +145,44 @@ public class Retrieving
        		            											if (ratings.item(t).getAttributes().item(q).getNodeValue().contains("Rating:"))
        		            												r.setRate(ratings.item(t).getAttributes().item(q).getNodeValue().substring(8, 12));
        		            									}
-       		            										
+
         		            							}
-        		            							
+
         		            						}
-        		            						
+
         		            					}
         		            				}
-        		            			
+
         		            			}
 
         		            		}
         						}
         						//r.print();
-        						revs.add(r); //add review to list of reviews 						
+        						revs.add(r); //add review to list of reviews
         				}
 
 	               	}
 	            }
-	            
+
 	            return revs;
 
 	        }
-			catch (Exception ex) 
+			catch (Exception ex)
 	        {
 	        	ex.printStackTrace ();
 	        	return null;
 	        }
-	       
+
 	}*/
-	
-	//the method writes the processed reviews of an application in a tab delimited file
+
+    /**
+     * This method writes the processed reviews of an application in a tab delimited file
+     * @params revs an ArrayList
+     * @params fileName String, the name of a file to create
+     */
 	public static void storeReviews(ArrayList<Review> revs, String fileName)
 	{
-		
+
 		try
 		{
 			  FileWriter fstream = new FileWriter("outputMSRAna/" + fileName + ".txt");
@@ -188,22 +195,29 @@ public class Retrieving
 			  }
 			  out.close();
 		}
+        //Catch exception if any and print out error message
 		catch (Exception e)
-		{//Catch exception if any
+		{
 			  System.err.println("Error: " + e.getMessage());
 		}
 	}
-	
-	//the method retrieves the reviews of an application and stores them in a tab delimited file
+
+    /**
+     * The method retrieves the reviews of an application and stores them in a tab delimited file
+     * @param file, a String which contains the file name containing the reviews.
+     */
 	public static void processReviewMSR(String file)
 	{
-		ArrayList<Review> revs = new ArrayList<Review>();	
+		ArrayList<Review> revs = new ArrayList<Review>();
 		revs = retrieveReviewsMSR(file);
 		storeReviews(revs, file);
 	}
-	
-	
-	
+
+
+	/**
+     * This Method prints out apps.txt
+     *
+     */
 	public static void createAppsMap()
 	{
 		try
@@ -213,7 +227,7 @@ public class Retrieving
 			  BufferedReader br = new BufferedReader(new InputStreamReader(in));
 			  String strLine;
 			  //Read File Line By Line
-			  while ((strLine = br.readLine()) != null)   
+			  while ((strLine = br.readLine()) != null)
 				  ids.add(strLine);
 				  //Close the input stream
 			  in.close();
@@ -223,27 +237,31 @@ public class Retrieving
 				  System.err.println("Error: " + e.getMessage());
 		}
 	}
-	
+
+    /**
+     * This method retrives reviews and adds the to an arrayList
+     * @param fileName, String the file name which
+     */
 	public static ArrayList<Review> retrieveReviewsMSR(String fileName)
 	{
-		ArrayList<Review> revs = new ArrayList<Review>();	
-		
-		try 
+		ArrayList<Review> revs = new ArrayList<Review>();
+
+		try
 		{
 	            DocumentBuilderFactory docBuilderFactory = DocumentBuilderFactory.newInstance();
 	            DocumentBuilder docBuilder = docBuilderFactory.newDocumentBuilder();
 	            Document doc = docBuilder.parse (new File("inputMSRAna/" + fileName + ".xml"));
-	            
+
 	            // normalize text representation
 	            doc.getDocumentElement().normalize ();
 	            NodeList allrevs = doc.getElementsByTagName("div");
 
-	            
+
 	            for(int i = 0; i < allrevs.getLength(); i++)
 	            {
 	               	for (int k = 0; k < allrevs.item(i).getAttributes().getLength(); k++)
 	               	{
-	               	
+
         				if (allrevs.item(i).getAttributes().item(k).getNodeValue().equals("doc-review"))
         				{//allrevs.item(i) stores one review
         						Review r = new Review();
@@ -255,7 +273,7 @@ public class Retrieving
         							for (int j = 0; j < kids.getLength(); j++)
         		            		{
         								NodeList grandkids = kids.item(j).getChildNodes();
-        								
+
         								/*for (int jk = 0; jk < grandkids.getLength(); jk++)
         								{
         									if (kids.item(j).getChildNodes().item(jk).getAttributes().item(0).getNodeValue().equals("doc-review-author"))
@@ -263,15 +281,15 @@ public class Retrieving
                									r.setUser(kids.item(j).getChildNodes().item(jk).getTextContent());
                									System.out.println(kids.item(j).getChildNodes().item(jk).getTextContent());
         									}
-        									
+
         								}*/
-        								
+
         								r.setDate(kids.item(1).getChildNodes().item(0).getTextContent());
         								//System.out.println(kids.item(1).getChildNodes().item(0).getTextContent());
-        								
+
         								r.setDate(kids.item(1).getChildNodes().item(1).getTextContent());
         								//System.out.println(kids.item(1).getChildNodes().item(1).getTextContent());
-        								
+
         								if (kids.item(1).getChildNodes().item(2).getTextContent().contains("with version"))
         								{
         									r.setDevice(kids.item(1).getChildNodes().item(2).getTextContent().split("with version")[0]);
@@ -284,48 +302,51 @@ public class Retrieving
         									r.setVersion(kids.item(1).getChildNodes().item(2).getTextContent());
 	        								//System.out.println(kids.item(1).getChildNodes().item(2).getTextContent());
         								}
-        								
+
         								r.setTitle(kids.item(1).getChildNodes().item(4).getTextContent());
         								//System.out.println(kids.item(1).getChildNodes().item(4).getTextContent());
-        								
+
         								r.setText(kids.item(1).getChildNodes().item(5).getTextContent());
         								//System.out.println(kids.item(1).getChildNodes().item(5).getTextContent());
-        								
-        								
-        								
+
+
+
         								System.out.println("---");
 
         								//String content = kids.item(j).getTextContent();
-        								//String[] sContent = content.split("-"); 
-        								
+        								//String[] sContent = content.split("-");
+
         								//for (int ic = 0; ic < sContent.length; ic++)
         									//System.out.println(sContent[ic]);
         								//System.out.println("---");
-        								
+
         								//r.setUser(sContent[0]);
         								//r.setDate(sContent[1]);
-        		            		
+
 
         		            		}
         						}
         						//r.print();
-        						revs.add(r); //add review to list of reviews 		
+        						revs.add(r); //add review to list of reviews
         						totalRevs++;
         				}
 
 	               	}
 	            }
-	            
+
 	            return revs;
 
 	        }
-			catch (Exception ex) 
+			catch (Exception ex)
 	        {
 	        	ex.printStackTrace ();
 	        	return null;
 	        }
-	       
+
 	}
+    /**
+     * This method prints out the total number of reviews used in this program
+     */
 	public static void main(String[] args)
 	{
 		for (int i = 73; i < 241; i++)
@@ -333,10 +354,10 @@ public class Retrieving
 			ArrayList<Review> revs = Retrieving.retrieveReviewsMSR("f_" + i);
 			Retrieving.processReviewMSR("f_" + i);
 		}
-		
+
 		System.out.println(totalRevs);
 	}
-	
-	
+
+
 
 }
