@@ -28,7 +28,7 @@ import storage.DBQuerying;
 
 public class CodeClassesStatsAnalysis 
 {
-	
+	//What apps are rated on. The scores they get are then analysed to help give feedback
 	public static String[] classes = new String[]{"positive feedback", "negative feedback", "comparative feedback", "money feedback", "requirements", "reporting", "usability", "customer support", "versioning"};
 	
 		
