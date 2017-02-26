@@ -1,5 +1,4 @@
 language: java
 sudo: false
-script: 
-	javac MARA/src/gui/AppChooser.java
+script: javac MARA/src/gui/AppChooser.java
 	
