@@ -49,7 +49,7 @@ public class AppChooser extends JFrame implements ActionListener
 	public JComboBox files;
 
 	public AppChooser()
-	{
+	{//this is a test comment
 		setTitle("File name");
 		setSize(300, 150);
 		Border line = BorderFactory.createMatteBorder(10,10,10,10, Color.WHITE);

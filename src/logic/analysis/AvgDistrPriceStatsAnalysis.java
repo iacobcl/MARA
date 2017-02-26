@@ -56,7 +56,7 @@ public class AvgDistrPriceStatsAnalysis
 			
 			
 			for (String appid : apps)
-			{
+			{//this is a random comment
 				int T = DBQuerying.getTotalRevsForApp(appid);
 				for (int index = 0; index < T; index++)
 				{
