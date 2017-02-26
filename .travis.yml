@@ -1,3 +1,5 @@
 language: java
 sudo: false
-script: mvn clean verify
+script: 
+	javac MARA/src/gui/AppChooser.java
+	
