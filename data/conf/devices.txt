@@ -1,4 +1,4 @@
- - none
+ - no device
  - Acer Liquid 
  - Acer Picasso 
  - Asus Eee Pad 
