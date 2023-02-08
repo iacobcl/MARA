@@ -1,4 +1,4 @@
-.._GUI:
+.. _GUI:
 
 Graphical User Interface
 ==========================

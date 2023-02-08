@@ -1,4 +1,4 @@
-.._logic:
+.. _logic:
 
 Logic layer
 ===========

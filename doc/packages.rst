@@ -1,4 +1,4 @@
-.._packages:
+.. _packages:
 
 MARA Packages
 =============
