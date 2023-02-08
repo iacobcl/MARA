@@ -9,7 +9,7 @@ Data sets
 
 Documentation
 --------------
-Please find documentation in .. _packages:
+Please find documentation in :ref:`packages`.
 
 
 Help needed
